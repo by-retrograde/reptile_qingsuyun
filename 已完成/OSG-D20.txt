@@ -1,0 +1,266 @@
+1. Tom建立了一个数据库表，这个表包含名字、电话号码、业务相关的客户ID。这个表还包含30个客户的信息，请问这个表的度是多少?
+Tom built a database table consisting of the names, telephone numbers, and customer IDs for his business. The table contains information on 30 customers. What is the degree of this table?
+
+A. 2
+Two
+B. 3
+Three
+正确
+C. 30
+Thirty
+D. 未定义
+Undefined
+
+
+2. 什么事务管理原则确保两个事务在操作相同的数据时不会相互干扰?
+What transaction management principle ensures that two transactions do not interfere with each other as they operate on the same data?
+
+A. 原子性
+Atomicity
+B. 一致性
+Consistency
+C. 隔离性
+Isolation
+正确
+D. 持久性
+Durability
+
+
+3. 以下哪一项不是变更管理过程的一部分?
+Which one of the following is not part of the change management process?
+
+A. 请求控制
+Request control
+B. 发布控制
+Release control
+C. 配置审计
+Configuration audit
+正确
+D. 变更控制
+Change control
+
+
+4. 什么数据库安全技术涉及创建两行或更多行记录，它们具有看起来相同的主键，这些主键为用户包含不同安全许可的不同数据?
+What database security technology involves creating two or more rows with seemingly identical primary keys that contain different data for users with different security clearances?
+
+A. 多实例
+Polyinstantiation
+正确
+B. 单元抑制
+Cell suppression
+C. 聚合
+Aggregation
+D. 视图
+Views
+
+
+5. 当数据从一个较高分类级别到达一个较低分类级别时，数据库会发生以下哪类安全风险?
+Which database security risk occurs when data from a higher classification level is mixed with data from a lower classification level?
+
+A. 聚合
+Aggregation
+B. 推理
+Inference
+C. 污染
+Contamination
+正确
+D. 多实例
+Polyinstantiation
+
+
+6. 哪个类型的图表提供了一个时间表，有助于计划、协调和跟踪项目任务的图形说明?
+What type of chart provides a graphical illustration of a schedule that helps to plan, coordinate, and track project tasks?
+
+A. 甘特图
+Gantt
+正确
+B. 维恩图
+Venn
+C. 柱状图
+Bar
+D. PERT
+PERT
+
+
+7. 在哪一种软件测试类型中，测试人员可以访问底层的源代码?
+In what type of software testing does the tester have access to the underlying source code?
+
+A. 静态测试
+Static testing
+正确
+B. 动态测试
+Dynamic testing
+C. 跨站脚本测试
+Cross-site scripting testing
+D. 黑盒测试
+Black-box testing
+
+
+8. 以下哪个选项可以作为应用程序和数据库之间的代理，以支持交互和简化程序员的工作?
+Which of the following acts as a proxy between an application and a database to support interaction and simplify the work of programmers?
+
+A. SDLC
+SDLC
+B. ODBC
+ODBC
+正确
+C. DSS
+DSS
+D. 抽象
+Abstraction
+
+
+9. 在软件成熟度模型SW-CMM 中，组织达到哪个阶段就可以使用定量的方法获得组织开发过程的详细理解?
+In which phase of the SW-CMM does an organization use quantitative measures to gain a detailed understanding of the development process?
+
+A. 初始化
+Initial
+B. 可重复
+Repeatable
+C. 可定义
+Defined
+D. 可管理
+Managed
+正确
+
+
+10. 什么样的信息被用来形成专家系统的决策过程的基础?
+What type of information is used to form the basis of an expert system&rsquo;s decision-making process?
+
+A. 一系列加权分层计算
+A series of weighted layered computations
+B. 结合大量的人类专家的输入，根据过去的表现加权
+Combined input from a number of human experts, weighted according to past performance
+C. 一系列被编入知识库的&ldquo;if/then&rdquo;规则
+A series of &ldquo;if/then&rdquo; rules codified in a knowledge base
+正确
+D. 一个模拟人类思维所使用的推理过程的生物决策过程
+A biological decision-making process that simulates the reasoning process used by the human mind
+
+
+11. 以下哪一项不是敏捷开发的原则?
+Which one of the following is not a principle of Agile development?
+
+A. 通过早期和持续地交付来满足用户需求
+Satisfy the customer through early and continuous delivery.
+B. 业务人员和开发者一起工作
+Businesspeople and developers work together.
+C. 持续关注卓越的技术
+Pay continuous attention to technical excellence
+D. 在其他需求之上有限地考虑安全
+Prioritize security over other requirements.
+正确
+
+
+12. 什么样的数据库技术可以阻止&ldquo;未授权用户通过正常无权访问信息的提示来确定信息级别&rdquo;的事件发生?
+What database technique can be used to prevent unauthorized users from determining classified information by noticing the absence of information normally available to them?
+
+A. 推理
+Inference
+B. 操纵
+Manipulation
+C. 多实例
+Polyinstantiation
+正确
+D. 聚合
+Aggregation
+
+
+13. Richard认为，一个数据库用户滥用其权限进行查询，并结合大量记录中的数据来获取公司整体业务的趋势信息。该数据库用户利用的过程是什么?
+Richard believes that a database user is misusing his privileges to gain information about the company&rsquo;s overall business trends by issuing queries that combine data from a large number of records. What process is the database user taking advantage of?
+
+A. 推理
+Inference
+B. 污染
+Contamination
+C. 多实例
+Polyinstantiation
+D. 聚合
+Aggregation
+正确
+
+
+14. 以下哪一种键被用来执行数据库表之间的完整性引用?
+Which one of the following key types is used to enforce referential integrity between database tables?
+
+A. 候选键
+Candidate key
+B. 主键
+Primary key
+C. 外键
+Foreign key
+正确
+D. 超级键
+Super key
+
+
+15. 什么形式的访问控制主要与段存储的数据有关?
+What form of access control is concerned primarily with the data stored by a field?
+
+A. 内容相关
+Content-dependent
+正确
+B. 上下文相关
+Context-dependent
+C. 语意完整性机制
+Semantic integrity mechanisms
+D. 扰动
+Perturbation
+
+
+16. 什么软件开发模型使用7阶段的方法和一个反馈回路，允许返回到上一步?
+What software development model uses a seven-stage approach with a feedback loop that allows progress one step backward?
+
+A. Boyce-Codd
+Boyce-Codd
+B. 瀑布型模型
+Waterfall
+正确
+C. 螺旋型模型
+Spira
+D. 敏捷开发
+Agile
+
+
+17. 下列哪一种故障失效管理方法将系统置于比较高层次的安全状态?
+What approach to failure management places the system in a high level of security?
+
+A. 故障开放
+Fail-open
+B. 故障减轻
+Fail mitigation
+C. 故障保护
+Fail-secure
+正确
+D. 故障清除
+Fail clear
+
+
+18. 变更管理过程中的哪一部分允许开发人员优先考虑任务?
+What portion of the change management process allows developers to prioritize tasks?
+
+A. 发布控制
+Release control
+B. 配置控制
+Configuration control
+C. 请求控制
+Request control
+正确
+D. 变更审计
+Change audit
+
+
+19. Bob正在开发一个应用软件，该应用软件有一个区域，用户可以在这里输入日期。他想要确保用户提供的值是准确的日期，以防止安全问题。下面哪一项技术应该是Bob要采用的?
+Bob is developing a software application and has a field where users may enter a date. He wants to ensure that the values provided by the users are accurate dates to prevent security issues. What technique should Bob use?
+
+A. 多实例
+Polyinstantiation
+B. 输入验证
+Input validation
+正确
+C. 污染
+Contamination
+D. 筛选
+Screening
+
+

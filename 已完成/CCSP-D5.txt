@@ -1,0 +1,1283 @@
+1. Symmetric encryption involves_________.
+
+试题解析：In symmetric encryption, the key must usually be passed through a different medium than will be used for sending and receiving the encrypted messages.
+DH is usually used for asymmetric encryption, to establish a temporary symmetric key; option A is incorrect.
+Option C describes asym metric encryption and is therefore incorrect.
+Option D describes hashing and is therefore incorrect.
+A. The Diffie Hellman key exchange
+B. Passing keys out of band
+正确
+C. Mathematically related key pairs
+D. A one-way mathematical algorithm for validating messages
+
+
+2. Symmetric encryption involves ________.
+
+试题解析：In symmetric encryption, a single key is used to both encrypt and decrypt a message.
+This is often referred to as a shared secret.
+Two key pairs are not used in symmetric encryption; option A is incorrect.
+Parties most often must be known to each other using symmetric encryption; option B is incorrect.
+Certificates require public-private key pairs, which is not an element of symmetric encryp-tion; option C is incorrect.
+A. Two key pairs, mathematically related
+B. Unknown parties, sharing information
+C. Signed certificates
+D. A shared secret
+正确
+
+
+3. The National Institute of Standards and Technology (NIST) Risk Management Framework (RMF) is required for federal agencies in the United States. Which of the following is not a characteristic of the RMF2
+
+试题解析：The RMF is based on perceived risk as opposed to threats (threats may factor into risk assessment but are not the driver for the R MF).
+All the other options are true regarding the RMF.
+A. Automation of controls wherever possible
+B. Focuses on continual improvement and near real-time risk management
+C. Is based on cost metrics and perceived threats
+正确
+D. Links risk management at the process level to risk management at the managerial level
+
+
+4. Which comes first?
+
+试题解析：In the certification/accreditation model of system approval, certification is the fundamental step.
+All other opt ions are incorrect because certification comes first in the certification/acredi-tation model of system approval.
+A. Accreditation
+B. Operation
+C. Maintenance
+D. Certification
+正确
+
+
+5. Which of the following is not true about risk mitigation?
+
+试题解析：A risk assessment may, indeed, be an estimate of a moving target, but it is invaluable in terms of measuring risk at any given point in time.
+A. The cost of the control/countermeasure per year is simple: the overall cost (of acquisition, implementation, and maintenance) divided by life span, in years.
+B. Ignoring risk is not risk mitigation; ignoring risk is risk acceptance.
+C. The cost of mitigation can be compared against the cost of a control/countermeasure to determine the optimum course of action.
+D. Risk is fluid, so all risk assments are pointless.
+正确
+
+
+6. Which of the following is not true about risk mitigation?
+
+试题解析：The best means to address risk is completely dependent on the business needs of the specific entity and process. Mitigation may or may not be the optimum choice.
+All the other options are true statements about risk mitigation.
+A. A given control/countermeasure should never cost more than the impact of the risk it mitigates.
+B. Risk cannot be reduced to zero.
+C. The end state of risk mitigation is risk at a tolerable level.
+D. Risk mitigation is always the best means to address risk.
+正确
+
+
+7. Which of the following poses a secondary risk?
+
+试题解析：Secondary risk is any risk resulting from enacting a control/countermeasure to the original risk. In this case, a fire suppression system that displaces oxygen is a means to mitigate the original risk (fire) but adds a new risk (suffocating people).
+All the other options are not causes of secondary risk (except if we draw out unreasonable conclusions from the most extreme, ridiculous cases, for example,&ldquo;the secondary risk is the risk that the control doesn&#39;t work&quot;).
+A. Fire exit signs
+B. Oxygen-displacing fire suppression
+正确
+C. Automated fire detection systems
+D. Fail-safe fire egress paths
+
+
+8. Risk mitigation must always also entail which other method of addressing risk?
+
+试题解析：Because risk can never be mitigated to zero (there is no such thing as&ldquo;no risk&quot; or &ldquo;perfect security&quot;), there will always be some residual risk after risk mitigation; this residual risk must be accepted.
+Risk mitigation does not always involve risk transfer, or risk avoidance. &quot;Risk attenua-tion&rdquo;is not an industry-standard term associated with risk management Options B, C, and D are incorrect.
+A. Risk acceptance
+正确
+B. Risk avoidance .
+C. Risk transfer
+D. Risk attenuation
+
+
+9. You are a consultant performing an external security review on a large manufacturing firm. You determine that its newest assembly plant, which cost $24 million, could be completely destroyed by a fire but that a fire suppression system could effectively protect the plant. The fire suppression system costs S15 million. An insurance policy that would cover the full replacement cost of the plant costs $1 million per month. The plant generates S2 million of revenue each month. The time to rebuild the plant at the current location is six months. What should you recommend?
+
+试题解析：The fire suppression system is the most cost-effective, reasonable means of dea ling with the risk, if we use the formula for determining annualized loss expectancy (ALE).
+First, we need to determine the single loss expectancy (SLE) and annualized rate of occur-rence (A RO). ARO can be assumed to be 1; absent any other information about the plant,we don&#39;t expect more than one fire per year (and perhaps less, but we don&#39;t have that information, either). The SLE is $36 million ($24 million for the cost of rebuilding the plant, assuming no increase in costs over the previous construction, plus $2 million per month of lost revenue, for the six months it will take to rebuild).
+Therefore, the ALE is $36 million (36 [SLE] x 1 [ARO]).
+Either the fire suppression system or the insurance policy would be appealing, from a strictly financial standpoint, if we only compa red the ALE to the annualized cost of the countermea-sure ($15 million for the suppression system, $12 million for the insurance policy).
+However, other factors have a bearing on this consideration too. For instance, fire poses a threat to health and human safety; obviating such risks should be a par amount concern to senior management. An insurance policy doesn&#39;t truly protect people, it only offsets the damages people experience through loss. Also, the insurance policy would be a recurring, continual cost; it costs less than the fire suppression system in the first year of the plant&#39;s operation ($ 12 million for insurance versus $15 million for the system), but once the sys-tem is purchased, though it may need upkeep and maintenance, we can assume it won&#39;t cost the sa me amount in future years, and it probably won&#39;t cost any where near as much as the continual costs of the insurance.
+All the other options are not as good as B.
+A. Accept the risk of fire, and save money by not spending anything on controls and countermeasures.
+B. Get the fire suppression system.
+正确
+C. Get the insurance policy.
+D. It is impossible to decide from this information.
+
+
+10. You are a consultant performing an external security review on a large manufacturing firm. You determine that its newest assembly plant, which cost $24 million, could be completely destroyed by a fire but that a fire suppression system could effectively protect the plant. The fire suppression system costs $15 million. An insurance policy that would cover the full replacement cost of the plant costs $1 million per month. In order to establish the true annualized loss expectancy (ALE), you would need all of the following information except________.
+
+试题解析：Unless this number is being used to determine the measures of options A or B, or we&#39;re trying to better estimate the cost of the impact of the first occurrence (i.e ，including the value of lost product in the single loss expectancy [SLE), the amount of product the plant creates is not as important as the attendant revenue that amount generates for the company.
+All the other options are factors we need to know: The amount of revenue and the pace at which it is generated by the plant and the duration of downtime for the plant in the event of fire (so as to calculate possible lost revenue) will help us arrive at the annualized loss expectancy (ALE). In fact, additional information would also be useful, such as potential loss of market share if product was not delivered for the duration of the downtime, etc.
+A. The amount of revenue generated by the plant
+B. The rate at which the plant generates revenue
+C. The length of time it would take to rebuild the plant
+D. The amount of product the plant creates
+正确
+
+
+11. You are a consultant performing an external security review on a large manufacturing firm. You determine that its newest assembly plant, which cost $24 million, could be completely destroyed by a fire but that a fire suppression system could effectively protect the plant. The fire suppression system costs $15 million. An insurance policy that would cover the full replacement cost of the plant costs $1 million per month. What would you recommend?
+
+试题解析：What we can&#39;t determine from the available information is the actual annualized loss expectancy (ALE); the cost of the physical plant itself is not the actual value of the asset, so it&#39;s impossible to determine the ALE and therefore impossible to compare the ALE against the cost of possible controls and countermeasures.
+All the other options are incorrect; we can&#39;t make a suitable choice from the available information.
+A. Accept the risk of fire, and save money by not spending anything on controls/countermeasures.
+B. Get the fire suppression system.
+C. Get the insurance policy.
+D. It is impossible to decide from this information.
+正确
+
+
+12. You are a consultant, performing an external security review on a large manufacturing firm. You determine that its newest assembly plant, which cost $24 million, could be completely destroyed by a fire but that a fire suppression system could effectively protect the plant. The fire suppression system costs S15 million. An insurance policy that would cover the full replacement cost of the plant costs $1 million per month. What is the annual rate of occurrence (ARO) in this scenario?
+
+试题解析：Absent any other information about a total physical loss, we can consider the rate of occurrence as 1: We would not expect the plant to burn down more than once in a year. In fact, we would expect that unless the plant was involved in some particularly flammable activity, the A RO would be less than 1 (that is, a fire is not expected every year) due to controls involved in the planning and building process of the plant (location of flammable materiaI, fire-resistant construction techniques, etc.).
+Options B and D are incorrect. The ARO is a number, not a dollar amount.
+It is unlikely that the plant would burn down 12 times a year or every month. Option A is incorrect.
+A. 12
+B. $24 million
+C. 1
+正确
+D. $10 million
+
+
+13. Which of the following has the most effect on exposure factor (EP)?
+
+试题解析：The threat vector is the multiplier involved in determining exposure factor; of the options listed, this is the best answer (and, other than C, the only one that actually has bearing on EF).
+A. The type of threat vector
+正确
+B. The source location of the attack
+C. The target of the attack
+D. The jurisdiction where the attack takes place
+
+
+14. Which of the following will likely best help you predict the annualized rate of occurrence (ARO) of a specific loss?
+
+试题解析：While previous activity is not a great predictor of future outcomes (especially in the field of IT security), it is the best source we have.
+Threat intelligence information is useful but not as good as historical data in predicting ARO; option A is not as good as option B.
+Vulnerability scans and aggregation do not really aid in predicting rate of occurrence at all; options C and D are incorrect.
+A. Threat intelligence data
+B. Historical data
+正确
+C. Vulnerability scans
+D. Aggregation analysis
+
+
+15. Which of the following is most useful in determining the single loss expectancy (SLE) of an asset?
+
+试题解析：The monetary value of the asset is the most objective, discrete metric possible and the most accurate for the purposes of SLE determination.
+The other options are factors that may bear on how you determine the dollar value of the asset but are not as useful as option B.
+A. The frequency with which you expect that type of loss to occur
+B. The dollar value of the asset
+正确
+C. The sensitivity of the asset
+D. The size and scope of the asset
+
+
+16. You are the security officer for a small nonprofit organization. You are tasked with performing a risk assessment for your organization; you have one month to complete it. The IT personnel you work with have been with the organization for many years and have built the systems and infrastructure from the ground up. They have litte training and experience in the field of risk. Which type of risk assessment would you choose to conduct?
+
+试题解析：Qualitative risk assessments are preferable in situations where the organization has personnel who understand the IT environment but may not have a lot of experience with risk functions and where the organization does not have a great deal of time or money to spend on the project.
+A quantitative risk assessment requires a significant budget of time and money as well as well-rained, experience personnel familiar with risk; option A is not correct.
+Options C and D are incorrect; these are not types of risk assessments.
+A. Quantitative
+B. Qualitative
+正确
+C. Pro forma
+D. Informal
+
+
+17. Impact resulting from risk being realized is often measured in terms of________.
+
+试题解析：While all the options are somewhat true, because all of that information can be used to provide the most comprehensive risk picture, the best answer among those listed is money;it is a discrete, numeric metric that can be used both for comparison to countermeasure/control cost and for recompense efforts (insurance claims, lawsuits, etc.).
+A. Amount of data lost
+B. Money
+正确
+C. Amount of property lost
+D. Number of people affected
+
+
+18. Risk management entails evaluating all of the following except_______.
+
+试题解析：We usually do not evaluate our customer base as an aspect of risk management. All the other options are aspects of common risk management practices.
+A. Threats
+B. Vulnerabilities
+C. Countermeasures
+D. Customers
+正确
+
+
+19. Risk is usually viewed with consideration for all the following elements except_______.
+
+试题解析：While historical information, especially that specific to the organization&#39;s industry, can be useful in assessing threats, risk must be considered independently from other occurrences; whether something has occurred elsewhere does not necessarily directly affect the likelihood it will or will not occur for a certain target.
+All the other options are elements typically considered in the risk context.
+A. Impact that could occur if a given circumstance is realized
+B. The likelihood or probability a circumstance will occur
+C. In the context of specific threats to an organization
+D. According to risks recently realized by other organizations in the same industry
+正确
+
+
+20. Log data should be protected________.
+
+试题解析：Because the logs are essential to reconstructing a record of what occurred within the environment, they are a valuable target for at tackers. They therefore need a sufficient level of protection commensurate with the data/systems they are about.
+We don&#39;t want to have less protection on the logs than on the systems they monitor; the controls on those systems were chosen according to what threats and risks they may be exposed to一the level of security provided by those controls are, at a minimum, required for the log data. Option A is incorrect.
+Encryption may or may not be used for securing log data, depending on the level of sensi-tivity of the systems/data they are protecting; option C is too specific and thus incorrect.
+NIST guidelines are not suitable for all organizations and uses; option D is too broad and incorrect.
+A. One level below the sensitivity level of the systems from which it was collected
+B. At least at the same sensitivity level as the systems from which it was collected
+正确
+C. With encryption in transit, at rest, and in use
+D. According to National Institute of Standards and Technology (NIST) guidelines
+
+
+21. A SIEM (security information and event management) system does not eliminate the need for human participation in_______.
+
+试题解析：Response to anomalous activity detected by the SIEM tool will still require human involvement.
+All the other options are functions that the SIEM system can perform on its own as auto-mated tasks.
+A. Log collection
+B. Responding to alerts
+正确
+C. Mathematical normalization of different logs
+D. Detecting and alerts
+
+
+22. Which of these subsystems is probably most important for acquiring useful log information?
+
+试题解析：The clock needs to be synched throughout the environment so that all activity can be contextualized and mapped and a true narrative of events can be reconstructed later.
+All the other options are incorrect because they are simply IT terms. When it comes to use-ful logs, having the correct time relevant to all logged activity is vital.
+A. Fan
+B. RAM
+C. Clock
+正确
+D. Uninterruptible power supply (UPS)
+
+
+23. Who should be performing log review?
+
+试题解析：It is important for the log review to be performed by someone who understands the normal operations of the organization so that they can discern between regular activity and anomalous behavior. This person also needs a security background so they can recognize common attack patterns/activity.
+Option A sounds great, but the better answer is option D. A person with knowledge of the operation is a better ft than someone who is trained to review logs.
+Options B and C are incorrect. Anditors are not the ones who should be reviewing logs for an organization.
+A. Only certified, trained log review professionals with a great deal of experience with the logging tool
+B. The internal audit body
+C. External audit providers
+D. Someone with knowledge of the operation and a security background
+正确
+
+
+24. You are the security manager for an organization with a cloud based production environment. You are tasked with setting up the event monitoring and logging systems. In your jurisdiction, private entities are allowed to monitor all activity involving their systems, without exception. Which of the following best describes a logging scheme you would recommend?
+
+试题解析：Logging should suffice for the purpose of reconstructing the pertinent information (who, what, where, when, etc.) necessary to form a narrative of what transpired. This will be different for every organization and environment (so option D is incorrect). You will have to make this determination for your organization.
+Logging every thing would result in log storage that exceeds the amount of data in the pro-duct ion environment and would actually make it more difficult to locate pertinent infor-mation. Option A is incorrect.
+Option C is incorrect. Logging data after the fact is impossible.
+A. Logging every event, at all levels of granularity, including continual screen shots, keystroke logging, and browser history
+B. Sufficient logging to reconstruct a narrative of events at some later date
+正确
+C. Logging only data related to incidents after they have occurred
+D. Logging specific data sets recommended by industry standards and guidelines
+
+
+25. Synthetic performance monitoring may be preferable to real-user monitoring (RUM) because_________.
+
+试题解析：Synthetic agents can simulate user activity in a much faster, broader manner and perform these actions 24/7 without rest.
+All the other options are incorrect; synthetic agents may cost more than RUM, are less accurate than actual user activity, and both can take place on the cloud.
+A. It costs less
+B. It is a more accurate depiction of user behavior
+C. It is more comprehensive
+正确
+D. It can take place in the cloud
+
+
+26. When using real-user monitoring (RUM) for web application activity analysis, which of the following do you need to take into account?
+
+试题解析：Depending on the jurisdiction, RUM may entail unlawful surveillance, so the practitioner must take this into account and plan accordingly.
+Option A is incorrect. False positives are typical for real-user monitoring systems.
+Option B has no relevance in this context. Option B is incorrect.
+Sandboxed environments are not a concern when using real-user monitoring for web appli-cation activity analysis. Option D is incorrect.
+A. False positives
+B. Attacker baseline actions
+C. Privacy concerns
+正确
+D. Sandboxed environments
+
+
+27. Which type of web application monitoring most closely measures actual activity?
+
+试题解析：RUM harvests information from actual user activity, making it the most realistic depiction of user behavior.
+Synthetic monitoring approximates user activity but is not as exact as RUM; option A is incorrect.
+SIEM monitors more than web applications, so opt ion C is not ideal for this question.
+DAM is an OSI Layer 7 tool for monitoring database activity, specifically, so it is not the ideal answer for this question.
+A. Synthetic performance monitoring
+B. Real-user monitoring (RUM)
+正确
+C. Security information and event management (SIEM)
+D. Database application monitor (DAM)
+
+
+28. Which of the following aspects of a cloud environment is most likely to add risk to the patch management process?
+
+试题解析：If patches are rolled out across an environment where users are operating virtualmachines (VMs) at different times, there is a possibility that VMs will not be patched uniformly, which could lead to data disruption.
+Option A is incorrect. Users should not be performing patching.
+Option B is incorrect; a contract specifying who is responsible for specific patching activi-ties actually reduces risk by enhancing the probability of proper patch application.
+Option D is incorrect; attacker activity should be irrelevant to the patch process.
+A. Variations in user training and familiarity with the cloud
+B. A cloud services contract that specifies which parties are responsible for which aspects of patching
+C. VMs located physically in one location but operating in different time zones
+正确
+D. The prevalence of attacker activity at the time the patch is applied
+
+
+29. You are the security manager for an organization that uses the cloud for its production environment. According to your contract with the cloud provider, your organization is responsible for patching. A new patch is issued by one of your vendors. You decide not to apply it immediately for fear of interoperability problems. Who may impose penalties on your organization for this decision if the vulnerability is exploited?
+
+试题解析：If your organization doesn&#39;t apply a patch for a known vulnerability, regulators may claim the organization was not performing adequate due diligence and penalize it accordingly.
+None of the other entities listed in the other opt ions can assess penalties, so they are incor-rect. (End clients may try to recover damages realized from an attack through a known vulnerabilty, but those penalties will be imposed by a court if the end clients conduct suc-cessful litigation.)
+A. The cloud provider
+B. Regulators
+正确
+C. Your end clients
+D. Your Internet service provider (ISP)
+
+
+30. You are the security manager for an organization that uses the cloud for its production environment. According to your contract with the cloud provider, your organization is responsible for patching. A new patch is issued by one of your vendors. You decide not to apply it immediately for fear of interoperability problems. w hat additional risk are you accepting?
+
+试题解析：It is perfectly reasonable to not want to use the first version of a patch as there may be interoperability problems or even additional vulnerabilities contingent with its implementation. However, for as long as your environment remains unpatched, you are subject to attack through that new vulnerability.
+All the other options are untrue.
+The cloud provider will not suspend your access or sue your organization if you delay patching because of concerns about interoperability afterwards. Options A and B are incorrect.
+Option D is incorrect. The opposite may actually be true. Your end clients may appreciate that you delay or test the patch before installing it on production systems.
+A. The cloud provider will suspend your access for violating its terms of service.
+B. The cloud provider may sue your organization for breach of contract.
+C. Your organization is subject to the vulnerability the patch addresses.
+正确
+D. Your end clients will no longer trust your organization, and this will hurt your revenue flow.
+
+
+31. Which of the following is a risk associated with manual patching especially in the cloud?
+
+试题解析：Patching is a mundane, repetitive process, and people have trouble focusing on such tasks, especially for the number of times necessary to patch a cloud environment.
+Automation can aid in addressing this aspect of patching.
+With human involvement in patching, there is an opportunity to be aware of imminent patch impacts and to determine applicability of the patch before it is applied; options A and B are incorrect.
+Option C is a risk involved with all patching and not limited to manual patching; option D is preferable as it is specific to the question.
+A. No notice before the impact is realized
+B. There is a lack of applicability to the environment.
+C. Patches may or may not address the vulnerability they were designed to fix.
+D. The possibility for human error exists.
+正确
+
+
+32. Which of the following is a risk associated with manual patching, especially in the cloud?
+
+试题解析：Manual patching requires a significant degree of effort and time and is simply not feasible in a large enterprise, much less in the vast environment of the cloud.
+Manual patching is slower than automated patching. Option A is incorrect.
+Option B is incorrect; this is true in both traditional and cloud environments.
+Option D is incorrect; users should not be performing patching.
+A. It can happen too quickly.
+B. Vendors release patches that work only with their proprietary automated tools.
+C. It&#39;s not scalable.
+正确
+D. Users can be tricked into installing malware that looks like a patch.
+
+
+33. Which of the following is a risk associated with automated patching, especially in the cloud?
+
+试题解析：Because a multitenant environment may have a variety of different con figurations for various customers, a given patch might interfere with a certain number of customers due to interoperability problems.
+Option B is untrue. Patches do work with SaaS models. Option B is incorrect.
+Option C is untrue. Patches do work with private cloud builds. Option C is incorrect.
+On the contrary, vendors do issue patches to cloud providers. Option D is incorrect.
+A. Patches may interfere with some tenants&#39; production environments.
+正确
+B. Patches don&#39;t work with software as a service (SaaS) service models.
+C. Patches don&#39;t work with private cloud builds.
+D. Vendors don&#39;t issue patches to cloud providers.
+
+
+34. Which of the following is a risk associated with automated patching, especially in the cloud?
+
+试题解析：When a VM instance is inactive, it is saved as a snapshot image in a file; patches can&#39;t be applied until the instance is running. Automated patching set to a certain scheduled time may miss inactive VMs.
+Patches can be applied remotely or locally; option B is not true or correct.
+Patching may be the responsibility of the cloud customer or provider, depending on the service model, type, and contract. Option C is incorrect.
+Cloud service providers should apply patches ubiquiously throughout their service envi-ronment; option D is incorrect.
+A. Snapshot/saved virtual machine (VM) images won&#39;t take a patch.
+正确
+B. Remote access disallows patching.
+C. Cloud service providers aren&#39;t responsible for patching
+D. Patches aren&#39;t applied among all cloud data centers.
+
+
+35. Which of the following is a risk associated with automated patching?
+
+试题解析：Not all patches are necessary for all environments. Automated patching won&#39;t always account for variations in organizations and could cause interoperability problems in some.
+Users don&#39;t usually apply patches and aren&#39;t involved in automatic patching; option A is incorrect.
+It is rare that an automated patch tool will be exploited to install malware; option C is incorrect.
+Automated patching is faster and more efficient than manual patching; option D is incorrect.
+A. Users can be leveraged by intruders.
+B. A patch may not be applicable to a given environment.
+正确
+C. Patches can come loaded with malware, in a Trojan horse attack.
+D. Automated patching is slow and inefficient,
+
+
+36. When applying patches, it is necessary to do all of the following except_______.
+
+试题解析：In many cases, patches are released to deal with an imminent vulnerability/risk. Some organizations will give blanket preapproval for applying these patches and having the formal change management process approve the patch after the fact.
+All the other options are activities that should take place with patching.
+A. Test the patch in a sandbox that simulates the production environment
+B. Put the patch through the formal change management process
+正确
+C. Be prepared to roll back to the last known good build
+D. Inform users of any impact or interruptions
+
+
+37. Patches do all the following except_______.
+
+试题解析：Patches can, and often do, create interoperability problems.
+All the other options are functions offered by patching.
+A. Address newly discovered vulnerabilities
+B. Solve cloud interoperability problems
+正确
+C. Add new features and capabilities to existing systems
+D. Address performance issues
+
+
+38. Which of these is a vital action to determine whether the business continuity and disaster recovery (BC/DR) effort has a chance of being successful?
+
+试题解析：All the options are useful for enhancing the security and efficacy of the BC/DR effort, but only option C ensures that the BC/DR has a likely chance of success.
+A. Perform an integrity check on archived data to ensure that the backup process is not corrupting the data.
+B. Encrypt all archived data to ensure that it can&#39;t be exposed while at rest in the long term.
+C. Periodically restore from backups.
+正确
+D. Train all personnel on BC/DR actions they should take to preserve health and human safety.
+
+
+39. Administrators and engineers who work for cloud service providers will have a significant amount of control over multiple customer environments and therefore pose a severe risk. Which of the following is not a technique used to mitigate this level of increased risk from privileged users in the cloud data center?
+
+试题解析：Cloud vendors do not typically assign individual administrators permanently to specific accounts. All the other options (A-C) are methods used to reduce risks associated with privileged accounts.
+A. Two-person control
+B. Enhanced logging of administrative activity
+C. Granting privileged access only on a temporary basis
+D. Assigning permanent administrators to select customer accounts
+正确
+
+
+40. Most attacks that overcome encryption protections exploit_______.
+
+试题解析：Historically, when encryption had been used as a security mechanism, it was not defeated by attacking the encryption directly but rather by subverting the encryption implementation.
+All the other options are actual methods for breaking encryption but are not the best answer for this question.
+A. Mathematical principles
+B. Misconfigurations
+正确
+C. Supercomputers
+D. Statistical probabilities
+
+
+41. Because all cloud access is remote access, contact between users and the environment should include all of the following except ________.
+
+试题解析：It&#39;s preferable to have compartmentalized zones of trust within the production environment and not allow total access with one set of credentials.
+All the other options are aspects that should be used in cloud access.
+A. Encryption
+B. Secure login with complex passwords
+C. Once in-all in
+正确
+D. Logging and audits
+
+
+42. Which of the following should honeypots contain?
+
+试题解析：The honey pot is used to gather information about the attacker, the attacker&#39;s tools,and the attacker&#39;s techniques.
+The honeypot should not contain anything of value; all the other options are incorrect.
+A. Inward facing connections
+B. Network schematics
+C. Production data
+D. Detection systems
+正确
+
+
+43. A honeypot can be used for all the following purposes except______.
+
+试题解析：It is very important to distinguish the purpose of the honeypot. It is not for luring in attackers; a lure is an invitation, and inviting an attack decreases the organization&#39;s ability to have the attacker prosecuted or conduct successful litigation against the attacker.
+All the other options are purposes of a honeypot.
+A. Gathering threat intelligence
+B. Luring attackers
+正确
+C. Distracting attackers
+D. Delaying attackers
+
+
+44. Firewalls can be included in all the following aspects of a cloud environment except______.
+
+试题解析：Internet service providers don&#39;t usually offer firewall services.
+All the other options are locations/ways to implement firewalls.
+A. The guest OS
+B. The cloud data center IT architecture
+C. Bandwidth providers used to connect to the cloud
+正确
+D. Applications used to manipulate data in the cloud
+
+
+45. You are in charge of a cloud migration for your organization. You anticipate attack traffic from various sources, each using a variety of both automated and manual intrusion techniques. In order to deter novel attacks used only against your organization, you would be wise to employ firewalls that use_______ to detect threats.
+
+试题解析：Behavioral detection looks for activity beyond the norm of the organization&#39;s usual traffic. Unique attacks would most likely fall into this category.
+Unique attacks would not be detected by signature matching bcause no signatures exist for unique attacks; option A is incorrect.
+Content filtering is less a means of detection and more a means of controlling traffic that users/sy stems are exposed to; while it may be useful for mitigating the possibility of mal-ware infection, it&#39;s less suited to the purpose posed in the question. Option C is incorect.
+Firewalls don&#39;t work with biometrics; option D is a distractor.
+A. Attack signatures
+B. Behavioral outliers
+正确
+C. Content filters
+D. Biometric templates
+
+
+46. Methods for achieving &quot;high availability&quot; cloud environments include all of the following except_______.
+
+试题解析：In many cases, the customer will no longer have an on-premises environment after a cloud migration.
+All the other options are methods cloud providers use to achieve &quot;high availability&#39; environments.
+A. Extreme redundancy
+B. Multiple system vendors for the same services
+C. Explicitly documented business continuity and disaster recovery (BC/DR) functions in the service level agreement (SLA) or contract
+D. Failover capability back to the customer&#39;s on premises environment
+正确
+
+
+47. Typically, a cloud customer seeking stand-alone hosting will expect all of the following except_______ .
+
+试题解析：Almost invariably, stand-a lone hosting will cost more than pooled resources and multitenancy.
+All the other options are characteristics of stand-a lone hosting.
+A. More control over governance of the environment
+B. Greater administrative control of the environment
+C. Higher overall security of the environment
+D. Lower costs for the environment
+正确
+
+
+48. When putting a system into maintenance mode, it&#39;s important to do all of the following except______________.
+
+试题解析：Auditing is probably even more important during maintenance mode than normal operation because administrator activity is almost always involved.
+All the other options are necessary measures for maintenance mode.
+A. Transfer any live virtual guests off the host
+B. Turm off logging
+正确
+C. Lock out the system from accepting any new guests
+D. Notify customers if there are any interruptions
+
+
+49. A loosely coupled storage cluster will have performance and capacity limitations based on the __________.
+
+试题解析：In a loosely coupled storage cluster, each node acts as an independent data store that can be added or removed from the cluster without affecting other nodes. This, however, means that the overall cluster&#39;s performance/capacity depends on each node&#39;s own
+maximum performance/capacity.
+The physical backplane can be a limiting factor in a tightly coupled architecture but has less effect in a loosely coupled cluster; option A is incorrect.
+Because each node in a loosely coupled cluster has its own limitations, the number of nodes will not affect overall performance. Option B is incorrect.
+Option C is incorrect because&ldquo;usage demanded&quot; is not a factor in performance and capacity of a loosely coupled storage cluster.
+A. Physical backplane connecting it
+B. Total number of nodes in the cluster
+C. Amount of usage demanded
+D. The performance and capacity in each node
+正确
+
+
+50. Which of the following is not a way to apportion resources in a pooled environment?
+
+试题解析：okenization is a method for obscuring or protecting data using two distinct databases, not a resource allocation met hod.
+All the other options are methods for allocating shared resources.
+A. Reservations
+B. Limits
+C. Tokens
+正确
+D. Shares
+
+
+51. Clustering hosts allows you to do all the following except________.
+
+试题解析：Clustering does not preclude the time and diligence necessary to perform patching or updates.
+All the other options are attributes provided by host clustering.
+A. Meet high-availability demands
+B. Optimize performance with load balancing
+C. Enhance scalability
+D. Apply updates, patches, or configuration modifications instantly
+正确
+
+
+52. Patching can be viewed as a configuration modification and therefore subject to the organization&#39;s configuration management program and methods. What may also be an aspect of patching in terms of configuration management?
+
+试题解析：In order to ensure timely application of patches, patching may receive blanket approval and only be reviewed by the committee or board after the fact for final approval.
+Requiring normalized processing for patching may delay patching and expose the organi-zation to undue risk; option A is thus incorrect.
+Patching still needs to involve testing and confirmation to avoid interoperability and addi-tional security problems, making option B incorrect.
+Third parties can identify security problems as well as vendors; external patches need to be considered as well as vendor patches. Option C is thus incorrect.
+A. Patching doesn&#39;t need to be performed as a distinct effort; patching can go through the normal change request process like all other modifications.
+B. Any patches suggested or required by vendors to maintain compliance with service ontracts must be made immediately, regardless of internal process restrictions.
+C. Any patches suggested by third parties should not be considered as they may invalidate service contracts or warranties and negatively affect the organization&#39;s security posture.
+D. The configuration or change management committee or board may grant blanket approval for patches (at a certain impact level) without the need to go through the formal change process.
+正确
+
+
+53. Which of the following is essential for getting full security value from your system baseline?
+
+试题解析：An image of the baseline should be stored securely, preferably in more than one location (to include the archive, the disaster kit, and any alternate site, to name a few). It is essential to have a copy on hand for reconstructing the environment during contingency operations, and it is also useful for audit/review purposes.
+Option B is incorrect because planned modifications are not yet part of the actual baseline.
+Option C may be a good answer in some situations; however, it is not essential, and option A is still a better answer.
+Option D is incorrect because every environment (and, therefore, the baseline used in that environment) should be exclusively tailored for the organization using that environment.
+A. Capturing and storing an image of the baseline
+正确
+B. Keeping a copy of upcoming suggested modifications to the baseline
+C. Having the baseline vetted by an objective third party
+D. Using a baseline from another industry member so as not to engage in repetitious efforts
+
+
+54. Which of the following is essential for getting full security value from your system baseline?
+
+试题解析：In order to understand, optimize, and re-create your secure baseline, proper and full documentation is absolutely essential.
+Personnel training is important for secure system use, but it is not an element of baselin-ing. Option A is incorrect.
+A secure baseline for a given system may include HIDS and/or encryption, but they are not essential elements, so options C and D are incorrect.
+A. Personnel training
+B. Documentation
+正确
+C. Host-based intrusion detection system (HIDS)
+D. Encryption
+
+
+55. Before deploying a specific brand of virtualization toolset, it is important to configure it according to_______.
+
+试题解析：Toolset vendors will specify secure configurations of their products; these must be followed in order to fulfil due ca re requirements.
+Standards and laws don&#39;t usually specify builds for products or brands, so options A and B are incorrect。
+Expert opinion, while useful, is not sufficient to demonstrate due care in many cases;option D is not the best response.
+A. Industry standards
+B. Prevailing law of that jurisdiction
+C. Vendor guidance
+正确
+D. Expert opinion
+
+
+56. Access control to virtualization management tools should be________.
+
+试题解析：It is important to limit access to the virtualization toolset to those administrators, engineers, and architects who are vital for supporting the virtualized environment and nobody ese.
+The other options are incorrect because they do not restrict access to the virtualization management tool set as specifically as role- based access control does. If someone&#39;s role changes and they no longer require access, then their access should be terminated.
+A. Rule-based
+B. Role-based
+正确
+C. User- based
+D. Discretionary
+
+
+57. Updating virtual machine management tools will require________.
+
+试题解析：Because updating the virtualization toolset may require server downtime, it is essential to have a sufficient amount of redundant machines to roll out the update over the environment without significant disruption of operations.
+Option A assumes that there isn&#39;t already enough of whatever the infusion of capital will purchase. Option A is incorrect.
+Thankfully, option B is incorrect. It would be costly to obtain an alternate data center each time the virtual machine management tools are updated.
+Peer review is not required when updating virtual machine management tools. Option D is incorrect.
+A. An infusion of capital
+B. An alternate data center
+C. Sufficient redundancy
+正确
+D. Peer review
+
+
+58. Which of the following are not examples of personnel controls?
+
+试题解析：While physical controls that inhibit movement affect personnel, they are not regarded as personnel controls. All the other options are examples of personnel controls.
+A. Background checks
+B. Reference checks
+C. Strict access control mechanisms
+正确
+D. Continuous security training
+
+
+59. What aspect of data center planning occurs first?
+
+试题解析：The logical design should come before the physical design; function dictates form.
+Audit and revision come after creation.
+A. Logical design
+正确
+B. Physical design
+C. Audit
+D. Policy revision
+
+
+60. Gaseous fire suppression systems that function by displacing oxygen need to be installed in conjunction with__________.
+
+试题解析：Before flooding an enclosed space with a gas that will displace oxygen, it is important to ensure that all personnel are out of the area. while this requires personnel training, such training is ineffective without a system to support this capability. Option C is true,but not as accurate as option D.
+Options A and B are incorrect because they do not make senses given the quest ion is about a system that displaces oxygen in the facility.
+A. Water cooling
+B. Filters
+C. Occupant training
+D. Failsafe or &quot;last person out switches
+正确
+
+
+61. Designing system redundancy into a cloud data center allows all the following capabilities except_________.
+
+试题解析：There is no such thing as zero risk; there will always be some chance of service interruption, no matter how minimized.
+All the other options are capabilities allowed by redundancy.
+A. Incorporating additional hardware into the production environment
+B. Preventing any chance of service interruption
+正确
+C. Load-sharing/balancing
+D. Planned, controlled failover during contingency operations
+
+
+62. Which of the following is not a goal of a site survey?
+
+试题解析：The penetration test is not part of the site survey, which is one of the initial steps in securing/auditing a facility. The penetration test will, however, probably make use of the site survey information later.
+All the other options are goals of the site survey.
+A. Threat definition
+B. Target identification
+C. Penetration testing
+正确
+D. Facility characteristics
+
+
+63. When cloud computing professionals use the term ping, power, pipe, which of the following characteristics is not being described?
+
+试题解析：User interaction with the cloud is not described in this term. All the other options are characteristics of cloud computing mentioned in ping, power, pipe.
+A. Logical connectivity
+B. Human interaction
+正确
+C. Electricity
+D. Heating, ventilation, and air conditioning (HVAC)
+
+
+64. Halon is now illegal to use for data center fire suppression. What is the reason it was outlawed?
+
+试题解析：This question is an outlier because it is one of the few such questions where the answer is not that it poses a threat to health and human safety (although, in fact, it does; option A is true, but incorrect). Halon was not prohibited because of this property. Halon was outlawed because it, like other CFCs (chlorofluorocarbons), was blamed for depleting the earth&#39;s ozone layer. Halon is still allowed in some very specialized cases (such as fire-suppression systems on aircraft), but this is an exception.
+Options C and D are incorrect and untrue.
+A. It poses a threat to health and human safety when deployed.
+B. It can harm the environment.
+正确
+C. It does not adequately suppress fires.
+D. It causes undue damage to electronic systems.
+
+
+65. Transport Layer Security (TLS) uses_________ to authenticate a connection and create a shared secret for the duration of the session.
+
+试题解析：TLS uses X.509 certificates to establish a connection and create a symmetric key that lasts for only one session.
+SAML is used for federation authentication/identification; option A is incorrect.
+802.11 is the suite of wireless standards; option C is incorrect.
+Diffie-Hellman uses asymmetric key pairs to create a symmetric key; option D is incorrect.
+A. Security Assertion Markup Language (SAML) 2.0
+B. X.509 certificates
+正确
+C. 802.11X
+D. The Diffie-Hellmnan process
+
+
+66. In order for communications from inside a virtual local area network (VLAN) to reach endpoints outside the VLAN__________.
+
+试题解析：Gateway devices enforce the VLAN rules and can allow or deny outbound traffic.
+Communications tra fie from a VLAN may or may not be encrypted; opt ion B is incorrect.
+Repeaters are used to enhance signals along a line over a certain distance; they have noth-ing to do with VLANs. Option C is incorrect.
+Option D makes no sense in this context.
+A. The communications must go through a gateway
+正确
+B. The traffic must be encrypted
+C. A repeater must be used
+D. The external endpoint must be in receive mode
+
+
+67. Which of the following is not a characteristic of a virtual local area network (VLAN)?
+
+试题解析：Broadcast packets sent by machines outside the VLAN will reach machines outside the VLAN that are on the same network/segment.
+All the other options are characteristics of a VLAN.
+A. Broadcast packets sent by a machine inside the VLAN will reach all other machines in that VLAN.
+B. Broadcast packets sent from outside the VLAN will not reach other machines outside the VLAN.
+正确
+C. Broadcast packets sent from a machine outside the VLAN will not reach machines inside the VLAN.
+D. Broadcast packets sent by a machine inside the VLAN will not reach machines outside the VLAN.
+
+
+68. Which of the following cloud data center functions do not have to be performed on isolated networks?
+
+试题解析：The production activities will make full use of pooled resources, so they will not be isolated (unless the customer is paying for that specific characteristic of service).
+All the other options are functions that should take place on isolated net works/segments.
+A. Customer access provision
+B. Management system control interface
+C. Storage controller access
+D. Customer production activities
+正确
+
+
+69. A truly air-gapped machine selector will __________.
+
+试题解析：Referred to as &quot;break before make,&quot; these devices often take the form of manual pushbutton controls; as the button is pushed, the current connection is forced to physically separate, and when the but ton is fully engaged, the new connection is made.
+Opt ions B and C have more to do with risks of electromagnetic emanations than with air-gapped selectivity; even air-gapped devices can leak data through emanations.
+Option D is incorrect because portability is not a property we seek in device selectors.
+A. Terminate a connection before creating a new conection
+正确
+B. Be made of composites and not metal
+C. Have total Faraday properties
+D. Not be portable
+
+
+70. Modern managed cloud service providers will often use secure keyboard/video/mouse (KVM) devices within their data centers. These devices are extremely expensive compared to their non-secured counterparts. Which of the following is one of the reasons cloud service providers do this?
+
+试题解析：Secure KVMs support drastically isolated operations; they cut down on the possibility of data being inadvertently shared from one customer to another.
+Option B is incorrect because devices will not leave the cloud data center simply because they are not managed by secure KVMs.
+Option C is incorrect because using secure KVMs will not have an effect on physical inventories.
+Option D does contain enough information to be the correct answer.&ldquo;Audit purposes&quot; is ambiguous.
+A. The risk of transferring data from one customer to another is significant.
+正确
+B. The risk of devices leaving the cloud data center is significant.
+C. It makes physical inventories much easier to maintain.
+D. Audit purposes
+
+
+71. The American Society of Heating, Refrigeration, and Air Conditioning Engineers (ASHRAE) guidelines for internal environmental conditions within a data center suggest that a temperature setting of _______ degrees (F) would be too low.
+
+试题解析：The range suggested by the ASHR AE Technical Committee 9.9 is 64 to 81 degrees Fahrenheit. All the other options are incorrect (although A is particularly distracting, because it is bigher than the recommended range, but that is not what the question is asking).
+A. 93
+B. 80
+C. 72
+D. 32
+正确
+
+
+72. Modern managed cloud service providers will often use secure keyboard/video/mouse (K VM) devices within their data centers. These devices are extremely expensive compared to their non-secured counterparts. Which of the following is one of the reasons cloud service providers do this?
+
+试题解析：The cost of each device is spread ac t0ss many machines in the data center; unlike a desktop-based environment, where every user and every machine need their own KVM setup, just a few devices can serve an entire data center.
+While the cloud provider may generate a great deal of revenue, no company likes to throw away money unnecessarily; option A is incorrect.
+Cloud providers are not typically invested in KVM vendors. Option B is incorrect.
+Option D is simply incorrect.
+A. They have plenty of revenue and can afford it.
+B. They have invested heavily in the secure K VM market.
+C. Cloud data centers need very few of these devices.
+正确
+D. Managed cloud providers often manufacture their own devices as well.
+
+
+73. Which of the following is a risk that stems from a pooled-resources environment?
+
+试题解析：In a pooled environment, law enforcement may acquire physical or logical assets (drives, data stores, etc.) that include your organization&#39;s data, even if your organization was not the target of the investigation.
+All the other options are not risks due to pooled resources; they exist in all environments.
+These options are not correct.
+A. Loss of data to widespread phishing attacks
+B. Loss of availability due to widespread distributed denial of service (DDoS) attacks
+C. Loss of data to widespread insider threat
+D. Loss of data to law enforcement seizure of neighboring assets
+正确
+
+
+74. Which of the following is a risk that stems from a virtualized environment?
+
+试题解析：When an active virtual machine is moved from a given host to another (for instance, when the host is going into maintenance state), it is passed a long the network without encryption. Theoretically, an insider threat observing the line along which the virtual&nbsp;machine is moving could capture/copy it in its entirety.
+All the ot her options are not risks specific to a virtualized environment and are therefore incorrect.
+A. Live virtual machines in the production environment are moved from one host to another in the clear.
+正确
+B. Cloud data centers can become a single point of failure.
+C. It is difficult to find and contract with multiple utility providers of the same type (electric, water, etc.).
+D. Modern service level-agreement (SLA) demands are stringent and very hard to meet.
+
+
+75. In order to enhance virtual environment isolation and security, a best practice is to
+
+试题解析：The management systems control the entirety of the virtual environment and are therefore extremely valuable and need to be protected accordingly. W hen possible, isolating those management systems, both physically and virtually, is optimum.
+All the other options are incorrect because they imply that virtual and physical cannot coexist when in fact they need to coexist to work correctly.
+A. Ensure that all virtual switches are not connected to the physical network
+B. Ensure that management systems are connected to a different physical network than the production systems
+正确
+C. Never connect a virtual switch to a physical host
+D. Connect physical devices only with virtual switches
+
+
+76. Security best practices in a virtualized network environment would include which of the following?
+
+试题解析：It is possible to route multiple VLANs through a switch port (physical or virtual) with proper frame tagging. However, to optimize isolation of subnets and processes in a virtual network environment, it is better to use different ports instead.
+iSCSI traffic should be encrypted as another layer of defense within the environment; option B is wrong.
+HIIDSs may or may not be cost-effective, depending on the value and sensitivity of the data on each guest; the additional overhead may not justify their use. Option C is incorrect.
+Firewalls should be hardened regardless of the nature of the net work whether virtual or physical.
+A. Using distinct ports and port groups for various virtual local area networks (VLANs) on a virtual switch rather than running them through the same port
+正确
+B. Running Internet Small Computer Systems Interface (iSCSI) traffic unencrypted in order to have it observed and monitored by a network intrusion detection system (NIDS)
+C. Adding a host- based intrusion detection system (HIDS) to all virtual guests
+D. Hardening all outward-facing firewalls in order to make them resistant to attack
+
+
+77. Which of these characteristics of a virtualized network adds risks to the cloud environment?
+
+试题解析：Virtual switches are widely used in virtualized networks. Unlike physical switches, which only lose one connection if a connecting cable is lost, virtual switches can be connected to multiple virtual machines via a single cable; if a cable is lost in a virtualized network, that can affect tens or dozens of devices. In this context, the benefits offered by scalability come with attendant risks.
+The other options are characteristics that don&#39;t cause additional risk to the environment; in fact, redundancy reduces risk.
+A. Redundancy
+B. Scalability
+正确
+C. Pay-per-use
+D. Self-service
+
+
+78. Storage controllers will be used in conjunction with all the following protocols except________.
+
+试题解析：HTTPS is not a storage protocol. All the other options are.
+A. HTTPS
+正确
+B. Internet Small Computer Systems Interface (iSCSI)
+C. Fibre Channel
+D. Fibre Channel over Ethernet
+
+
+79. Which of the following is not an element of ongoing configuration maintenance?
+
+试题解析：Users are not an aspect of configuration management.
+All the other options are elements of secure configuration management.
+A. Penetration tests of guest OSs and hosts
+B. Social engineering tests of all users
+正确
+C. Patch management of guest OSs, hosts, and applications
+D. Vulnerability scans of guest OSs and hosts
+
+
+80. Which of the following is not an aspect of host hardening?
+
+试题解析：Audits usually aren&#39;t considered an element of hardening. Hardening is the process of provisioning a specific element (in this case, a host) against attack. Audits don&#39;t protect against attack; they only detect and direct response to attacks.
+All the other options are aspects of host hardening.
+A. Removing all unnecessary software and services
+B. Patching and updating as needed
+C. Performing more frequent and thorough audits on the host
+正确
+D. Installing a host-based firewall and an intrusion detection system (IDS)
+
+
+81. Because most cloud environments rely heavily on virtualization, it is important to lock down or harden the virtualization software, or any software involved in virtualization.Which of the following is not an element of hardening software?
+
+试题解析：While maintaining a library of software licenses is important, it is not part of the practice we ordinarily consider&ldquo;hardening.&#39;
+The other options are all aspects of software hardening.
+A. Removing unused services and libraries
+B. Maintaining a strict license catalog
+正确
+C. Patching and updating as necessary
+D. Removing default accounts
+
+
+82. You are designing a Tier 4 data center for a large hospital. In order to plan for the possibility of losing utility power, in addition to having sufficient generators, you should plan to locate the data center
+
+试题解析：Usually, different political regions are served by different utility providers; placing your data center on such a boundary may make it feasible to have redundant, overlapping power providers.
+Municipalities typically limit selection of power providers by granting an artificiaI monop-oly to a single provider; option A is incorrect.
+Rural settings are often only served by a single provider because the demand is not suffi-cient to support competition; option B is incorrect.
+Coasts do not affect the availability of multiple power providers; option C is a distractor.
+A. In an urban setting
+B. In a rural environment
+C. Near a coast
+D. At the border of different counties, regions, or states
+正确
+
+
+83. Which of the following factors will probably have the most impact on the cost of running your heating, ventilation, and air conditioning (HVAC) systems?
+
+试题解析：This is a difficult question because almost all of the options are true- -they will all have an effect on the cost of running HVAC systems.
+Because HVAC operates as a heat exchange, the outside environment will dictate how much power is needed to force warm air out of the data center. The warmer the climate in the location of the data center, the more energy it will take to exchange the heat, and the more costly the HVAC operation. This is the most significant factor.
+Option A is incorrect and it is the only choice that does not affect energy costs; hot and cold aisle containment should be equivalent in terms of operational costs.
+The initial cost of the HVAC units them selves will probably have an effect on operational costs because better equipment will cost more money, but it will also be more efficient and therefore less expensive to operate than cheaper alternatives. However, the effect still won&#39;t be as significant as the external climate, so option C is still not as good as option B.
+Good cable management will make airflow more efficient and therefore make HVAC less expensive, but this will not be as dramatic in impact on operating costs as the external environment. Once again, option B is preferable to option D.
+A. Whether you choose hot or cold aisle containment
+B. The external ambient environment
+正确
+C. The initial cost of the HVAC systems
+D. Proper cable maintenance
+
+
+84. You are designing a private cloud data center for an insurance underwriter, to be located in a major metropolitan area. Which of the following airflow management schemes is preferable?
+
+试题解析：It shouldn&#39;t matter which design you use as long as airflow is managed. Neither hot nor cold aisle containment is preferable to the other, so options A and B are incorrect. Airflow does need to be managed, though, so option D is incorrect as well.
+A. Hot aisle
+B. Cold aisle
+C. Either hot aisle or cold aisle
+正确
+D. Free flow
+
+
+85. How often should cable management efforts take place?
+
+试题解析：Cable management is an ongoing process. All the other options are incorrect ecause they are time based intervals rather than continuous.
+A. Annually
+B. Continually
+正确
+C. Quarterly
+D. Weekly
+
+
+86. Cable management includes all of the following except___________
+
+试题解析：While minimizing equipment in the operational environment can aid in many efforts, including cable management, it is not strictly an aspect of cable management, so this is the best choice from those available. All the other options are definitely aspects of cable management.
+A. Tagging cables
+B. Removing unused/obsolete cables
+C. Banding and bundling cables
+D. Removing unused machines
+正确
+
+
+87. It is important to include_______ in the design of underfloor plenums if they are also used for wiring.
+
+试题解析：When cables come up through a raised floor used as a cold air feed, we don&#39;t want cold air bleeding around the cables in an unplanned manner; this can cause inefficiencies in&nbsp;airflow control. Gaskets are required at all points where cable comes through the floor, to restrict airflow and reduce the possibility of cold air escaping.
+All the other options are incorrect because we want to minimize obstructions in under- floor plenums we use for airflow. Options A, B, and C do not accomplish this.
+A. Mantraps
+B. Sequestered channels
+C. Heat sinks
+D. Tight gaskets
+正确
+
+
+88. Heating, ventilation, and air conditioning (HVAC) systems cool the data center by pushing warm air into_________.
+
+试题解析：The HVAC system is a heat exchange, swapping warm internal air from the data center to the outside world and drawing fresh air through the HVAC chillers to feed the internal environment.
+All the other options are incorrect because they will have the opposite effect by pushing warm air into those areas that cools air is supposed to be.
+A. The server inlets
+B. Underfloor plenums
+C. HVAC intakes
+D. The outside world
+正确
+
+
+89. Setting thermostat controls by measuring the_________ temperature will result in the highest energy costs.
+
+试题解析：The return air temperature will be slightly higher than any where else inside the data center because the air has been warmed by passing through the equipment (thus cooling the equipment but warming the air). Using this as a temperature set point will result in much cooler air feeding the server inlets, which takes more energy, which will be more expensive.
+Options A and C are incorrect because that air is already cold; using these locations as set points will not consume as much energy and may result in somewhat warmer air entering the servers. This will be less expensive than option B.
+Option D is an outlying distractor; if you set your heating, ventilation, and air condition-ing (HVAC) controls to respond to the temperature outside the data center, your HVAC units are responding to temperatures that have not hing to do with the internaI environ-ment. In effect, you&#39;d be trying to adjust the temperature of the outside world, which is ridiculous.
+A. Server inlet
+B. Return air
+正确
+C. Under-floor
+D. External ambient
+
+
+90. Internal data center conditions that exceed the American Society of Heating, Refrigeration, and Air Conditioning Engineers (ASHRAE) guidelines for humidity could lead to an increase of the potential for all of the following except____________.
+
+试题解析：Being damp does not make people more susceptible to trickery.
+Moisture in the air can, however, create mold/mildew, short circuits, and rust, so all the other options are incorrect.
+A. Biological intrusion
+B. Electrical shorting
+C. Corrosion/oxidation
+D. Social engineering
+正确
+
+
+91. The American Society of Heating, Refrigeration, and Air Conditioning Engineers (ASHRAE) guidelines for internal environmental conditions within a data center suggest that a temperature setting of_________ degrees (F) would be too high.
+
+试题解析：The range suggested by the ASHRAE Technical Committee 99 is 64 to 81 degrees Fahrenheit. All the other options are distractors (although D is particularly distracting, because it is lower than the recommended range, but that is not what the question is asking).
+A. 93
+正确
+B. 80
+C. 72
+D. 32
+
+
+92. All tiers of the Uptime Institute standards for data centers require________hours of on- site generator fuel.
+
+试题解析：All the other options are incorrect.
+A. 6
+B. 10
+C. 12
+正确
+D. 15
+
+
+93. When you are building a new data center in a rural setting, which of the following is probably the most restrictive aspect?
+
+试题解析：In a rural location, the positioning and depth of first responders (fire, law enforcement, para medics, etc.) may be severely limited in comparison to an urban setting.
+Natural disasters affect all locations, rural or urban, so a rural setting is not any more or less limiting in planning accordingly; option A is incorrect.
+Oddly enough, because of the very limited need for personnel within modern data centers with significant automation, recruiting and placing the number of people necessary to serve the purpose should not be too difficult; option B is not correct.
+One of the appeals of a rural setting is that building codes are often rudimentary or non-existent. Option D is incorrect.
+A. Natural disasters
+B. Staffing
+C. Availability of emergency services
+正确
+D. Municipal codes
+
+
+94. When building a new data center within an urban environment, which of the following is probably the most restrictive aspect?
+
+试题解析：In any large metropolitan area, government restrictions on development and construction can severely limit how you use your property; this can be a significant limiting actor in building a data center.
+The size of the plot may or may not matter, depending on if you are allowed to build up or dig down to make use of additional space- -these options will be limited by municipal building codes, so option D is preferable to option A.
+Utilities and personnel are usually easy to acquire in an urban setting, so options B and C are incorrect. .
+A. The size of the plot
+B. Utility availability
+C. Staffing
+D. Municipal codes
+正确
+
+
+95. You are the security manager for a small surgical center. Your organization is reviewing upgrade options for its current, on-premises data center. In order to best meet your needs, which one of the following options would you recommend to senior management?
+
+试题解析：This answer is mostly arrived at through a process of elimination.
+Option B is not optimum because of the potential for vendor lock-in, restrictions on build-out, and privacy concerns.
+Option C is not optimum because Tier 2 is not sufficient for medical uses.
+Option D is not optimum because there was obviously a reason to consider a new option.
+We are therefore left with option A, which is the most expensive of the choices but allows the greatest a mount of control and security.
+A. Building a completely new data center
+正确
+B. Leasing a data center that is currently owned by another firm
+C. Renting private cloud space in a Tier 2 data center
+D. Staying with the current data center
+
+
+96. When designing a cloud data center, which of the following aspects is not necessary to ensure continuity of operations during contingency operations?
+
+试题解析：Backup power does not have to be delivered by batteries; it can be fed to the data center through redundant utility lines or from a generator.
+All the other elements are necessary for safe and secure data center operations, for both the personnel and the equipment within the data center.
+A. Access to clean water
+B. Broadband data connection
+C. Extended battery backup
+正确
+D. Physical access to the data center
+
+
+97. You are the security manager for a small retail business involved mainly in direct e-commerce transactions with individual customers (members of the public). The bulk of your market is in Asia, but you do fulfill orders globally. Your company has its own data center located within its headquarters building in Hong Kong, but it also uses a public cloud environment for contingency backup and archiving purposes. Your company has decided to expand its business to include selling and monitoring life-support equipment for medical providers. What characteristic do you need to ensure is offered by your cloud provider?
+
+试题解析：The changing nature of your business will require a much more stringent set of operating standards, to include an increase in Uptime Institute tier levels; because you&#39;re no longer just using the cloud for backup and long-term storage and are now using it in direct support of health and human safety, Tier 4 is required.
+Fully automated security controls are useful from the provider&#39;s perspective (allowing more profitability and scalability), but this is not a major concern of the customer. Option A is incorrect.
+Global remote access and reducing the risk of malware infections (to include ransomware) are basic functions of almost all cloud providers; these functions aren&#39;t useful discrimina- tors when choosing cloud providers because all cloud providers have them. Options C and D are thus incorrect.
+A. Full automation of security controls within the cloud data center
+B. Tier 4 of the Uptime Institute certifications
+正确
+C. Global remote access
+D. Prevention of ransomware infections
+
+
+98. You are the security manager for a small retail business involved mainly in direct e-commerce transactions with individual customers (members of the public). The bulk of your market is in Asia, but you do fulfill orders globally. Your company has its own data center located within its headquarters building in Hong Kong, but it also uses a public cloud environment for contingency backup and archiving purposes. Which of the following standards are you most likely to adopt?
+
+试题解析：ISO is the only truly international standard on this list of choices; all the rest are either American laws or standards (options A and D) or European (option B).
+A. National Institute of Standards and Technology (NIST) 800-37
+B. General Data Protection Regulation (GDPR)
+C. ISO 27001
+正确
+D. Sarbanes- Oxley Act (SOX)
+
+
+99. You are the security manager for a small retail business involved mainly in direct e-commerce transactions with individual customers (members of the public), The bulk of your market is in Asia, but you do fulfill orders globally. Your company has its own data center located within its headquarters building in Hong Kong, but it also uses a public cloud environment for contingency backup and archiving purposes. Your cloud provider is changing its business model at the end of your contract term, and you have to find a new provider. In choosing providers, which of the following functionalities will you consider absolutely essential?
+
+试题解析：If your company is involved in e-commerce, you are most likely using credit cards for online transactions; if you&#39;re using credit cards, you are almost certainly constrained by the Payment Ca rd Industry Data Security Standard (PCI DSS) or one of the other contractual standards like it. Because of this, you will be required to encrypt or tokenize all stored cardholder data, and for long-term storage, encryption is the cheaper, more durable process.
+DDoS and mirroring are availability protections, and availability is not your company&#39;s main concern for cloud services from the question description; long-term storage is not focused on availability. Options A and B are thus incorrect.
+Hashing is an integrity protection, and though hashes may be useful in this case (to deter-mine whether stored data is accurate), they won&#39;t be as important as compliance with credit card standards. Option C is the preferable answer compared to D.
+A. Distributed denial of service (DDoS) protections
+B. Constant data mirroring
+C. Encryption
+正确
+D. Hashing
+
+
+100. You are the security manager for a small retail business involved mainly in direct e-commerce transactions with individual customers (members of the public). The bulk of your market is in Asia, but you do fulfill orders globally. Your company has its own data center located within its headquarters building in Hong Kong, but it also uses a public cloud environment for contingency backup and archiving purposes. Your cloud provider is changing its business model at the end of your contract term, and you have to find a new provider. In choosing providers, which tier of the Uptime Institute rating system should you be looking for, if minimizing cost is your ultimate goal?
+
+试题解析：For the purposes described in the question, a Tier 1 data center should suffice; it is the cheapest, and you need it only for occasional backup purposes (as opposed to constant access). The details of location and market are irrelevant.
+Tiers 3 and 4 would be much more expensive, and they are not necessary for your business purposes; options B and C are thus incorrect.
+There is no Tier 8 in the Uptime Institute system.
+A. 1
+正确
+B. 3
+C. 4
+D. 8
+
+
+101. You are tasked with managing a cloud data center in Los Angeles; your customers are mostly from the entertainment industry, and you are offering both platform as a service (PaaS) and software as a service (SaaS) capabilities. From a physical design standpoint, you are probably going to be most concerned with
+
+试题解析：California is known for suffering massive destruct ion from earthquakes, and physical design is the means with which this risk is addressed.
+All the other options either involve a nonphysical risk (DRM will be necessary, because the entertainment industry relies heavily on copyrighted material) or a method other than physical design to address a risk (floods are physical threats, but insurance is an adminis- trative control for risk transfer), so D is the best choice of these opt ions.
+A. Offering digital rights management (DRM) capabilities
+B. Insuring against seasonal floods
+C. Preventing all malware infection potential
+D. Ensuring that the racks and utilities can endure an earthquake
+正确
+
+
+102. The logical design of a cloud environment can enhance the security offered in that environment. For instance, in a software as a service (SaaS) cloud, the provider can incorporate_________ capabilities into the application itself.
+
+试题解析：The ability to log activity is useful for many security purposes (such as monitoring. and forensics); having that purposefully included in SaaS applications reduces the need to have a different tool added to the environment to achieve that same goal and reduces the possibility that any additional interface won&#39;t perform optimally.
+The other options are all about enhancing the customer&#39;s ability to perform business function or meeting the customer&#39;s business needs. Although this is paramount from the customer&#39;s perspective and may tangentially ful6ill some security purpose (increased pro- cessing capacity may, for instance, allow the use of additional encryption, w here the over- head may otherwise deter the use of that tool), these are not direct security purposes and therefore are not correct answers to this specific question.
+A. High-speed processing
+B. Logging
+正确
+C. Performance-enhancing
+D. Cross- platform functionality
+
+
+103. What is perhaps the main way in which software-defined networking (SDN) solutions facilitate security in the cloud environment?
+
+试题解析：Network segmentation allows providers to create zones of trust within the cloud environment, tailoring the available services to meet the needs of a variety of clients and markets.
+SDN does not really involve monitoring outbound traffic (that is done by egress monitor-ing solutions) or inbound traffic (that is usually performed by firewalls and routers), nor does it really prevent DDoS attacks (nothing can prevent such attacks, and risk reduction is usually done by routers), so all the other options are incorrect.
+A. Monitoring outbound traffic
+B. Monitoring inbound traffic
+C. Segmenting networks
+正确
+D. Preventing distributed denial of service (DDoS) attacks
+
+
+104. You are the security officer for a small cloud provider offering public cloud infrastructure as a service (IaaS); your clients are predominantly from the education sector, located in North America. Of the following technology architecture traits, which is probably the one your organization would most likely want to focus on?
+
+试题解析：The goal of automating service enablement is probably paramount for any cloud service provider (of the qualities listed), because it allows for the most scalability and offers the most significant reduction in costs (which mainly come from personnel) and therefore the most profitability. The details of&ldquo;public cloud,&quot; &quot;IaaS,&quot; and&ldquo;North America&rdquo;are distractors in this context as they are irrelevant- -this answer would be true for any cloud provider offering any type of services.
+Options A and B are not true because most cloud providers of any appreciable size are purchasing hardware on a scale that makes the per-unit failure rate fairly irrelevant; the bulk nature of IT purchases by cloud providers makes differences in MTTR and MTBF between vendors and products statistic ally insignificant.
+Option C is incorrect because RTO is a quality involving business continuity and disaster recovery (BC/DR) planning, not IT architecture.
+A. Reducing mean time to repair (MTTR)
+B. Reducing mean time between failure (MTBF)
+C. Reducing the recovery time objective (RTO)
+D. Automating service enablement
+正确
+
+
+105. In designing a data center to meet their own needs and provide optimum revenue/profit, the cloud provider will most likely aim to enhance_________.
+
+试题解析：This is not an easy question. All the options are correct except C. Option B is the most correct because it will lead to maximizing performance, value, and profitability.
+A. Functionality
+B. Automation of services
+正确
+C. Aesthetic value
+D. Inherent value
+
+
+106. All of the following elements must be considered in the design of a cloud data center except _________.
+
+试题解析：Language of the customers is irrelevant, assuming they can pay. All the other options are factors that must be considered in data center design.
+A. External standards, such as ITIL or ISO27001
+B. Physical environment
+C. Types of services offered
+D. Native language of the majority of customers
+正确
+
+
+107. Which of the following factors would probably most affect the design of a cloud data center?
+
+试题解析：This is a difficult, nuanced quest ion. Options A-C are true; each element would affect the design of a cloud data center (D is not something that should be included in data center design). But the physical location of the data center would include legal constraints (based on jurisdiction), geological/natural constraints (based on altitude, proximity to water formation/flooding, climate, natural disaster, etc.), price, and other variables. Therefore, ocation would most likely have the greatest impact on the design of the facility.
+A. Geographic location
+正确
+B. Functional purpose
+C. Cost
+D. Aesthetic intent
+
+
+108. An event is something that can be measured within the environment. An incident is a(n) ________event.
+
+试题解析：All activity in the environment can be considered events. Any event that was not planned or known is an incident. In the security industry, we often ascribe negative effects to the term incident, but incidents are not always malicious; they are only unscheduled. All the other options are incorrect.
+A. Deleterious
+B. Negative
+C. Unscheduled
+正确
+D. Major
+
+
+109. You are in charge of building a cloud data center. Which of the following is a useful rack configuration for regulating airflow?
+
+试题解析：The preferred method is cold aisle containment (hot aisle containment, where the inlets on racks face each other, is all right too). Options A and B are the same incorrect answer, just worded differently; if the exhaust fans on one rack face into the inlet vents on another rack, you would end up blowing warm air into the components, defeating the purpose of airflow management. Perpendicular racks will not optimize your airflow.
+A. Exhaust fans on racks facing the inlet vents of other racks
+B. Inlet fans on racks facing exhaust fans of other racks
+C. All racks perpendicular to each other
+D. Exhaust fans on racks facing exhaust fans on other racks
+正确
+
+
+110. You are in charge of building a cloud data center. What purposes does the raised floor serve?
+
+试题解析：The raised floor in a data center will serve as an air plenum (usually for cold air) and a wiring chase. All the other options are incorrect.
+A. Allows airflow and increases structural soundness for holding large components
+B. Cold air feed and a place to run wires for the machines
+正确
+C. Additional storage for critical components and a dedicated access to a landline
+D. Fire suppression systems and personnel safety
+
+
+111. You are in charge of building a cloud data center. Which raised floor level is sufficient to meet standard requirements?
+
+试题解析：The minimum recommended height of a raised floor in a data center is 24 inches. All other options are incorrect.
+A. 10 inches
+B. 8 inches
+C. 18 inches
+D. 2 feet
+正确
+
+
+112. What is the primary incident response goal?
+
+试题解析：This is not an easy question; different industries and different organizations will have differing goals. Each organization will determine for itself what the primary goal of incident response will be, and this may even differ from incident to incident, depending on the nature of the incident itself (in other words, a given organization may set priorities such that the primary goal of incident response in a disaster is continuity of operations, while the goal in responding to unauthorized access may be halting data disclosure).
+A. Remediating the incident
+B. Reverting to the last known good state
+C. Determining the scope of the possible loss
+D. Outcomes dictated by business requirements
+正确
+
+

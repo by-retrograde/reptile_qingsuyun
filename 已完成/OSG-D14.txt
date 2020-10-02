@@ -1,0 +1,226 @@
+1. 回答下面2个问题请参考以下情境：
+一个组织最近遭受了一系列安全漏洞，声誉大大受损。多次成功袭击后，可以通过公司的一台Web服务器获得被盗用的客户数据库文件。此外，一名员工能从先前的工作权限分配中获得对机密数据的访问。这名员工对数据进行复制，卖给竞争对手。该组织己聘请安全顾问，帮助他们减少未来攻击的可能风险。
+An organization has recently suffered a series of security breaches that have damaged its reputation. Several successful attacks have resulted in compromised customer database files accessible via one of the company&rsquo;s web servers. Additionally, an employee had access to secret data from previous job assignments. This employee made copies of the data and sold it to competitors. The organization has hired a security consultant to help them reduce their risk from future attacks.
+
+2. &nbsp;什么类型的攻击使用电子邮件，试图诱骗高层管理人员？What type of attack uses email and attempts to trick high-level executives?
+
+A. 网络钓鱼
+Phishing
+B. 鱼叉式钓鱼
+Spear phishing
+C. 捕鲸
+Whaling
+正确
+D. 语音钓鱼
+Vishing
+
+
+3. 以下哪项可以提供针对彩虹表攻击的最佳防护？Which of the following would provide the best protection against rainbow table attacks?
+
+A. 使用MD5算法哈希密码
+Hashing passwords with MD5
+B. 使用哈希时加盐和加胡椒
+Salt and pepper with hashing
+正确
+C. 账户锁定
+Account lockout
+D. 实施RBAC
+Implement RBAC
+
+
+4. &nbsp;以下哪一项可以帮助缓解网上蛮力攻击的成功率？Which of the following can help mitigate the success of an online brute-force attack?
+
+A. 彩虹表
+Rainbow table
+B. 账号锁定
+Account lockout
+正确
+C. 密码加盐
+Salting passwords
+D. 密码加密
+Encryption of password
+
+
+5. 组织会做什么来识别弱点？What would an organization do to identify weaknesses?
+
+A. 资产评估
+Asset valuation
+B. 威胁模型
+Threat modeling
+C. 脆弱性分析
+Vulnerability analysis
+正确
+D. 访问审查
+Access review
+
+
+6. &nbsp;以下哪一项不是有效的访问控制模型？Which of the following is not a valid access control model?
+
+A. 自主访问控制模型
+Discretionary Access Control model
+B. 非自主访问控制模型
+Nondiscretionary access control model
+C. 强制访问控制模型
+Mandatory Access Control model
+D. 基于合规性的访问控制模型
+Compliance-based access control model
+正确
+
+
+7. 以下哪一项最能说明强制访问控制模型的特点？Which of the following best describes a characteristic of the MAC model?
+
+A. 采用显式拒绝理念
+Employs explicit-deny philosophy
+B. 宽松的
+Permissive
+C. 基于规则
+Rule-based
+D. 禁止
+Prohibitive
+正确
+
+
+8. &nbsp;什么类型的访问控制依赖于使用标签？What type of access controls rely on the use of labels?
+
+A. 自主访问控制模型
+DAC
+B. 非自主访问控制模型
+Nondiscretionary
+C. 强制访问控制模型
+MAC
+正确
+D. 基于角色的访问控制模型
+RBAC
+
+
+9. 什么类型的访问控制模型被用于防火墙？What type of access control model is used on a firewall?
+
+A. 强制访问控制模型
+What type of access control model is used on a firewall?
+B. 自主访问控制模型
+DAC model
+C. 基于规则的访问控制模型
+Rule-based access control model
+正确
+D. 基于角色的访问控制模型
+RBAC model
+
+
+10. 以下哪一项最能说明基于规则的访问控制模型？Which of the following best describes a rule-based access control model?
+
+A. 采用本地规则应用于单个用户
+It uses local rules applied to users individually.
+B. 采用全局规则应用于单个用户
+It uses global rules applied to users individually.
+C. 采用本地规则平等地应用于所有用户
+It uses local rules applied to all users equally.
+D. 采用全局规则平等地应用于所有用户
+It uses global rules applied to all users equally.
+正确
+
+
+11. 以下哪一项对于在组织内部使用基于角色的访问控制模型是最佳选择？Which of the following is the best choice for a role within an organization using a RBAC model?
+
+A. Web服务
+Web server
+B. 应用程序
+Application
+C. 数据库
+Database
+D. 开发人员
+Programmer
+正确
+
+
+12. 以下哪一项涉及基于角色的访问控制模型？Which of the following statements is true related to the RBAC model?
+
+A. 基于角色的访问控制模型允许多个组中的用户成员资格
+A RBAC model allows users membership in multiple groups.
+正确
+B. 基于角色的访问控制模型允许单个组中的用户成员资格
+A RBAC model allows users membership in a single group.
+C. 基于角色的访问控制模型是非分层的
+A RBAC model is nonhierarchical.
+D. 基于角色的访问控制模型使用标签
+A RBAC model uses labels.
+
+
+13. 集中式授权确定用户可以根据组织层级结构来访问哪些文件。以下哪一项最能说明这一点？A central authority determines which files a user can access based on the organization&rsquo;s hierarchy. Which of the following best describes this?
+
+A. 自主访问控制模型
+DAC model
+B. 访问控制列表(ACL)
+An access control list (ACL)
+C. 基于规则的访问控制模型
+Rule-based access control model
+D. 基于角色的访问控制模型
+RBAC model
+正确
+
+
+14. 集中式授权确定哪些文件用户可以访问。以下哪一项最能说明这一点？A central authority determines which files a user can access. Which of the following best describes this?
+
+A. 访问控制列表(ACL)
+An access control list (ACL)
+B. 访问控制矩阵
+An access control matrix
+C. 自主访问控制模型
+Discretionary Access Control model
+D. 非自主访问控制模型
+Nondiscretionary access control model
+正确
+
+
+15. &nbsp;以下哪个模型也被称为基于身份的访问控制模型？Which of the following models is also known as an identity-based access control model？
+
+A. 自主访问控制
+DAC
+正确
+B. 基于角色的访问控制
+RBAC
+C. 基于规则的访问控制
+Rule-based access control
+D. 强制访问控制
+MAC
+
+
+16. 谁或什么根据自主访问控制模型授予权限给用户？Who, or what, grants permissions to users in a DAC model?
+
+A. 管理员
+Administrators
+B. 访问控制列表
+Access control list
+C. 分配标签
+Assigned labels
+D. 数据监管者
+The data custodian
+正确
+
+
+17. 一个表格包括多个客体和主体，并且该表格标识每个主体对不同客体的特定访问权限。这个表格被称为什么？
+A table includes multiple objects and subjects and it identifies the specific access each subject has to different objects. What is this table?
+
+A. 访问控制列表
+Access control list
+B. 访问控制矩阵
+Access control matrix
+正确
+C. 联合
+Federation
+D. 蠕变特权
+Creeping privilege
+
+
+18. 最小特权的目的是什么？What is the intent of least privilege?
+
+A. 由用户运行系统进程需要的最严格的权利。
+Enforce the most restrictive rights required by users to run system processes.
+B. 由用户运行系统进程需要的最少限制的权利。
+Enforce the least restrictive rights required by users to run system processes.
+C. 由用户完成指定任务所需的最严格的权利。
+Enforce the most restrictive rights required by users to complete assigned tasks.
+正确
+D. 由用户完成指定任务所需的最少限制的权利。
+Enforce the least restrictive rights required by users to complete assigned tasks.
+
+

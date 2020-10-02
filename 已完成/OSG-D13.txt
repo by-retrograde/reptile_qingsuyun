@@ -1,0 +1,242 @@
+1. 请参考下面的场景回答2个问题。
+一名管理员在一个组织里工作了10多年。他已经在公司内部的不同部门之间换岗多次，并保留了任职期间在每一个工作岗位上的特权。最近，主管告诫他不要对系统进行未授权的更改。但是他又一次对系统做出了一个未授权的更改，这导致一个意想不到的中断，管理层决定终止他在公司的工作。第二天他回到办公室，清理办公桌和随身物品。在此期间，他安装了一个恶意脚本，并设置在接下来每月的第一天运行逻辑炸弹。该脚本将更改管理员密码、删除文件井关闭数据中心的100台服务器。
+&nbsp;An administrator has been working within an organization&nbsp;for over 10 years. He has moved between different IT&nbsp;divisions within the company and has retained privileges&nbsp;from each of the jobs that he&rsquo;s had during his tenure.&nbsp;Recently, supervisors admonished him for making&nbsp;unauthorized changes to systems. He once again made an&nbsp;unauthorized change that resulted in an unexpected outage&nbsp;and management decided to terminate his employment at the&nbsp;company. He came back to work the following day to clean&nbsp;out his desk and belongings, and during this time he installed&nbsp;a malicious script that was scheduled to run as a logic bomb&nbsp;on the first day of the following month. The script will change&nbsp;administrator passwords, delete files, and shut down over&nbsp;100 servers in the datacenter.
+
+2. 以下哪个AAA协议基于RADIUS，并支持移动IP和IP语音电话?
+Which of the following AAA protocols is based on RADIUS and supports Mobile IP and VoIP?
+
+A. 分布式访问控制
+Distributed access control
+B. Diameter
+Diameter
+正确
+C. TACACS+
+TACACS+
+D. TACACS
+TACACS
+
+
+3. 在RADIUS架构中，网络接入服务器的功能是什么?
+What is the function of the network access server within a RADIUS architecture?
+
+A. 认证服务器
+Authentication server
+B. 客户端
+Client
+正确
+C. AAA服务器
+AAA server
+D. 防火墙
+Firewall
+
+
+4. 以下哪一项是支持联合身份管理系统（FIM）的最佳选择?
+Which of the following is the best choice to support a federated identity management (FIM) system?
+
+A. Kerberos
+Kerberos
+B. 超文本标记语言(HTML)
+Hypertext Markup Language (HTML)
+C. 可扩展标记语言(XML)
+Extensible Markup Language (XML)
+D. 安全断言标记语言(SAML)
+Security Assertion Markup Language (SAML)
+正确
+
+
+5. Kerberos的主要目的是什么?
+What is the primary purpose of Kerberos?
+
+A. 机密性
+Confidentiality
+B. 完整性
+Integrity
+C. 认证
+Authentication
+正确
+D. 可问责
+Accountability
+
+
+6. Sally拥有一个用户账户，并且一直使用生物识别系统进行登录。今天，生物识别系统没有识别出她，所以她无法登录。以上描述了什么？
+Sally has a user account and has previously logged on using a biometric system. Today, the biometric system didn&rsquo;t recognize her so she wasn&rsquo;t able to log on. What best describes this?
+
+A. 错误拒绝
+False rejection
+正确
+B. 错误接受
+False acceptance
+C. 交叉错误
+Crossover error
+D. 相等错误
+Equal error
+
+
+7. 生物识别设备的交叉错误率(CER)说明了什么?
+What does the CER for a biometric device indicate?
+
+A. 表示灵敏度过高。
+It indicates that the sensitivity is too high.
+B. 表示灵敏度太低。
+It indicates that the sensitivity is too low.
+C. 说明错误拒绝率等于错误接受率的点。
+It indicates the point where the false rejection rate equals the false acceptance rate.
+正确
+D. 当足够高时，表明生物识别设备是高度精确的。
+When high enough, it indicates the biometric device is highly accurate.
+
+
+8. 下列哪一项基于主体的物理特征来认证?
+Which of the following provides authentication based on a physical characteristic of a subject?
+
+A. 用户ID
+Account ID
+B. 生物识别技术
+Biometrics
+正确
+C. 令牌
+Token
+D. PIN
+PIN
+
+
+9. 组织分发设备给员工。这些设备每60秒产生一次密码。组织内的托管服务器在任何给定的时间知道这个密码。这是什么类型的设备?
+Your organization issues devices to employees. These devices generate onetime passwords every 60 seconds. A server hosted within the organization knows what this password is at any given time. What type of device is this?
+
+A. 同步令牌
+Synchronous token
+正确
+B. 异步令牌
+Asynchronous token
+C. 智能卡
+Smartcard
+D. 通用访问卡
+Common access card
+
+
+10. 下列哪一项是类型2认证因素的例子?
+Which of the following is an example of a Type 2 authentication factor?
+
+A. 你有什么
+Something you have
+正确
+B. 你是什么
+Something you are
+C. 你做什么
+Something you do
+D. 你知道什么
+Something you know
+
+
+11. 下列哪一项最能说明密码短语的好处?
+Which of the following best identifies the benefit of a passphrase?
+
+A. 简短。
+It is short.
+B. 很容易记住。
+It is easy to remember.
+正确
+C. 包括一个单独的字符集。
+It includes a single set of characters.
+D. 容易破解。
+It is easy to crack.
+
+
+12. 可以用什么来防止用户使用两个口令进行轮转?
+What can you use to prevent users from rotating between two passwords?
+
+A. 密码复杂度
+Password complexity
+B. 密码历史记录
+Password history
+正确
+C. 密码年龄
+Password age
+D. 密码长度
+Password length
+
+
+13. 可问责性不需要下列哪一项？
+Accountability requires all of the following items except one. Which item is not required for accountability?
+
+A. 识别
+Identification
+B. 认证
+Authentication
+C. 审计
+Auditing
+D. 授权
+Authorization
+正确
+
+
+14. 用户用登录ID和密码登录。登录ID的目的是什么?
+A user logs in with a login ID and a password. What is the purpose of the login ID?
+
+A. 认证
+Authentication
+B. 授权
+Authorization
+C. 问责
+Accountability
+D. 识别
+Identification
+正确
+
+
+15. 下列哪一项最能表示控制资产访问时的主要目标?
+Which of the following best expresses the primary goal when controlling access to assets?
+
+A. 保持系统和数据的机密性，完整性和可用性。
+Preserve confidentiality, integrity, and availability of systems and data.
+正确
+B. 确保只有合法的对象可以在系统上进行认证。
+Ensure that only valid objects can authenticate on a system.
+C. 防止未经授权地访问对象。
+Prevent unauthorized access to subjects.
+D. 确保所有主体进行认证。
+Ensure that all subjects are authenticated.
+
+
+16. 哪种访问控制类型采用硬件或软件机制来管理对资源和系统的访问，并提供对这些资源和系统的保护?
+What type of access controls are hardware or software mechanisms used to manage access to resources and systems, and provide protection for those resources and systems?
+
+A. 行政管理性访问控制
+Administrative
+B. 逻辑/技术性访问控制
+Logical/technical
+正确
+C. 物理性访问控制
+Physical
+D. 预防性访问控制
+Preventive
+
+
+17. 哪种访问控制类型采用围栏、安全策略、安全意识培训和防病毒软件来防止出现不必要的或未经授权的活动?
+Which of the following types of access control uses fences, security policies, security awareness training, and antivirus software to stop an unwanted or unauthorized activity from occurring?
+
+A. 预防
+Preventive
+正确
+B. 检测
+Detective
+C. 纠正
+Corrective
+D. 指令
+Authoritative
+
+
+18. 以下哪一项关于主体是正确的?
+Which of the following is true related to a subject?
+
+A. 主体总是用户账户。
+A subject is always a user account.
+B. 主体总是提供或承载信息或数据的实体。
+The subject is always the entity that provides or hosts the information or data.
+C. 主体是始终接收有关客体或客体数据的实体。
+The subject is always the entity that receives information about or data from an object.
+正确
+D. 单一实体永远无法在主体和客体之间改变。
+A single entity can never change roles between subject and object.
+
+

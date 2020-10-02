@@ -1,0 +1,1637 @@
+1. 参照以下情形回答后面的3个问题：
+在 Web 应用程序漏洞扫描测试期间，Steve 针对他认为可能容易受到攻击的Web 服务器运行Nikto。使用此处显示的Nikto 输出，回答以下问题。
+During a web application vulnerability scanning test, Steve runs Nikto against a web server he believes may be vulnerable to attacks. Using the Nikto output shown here, answer the following questions.
+
+
+2. &nbsp;Monica 正在开发一个软件应用程序，计算个人的身体质量指数，用于医疗规划。她希望能了解医生测量出的体重值的一般区间，以确保在录入体重时能处于预期范围内。Monica使用什么类型的控制？
+Monica is developing a software application that calculates an individual&rsquo;s body mass index for use in medical planning. She would like to include a control on the field where the physician enters an individual&rsquo;s weight to ensure that the weight falls within an expected range. What type of control should Monica use?
+
+A. 故障打开
+Fail open
+B. 失败安全
+Fail secure
+C. 限制检查
+Limit check
+正确
+D. 缓冲区边界
+Buffer bounds
+
+
+3. 这里显示了什么网络拓扑？
+What network topology is shown here?
+
+
+A. 环型
+A ring
+B. 总线型
+A bus
+C. 星型
+A star
+正确
+D. 网状
+A mesh
+
+
+4. Alice 想要向Bob 发送一个信息，他希望Bob 知道该消息在传输期间没有被改变。Alice 想实现什么目的？
+Alice wants to send Bob a message with the confidence that Bob will know the message was not altered while in transit. What goal of cryptography is Alice trying to achieve?
+
+A. 保密性
+Confidentiality
+B. 不可否认
+Nonrepudiation
+C. 身份验证
+Authentication
+D. 完整性
+Integrity
+正确
+
+
+5. 以下哪种技术旨在防止由于Web服务器脱机，从而成为Web应用程序系统结构中的一个单点故障？
+Which one of the following technologies is designed to prevent a web server going offline from becoming a single point of failure in a web application architecture?
+
+A. 负载平衡
+Load balancing
+正确
+B. 双电源
+Dual-power supplies
+C. IPS
+IPS
+D. RAID
+RAID
+
+
+6. 在什么云计算模型中，客户在自己的数据中心中构建云计算环境或在另一个数据中心中构建供客户专用的环境？
+In what cloud computing model does the customer build a cloud computing environment in his or her own data center or build an environment in another data center that is for the customer&rsquo;s exclusive use?
+
+A. 公共云
+Public cloud
+B. 私有云
+Private cloud
+正确
+C. 混合云
+Hybrid cloud
+D. 共享云
+Shared cloud
+
+
+7. Ursula 认为，她组织中的许多人都以不安全的方式将敏感信息存储在笔记本电脑上，并可能违反组织的安全政策。她可以使用什么控制方法来识别这些文件的存在？
+Ursula believes that many individuals in her organization are storing sensitive information on their laptops in a manner that is unsafe and potentially violates the organization&rsquo;s security policy. What control can she use to identify the presence of these files?
+
+A. 网络DLP
+Network DLP
+B. 网络IPS
+Network IPS
+C. 端点DLP
+Endpoint DLP
+正确
+D. 端点IPS
+Endpoint IPS
+
+
+8. 以下哪种内存类型被视为易失性内存？
+Which one of the following memory types is considered volatile memory?
+
+A. Flash
+Flash
+B. EEPROM
+EEPROM
+C. EPROM
+EPROM
+D. RAM
+RAM
+正确
+
+
+9. 以下哪种工具最适合渗透测试的信息收集阶段？
+Which of the following tools is best suited to the information gathering phase of a penetration test?
+
+A. Whois
+Whois
+正确
+B. zzuf
+zzuf
+C. Nessus
+Nessus
+D. Metasploit
+Metasploit
+
+
+10. 以下哪项不是一种结构性覆盖？
+Which of the following is not a type of structural coverage in a code review process?
+
+A. 声明
+Statement
+B. 跟踪
+Trace
+正确
+C. 循环
+Loop
+D. 数据流
+Data flow
+
+
+11. Gwen发现了在Web服务器上的服务账户下运行的应用程序。服务账户对服务器具有完全的管理权限。这种信息安全的原则是什么？
+Gwen comes across an application that is running under a service account on a web server. The service account has full administrative rights to the server. What principle of information security does this violate?
+
+A. 需知
+Need to know
+B. 职责分离
+Separation of duties
+C. 最小特权
+Least privilege
+正确
+D. 工作轮换
+Job rotation
+
+
+12. Kolin正在寻找一种网络安全解决方案，该方案可帮助减少零日攻击，同时在系统连接到网络之前使用身份验证作为安全策略。Kolin想实现的是什么类型的解决方案？
+Kolin is searching for a network security solution that will allow him to help reduce zeroday attacks while using identities to enforce a security policy on systems before they connect to the network. What type of solution should Kolin implement?
+
+A. 防火墙
+A firewall
+B. NAC(网络访问控制)系统
+A NAC system
+正确
+C. 一种入侵检测系统
+An intrusion detection system
+D. 端口安全
+Port security
+
+
+13. Norm准备开始一个新的软件项目，与他合作的供应商使用SDLC方法开发。当他开始工作时，他收到一个文档，其中有一部分显示在这里。这是什么类型的规划文件？
+Norm is starting a new software project with a vendor that uses an SDLC approach to development. When he arrives on the job, he receives a document that has the sections shown here. What type of planning document is this?
+
+
+A. 功能要求
+Functional requirements
+B. 工作分解结构
+Work breakdown structure
+正确
+C. 测试分析报告
+Test analysis report
+D. 项目计划
+Project plan
+
+
+14. 参照以下情形回答后面的3个问题：
+Alex 已经在大学工作10 年以上。在那段时间，他一直是一个系统管理员和数据库管理员，在大学的服务台工作。他现在是运行大学Web 应用程序的团队经理。使用此处显示的配置图，回答以下问题。
+
+Alex has been with the university he works at for over 10 years. During that time, he has been a system administrator and a database administrator, and he has worked in the university&rsquo;s help desk. He is now a manager for the team that runs the university&rsquo;s web applications. Using the provisioning diagram shown here, answer the following questions.
+
+
+15. &nbsp;在这里显示的图中，Harry要求读取数据文件的请求被阻止。Harry拥有&ldquo;秘密&rdquo;级别的文件访问许可，而数据文件的分类级别是&ldquo;最高机密&rdquo;。Bell-LaPadula模型的什么原则阻止了这个请求？
+In the figure shown here, Harry&rsquo;s request to read the data file is blocked. Harry has a Secret security clearance, and the data file has a Top Secret classification. What principle of the Bell-LaPadula model blocked this request?
+
+
+A. 简单安全属性
+Simple Security Property
+正确
+B. 简单完整性属性
+Simple Integrity Property
+C. *安全属性
+*-Security Property
+D. 自主安全属性
+Discretionary Security Property
+
+
+16. 下列哪些不是DevOps模型的三个组件之一？
+Which of the following is not one of the three components of the DevOps model?
+
+A. 软件开发
+Software development
+B. 变更管理
+Change management
+正确
+C. 质量保证
+Quality assurance
+D. 操作
+Operations
+
+
+17. Ben想使用标准化协议来连接国家漏洞数据库。他应该使用什么选项来确保他构建的工具与国家漏洞数据库中包含的数据能够配合使用？
+Ben wants to interface with the National Vulnerability Database using a standardized protocol. What option should he use to ensure that the tools he builds work with the data contained in the NVD?
+
+A. XACML
+XACML
+B. SCML
+SCML
+C. VSML
+VSML
+D. SCAP
+SCAP
+正确
+
+
+18. Alan&rsquo;s Wrenches最近为其产品开发了一个新的制造工艺。他们计划在内部使用这项技术，而不是与他人共享。他们希望该技术得到尽可能长时间的保护。什么类型的知识产权保护最适合这种情况？
+Alan&rsquo;s Wrenches recently developed a new manufacturing process for its product. They plan to use this technology internally and not share it with others. They would like it to remain protected for as long as possible. What type of intellectual property protection is best suited for this situation?
+
+A. 专利
+Patent
+B. 版权
+Copyright
+C. 商标
+Trademark
+D. 商业秘密
+Trade secret
+正确
+
+
+19. Alan正在安装一个灭火系统，该灭火系统会在火灾爆发之后启动，并保护数据中心中的设备免受严重损坏。Alan试图降低什么指标？
+Alan is installing a fire suppression system that will kick in after a fire breaks out and protect the equipment in the data center from extensive damage. What metric is Alan attempting to lower?
+
+A. 可能性
+Likelihood
+B. RTO
+RTO
+C. RPO
+RPO
+D. 影响
+Impact
+正确
+
+
+20. Kathleen正在为她的组织实施访问控制系统，并构建以下分组：审阅者：更新文件，删除文件提交者：上传文件编辑：上传文件，更新文件存档：删除文件Kathleen实施了哪种访问控制系统？
+Kathleen is implementing an access control system for her organization and builds the following array:Reviewers: update files, delete filesSubmitters: upload filesEditors: upload files, update filesArchivists: delete filesWhat type of access control system has Kathleen implemented?
+
+A. 基于角色的访问控制
+Role-based access control
+正确
+B. 基于任务的访问控制
+Task-based access control
+C. 基于规则的访问控制
+Rule-based access control
+D. 自主访问控制
+Discretionary access control
+
+
+21. 什么类型的测试方法可验证某个Web应用程序能够支持所有Web浏览器？
+What type of testing would validate support for all the web browsers that are supported by a web application?
+
+A. 回归测试
+Regression testing
+B. 接口测试
+Interface testing
+正确
+C. Fuzzing
+Fuzzing
+D. 白盒测试
+White box testing
+
+
+22. 以下哪种多因素身份验证技术提供了低管理开销和灵活性？
+Which of the following multifactor authentication technologies provides both low management overhead and flexibility?
+
+A. 生物特征
+Biometrics
+B. 软件令牌
+Software tokens
+正确
+C. 同步硬件令牌
+Synchronous hardware tokens
+D. 异步硬件令牌
+Asynchronous hardware tokens
+
+
+23. Matthew所在组织的网络发生了网络服务的质量问题。主要的症状是，数据包有时需要很长时间才能从源地址到达目的地。什么术语用来描述Matthew遇到的问题？
+Matthew is experiencing issues with the quality of network service on his organization&rsquo;s network. The primary symptom is that packets are occasionally taking too long to travel from their source to their destination. The length of this delay changes for individual packets. What term describes the issue Matthew is facing?
+
+A. 延迟
+Latency
+B. 抖动
+Jitter
+正确
+C. 数据包丢失
+Packet loss
+D. 干扰
+Interference
+
+
+24. 什么类型的Fuzzing被称为智能Fuzzing？
+What type of fuzzing is known as intelligent fuzzing?
+
+A. Zzuf
+Zzuf
+B. 突变
+Mutation
+C. 智能
+Generational
+正确
+D. 基于代码
+Code based
+
+
+25. 以下哪项仅用于加密通过网络传输的数据，并且不能用于加密静止数据？
+Which of the following is used only to encrypt data in transit over a network and cannot be used to encrypt data at rest?
+
+A. TKIP
+TKIP
+正确
+B. AES
+AES
+C. 3DES
+3DES
+D. RSA
+RSA
+
+
+26. 以下哪种类型的防火墙无法跟踪不同数据包之间的连接状态？
+Which one of the following types of firewalls does not have the ability to track connection status between different packets?
+
+A. 状态检查
+Stateful inspection
+B. 应用代理
+Application proxy
+C. 数据包过滤器
+Packet filter
+正确
+D. 下一代
+Next generation
+
+
+27. Robert是一家小型企业的网络管理员，最近安装了一个新的防火墙。在看到异常繁重的网络流量迹象后，他检查了入侵检测系统，报告说Smurf攻击正在进行。Robert可通过哪些防火墙配置更改来最有效地防止这种攻击？
+Robert is the network administrator for a small business and recently installed a new firewall. After seeing signs of unusually heavy network traffic, he checked his intrusion detection system, which reported that a smurf attack was under way. What firewall configuration change can Robert make to most effectively prevent this attack?
+
+A. 阻止攻击的源IP地址
+Block the source IP address of the attack.
+B. 阻止入站UDP流量
+Block inbound UDP traffic.
+C. 阻止攻击的目的IP地址
+Block the destination IP address of the attack.
+D. 阻止入站ICMP流量
+Block inbound ICMP traffic.
+正确
+
+
+28. 下列哪一项通常被视为业务连续性任务？
+Which one of the following is typically considered a business continuity task?
+
+A. 业务影响评估
+Business impact assessment
+正确
+B. 备用设施选择
+Alternate facility selection
+C. 冷站点的激活
+Activation of cold sites
+D. 从备份恢复数据
+Restoration of data from backup
+
+
+29. Sally为千兆以太网网络接线。她应该做哪些布线选择，来确保她的用户可以使用1000 Mbps 的网络？
+Sally is wiring a gigabit Ethernet network. What cabling choices should she make to ensure she can use her network at the full 1000 Mbps she wants to provide to her users?
+
+A. Cat 5 和Cat 6
+Cat 5 and Cat 6
+B. Cat 5e 和Cat 6
+Cat 5e and Cat 6
+正确
+C. Cat 4e 和Cat 5e
+Cat 4e and Cat 5e
+D. Cat 6 和Cat 7
+Cat 6 and Cat 7
+
+
+30. 什么级别的RAID也称为具有奇偶校验的磁盘条带化？
+What level of RAID is also called disk striping with parity?
+
+A. RAID 0
+RAID 0
+B. RAID 1
+RAID 1
+C. RAID 5
+RAID 5
+正确
+D. RAID 10
+RAID 10
+
+
+31. MAC模型使用三种类型的环境。以下哪项不是强制性访问控制设计？
+MAC models use three types of environments. Which of the following is not a mandatory access control design?
+
+A. 分层
+Hierarchical
+B. 包围
+Bracketed
+正确
+C. 分区
+Compartmentalized
+D. 混合
+Hybrid
+
+
+32. &nbsp;什么类型的风险评估使用了这里所示的工具？
+What type of risk assessment uses tools such as the one shown here?
+
+
+A. 定量
+Quantitative
+B. 预期寿命
+Loss expectancy
+C. 金融
+Financial
+D. 定性
+Qualitative
+正确
+
+
+33. 什么标记语言使用请求权限、供应服务点和供应服务目标的概念来处理其核心功能？
+What markup language uses the concepts of a Requesting Authority, a Provisioning Service Point, and a Provisioning Service Target to handle its core functionality?
+
+A. SAML
+SAML
+B. SAMPL
+SAMPL
+C. SPML
+SPML
+正确
+D. XACML
+XACML
+
+
+34. 以下哪种工具最适合测试系统的已知漏洞？
+Which of the following tools is best suited to testing known exploits against a system?
+
+A. Nikto
+Nikto
+B. Ettercap
+Ettercap
+C. Metasploit
+Metasploit
+正确
+D. THC Hydra
+THC Hydra
+
+
+35. 当会话层删除掉传输层发来的数据头时，会发生什么过程？
+What is the process that occurs when the Session layer removes the header from data sent by the Transport layer?
+
+A. 包封
+Encapsulation
+B. 数据包解包
+Packet unwrapping
+C. 解封装
+De-encapsulation
+正确
+D. 负载
+Payloading
+
+
+36. Harry想访问Sally拥有的存储在文件服务器上的文档。将主体/客体模型应用于此场景，请问什么是资源请求的客体？
+Harry would like to access a document owned by Sally stored on a file server. Applying the subject/object model to this scenario, who or what is the object of the resource request?
+
+A. Harry
+Harry
+B. Sally
+Sally
+C. 文件服务器
+File server
+D. 文档
+Document
+正确
+
+
+37. Nessus、OpenVAS和SAINT都是什么类型工具的例子？
+Nessus, OpenVAS, and SAINT are all examples of what type of tool?
+
+A. 端口扫描器
+Port scanners
+B. 补丁管理套件
+Patch management suites
+C. 端口映射器
+Port mappers
+D. 漏洞扫描器
+Vulnerability scanners
+正确
+
+
+38. 在电子发现参考模型的哪个阶段，组织应当确保潜在的可发现信息受到保护，防止该信息遭到变更或删除？
+During what phase of the electronic discovery reference model does an organization ensure that potentially discoverable information is protected against alteration or deletion?
+
+A. 识别
+Identification
+B. 保存
+Preservation
+正确
+C. 收集
+Collection
+D. 生产
+Production
+
+
+39. Adam正在处理对最终用户的访问请求。在授予访问权限之前，他还应该验证哪两项？
+Adam is processing an access request for an end user. What two items should he verify before granting the access?
+
+A. 分离和需知
+Separation and need to know
+B. 许可和认可
+Clearance and endorsement
+C. 许可和需知
+Clearance and need to know
+正确
+D. 第二因素和许可
+Second factor and clearance
+
+
+40. Robert正在审查根据共同标准分配了EAL2评估保证级别的系统。他对系统的最高保证是什么？
+Robert is reviewing a system that has been assigned the EAL2 evaluation assurance level under the Common Criteria. What is the highest level of assurance that he may have about the system?
+
+A. 它已经完成了功能测试
+It has been functionally tested.
+B. 它已经完成了结构测试
+It has been structurally tested.
+正确
+C. 它已经完成了正式的验证、设计和测试
+It has been formally verified, designed, and tested.
+D. 它已经半正式地完成了设计和测试
+It has been semiformally designed and tested.
+
+
+41. Alex 是一所大学人力资源系统的系统所有者。根据NIST SP 800-18，当系统发生重大变化时，他应该采取什么行动？
+Alex is the system owner for the HR system at a major university. According to NIST SP 800-18, what action should he take when a significant change occurs in the system?
+
+A. 应制定数据保密计划
+He should develop a data confidentiality plan.
+B. 应该更新系统安全计划
+He should update the system security plan.
+正确
+C. 应该对系统包含的数据进行分类
+He should classify the data the system contains.
+D. 应该选择保管人来处理日常的业务任务
+He should select custodians to handle day-to-day operational tasks.
+
+
+42. 根据&ldquo;数字千年版权法案&rdquo;(DMCA)的条款，下列哪个群体有资格获得安全港保护？
+What group is eligible to receive safe harbor protection under the terms of the Digital Millennium Copyright Act (DMCA)?
+
+A. 音乐制作人
+Music producers
+B. 图书出版商
+Book publishers
+C. 互联网服务提供商
+Internet service providers
+正确
+D. 银行
+Banks
+
+
+43. 下列哪项不属于欧盟-美国隐私保护协议框架规定的7项原则？
+Which one of the following principles is not included in the seven EU-U.S. Privacy Shield provisions?
+
+A. 访问
+Access
+B. 安全
+Security
+C. 追索权
+Recourse
+D. 不可否认
+Nonrepudiation
+正确
+
+
+44. Chris 工作的公司在每道门上张贴通知，提醒员工要小心，要求他们不允许其他人进入。哪种类型的控制能最恰当地描述这一点？
+The company Chris works for has notifications posted at each door reminding employees to be careful to not allow people to enter when they do. Which type of controls best describes this?
+
+A. 探测
+Detective
+B. 物理
+Physical
+C. 预防
+Preventive
+D. 指令
+Directive
+正确
+
+
+45. &nbsp;什么类型的灭火器可用于防止液体火灾？
+What type of fire extinguisher is useful against liquid-based fires?
+
+A. A 类
+Class A
+B. B 类
+Class B
+正确
+C. C 类
+Class C
+D. D 类
+Class D
+
+
+46. 在对系统进行修改之前，哪项业务流程通常需要管理员签字同意？
+What business process typically requires sign-off from a manager before modifications are made to a system?
+
+A. SDN
+SDN
+B. 发布管理
+Release management
+C. 变更管理
+Change management
+正确
+D. 版本控制
+Versioning
+
+
+47. Greg正为组织制定灾难恢复计划，并希望确定在中断后恢复特定IT服务所需的时间。Greg计算的是什么变量？
+Greg is building a disaster recovery plan for his organization and would like to determine the amount of time that it should take to restore a particular IT service after an outage. What variable is Greg calculating?
+
+A. MTO
+MTO
+B. RTO
+RTO
+正确
+C. RPO
+RPO
+D. SLA
+SLA
+
+
+48. 受限用户界面有什么作用？
+What does a constrained user interface do?
+
+A. 防止未授权的用户登录
+It prevents unauthorized users from logging in.
+B. 它限制基于内容的接口中的可见数据
+It limits the data visible in an interface based on the content.
+C. 它根据用户当前正在执行的活动来限制他们的访问权限
+It limits the access a user is provided based on what activity they are performing.
+D. 它根据权限来限制用户的行为
+It limits what users can do or see based on privileges.
+正确
+
+
+49. 关于SSAE-18，以下哪些说法不正确？
+Which of the following statements about SSAE-18 is not true?
+
+A. 它规定了一个特定的控制集
+It mandates a specific control set.
+正确
+B. 它是一个身份验证标准
+It is an attestation standard.
+C. 它用于外部审计
+It is used for external audits.
+D. 它使用一个包括SOC 1、SOC 2和SOC 3报告的框架
+It uses a framework, including SOC 1, SOC 2, and SOC 3 reports.
+
+
+50. Lauren 在网络连接的两端监测流量，她发现某个公共IP 地址的入站流量出现在生产网络的内部边缘，其内部主机使用的是RFC 1918 预留地址，她估计该网络在边界处使用什么样的技术？
+While Lauren is monitoring traffic on two ends of a network connection, she sees traffic that is inbound to a public IP address show up inside the production network bound for an internal host that uses an RFC 1918 reserved address. What technology should she expect is in use at the network border?
+
+A. NAT
+NAT
+正确
+B. VLAN
+VLAN
+C. S/NAT
+S/NAT
+D. BGP
+BGP
+
+
+51. Denise 正为公司和软件供应商之间的合同纠纷审判做准备。供应商声称Denise凭借一份口头协议，修改了他们的书面合同。Denise 在辩护中应该提出了什么证据规则？
+Denise is preparing for a trial relating to a contract dispute between her company and a software vendor. The vendor is claiming that Denise made a verbal agreement that amended their written contract. What rule of evidence should Denise raise in her defense?
+
+A. 真实证据规则
+Real evidence rule
+B. 最佳证据规则
+Best evidence rule
+C. 口头证据规则
+Parol evidence rule
+正确
+D. 证词证据规则
+Testimonial evidence rule
+
+
+52. Owen 最近设计了一种安全访问控制结构，防止单个用户同时拥有创建新供应商所需的角色和执行检查所需的角色。Owen 执行什么原则？
+Owen recently designed a security access control structure that prevents a single user from simultaneously holding the role required to create a new vendor and the role required to issue a check. What principle is Owen enforcing?
+
+A. 两人控制
+Two-person control
+B. 最小特权
+Least privilege
+C. 职责分离
+Separation of duties
+正确
+D. 工作轮换
+Job rotation
+
+
+53. Lisa需要与一家采用OAuth 2.0的云身份认证提供商进行对接，且需要选择一套合适的认证框架。下列哪项最符合她的需求？
+Lisa wants to integrate with a cloud identity provider that uses OAuth 2.0, and she wants to select an appropriate authentication framework. Which of the following best suits her needs?
+
+A. OpenID Connect
+OpenID Connect
+正确
+B. SAML
+SAML
+C. RADIUS
+RADIUS
+D. Kerberos
+Kerberos
+
+
+54. 什么类型的攻击依赖盗取或伪造的身份验证凭据绕过身份验证机制？
+What term best describes an attack that relies on stolen or falsified authentication credentials to bypass an authentication mechanism?
+
+A. 欺骗
+Spoofing
+B. 重播
+Replay
+C. 伪装
+Masquerading
+正确
+D. 修改
+Modification
+
+
+55. 身份验证因素是&ldquo;你拥有什么&rdquo;，通常包括微处理器以及一个或多个证书，请问这是什么类型的验证器？
+An authentication factor that is &ldquo;something you have,&rdquo; and that typically includes a microprocessor and one or more certificates, is what type of authenticator?
+
+A. 智能卡
+A smart card
+正确
+B. 令牌
+A token
+C. I 类验证器
+A Type I validator
+D. 类型III 身份验证器
+A Type III authenticator
+
+
+56. Linux 系统上某个账户首先获得了对符号链接文件的访问权限，接着该文件被访问，若在两个操作之间更改了该文件，请问这属于什么类型的攻击？
+An attack that changes a symlink on a Linux system between the time that an account&rsquo;s rights to the file are verified and the file is accessed is an example of what type of attack?
+
+A. 取消链接
+Unlinking
+B. Tick/tock
+Tick/tock
+C. setuid
+setuid
+D. TOC/TOU
+TOC/TOU
+正确
+
+
+57. Colleen 正为组织进行业务影响评估。哪个指标描述了组织在服务崩溃的情况下不造成巨大损害的最长时间？
+Colleen is conducting a business impact assessment for her organization. What metric provides important information about the amount of time that the organization may be without a service before causing irreparable harm?
+
+A. MTD
+MTD
+正确
+B. ALE
+ALE
+C. RPO
+RPO
+D. RTO
+RTO
+
+
+58. 在安全审计期间，Susan 发现组织正使用手形几何扫描仪作为其安全数据中心的访问控制机制。Susan 应该对手形几何扫描仪的使用提出什么建议？
+During a security audit, Susan discovers that the organization is using hand geometry scanners as the access control mechanism for their secure data center. What recommendation should Susan make about the use of hand geometry scanners?
+
+A. 该项技术的FRR 比较高，应该换成其他技术
+They have a high FRR and should be replaced.
+B. 应该添加第二个因素，因为该项技术不能可靠地区分个体
+A second factor should be added because they are not a good way to reliably distinguish individuals.
+正确
+C. 手形几何扫描仪为数据中心提供适当的安全性，应考虑用于其他高安全性领域
+The hand geometry scanners provide appropriate security for the data center and should be considered for other high-security areas.
+D. 可能产生安全访问问题，应考虑备用的生物识别系统
+They may create accessibility concerns, and an alternate biometric system should be considered.
+
+
+59. 下列哪一项不是软件开发的敏捷方法原则？
+Which one of the following is not a principle of the Agile approach to software development?
+
+A. 最好的架构、要求和设计源于自组织团队
+The best architecture, requirements, and designs emerge from self-organizing teams.
+B. 不经常提供工作软件，强调的是在跨度更大的时间段创建准确的代码
+Deliver working software infrequently, with an emphasis on creating accurate code over longer timelines.
+正确
+C. 欢迎不断变化的需求，甚至在开发过程的后期
+Welcome changing requirements, even late in the development process.
+D. 简单是至关重要的
+Simplicity is essential.
+
+
+60. Mark 计划为他的组织进行灾难恢复测试。他想对灾难恢复设施进行实时测试，但不想干扰主要设施的运行。Mark 应该选择什么类型的测试？
+Mark is planning a disaster recovery test for his organization. He would like to perform a live test of the disaster recovery facility but does not want to disrupt operations at the primary facility. What type of test should Mark choose?
+
+A. 全中断测试
+Full interruption test
+B. 清单审查
+Checklist review
+C. 并行测试
+Parallel test
+正确
+D. 桌面练习
+Tabletop exercise
+
+
+61. &nbsp;Alan 正在考虑在其组织中使用新的身份证，用于物理访问控制。他看到一种样品卡，但不确定该卡使用的技术。因此他打开卡片，看到了以下内部结构。这是什么类型的卡？
+Alan is considering the use of new identification cards in his organization that will be used for physical access control. He comes across a sample card and is unsure of the technology. He breaks it open and sees the following internal construction. What type of card is this?
+
+
+A. 智能卡
+Smart card
+B. 感应卡
+Proximity card
+正确
+C. 磁条
+Magnetic stripe
+D. 相二卡
+Phase-two card
+
+
+62. 什么技术确保操作系统能给系统上每个应用程序分配单独使用的存储空间？
+What technology ensures that an operating system allocates separate memory spaces used by each application on a system?
+
+A. 抽象
+Abstraction
+B. 分层
+Layering
+C. 数据隐藏
+Data hiding
+D. 程序隔离
+Process isolation
+正确
+
+
+63. Ben 事先记录数据，然后在测试网站上重播它，通过真实的生产负荷来验证这些数据是如何工作的，他进行什么类型的性能监控？
+When Ben records data and then replays it against his test website to verify how it performs based on a real production workload, what type of performance monitoring is he undertaking?
+
+A. 被动
+Passive
+B. 主动
+Proactive
+正确
+C. 反应
+Reactive
+D. 重放
+Replay
+
+
+64. Bert 正在考虑使用基础架构即服务(IaaS)的云计算环境来充当虚拟服务器。这种情况下，以下哪一项属于供应商的责任？
+Bert is considering the use of an infrastructure as a service cloud computing partner to provide virtual servers. Which one of the following would be a vendor responsibility in this scenario?
+
+A. 维护管理程序
+Maintaining the hypervisor
+正确
+B. 管理操作系统安全设置
+Managing operating system security settings
+C. 维护主机防火墙
+Maintaining the host firewall
+D. 配置服务器访问控制
+Configuring server access control
+
+
+65. 数据按位传送发生在OSI 模型的哪一层？
+Data is sent as bits at what layer of the OSI model?
+
+A. 传输层
+Transport
+B. 网络层
+Network
+C. 数据链路层
+Data Link
+D. 物理层
+Physical
+正确
+
+
+66. Bill 在一个包含三个磁盘的服务器上实现了RAID 级别5。请问在不丢失数据的情况下最多允许多少个磁盘受损？
+Bill implemented RAID level 5 on a server that he operates using a total of three disks. How many disks may fail without the loss of data?
+
+A. 0
+0
+B. 1
+1
+正确
+C. 2
+2
+D. 3
+3
+
+
+67. 什么渗透测试技术可以最大限度地帮助评估安全培训和意识问题？
+What penetration testing technique can best help assess training and awareness issues?
+
+A. 端口扫描
+Port scanning
+B. 发现
+Discovery
+C. 社会工程
+Social engineering
+正确
+D. 漏洞扫描
+Vulnerability scanning
+
+
+68. 电缆调制解调器、ISDN(综合业务数字网)和DSL(数字用户线路)都是什么类型技术的例子？
+Cable modems, ISDN, and DSL are all examples of what type of technology?
+
+A. 基带
+Baseband
+B. 宽带
+Broadband
+正确
+C. 数字
+Digital
+D. 广播
+Broadcast
+
+
+69. 什么原则要求一个人应该尽力准确和及时地履行他的职责？
+What principle states that an individual should make every effort to complete his or her responsibilities in an accurate and timely manner?
+
+A. 最低特权
+Least privilege
+B. 职责分离
+Separation of duties
+C. 应尽关注
+Due care
+D. 应尽职责
+Due diligence
+正确
+
+
+70. SYN泛洪攻击是依赖于执行下列哪类协议而构成了拒绝服务攻击？
+SYN floods rely on implementations of what protocol to cause denial of service conditions?
+
+A. IGMP
+IGMP
+B. UDP
+UDP
+C. TCP
+TCP
+正确
+D. ICMP
+ICMP
+
+
+71. Jesse正在查看系统上的/etc/passwd文件，该系统配置了阴影密码。她应该会在此文件的密码字段中看到什么？
+Jesse is looking at the /etc/passwd file on a system configured to use shadowed passwords. What should she expect to see in the password field of this file?
+
+A. 明文密码
+Plaintext passwords
+B. 加密的密码
+Encrypted passwords
+C. 散列化的密码
+Hashed passwords
+D. x
+x
+正确
+
+
+72. Roger担心第三方公司开发的应用程序会有后门。然而，开发人员拥有知识产权，并且仅将最终软件提供给Roger的组织。以下哪种语言由于可以提供便于人们阅读的代码，因而对这种后门类型的攻击最不敏感？
+Roger is concerned that a third-party firm hired to develop code for an internal application will embed a backdoor in the code. The developer retains rights to the intellectual property and will only deliver the software in its final form. Which one of the following languages would be least susceptible to this type of attack because it would provide Roger with code that is human-readable in its final form?
+
+A. JavaScript
+JavaScript
+正确
+B. C
+C
+C. C++
+C++
+D. Java
+Java
+
+
+73. Sean 怀疑公司有人泄露了秘密信息，尽管公司使用了数据丢失预防系统。他发现嫌疑人正将照片(包括题中显示的照片)发布到公共互联网留言板。该嫌疑人可使用什么类型的技术来隐藏此图像中的消息？
+Sean suspects that an individual in his company is smuggling out secret information despite his company&rsquo;s careful use of data loss prevention systems. He discovers that the suspect is posting photos, including the one shown here, to public Internet message boards. What type of technique may the individuals be using to hide messages inside this image?
+
+
+A. 水印
+Watermarking
+B. VPN
+VPN
+C. 隐写
+Steganography
+正确
+D. 隐蔽时序通道
+Covert timing channel
+
+
+74. 在评估生物特征设备时，用来描述等价误差率的另一个术语是什么？
+When evaluating biometric devices, what is another term used to describe the equal error rate?
+
+A. FAR
+FAR
+B. FRR
+FRR
+C. CER
+CER
+正确
+D. ERR
+ERR
+
+
+75. 下列哪项是为吸引攻击者而故意设计的包含明显敏感信息或其他具有吸引力的资源的单系统？
+Which one of the following is a single system designed to attract attackers because it seemingly contains sensitive information or other attractive resources?
+
+A. 蜜网
+Honeynet
+B. 暗网
+Darknet
+C. 蜜罐
+Honeypot
+正确
+D. 伪漏洞
+Pseudoflaw
+
+
+76. 匹配身份验证因素与类型:
+因素：
+个人标识码PIN
+令牌
+指纹
+密码
+智能卡
+类型：
+类型1
+类型2
+类型3
+类型4
+Match the following lettered factors to their numbered type:
+Factors
+A. A PIN
+B. A token
+C. A fingerprint
+D. A password
+E. A smart card
+Types
+1. Type 1
+2. Type 2
+3. Type 3
+4. Type 4
+
+A. 看答案
+正确
+B. 不看答案
+
+
+77. 根据以下情景回答后面的3个问题：
+Ben 所在的组织有一个传统的现场Active Directory 环境，该公司有350 名员工，每增加一名员工都需要进行手动配置。随着公司采用新技术，他们越来越多地使用软件即服务应用程序来替换其内部开发的软件堆栈。Ben 的任务是设计一个身份管理系统，该系统允许公司使用云服务，同时应该支持现有的系统。使用给出的逻辑图，回答关于以下问题。
+
+The organization that Ben works for has a traditional onsite Active Directory environment that uses a manual provisioning process for each addition to their 350-employee company.&nbsp;As the company adopts new technologies, they are increasingly using software as a service applications to replace their internally developed software stack.&nbsp;Ben has been tasked with designing an identity management implementation that will allow his company to use cloud services while supporting their existing systems. Using the logical diagram shown here, answer the following questions about the identity recommendations Ben should make.
+
+
+78. 将下列数字标记的测试方法匹配到相应的字母标记的知识等级
+测试方法：
+黑盒
+白盒
+灰盒
+知识等级：
+全知识
+部分知识
+零知识
+Match the following numbered types of testing methodologies with the lettered correct&nbsp; level of knowledge:
+Testing methodologies
+1. Black box
+2. White box
+3. Gray box
+Level of knowledge
+A. Full knowledge of the system
+B. Partial or incomplete knowledge
+C. No prior knowledge of the system
+
+A. 看答案
+正确
+B. 不看答案
+
+
+79. 根据以下情景回答后面的3个问题：
+Ben 拥有一家咖啡馆，他希望为客户提供无线上网服务。Ben 的网络很简单，按照商业电缆数据合同，将无线路由器和有线调制解调器连接起来。使用Ben 的网络信息，回答以下问题。
+Ben owns a coffeehouse and wants to provide wireless Internet service for his customers. Ben&rsquo;s network is simple and uses a single consumer-grade wireless router and a cable modem connected via a commercial cable data contract.
+
+80. Dave 负责组织中的密码安全，并希望加强密码文件的安全性。他想保护组织以对抗彩虹表的攻击。以下哪种技术是专门设计用来阻止彩虹表的？
+Dave is responsible for password security in his organization and would like to strengthen the security of password files. He would like to defend his organization against the use of rainbow tables. Which one of the following techniques is specifically designed to frustrate the use of rainbow tables?
+
+A. 密码到期策略
+Password expiration policies
+B. 盐
+Salting
+正确
+C. 用户培训
+User education
+D. 密码复杂性策略
+Password complexity policies
+
+
+81. 对于下面等式中下划线空格处，应该使用什么数据运算使得等式正确？
+What mathematical operation, when substituted for the blank lines shown here, would make the equations correct?
+
+
+A. MOD
+MOD
+正确
+B. XOR
+XOR
+C. NAND
+NAND
+D. DIV
+DIV
+
+
+82. 当用户登录账户时，Google 会向用户的手机发送带有验证码的短信。这是什么类型的验证？
+When a user attempts to log into their online account, Google sends a text message with a code to their cell phone. What type of verification is this?
+
+A. 基于知识的验证
+Knowledge-based authentication
+B. 基于动态知识的验证
+Dynamic knowledge&ndash;based authentication
+C. 带外身份验证
+Out-of-band identity proofing
+正确
+D. 基于风险的身份证明
+Risk-based identity proofing
+
+
+83. 攻击者利用和欺骗组织的服务台，让他们重置某个账号的密码，这属于什么类型的攻击？
+When an attacker calls an organization&rsquo;s help desk and persuades them to reset a password for them due to the help desk employee&rsquo;s trust and willingness to help, what type of attack succeeded?
+
+A. 人类特洛伊木马
+A human Trojan
+B. 社会工程
+Social engineering
+正确
+C. 网络钓鱼
+Phishing
+D. 捕鲸
+Whaling
+
+
+84. Alex就职于美国联邦政府，Alex须确保其采购的设备和部件不存在安全隐患。为确保这一前提，他应参与到如下哪个计划？
+Alex works for the United States (U.S.) federal government and is required to ensure that the devices and components he acquires are not compromised. What program will he participate in to help ensure this?
+
+A. TEMPEST
+TEMPEST
+B. Trusted foundry
+Trusted foundry
+正确
+C. GovBuy
+GovBuy
+D. MITRE
+MITRE
+
+
+85. 图中显示了什么类型的日志？
+What type of log is shown in the figure?
+
+
+A. 防火墙日志
+Firewall log
+B. 变更日志
+Change log
+C. 应用程序日志
+Application log
+正确
+D. 系统日志
+System log
+
+
+86. 欧盟-美国隐私保护协议框架依赖于7条原则。以下哪项正确列出了所有7条？
+The EU-U.S. Privacy Shield Framework relies on seven principles. Which of the following correctly lists all seven?
+
+A. 意识、选择、控制、安全、数据完整性、访问、实施
+Awareness, selection, control, security, data integrity, access, recourse and enforcement
+B. 通知、选择、向前传递、安全、数据完整性、访问、实施
+Notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, recourse and enforcement
+正确
+C. 隐私、安全、控制、通知、数据完整性、访问、实施
+Privacy, security, control, notification, data integrity and purpose, access, enforcement
+D. 提交、编辑、更新、机密性、完整性、安全、访问
+Submission, editing, updates, confidential, integrity, security, access
+
+
+87. 评估账户管理实践时应如何产生样本？
+How should samples be generated when assessing account management practices?
+
+A. 他们应该由管理员生成
+They should be generated by administrators.
+B. 账户应该在过去180 天内被验证
+The last 180 days of accounts should be validated.
+C. 抽样应随机进行
+Sampling should be conducted randomly.
+正确
+D. 抽样的做法是无效的，应该审计所有账户
+Sampling is not effective, and all accounts should be audited.
+
+
+88. GAD Systems 关注的是黑客可能窃取存储在文件服务器上的敏感信息。这些系统会选择采取风险缓解策略。下列哪种做法符合该策略？
+GAD Systems is concerned about the risk of hackers stealing sensitive information stored on a file server. They choose to pursue a risk mitigation strategy. Which one of the following actions would support that strategy?
+
+A. 加密文件
+Encrypting the files
+正确
+B. 删除文件
+Deleting the files
+C. 购买网络安全保险
+Purchasing cyber-liability insurance
+D. 不采取行动
+Taking no action
+
+
+89. 在SSD 驱动器废弃时，为什么要物理破坏SSD 驱动器以防止数据泄露？
+What problem drives the recommendation to physically destroy SSD drives to prevent data leaks when they are retired?
+
+A. 消磁只能部分擦除SSD 上的数据
+Degaussing only partially wipes the data on SSDs.
+B. SSD 没有数据残留
+SSDs don&rsquo;t have data remanence.
+C. SSD 无法进行零填充
+SSDs are unable to perform a zero fill.
+D. 内置的擦除命令在一些SSD 上不是完全有效的
+The built-in erase commands are not completely effective on some SSDs.
+正确
+
+
+90. 使用6 位加密密钥的加密算法中存在多少个可能的密钥？
+How many possible keys exist in a cryptographic algorithm that uses 6-bit encryption&nbsp;keys?
+&nbsp;
+
+A. 12
+12
+B. 16
+16
+C. 32
+32
+D. 64
+64
+正确
+
+
+91. Bob 正在其网络上配置出口过滤，检查流向互联网的流量。他的组织使用公共地址范围12.8.195.0/24。若现有一些数据包包含下列IP 地址，那么Bob 应该允许哪个数据包离开网络？
+Bob is configuring egress filtering on his network, examining traffic destined for the Internet. His organization uses the public address range 12.8.195.0/24. Packets with which one of the following destination addresses should Bob permit to leave the network?
+
+A. 12.8.195.15
+12.8.195.15
+B. 10.8.15.9
+10.8.15.9
+C. 192.168.109.55
+192.168.109.55
+D. 129.53.44.124
+129.53.44.124
+正确
+
+
+92. 关于个人的信息，如姓名、社会安全号码、出生日期和地点或他们母亲的婚前姓名，属于什么类型的受保护信息？
+Information about an individual like their name, Social Security number, date and place of birth, or their mother&rsquo;s maiden name is an example of what type of protected information?
+
+A. PHI
+PHI
+B. 专有数据
+Proprietary data
+C. PII
+PII
+正确
+D. EDI
+EDI
+
+
+93. 在这里显示的数据库表中，哪一列将是主键的最佳候选？
+In the database table shown here, which column would be the best candidate for a primary key?
+
+
+A. 公司ID
+Company ID
+正确
+B. 公司名称
+Company Name
+C. 邮政编码
+ZIP Code
+D. 销售代表
+Sales Rep
+
+
+94. &nbsp;Frank 负责管理一台Web 服务器的安全，该服务器向世界各地的人们提供新闻和信息。他的服务器收到了异常高的流量，以至于无法处理，于是服务器不得不拒绝请求。Frank 追溯流量的来源，最后查出是僵尸网络。请问他的服务器受到了什么类型的攻击？
+Frank is the security administrator for a web server that provides news and information to people located around the world. His server received an unusually high volume of traffic that it could not handle and was forced to reject requests. Frank traced the source of the traffic back to a botnet. What type of attack took place?
+
+A. 拒绝服务
+Denial of service
+正确
+B. 侦察
+Reconaissance
+C. 损害
+Compromise
+D. 恶意内部人员
+Malicious insider
+
+
+95. Greg 希望在他的组织中实施应用控制技术。他希望用户只在系统上安装已批准的软件。这种情况下采用什么类型的应用控制技术是恰当的？
+Greg would like to implement application control technology in his organization. He would like to limit users to installing only approved software on their systems. What type of application control would be appropriate in this situation?
+
+A. 黑名单
+Blacklisting
+B. 灰名单
+Graylisting
+C. 白名单
+Whitelisting
+正确
+D. 蓝名单
+Bluelisting
+
+
+96. 在日志审查期间，Danielle 发现了一系列显示登录失败的日志：
+Jan 31 11:39:12 ip-10-0-0-2 sshd[29092]: Invalid user admin from remotehost passwd=aaaaaaaa
+Jan 31 11:39:20 ip-10-0-0-2 sshd[29098]: Invalid user admin from remotehost passwd=aaaaaaab
+Jan 31 11:39:23 ip-10-0-0-2 sshd[29100]: Invalid user admin from remotehost passwd=aaaaaaac
+Jan 31 11:39:31 ip-10-0-0-2 sshd[29106]: Invalid user admin from remotehost passwd=aaaaaaad
+Jan 31 20:40:53 ip-10-0-0-254 sshd[30520]: Invalid user admin from remotehost passwd=aaaaaaad
+Danielle 发现了什么类型的攻击？
+During a log review, Danielle discovers a series of logs that show login failures:
+Jan 31 11:39:12 ip-10-0-0-2 sshd[29092]: Invalid user admin from remotehost passwd=aaaaaaaa
+Jan 31 11:39:20 ip-10-0-0-2 sshd[29098]: Invalid user admin from remotehost passwd=aaaaaaab
+Jan 31 11:39:23 ip-10-0-0-2 sshd[29100]: Invalid user admin from remotehost passwd=aaaaaaac
+Jan 31 11:39:31 ip-10-0-0-2 sshd[29106]: Invalid user admin from remotehost passwd=aaaaaaad
+Jan 31 20:40:53 ip-10-0-0-254 sshd[30520]: Invalid user admin from remotehost passwd=aaaaaaae
+What type of attack has Danielle discovered?
+
+A. 传递散列攻击
+A pass-the-hash attack&nbsp;
+B. 暴力攻击
+A brute-force attack
+正确
+C. 中间人攻击
+A man-in-the-middle attack
+D. 字典攻击
+A dictionary attack
+
+
+97. Gordon 正在为其组织进行风险评估，并确定每年洪水预计对其设施造成的损害程度。Gordon 确定的是什么指标？
+Gordon is conducting a risk assessment for his organization and determined the amount of damage that flooding is expected to cause to his facilities each year. What metric has Gordon identified?
+
+A. ALE(年化损失预期值)
+ALE
+正确
+B. ARO(年度发生率)
+ARO
+C. SLE (单一损失预期)
+SLE
+D. EF(暴露因子)
+EF
+
+
+98. Gina 最近参加了CISSP 认证考试，然后写了一篇博客文章，其中包含有关考题的一些内容。这种情况下，她直接违反(ISC)2 道德守则的哪个方面？
+Gina recently took the CISSP certification exam and then wrote a blog post that included the text of many of the exam questions that she experienced. What aspect of the (ISC)2 code of ethics is most directly violated in this situation?
+
+A. 推进和保护专业
+Advance and protect the profession.
+正确
+B. 正直、诚实、公正、负责任和合法地行事
+Act honorably, honestly, justly, responsibly, and legally.
+C. 保护社会公共利益和维持必要的公众信任
+Protect society, the common good, necessary public trust and confidence, and the infrastructure.
+D. 为负责人提供高效优质的服务
+Provide diligent and competent service to principals.
+
+
+99. Jim 正在为他的组织实施IDaaS 解决方案。他使用了什么类型的技术？
+Jim is implementing an IDaaS solution for his organization. What type of technology is he putting in place?
+
+A. 身份即服务
+Identity as a service
+正确
+B. 员工ID 作为服务
+Employee ID as a service
+C. 基于云的RADIUS
+Intrusion detection as a service
+D. OAuth
+OAuth
+
+
+100. 以下哪种技术与移动设备管理(MDM)无关？
+Which one of the following technologies is not normally a capability of mobile device management (MDM) solutions?
+
+A. 远程擦除移动设备的内容
+Remotely wiping the contents of a mobile device
+B. 获得未注册的BYOD 移动设备的控制
+Assuming control of a nonregistered BYOD mobile device
+正确
+C. 强制使用设备加密
+Enforcing the use of device encryption
+D. 管理设备备份
+Managing device backups
+
+
+101. 以下哪个序列正确地描述了TCP 3 次握手？
+Which of the following sequences properly describes the TCP three-way handshake?
+
+A. SYN、ACK、SYN/ACK
+SYN, ACK, SYN/ACK
+B. PSH、RST、ACK
+PSH, RST, ACK
+C. SYN、SYN/ACK、ACK
+SYN, SYN/ACK, ACK
+正确
+D. SYN、RST、FIN
+SYN, RST, FIN
+
+
+102. 下列哪项是针对数据安全的行业标准？
+Which of the following is an industry standard for data security?
+
+A. FERPA
+FERPA
+B. HIPAA
+HIPAA
+C. SOX
+SOX
+D. PCI DSS
+PCI DSS
+正确
+
+
+103. Kim 是一家小型企业的网络管理员，她遇到了一些安全问题。她晚上在办公室处理问题，当时没有其他人在那里。她发现办公室另一边以前运行正常的系统现在表现出感染的迹象。Kim 可能要处理什么类型的恶意软件？
+Kim is the system administrator for a small business network that is experiencing security problems. She is in the office in the evening working on the problem, and nobody else is there. As she is watching, she can see that systems on the other side of the office that were previously behaving normally are now exhibiting signs of infection. What type of malware is Kim likely dealing with?
+
+A. 病毒
+Virus
+B. 蠕虫
+Worm
+正确
+C. 木马
+Trojan horse
+D. 逻辑炸弹
+Logic bomb
+
+
+104. 关系数据库的什么属性确保两个执行的事务不会由于在数据库中存储临时结果而相互影响？
+What property of a relational database ensures that two executing transactions do not affect each other by storing interim results in the database?
+
+A. 原子性
+Atomicity
+B. 隔离性
+Isolation
+正确
+C. 一致性
+Consistency
+D. 持久性
+Durability
+
+
+105. Alice 想获得一个对象的读取权限，并且她知道Bob 已经拥有这些权限，她希望Bob 能将这些权限提供给自己。如果Alice 和Bob 之间存在关系，Take-Grant 保护模型中的哪个规则将允许她完成此操作？
+Alice would like to have read permissions on an object and knows that Bob already has those rights and would like to give them to herself. Which one of the rules in the Take-Grant protection model would allow her to complete this operation if the relationship exists between Alice and Bob?
+
+A. 获取规则
+Take rule
+正确
+B. 授予规则
+Grant rule
+C. 创建规则
+Create rule
+D. 远程规则
+Remote rule
+
+
+106. &nbsp;Christopher 拥有一家奶酪蛋糕店，他的会计员无法查看员工个人的薪水信息，但会计员想知道新员工的薪水。会计员在新人被雇用之前提取了工资支付期间的总工资支出，然后在下一个工资支付期内也提取了总工资支出。他通过计算这两个金额之间的差额来确定新员工的薪水。发生了什么类型的攻击？
+An accounting clerk for Christopher&rsquo;s Cheesecakes does not have access to the salary information for individual employees but wanted to know the salary of a new hire. He pulled total payroll expenses for the pay period before the new person was hired and then pulled the same expenses for the following pay period. He computed the difference between those two amounts to determine the individual&rsquo;s salary. What type of attack occurred?
+
+A. 聚合
+Aggregation
+B. 数据填充
+Data diddling
+C. 推理
+Inference
+正确
+D. 社会工程
+Social engineering
+
+
+107. Sally 负责为其组织中的无线网络服务部署身份验证、授权和记账服务器，而且要避免使用专有技术。她应该选择什么技术？
+&nbsp;Sally has been tasked with deploying an authentication, authorization, and accounting server for wireless network services in her organization and needs to avoid using proprietary technology. What technology should she select?
+
+A. OAuth
+OAuth
+B. RADIUS
+RADIUS
+正确
+C. TACACS
+TACACS
+D. TACACS +
+TACACS+
+
+
+108. Tom 正在调整安全监控工具，以减少管理员收到的警报数量，同时要求不能因此丢失重要的安全事件。他决定将系统配置为只报告以下这种情况：在一小时内访问同一账户有五次登录失败。什么术语最好地描述了Tom 使用的技术？
+Tom is tuning his security monitoring tools in an attempt to reduce the number of alerts received by administrators without missing important security events. He decides to configure the system to only report failed login attempts if there are five failed attempts to access the same account within a one-hour period of time. What term best describes the technique that Tom is using?
+
+A. 域值
+Thresholding
+B. 抽样
+Sampling
+C. 账户锁定
+Account lockout
+D. 阈值
+Clipping
+正确
+
+
+109. 以下哪一个不是数据加密标准(DES)的操作模式？
+Which one of the following is not a mode of operation for the Data Encryption Standard?
+
+A. CBC
+CBC
+B. CFB
+CFB
+C. OFB
+OFB
+D. AES
+AES
+正确
+
+
+110. Susan 建立了一个防火墙，用于跟踪两个系统之间的通信状态，并允许远程系统在本地系统开始通信后响应本地系统。Susan 使用的是什么类型的防火墙？
+Susan sets up a firewall that keeps track of the status of the communication between two systems and allows a remote system to respond to a local system after the local system starts communication. What type of firewall is Susan using?
+
+A. 静态包过滤防火墙
+A static packet filtering firewall
+B. 应用级网关防火墙
+An application-level gateway firewall
+C. 状态包检测防火墙
+A stateful packet inspection firewall
+正确
+D. 电路级网关防火墙
+A circuit-level gateway firewall
+
+
+111. 什么类型的运动检测器使用高微波频率信号传输来识别入侵者？
+What type of motion detector uses high microwave frequency signal transmissions to identify potential intruders?
+
+A. 红外
+Infrared
+B. 热基
+Heat-based
+C. 波形
+Wave pattern
+正确
+D. 电容
+Capacitance
+
+
+112. 依赖于启动位和停止位来管理数据传输的通信系统被称为什么类型的通信？
+Communication systems that rely on start and stop flags or bits to manage data transmission are known as what type of communication?
+
+A. 模拟
+Analog
+B. 数字
+Digital
+C. 同步
+Synchronous
+D. 异步
+Asynchronous
+正确
+
+
+113. 哪种Kerberos 服务生成新的票据和会话密钥并将它们发送到客户端？
+Which Kerberos service generates a new ticket and session keys and sends them to the client?
+
+A. KDC(密钥分发中心)
+KDC
+B. TGT(票据授予票据)
+TGT
+C. AS(身份验证服务)
+AS
+D. TGS(票据授予服务)
+TGS
+正确
+
+
+114. Mike 正在构建容错服务器并希望实施RAID 1，实施此方案需要多少个物理磁盘？
+Mike is building a fault-tolerant server and wishes to implement RAID 1. How many physical disks are required to build this solution?
+
+A. 1
+1
+B. 2
+2
+正确
+C. 3
+3
+D. 5
+5
+
+
+115. 以下哪一项不是取证设备控制器的功能？
+Which one of the following is not a function of a forensic disk controller?
+
+A. 防止修改存储设备上的数据
+Preventing the modification of data on a storage device
+B. 将数据返回给请求设备
+Returning data requested from the device
+C. 将设备报告的错误发送给取证主机
+Reporting errors sent by the device to the forensic host
+D. 阻止发送到设备的读取命令
+Blocking read commands sent to the device
+正确
+
+
+116. Ed 负责确定一项服务，该项服务可为其雇主提供低延迟、高性能和高可用性的内容托管。他应该采用什么类型的解决方案，以确保雇主的全球客户能够快捷、可靠地访问内容？
+Ed has been tasked with identifying a service that will provide a low-latency, highperformance, and high-availability way to host content for his employer. What type of solution should he seek out to ensure that his employer&rsquo;s customers around the world can access their content quickly, easily, and reliably?
+
+A. 热站点
+A hot site
+B. CDN(内容分发网络)
+A CDN
+正确
+C. 冗余服务器
+Redundant servers
+D. P2P CDN(对等的内容分发网络)
+A P2P CDN
+
+

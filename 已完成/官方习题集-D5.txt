@@ -1,0 +1,1292 @@
+1. Lauren 构建一个包含分配权限、客体和主体的表，来管理她负责的系统的访问控制。每次主体尝试访问客体时，系统检查表确保主体对客体拥有适当的权限。Lauren使用什么类型的访问控制系统？
+Lauren builds a table that includes assigned privileges, objects, and subjects to manage access control for the systems she is responsible for. Each time a subject attempts to access an object, the systems check the table to ensure that the subject has the appropriate rights to the objects. What type of access control system is Lauren using?
+
+A. 能力表
+A capability table
+B. 访问控制列表
+An access control list
+C. 访问控制矩阵
+An access control matrix
+正确
+D. 主体/客体权限管理系统
+&nbsp;A subject/object rights management system
+
+
+2. 当Alex 按下图显示的权限在Linux 服务器上设置许可时，他使用了什么类型的访问控制模型？
+
+When Alex sets the permissions shown in the following image as one of many users on a Linux server, what type of access control model is he leveraging?
+
+
+A. &nbsp;基于角色的访问控制
+&nbsp;Role Based Access Control
+B. 基于规则的访问控制
+Rule-based Access control
+C. 强制访问控制
+&nbsp;Mandatory Access Control (MAC)
+D. 自主访问控制
+&nbsp;Discretionary Access Control (DAC)
+正确
+
+
+3. Ben 的组织正在为其高安全性建筑物的访问控制系统采用生物识别身份验证。请使用下面的图表，回答关于组织采用该技术的问题。
+
+Ben&rsquo;s organization is adopting biometric authentication for its high-security building&rsquo;s access control system. Use the following chart to answer questions&nbsp; about the organization&rsquo;s adoption of the technology.
+
+
+4. 将每个数字标识的身份验证技术与相应的字母标识的类别进行匹配。每种技术都应该只与一个类别相匹配。 每个类别可以使用一次、多次或者根本不使用。
+验证技术
+1. 密码
+2. ID卡
+3. 视网膜扫描
+4. 智能手机令牌
+5. 指纹分析
+类别
+A. 你有什么
+B. 你知道什么
+C. 你是什么
+&nbsp;Match each of the numbered authentication techniques with the appropriate lettered category. Each technique should be matched with exactly one category. Each category may be used once, more than once, or not at all.
+Authentication technique
+1. Password
+2. ID card
+3. Retinal scan
+4. Smartphone token
+5. Fingerprint analysis
+Category
+A. Something you have
+B. Something you know
+C. Something you are
+
+A. 看答案
+正确
+B. 不看答案
+
+
+5. 将列出的数字标识的安全控制与字母标识的类别说明进行匹配。选择最能描述每个控制的类别。您会使用每个控制类别一次、多次或根本不使用。
+控制
+1. 密码
+2. 账户审查
+3. 徽章读取
+4. MFA
+5. IPS
+类别
+A.&nbsp;管理
+B. 技术
+C. 物理
+Match each of the numbered security controls listed with exactly one of the lettered categories shown. Choose the category that best describes each control. You may use each control category once, more than once, or not at all.
+Controls
+1. Password
+2. Account reviews
+3. Badge readers
+4. MFA
+5. IPS
+Categories
+A. Administrative
+B. Technical
+C. Physical
+
+A. 看答案
+正确
+B. 不看答案
+
+
+6. Chris 是一家电子商务网站的身份架构师，这家网站希望利用社会身份。为此，他的团队打算允许用户在使用电子商务网站时，使用他们现有的Google 账户作为主要账户。这意味着，当新用户最初连接到电子商务平台时，可以选择使用他们的Google+账户，或在平台上使用自己的电子邮件地址和自选的密码创建一个新账户。使用该信息和下图，回答问题。
+
+Chris is the identity architect for a growing e-commerce website that wants to leverage social identity. To do this, he and his team intend to allow users to use their existing Google accounts as their primary accounts when using the e-commerce site. This means that when a new user initially connects to the e-commerce platform, they are given the choice between using their Google account using OAuth 2.0 or creating a new account on the platform using their own email address and a password of their choice.Use this information and the following diagram of an example authentication flow to answer questions .
+
+
+7. &nbsp;Alex 配置他的LDAP 服务器在636 和3269 端口提供服务。他已经基于LDAP的默认端口配置了什么类型的LDAP 服务？
+Alex configures his LDAP server to provide services on 636 and 3269. What type of LDAP services has he configured based on LDAP&rsquo;s default ports?
+
+A. 不安全的LDAP 和不安全的全局目录
+Unsecure LDAP and unsecure global directory
+B. 不安全的LDAP 和安全的全局目录
+Unsecure LDAP and secure global directory
+C. 安全的LDAP 和安全的全局目录
+Secure LDAP and secure global directory
+正确
+D. 安全的LDAP 和不安全的全局目录
+Secure LDAP and unsecure global directory
+
+
+8. &nbsp;默认情况下，Windows 对Active Directory 系统使用哪些身份验证协议？
+What authentication protocol does Windows use by default for Active Directory systems?
+
+A. RADIUS
+RADIUS
+B. Kerberos
+Kerberos
+正确
+C. OAuth
+OAuth
+D. TACACS +
+TACACS+
+
+
+9. &nbsp;以下哪些类型的访问控制不涉及锁具？
+Which of the following access control categories would not include a door lock?
+
+A. 物理
+Physical
+B. 指令
+Directive
+正确
+C. 预防
+Preventative
+D. 威慑
+Deterrent
+
+
+10. &nbsp;Kerberos、KryptoKnight 和SESAME 都是什么类型的系统？
+Kerberos, KryptoKnight, and SESAME are all examples of what type of system?
+
+A. SSO
+SSO
+正确
+B. PKI
+PKI
+C. CMS
+CMS
+D. Directory
+Directory
+
+
+11. Susan 正在排除Kerberos 身份验证问题，问题包括不被接受为有效TGT 和无法接收新票证。如果系统正确配置了Kerberos 身份验证，她的用户名和密码是正确的，并且她的网络连接是正常的，最可能的问题是什么？
+Susan is troubleshooting Kerberos authentication problems with symptoms including TGTs that are not accepted as valid and an inability to receive new tickets. If the system she is troubleshooting is properly configured for Kerberos authentication, her username and password are correct, and her network connection is functioning, what is the most likely issue?
+
+A. Kerberos 服务器离线了
+The Kerberos server is offline.
+B. 存在协议不匹配
+There is a protocol mismatch
+C. 客户端的TGT 已标记为被盗用和解除授权
+The client&rsquo;s TGTs have been marked as compromised and de-authorized.
+D. Kerberos 服务器和本地客户端的时钟不同步
+The Kerberos server and the local client&rsquo;s time clocks are not synchronized.
+正确
+
+
+12. &nbsp;LDAP 可分辨名称(DN)由具有属性名称和值的RDN 组成，中间用逗号隔开。DN从左到右越来越抽象。以下哪项最符合该规则？
+LDAP distinguished names (DNs) are made up of comma-separated components called relative distinguished names (RDNs) that have an attribute name and a value. DNs become less specific as they progress from left to right. Which of the following LDAP DNs best fits this rule?
+
+A. uid=ben,ou=sales,dc=example,dc=com
+uid=ben,ou=sales,dc=example,dc=com
+正确
+B. uid=ben,dc=com,dc=example
+uid=ben,dc=com,dc=example
+C. dc=com,dc=example,ou=sales,uid=ben
+dc=com,dc=example,ou=sales,uid=ben
+D. ou=sales,dc=com,dc=example
+ou=sales,dc=com,dc=example
+
+
+13. &nbsp;什么开放协议旨在替代RADIUS，用TCP 代替UDP 流量，并提供可扩展命令，但不保留与RADIUS 的向后兼容性？
+What open protocol was designed to replace RADIUS&mdash;including support for additional commands and protocols, replacing UDP traffic with TCP, and providing for extensible commands&mdash;but does not preserve backward compatibility with RADIUS?
+
+A. TACACS
+TACACS
+B. RADIUS-NG
+RADIUS-NG
+C. Kerberos
+Kerberos
+D. Diameter
+Diameter
+正确
+
+
+14. &nbsp;RAID-5 是什么类型的控制？
+RAID-5 is an example of what type of control?
+
+A. 行政
+Administrative
+B. 恢复
+Recovery
+正确
+C. 补偿
+Compensation
+D. 逻辑
+Logical
+
+
+15. &nbsp;Jim 正在为他的组织实施云身份解决方案。他建立什么类型的技术？
+Jim is implementing a cloud identity solution for his organization. What type of technology is he putting in place?
+
+A. 身份即服务
+Identity as a service
+正确
+B. 员工ID 即服务
+Employee ID as a service
+C. 基于云的
+RADIUSCloud-based RADIUS
+D. OAuth
+OAuth
+
+
+16. &nbsp;如果允许OpenID 信任方控制连接OpenID 提供程序，会引发什么危险？
+What danger is created by allowing the OpenID relying party to control the connection to the OpenID provider?
+
+A. 错误选择适当的OpenID 提供程序
+It may cause incorrect selection of the proper OpenID provider.
+B. 网络钓鱼攻击
+It creates the possibility of a phishing attack by sending data to a fake OpenID provider.
+正确
+C. 窃取用户名和密码
+The relying party may be able to steal the client&rsquo;s username and password.
+D. 不发送签名声明
+The relying party may not send a signed assertion.
+
+
+17. &nbsp;以下哪个类型3 的身份验证设备适合单独使用，但不与其他生物特征因素结合使用？
+Which of the following Type 3 authenticators is appropriate to use by itself rather than in combination with other biometric factors?
+
+A. 语音模式识别
+Voice pattern recognition
+B. 手掌几何特征
+Hand geometry
+C. 掌形扫描
+Palm scans
+正确
+D. 心/脉冲模式
+Heart/pulse patterns
+
+
+18. &nbsp;什么LDAP 身份验证模式可提供安全身份验证？
+What LDAP authentication mode can provide secure authentication?
+
+A. 匿名
+Anonymous
+B. SASL
+SASL
+正确
+C. 简单
+Simple
+D. S-LDAP
+S-LDAP
+
+
+19. &nbsp;什么类型的基于令牌的身份验证系统使用质询/响应过程，其中必须在令牌上输入质询？
+What type of token-based authentication system uses a challenge/response process in which the challenge has to be entered on the token?
+
+A. 异步
+Asynchronous
+正确
+B. 智能卡
+Smart card
+C. 同步
+Synchronous
+D. RFID
+RFID
+
+
+20. &nbsp;Ben 使用基于软件的令牌，它每分钟更改一次密码，请问这属于什么类型的令牌？
+Ben uses a software-based token that changes its code every minute. What type of token is he using?
+
+A. 异步
+Asynchronous
+B. 智能卡
+Smart card
+C. 同步
+Synchronous
+正确
+D. 静态
+Static
+
+
+21. &nbsp;以下哪一个不是访问控制层？
+Which of the following is not an access control layer?
+
+A. 物理
+Physical
+B. 策略
+Policy
+正确
+C. 行政
+Administrative
+D. 技术
+Technical
+
+
+22. &nbsp;公司的安全管理员已配置Susan 使用的工作站，只允许她在工作时间登录。什么类型的访问控制最好描述了这种限制？
+The security administrators at the company that Susan works for have configured the workstation she uses to allow her to log in only during her work hours. What type of access control best describes this limitation?
+
+A. 约束接口
+Constrained interface
+B. 上下文相关控制
+Context-dependent control
+正确
+C. 内容相关控制
+Content-dependent control
+D. 最小特权
+Least privilege
+
+
+23. Jim 具有秘密许可，并正在访问使用强制访问控制的文件，这些文件使用&ldquo;绝密、机密、机密和未分类&rdquo;标签。如果可以访问级别更低的文件，那么他可以访问什么分类级别的数据？
+Jim has Secret clearance and is accessing files that use a mandatory access control scheme to apply the Top Secret, Secret, Confidential, and Unclassified label scheme. What classification levels of data can he access, provided that he has a valid need-to-know?
+
+A. 绝密和秘密
+Top Secret and Secret
+B. 秘密、机密和未分类
+Secret, Confidential, and Unclassified
+C. 仅秘密数据
+Secret data only
+正确
+D. 秘密和未分类
+Secret and Unclassified
+
+
+24. 什么身份验证技术可与OAuth 配对来执行身份验证，并且使用REST 风格的API获取用户个人资料信息？
+What authentication technology can be paired with OAuth to perform identity verification and obtain user profile information using a RESTful API?
+
+A. SAML
+SAML
+B. Shibboleth
+Shibboleth
+C. OpenID 连接
+OpenID Connect
+正确
+D. Higgins
+Higgins
+
+
+25. 美国政府CAC 是什么形式的类型2 身份验证因素？
+The United States (U.S.) government CAC is an example of what form of Type 2 authentication factor?
+
+A. 令牌
+A token
+B. 生物识别标识符
+A biometric identifier
+C. 智能卡
+A smart card
+正确
+D. PIV
+A PIV
+
+
+26. &nbsp;Susan工作的金融服务公司为其用户提供了一个门户网站。当用户需要验证他们的身份时，公司使用来自第三方的信息，根据他们过去的信用报告提出问题，例如&ldquo;你在2007 年居住过以下哪些街道？&rdquo;Susan的组织使用哪个验证方法？
+The financial services company that Susan works for provides a web portal for its users. When users need to verify their identity, the company uses information from third-party sources to ask questions based on their past credit reports, such as &ldquo;Which of the following streets did you live on in 2007?&rdquo; What process is Susan&rsquo;s organization using?
+
+A. 身份证明
+Identity proofing
+正确
+B. 密码验证
+Password verification
+C. 使用类型2 身份验证因素进行身份验证
+Authenticating with Type 2 authentication factor
+D. 外带身份验证
+Out-of-band identity proofing
+
+
+27. &nbsp;Ben 的组织在午饭时间遇到了未授权访问应用程序和工作站的问题，当时员工不在办公桌前。为帮助防止这种类型的访问，Ben 应该推荐的最佳会话管理解决方案是什么？
+Ben&rsquo;s organization has had an issue with unauthorized access to applications and workstations during the lunch hour when employees aren&rsquo;t at their desk. What are the best types of session management solutions for Ben to recommend to help prevent this type of access?
+
+A. 使用所有访问的会话ID，并验证所有工作站的系统IP 地址
+Use session IDs for all access and verify system IP addresses of all workstations.
+B. 为应用程序设置会话超时，超时则开启屏保程序
+Set session time-outs for applications and use password-protected screensavers with inactivity time-outs on workstations.
+正确
+C. 对所有应用程序使用会话ID，超时则开启屏保程序
+Use session IDs for all applications, and use password protected screensavers with inactivity time-outs on workstations.
+D. 为应用程序设置会话超时，并验证所有工作站的系统IP 地址
+Set session time-outs for applications and verify system IP addresses of all workstations.
+
+
+28. &nbsp;Jim 希望允许基于云的应用程序代表他访问来自其他网站的信息。以下哪些工具可以这样做？
+Jim wants to allow cloud-based applications to act on his behalf to access information from other sites. Which of the following tools can allow that?
+
+A. Kerberos
+Kerberos
+B. OAuth
+OAuth
+正确
+C. OpenID
+OpenID
+D. LDAP
+LDAP
+
+
+29. Brian 的组织已经使用RADIUS 为网络设备提供AAA 服务，并且最近才意识到在身份验证期间未加密传输信息的安全问题。Brian 应如何实现RADIUS 的加密？
+Brian&rsquo;s large organization has used RADIUS for AAA services for its network devices for years and has recently become aware of security issues with the unencrypted information transferred during authentication. How should Brian implement encryption for RADIUS?
+
+A. 使用RADIUS 中的内置加密
+Use the built-in encryption in RADIUS.
+B. 使用TLS 实现基于默认UDP 的RADIUS 保护
+Implement RADIUS over its native UDP using TLS for protection.
+C. 使用TLS 实现基于TCP 的RADIUS 保护
+Implement RADIUS over TCP using TLS for protection.
+正确
+D. 在设备之间使用AES256 预共享密码
+Use an AES256 pre-shared cipher between devices.
+
+
+30. 在支持事件的审查时，Ben 的组织发现密码更改占组织服务台事件的四分之一以上。以下哪个选项最可能显着减少该数字？
+During a review of support incidents, Ben&rsquo;s organization discovered that password changes accounted for more than a quarter of its help desk&rsquo;s cases. Which of the following options would be most likely to decrease that number significantly?
+
+A. 双因素身份验证
+Two-factor authentication
+B. 生物识别身份验证
+Biometric authentication
+C. 自助服务密码重置
+Self-service password reset
+正确
+D. 密码短语
+Passphrases
+
+
+31. &nbsp;像&ldquo;你的宠物名字是什么？&rdquo;这样的问题是什么类型的身份验证？
+&nbsp;Questions like &ldquo;What is your pet&rsquo;s name?&rdquo; are examples of what type of identity proofing?
+
+A. 基于知识的验证
+Knowledge-based authentication
+正确
+B. 基于动态知识的验证
+Dynamic knowledge-based authentication
+C. 带外身份验证
+Out-of-band identity proofing
+D. 类型3 验证因素
+A Type 3 authentication factor
+
+
+32. &nbsp;哪些客体和主体在MAC 模型中有标签？
+Which objects and subjects have a label in a MAC model?
+
+A. 被分类为机密、秘密或绝密的客体和主体都有一个标签
+Objects and subjects that are classified as Confidential, Secret, or Top Secret have a label.
+B. 所有客体都有一个标签，并且所有主体都使用隔离
+All objects have a label, and all subjects have a compartment.
+C. 所有客体和主体都有一个标签
+All objects and subjects have a label.
+正确
+D. 所有主体都有一个标签，并且所有客体都使用隔离
+All subjects have a label and all objects have a compartment.
+
+
+33. &nbsp;在Kerberos 环境中，当用户需要访问网络资源时，什么被发送到TGS 中？
+&nbsp;In a Kerberos environment, when a user needs to access a network resource, what is sent to the TGS?
+
+A. TGT
+A TGT
+正确
+B. AS
+An AS
+C. SS
+The SS
+D. 会话密钥
+A session key
+
+
+34. 什么类型的访问控制由支持法规、要求和组织自身策略组成？
+What type of access control is composed of policies and procedures that support regulations, requirements, and the organization&rsquo;s own policies?
+
+A. 纠正
+Corrective
+B. 逻辑
+Logical
+C. 补偿
+Compensating
+D. 行政
+Administrative
+正确
+
+
+35. 以下哪项是基于票证的身份验证协议(目的是提供安全通信)？
+Which of the following is a ticket-based authentication protocol designed to provide secure communication?
+
+A. RADIUS
+RADIUS
+B. OAuth
+OAuth
+C. SAML
+SAML
+D. Kerberos
+Kerberos
+正确
+
+
+36. &nbsp;Kathleen 在数据中心托管设施中工作，为个人和组织提供物理数据中心空间。直到最近，每个客户都获得了一个基于磁条的卡式钥匙来访问服务器。在过去一个月中，一些服务器已被盗，但密码卡的日志只显示有效的ID。她应该如何确定密码卡片的主人？
+Kathleen works for a data center hosting facility that provides physical data center space for individuals and organizations. Until recently, each client was given a magnetic-stripbased keycard to access the section of the facility where their servers are located, and they were also given a key to access the cage or rack where their servers reside. In the past month, a number of servers have been stolen, but the logs for the passcards show only valid IDs. What is Kathleen&rsquo;s best option to make sure that the users of the passcards are who they are supposed to be?
+
+A. 添加PIN
+Add a reader that requires a PIN for passcard users
+B. 向设施中添加摄像机，观察谁正在访问服务器
+Add a camera system to the facility to observe who is accessing servers.
+C. 添加生物识别因素
+Add a biometric factor.
+正确
+D. 用智能卡替换磁条钥匙卡
+Replace the magnetic stripe keycards with smartcards.
+
+
+37. &nbsp;当你输入用户ID 和密码时，你在执行什么重要的身份和访问管理活动？
+When you input a user ID and password, you are performing what important identity and access management activity?
+
+A. 授权
+Authorization
+B. 验证
+Validation
+C. 身份验证
+Authentication
+正确
+D. 登录
+Login
+
+
+38. 防火墙通常使用什么类型的访问控制？
+What type of access control is typically used by firewalls?
+
+A. 自由访问控制
+Discretionary access controls
+B. 基于规则的访问控制
+Rule-based access controls
+正确
+C. 基于任务的访问控制
+Task-based access control
+D. 强制访问控制
+Mandatory access controls
+
+
+39. &nbsp;银行使用指纹扫描器对新用户进行身份验证，扫描用户指纹后，系统登录到另一个客户账户，请问此时发生了什么类型的错误？
+A new customer at a bank that uses fingerprint scanners to authenticate its users is surprised when he scans his fingerprint and is logged in to another customer&rsquo;s account. What type of biometric factor error occurred?
+
+A. 注册错误
+A registration error
+B. 类型1 错误
+A Type 1 error
+C. 类型2 错误
+A Type 2 error
+正确
+D. 使用时间和使用方法错误
+A time of use, method of use error
+
+
+40. &nbsp;默认情况下，OpenLDAP 以什么格式存储userPassword 属性的值？
+By default, in what format does OpenLDAP store the value of the userPassword attribute?
+
+A. 明文.
+In the clear
+正确
+B. 盐和散列
+Salted and hashed
+C. MD5 散列
+MD5 hashed
+D. 使用AES 256 算法加密
+Encrypted using AES256 encryption
+
+
+41. &nbsp;Lauren 负责建立一个银行网站，她需要获得用户注册网站的证据，她应如何验证用户身份？
+Lauren is responsible for building a banking website. She needs proof of the identity of the users who register for the site. How should she validate user identities?
+
+A. 要求用户创建只有他们知道的唯一问题
+Require users to create unique questions that only they will know.
+B. 要求新用户亲自携带驾驶执照或护照到银行
+Require new users to bring their driver&rsquo;s license or passport in person to the bank.
+C. 使用银行和用户都有的信息
+Use information that both the bank and the user have such as questions pulled from their credit report.
+正确
+D. 呼叫用户的注册电话号码来验证真伪
+Call the user on their registered phone number to verify that they are who they claim to be.
+
+
+42. &nbsp;微软的Active Directory域服务基于以下哪一方面的技术？
+Microsoft&rsquo;s Active Directory Domain Services is based on which of the following technologies?
+
+A. RADIUS
+RADIUS
+B. LDAP
+LDAP
+正确
+C. SSO
+SSO
+D. PKI
+PKI
+
+
+43. &nbsp;X.500 标准涵盖了什么类型的身份系统？
+The X.500 standards cover what type of important identity systems?
+
+A. Kerberos
+Kerberos
+B. 配置服务
+Provisioning services
+C. 生物识别身份验证系统
+Biometric authentication systems
+D. 目录服务
+Directory services
+正确
+
+
+44. Jim 将他的LDAP 客户端配置连接到LDAP 目录服务器。根据配置指南，他的客户端应该连接到服务器端口636。下面关于LDAP 的说法哪个是正确的？
+Jim configures his LDAP client to connect to an LDAP directory server. According to the configuration guide, his client should connect to the server on port 636. What does this indicate to Jim about the configuration of the LDAP server?
+
+A. 它需要通过SSL / TLS 来连接
+It requires connections over SSL/TLS.
+正确
+B. 它仅支持未加密的连接
+It supports only unencrypted connections.
+C. 它提供全集目录服务
+It provides global catalog services.
+D. 它不提供全集目录服务
+It does not provide global catalog services.
+
+
+45. 当Chris 验证个人身份，并添加唯一标识符(如用户ID)时，这个过程称为什么？
+When Chris verifies an individual&rsquo;s identity and adds a unique identifier like a user ID to an identity system, what process has occurred?
+
+A. 身份证明
+Identity proofing
+B. 注册
+Registration
+正确
+C. 目录管理
+Directory management
+D. 会话管理
+Session management
+
+
+46. Lauren 在公司中开始了新的工作，但是她可以访问到工作之外的其他系统，请问她遇到了什么问题？
+Lauren starts at her new job and finds that she has access to a variety of systems that she does not need to accomplish her job. What problem has she encountered?
+
+A. 特权蠕变
+Privilege creep
+B. 权限冲突
+Rights collision
+C. 最小特权
+Least privilege
+D. 过多特权
+Excessive privileges
+正确
+
+
+47. Google 与其他组织的服务进行整合，使用同一个身份验证系统，请问这属于什么？
+Google&rsquo;s identity integration with a variety of organizations and applications across domains is an example of which of the following?
+
+A. PKI
+PKI
+B. 联邦
+Federation
+正确
+C. 单点登录
+Single sign-on
+D. 配置
+Provisioning
+
+
+48. 在渗透测试期间，Chris 恢复了一个散列密码文件，以下哪种攻击是针对散列密码的？
+During a penetration test, Chris recovers a file containing hashed passwords for the system he is attempting to access. What type of attack is most likely to succeed against the hashed passwords?
+
+A. 暴力攻击
+A brute-force attack
+B. 散列传递攻击
+A pass-the-hash attack
+C. 彩虹表攻击
+A rainbow table attack
+正确
+D. 盐恢复攻击
+A salt recovery attack
+
+
+49. Lauren 需要向第三方组织发送有关服务的信息，她应该选择什么标准的标记语言来构建接口？
+Lauren needs to send information about services she is provisioning to a third-party organization. What standards-based markup language should she choose to build the interface?
+
+A. SAML
+SAML
+B. Soft SOAP
+SOAP
+C. SPML
+SPML
+正确
+D. XACML
+XACML
+
+
+50. 以下哪些工具通常不用于验证组织的安全策略配置？
+Which of the following tools is not typically used to verify that a provisioning process was followed in a way that ensures that the organization&rsquo;s security policy is being followed?
+
+A. 日志审查
+Log review
+B. 人工审查权限
+Manual review of permissions
+C. 基于签名的检测
+Signature-based detection
+正确
+D. 审查审计线索
+Review the audit trail
+
+
+51. Alex 负责SAML 与主要第三方合作伙伴的整合，为他的组织提供各种商业服务。使用以下图表和你掌握的SAML 集成和安全体系结构设计知识，回答问题。
+
+Alex is in charge of SAML integration with a major third-party partner that provides a variety of business productivity services for his organization. Use the following diagram and your knowledge of SAML integrations and security architecture design to answer questions .
+
+
+52. 下表显示了什么类型的访问控制计划？
+高度敏感的&nbsp; &nbsp;红色&nbsp;蓝色&nbsp;绿色
+机密&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;紫色&nbsp;桔色&nbsp;黄色
+内部使用 &nbsp; &nbsp; &nbsp;黑色 灰色 白色
+公用 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;清除 清除 清除
+What type of access control scheme is shown in the following table?
+
+
+A. RBAC&nbsp;
+RBAC
+&nbsp;
+B. DAC
+DAC
+C. MAC
+MAC
+正确
+D. &nbsp;TBAC
+&nbsp;TBAC
+
+
+53. 公式要求Susan 评估组织的控制方案，在强制访问控制方案和自由访问控制方案之间选择。如果公司强调灵活性和可扩展性，她应该采用哪个方案？为什么？
+Susan has been asked to recommend whether her organization should use a MAC scheme or a DAC scheme. If flexibility and scalability are important requirements for implementing access controls, which scheme should she recommend and why?
+
+A. MAC，因为可以提供可扩展性和灵活性，可以根据需要添加更多标签
+MAC, because it provides greater scalability and flexibility because you can simply add more labels as needed
+B. DAC，因为它允许管理员在可扩展性和灵活性之间做出选择
+DAC, because allowing individual administrators to make choices about the objects they control provides scalability and flexibility
+正确
+C. MAC，因为划分方式可提高灵活性，扩展性也很好
+MAC, because compartmentalization is well suited to flexibility and adding compartments will allow it to scale well
+D. DAC，因为中央决策过程允许快速响应，同时会降低决策数量和灵活性，从而提供可扩展性
+DAC, because a central decision process allows quick responses and will provide scalability by reducing the number of decisions required and flexibility by moving those decisions to a central authority
+
+
+54. 以下哪对因素是用户接受生物识别系统的关键？
+Which pair of the following factors is key for user acceptance of biometric identification systems?
+
+A. FAR
+The FAR
+B. 吞吐率和注册所需时间
+The throughput rate and the time required to enroll
+正确
+C. CER 和ERR
+The CER and the ERR
+D. 用户必须重新注册的频率和参考资料的要求
+How often users must reenroll and the reference profile requirements
+
+
+55. Susan 正在提高组织密码的强度，她使用的密码系统允许使用大写和小写字母以及数字，但不允许其他字符。增加单个字符会使得密码的复杂度增加多少倍？
+Susan is working to improve the strength of her organization&rsquo;s passwords by changing the password policy. The password system that she is using allows uppercase and lowercase letters as well as numbers but no other characters. How much additional complexity does adding a single character to the minimum length of passwords for her organization create?
+
+A. 增加26&nbsp;倍
+26times more complex
+B. 增加62 倍
+62 times more complex
+正确
+C. 增加36 倍
+36times more complex
+D. 增加2^62 倍
+2^62times more complex
+
+
+56. 若一个组织使用生物识别技术，那么什么情况下会选择较高的FRR，而不是较高的FAR？
+When might an organization using biometrics choose to allow a higher FRR instead of a higher FAR?
+
+A. 当安全性比可用性更重要时
+When security is more important than usability
+正确
+B. 当由于数据质量而不关心错误拒绝时
+When false rejection is not a concern due to data quality
+C. 当系统的CER 未知时
+When the CER of the system is not known
+D. 当系统的CER 非常高时
+When the CER of the system is very high
+
+
+57. 生物因素的存储样本被称为什么？
+What is the stored sample of a biometric factor called?
+
+A. 参考模板
+A reference template
+正确
+B. 令牌存储
+A token store
+C. 生物识别密码
+A biometric password
+D. 注册产品
+An enrollment artifact
+
+
+58. Susan 的组织正在更新其密码策略，并希望尽可能使用安全性最强的密码。以下哪种做法可以有效对抗暴力攻击？
+Susan&rsquo;s organization is updating its password policy and wants to use the strongest possible passwords. What password requirement will have the highest impact in preventing brute-force attacks?
+
+A. 将最长使用时间从1年更改为180天
+Change maximum age from 1 year to 180 days.
+B. 将最小密码长度从8个字符增加到16个字符
+Increase the minimum password length from 8 characters to 16 characters.
+正确
+C. 增加密码复杂度，至少包含三个字符类(例如大写字母、小写字母、数字和符号)
+Increase the password complexity so that at least three character classes (such as uppercase, lowercase, numbers, and symbols) are required.
+D. 保留至少四个密码的密码历史记录，来防止重复使用
+Retain a password history of at least four passwords to prevent reuse.
+
+
+59. 狗、保安和围栏都属于什么类型的控制？
+Dogs, guards, and fences are all common examples of what type of control?
+
+A. 监测
+Detective
+B. 恢复
+Recovery
+C. 行政
+Administrative
+D. 物理
+Physical
+正确
+
+
+60. 主体声称身份的过程被称为什么？
+When a subject claims an identity, what process is occurring?
+
+A. 登录
+Login
+B. 标识
+Identification
+正确
+C. 授权
+Authorization
+D. 令牌呈现
+Token presentation
+
+
+61. 以下哪项不是有效的LDAP DN(可识别名)？
+Which of the following is not a valid LDAP DN (distinguished name)?
+
+A. cn=ben+ou=sales
+cn=ben+ou=sales
+B. ou=example
+ou=example
+C. cn=ben,ou=example;
+cn=ben,ou=example;
+正确
+D. ou=example,dc=example,dc=com+dc=org
+ou=example,dc=example,dc=com+dc=org
+
+
+62. 当两个或多个进程需要按正确顺序访问同一资源时，会发生什么？
+What term properly describes what occurs when two or more processes require access to the same resource and must complete their tasks in the proper order for normal function?
+
+A. 碰撞
+Collisions
+B. 竞争条件
+Race conditions
+正确
+C. 决定论
+Determinism
+D. 无序执行
+Out-of-order execution
+
+
+63. 以下哪项不是访问控制机制的常见威胁？
+Which of the following is not a common threat to access control mechanisms?
+
+A. 虚假登录页面
+Fake login pages
+B. 网络钓鱼
+Phishing
+正确
+C. 字典攻击
+Dictionary attacks
+D. 中间人攻击
+Man-in-the-middle attacks
+
+
+64. Alex 已被他的公司聘用了十多年，并在公司担任过多个职位。在审计期间，发现由于他以前的角色，他能访问共享文件夹和应用程序。Alex 的公司遇到了什么问题？
+Alex has been employed by his company for more than a decade and has held a number of positions in the company. During an audit, it is discovered that he has access to shared folders and applications because of his former roles. What issue has Alex&rsquo;s company encountered?
+
+A. 过度服务开通
+Excessive provisioning
+B. 未授权访问
+Unauthorized access
+C. 特权蠕变
+Privilege creep
+正确
+D. 账户审查
+Account review
+
+
+65. 当应用程序或系统允许已登录用户执行特定操作时，这被称为什么？
+When an application or system allows a logged-in user to perform specific actions, it is an example of what?
+
+A. 角色
+Roles
+B. 组管理
+Group management
+C. 登录
+Logins
+D. 授权
+Authorization
+正确
+
+
+66. 以下哪项不属于Kerberos 身份验证系统？
+Which of the following is not part of a Kerberos authentication system?
+
+A. KDC
+KDC
+B. TGT
+TGT
+C. AS
+AS
+D. TS
+TS
+正确
+
+
+67. 有一台默认配置的RADIUS 服务器，Angela 使用嗅探器来监视该服务器的流量。她应该监控什么协议，可以读取到什么流量信息？
+Angela uses a sniffer to monitor traffic from a RADIUS server configured with default settings. What protocol should she monitor, and what traffic will she be able to read?
+
+A. UDP；读取不到流量信息，因为所有RADIUS 流量都被加密
+UDP, none. All RADIUS traffic is encrypted.
+B. TCP；除去密码外的所有流量，因为密码会被加密
+TCP, all traffic but the passwords, which are encrypted.
+C. UDP；除去密码外的所有流量，因为密码会被加密
+UDP, all traffic but the passwords, which are encrypted.
+正确
+D. TCP；读取不到流量信息，因为所有RADIUS 流量都被加密
+TCP, none. All RADIUS traffic is encrypted.
+
+
+68. 下面列出一些权限，请问这是什么类型的访问控制？列表：存储设备 XUser1：可以读、写、列表User2：可以读、列出User3：可以读、写、列出、删除User4：可以列出
+What type of access control is being used in the following permission listing:Storage Device XUser1: Can read, write, listUser2: Can read, listUser3: Can read, write, list, deleteUser4: Can list
+
+A. 基于资源的访问控制
+Resource-based access controls
+正确
+B. 基于角色的访问控制
+Role-based access controls
+C. 强制访问控制
+Mandatory access controls
+D. 基于规则的访问控制
+Rule-based access controls
+
+
+69. 以下哪项是客户端/服务器协议，旨在允许网络访问服务器，通过向中央服务器发送访问请求消息来验证远程用户？
+Which of the following is a client/server protocol designed to allow network access servers to authenticate remote users by sending access request messages to a central server?
+
+A. Kerberos
+Kerberos
+B. EAP
+EAP
+C. RADIUS
+RADIUS
+正确
+D. OAuth
+OAuth
+
+
+70. Biba 是什么类型的访问控制模型？
+Biba is what type of access control model?
+
+A. MAC
+MAC
+正确
+B. DAC
+DAC
+C. Role BAC
+Role BAC
+D. ABAC
+ABAC
+
+
+71. Jim 在公司过去几年主要负责人际关系、薪资和客户服务角色工作。公司应该如何确保他的权限与工作要求是匹配的？
+Jim has worked in human relations, payroll, and customer service roles in his company over the past few years. What type of process should his company perform to ensure that he has appropriate rights?
+
+A. 重配置
+Re-provisioning
+B. 账户审查
+Account review
+正确
+C. 特权蠕变
+Privilege creep
+D. 账户撤销
+Account revocation
+
+
+72. 为身份系统提供问责的最佳方式是什么？
+What is the best way to provide accountability for the use of identities?
+
+A. 记录
+Logging
+正确
+B. 授权
+Authorization
+C. 数字签名
+Digital signatures
+D. 类型1 身份验证
+Type 1 authentication
+
+
+73. 以下哪种攻击不是针对访问控制的？
+Which of the following is not a type of attack used against access controls?
+
+A. 字典攻击
+Dictionary attack
+B. 暴力攻击
+Brute-force attack
+C. 泪珠
+Teardrop
+正确
+D. 中间人攻击
+Man-in-the-middle attack
+
+
+74. 强制访问控制基于什么类型的模型？
+Mandatory Access Control is based on what type of model?
+
+A. 自主
+Discretionary
+B. 基于组
+Group based
+C. 基于格子
+Lattice based
+正确
+D. 基于规则
+Rule based
+
+
+75. Jacob正在为组织规划生物识别身份验证系统，并且考虑使用视网膜扫描。组织中的其他人可能对视网膜扫描有什么顾虑？
+Jacob is planning his organization&rsquo;s biometric authentication system and is considering retina scans. What concern may be raised about retina scans by others in his organization?
+
+A. 视网膜扫描可以泄露个人医疗信息
+Retina scans can reveal information about medical conditions.
+正确
+B. 视网膜扫描可能有害健康，因为需要对着用户的眼睛喷气
+Retina scans are painful because they require a puff of air in the user&rsquo;s eye.
+C. 视网膜扫描仪是最昂贵的生物测定仪器
+Retina scanners are the most expensive type of biometric device.
+D. 视网膜扫描仪误报率较高，将会引起维护问题
+Retina scanners have a high false positive rate and will cause support issues.
+
+
+76. 使用Kerberos 登录过程的知识并参照下图，回答问题
+
+Use your knowledge of the Kerberos logon process and the following diagram to answer questions .
+
+
+77. Alex 通过查看个人健康信息(PHI)来确保患者得到适当的治疗，但他不能通过患者的医疗记录来了解患者地址或计费信息。这属于什么访问控制？
+Alex&rsquo;s job requires him to see protected health information (PHI) to ensure proper treatment of patients. His access to their medical records does not provide access to patient addresses or billing information. What access control concept best describes this control?
+
+A. 职责分离
+Separation of duties
+B. 受限接口
+Constrained interfaces
+C. 上下文相关控制
+Context-dependent control
+D. 需知
+Need to know
+正确
+
+
+78. 什么类型的访问控制允许文件所有者使用访问控制列表授予其他用户访问权限？
+What type of access controls allow the owner of a file to grant other users access to it using an access control list?
+
+A. 基于角色
+Role based
+B. 非自主
+Nondiscretionary
+C. 基于规则
+Rule based
+D. 自主
+Discretionary
+正确
+
+
+79. 如下图所示，Windows 系统上的用户无法使用&ldquo;发送消息&rdquo;功能。请问这属于哪种访问控制模型？
+As shown in the following image, a user on a Windows system is not able to use the &ldquo;Send Message&rdquo; functionality. What access control model best describes this type of limitation?
+
+
+A. 最小特权
+Least privilege
+B. 需知
+Need to know
+C. 受限接口
+Constrained interface
+正确
+D. 职责分离
+Separation of duties
+
+
+80. 将以下选项排列出Kerberos身份验证过程中执行的步骤顺序：
+A. 客户端/服务端票据生成
+B. TGT生成
+C. 客户端/TGS&nbsp;密钥生成
+D. 用户访问服务
+E. 用户提供身份验证凭据
+Place the following steps in the order in which they occur during the Kerberos authentication process.
+A. Client/server ticket generated
+B. TGT generated
+C. Client/TGS key generated
+D. User accesses service
+E. User provides authentication credentials
+
+A. 看答案
+正确
+B. 不看答案
+
+
+81. 以下哪项不是单点登录？
+Which of the following is not a single sign-on implementation?
+
+A. Kerberos
+Kerberos
+B. ADFS
+ADFS
+C. CAS
+CAS
+D. RADIUS
+RADIUS
+正确
+
+
+82. 以下哪种AAA 协议是最常用的？
+Which of the following AAA protocols is the most commonly used?
+
+A. TACACS
+TACACS
+B. TACACS+
+TACACS+
+正确
+C. XTACACS
+XTACACS
+D. Super TACACS
+Super TACACS
+
+
+83. Kathleen 需要设置Active Directory 信任，从而允许使用现有Kerberos K5 域进行身份验证，请问她需要创建什么类型的信任？
+Kathleen needs to set up an Active Directory trust to allow authentication with an existing Kerberos K5 domain. What type of trust does she need to create?
+
+A. 快捷信任
+A shortcut trust
+B. 森林信任
+A forest trust
+C. 外部信任
+An external trust
+D. 领域信任
+A realm trust
+正确
+
+
+84. 回拨固定电话号码属于什么类型的因素？
+Callback to a landline phone number is an example of what type of factor?
+
+A. 你知道什么
+Something you know
+B. 你的位置
+Somewhere you are
+正确
+C. 你拥有什么
+Something you have
+D. 你是什么
+Something you are
+
+
+85. 非集中式访问控制通常会导致什么主要问题？
+What major issue often results from decentralized access control?
+
+A. 可能发生访问中断
+Access outages may occur.
+B. 控制不一致
+Control is not consistent.
+正确
+C. 控制粒度太细
+Control is too granular.
+D. 培训成本高
+Training costs are high.
+
+
+86. 在日志审查期间，Saria 发现一系列日志显示登录失败，如下所示：
+Jan 31 11:39:12 ip-10-0-0-2 sshd [29092]: 无效的用户admin 来自remotehost&nbsp;passwd =orange
+Jan 31 11:39:20 ip-10-0-0-2 sshd [29098]：无效的用户admin 来自remotehost passwd= Orang3
+Jan 31 11:39:23 ip-10-0-0-2 sshd [29100]：无效的用户admin 来自remotehost passwd= Orange93
+Jan 31 11:39:31 ip-10-0-0-2 sshd [29106]：无效的用户admin 来自remotehost passwd= Orangutan1
+Jan 31 20:40:53 ip-10-0-0-254 sshd [30520]：无效的用户admin 来自remotehost
+passwd = Orangemonkey
+Saria 发现了什么类型的攻击？
+During a log review, Saria discovers a series of logs that show login failures, as shown here:
+Jan 31 11:39:12 ip-10-0-0-2 sshd[29092]: Invalid user admin from remotehost passwd=orange
+Jan 31 11:39:20 ip-10-0-0-2 sshd[29098]: Invalid user admin from remotehost passwd=Orang3
+Jan 31 11:39:23 ip-10-0-0-2 sshd[29100]: Invalid user admin from remotehost passwd=Orange93
+Jan 31 11:39:31 ip-10-0-0-2 sshd[29106]: Invalid user admin from remotehost passwd=Orangutan1
+Jan 31 20:40:53 ip-10-0-0-254 sshd[30520]: Invalid user admin from remotehost passwd=Orangemonkey
+What type of attack has Saria discovered?
+
+A. 暴力破解攻击
+&nbsp;A brute-force attack
+B. 中间人攻击
+A man-in-the-middle attack
+C. 字典攻击
+A dictionary attack
+正确
+D. 彩虹表攻击
+A rainbow table attack
+
+
+87. 以下哪个通常不与受限接口相关？
+Which of the following items are not commonly associated with restricted interfaces?
+
+A. shell
+Shells
+B. 键盘
+Keyboards
+正确
+C. 菜单
+Menus
+D. 数据库视图
+Database views
+
+
+88. 如果Susan的组织需要她用自己的用户名、PIN、密码和视网膜扫描来登录，请问她共使用了多少个不同类型的因素？
+If Susan&rsquo;s organization requires her to log in with her username, a PIN, a password, and a retina scan, how many distinct authentication factor types has she used?
+
+A. 一
+One
+B. 二
+Two
+正确
+C. 三
+Three
+D. 四
+Four
+
+
+89. 语音模式识别是什么类型的身份验证因素？
+Voice pattern recognition is what type of authentication factor?
+
+A. 类型1
+Something you know
+B. 类型2
+Something you have
+C. 类型3
+Something you are
+正确
+D. 类型4
+Somewhere you are
+
+
+90. 以下哪项不是Kerberos的弱点？
+Which of the following is not a weakness in Kerberos?
+
+A. KDC 是一个单点故障
+The KDC is a single point of failure.
+B. KDC 的破坏会允许攻击者假冒任何用户
+Compromise of the KDC would allow attackers to impersonate any user.
+C. 身份验证信息不加密
+Authentication information is not encrypted.
+正确
+D. 很容易猜到密码
+It is susceptible to password guessing.
+
+
+91. Jim 在公司内实施IDaaS，支持基于云的应用程序。Jim的公司没有使用集中式身份服务，而使用Active Directory 进行AAA服务。请问可使用以下哪种方式去解决公司的现场身份验证问题？
+Jim&rsquo;s organization-wide implementation of IDaaS offers broad support for cloud-based applications. Jim&rsquo;s company does not have in-house identity management staff and does not use centralized identity services. Instead, they rely upon Active Directory for AAA services. Which of the following options should Jim recommend to best handle the company&rsquo;s onsite identity needs?
+
+A. 使用OAuth 集成现场系统
+Integrate onsite systems using OAuth.
+B. 使用预置的第三方身份服务
+Use an on-premises third-party identity service.
+正确
+C. 使用SAML 集成现场系统
+Integrate onsite systems using SAML.
+D. 设计一个内部解决方案来处理组织的独特需求
+Design an in-house solution to handle the organization&rsquo;s unique needs.
+
+

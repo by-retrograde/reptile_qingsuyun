@@ -1,0 +1,266 @@
+1. 对于下面列出的人员，一份重要的业务连续性计划声明会对谁提供最佳承诺?
+Of the individuals listed, who would provide the best endorsement for a business continuity plan&rsquo;s statement of importance?
+
+A. 业务运营副总裁
+Vice president of business operations
+B. 首席信息官
+Chief information officer
+C. 首席执行官
+Chief executive officer
+正确
+D. 业务连续性经理
+Business continuity manager
+
+
+2. 用于为单个风险场景计算单一损失期望的公式是什么?
+What is the formula used to compute the single loss expectancy for a risk scenario?
+
+A. SLE = AV x EF
+SLE = AV &times; EF
+正确
+B. SLE = RO x EF
+SLE = RO &times; EF
+C. SLE = AV x ARO
+SLE = AV &times; ARO
+D. SLE = EF x ARO
+SLE = EF &times; ARO
+
+
+3. 如果灾难中断了业务的正常运行， 什么类型的计划概述了相关处理流程?
+What type of plan addresses the technical controls associated with alternate processing facilities, backups, and fault tolerance?
+
+A. 业务连续性计划
+Business continuity plan
+B. 业务影响评估
+Business impact assessment
+C. 灾难恢复计划
+Disaster recovery plan
+正确
+D. 脆弱性评估
+Vulnerability assessment
+
+
+4. 安装冗余通信链路， 这是利用了什么类型的缓解条款?
+What type of mitigation provision is utilized when redundant communications links are installed?
+
+A. 加固系统
+Hardening systems
+B. 定义系统
+Defining systems
+C. 减轻系统
+Reducing systems
+D. 更换系统
+Alternative systems
+正确
+
+
+5. 在哪个业务连续性计划任务中， 会设计流程和机制以减少BCP 团队认定的不可接受的风险?
+In which business continuity planning task would you actually design procedures and mechanisms to mitigate risks deemed unacceptable by the BCP team?
+
+A. 策略阶段
+Strategy development
+B. 业务影响评估
+Business impact assessment
+C. 条款和流程
+Provisions and processes
+正确
+D. 资源优先级
+Resource prioritization
+
+
+6. Lighter Than Air 公司预计如果龙卷风袭击了它的飞机业务设施，就会损失1000 万美金。假设龙卷风袭击设施每100 年会发生一次。那么在这个场景下年度损失期望是多少?
+Lighter Than Air Industries expects that it would lose $10 million&nbsp;if a tornado struck its aircraft operations facility. It expects that a&nbsp;tornado might strike the facility once every 100 years。&nbsp;what is the annualized loss expectancy?
+
+A. 0.01
+0.01
+B. 1000万美金
+$10,000,000
+C. 10万美金
+$100,000
+正确
+D. 0.10
+0.10
+
+
+7. Lighter Than Air 公司预计如果龙卷风袭击了它的飞机业务设施，就会损失1000 万美金。假设龙卷风袭击设施每100 年会发生一次。那么在这个场景下单一损失期望是多少?
+Lighter Than Air Industries expects that it would lose $10 million if a tornado struck its aircraft operations facility. It expects that a tornado might strike the facility once every 100 years. What is the single loss expectancy for this scenario?
+
+A. 0.01
+0.01
+B. 1000万美金
+$10,000,000
+正确
+C. 10万美金
+$100,000
+D. 0.10
+0.10
+
+
+8. 在业务影响评估过程中，下列哪个观点不适合定量测量?
+Which one of the following concerns is not suitable for quantitative measurement during the business impact assessment?
+
+A. 厂房的损失 
+Loss of a plant
+B. 车辆的损坏
+Damage to a vehicle
+C. 负面宣传
+Negative publicity
+正确
+D. 断电
+Power outage
+
+
+9. 当设计连续性计划条款和流程时， 首先应该保护哪个资源?
+Which resource should you protect first when designing continuity plan provisions and processes?
+
+A. 厂房
+Physical plant
+B. 基础设施
+Infrastructure
+C. 金融
+Financial resources
+D. 人
+People
+正确
+
+
+10. 以下哪个BCP 任务连接业务影响评估和连续性规划阶段?
+Which task of BCP bridges the gap between the business impact assessment and the continuity planning phases?
+
+A. 资源优先级
+Resource prioritization
+B. 可能性评估
+Likelihood assessment
+C. 策略开发
+Strategy development
+正确
+D. 条款和流程
+Provisions and processes
+
+
+11. 你担心飓风会对设在南佛罗里达州的公司总部造成风险。这个建筑物本身价值1 500 万美金。在咨询了国家气象服务部门后， 你确定飓风在一年之中袭击的可能性有10%。你雇佣了一支由建筑师和工程师组成的团队， 确定了一般的飓风会摧毁约50%的建筑物。年度损失期望ALE)是多少?
+You are concerned about the risk that a hurricane poses to your corporate headquarters in South Florida. The building itself is valued at $15 million. After consulting with the National Weather Service, you determine that there is a 10 percent likelihood that a hurricane will strike over the course of a year. You hired a team of architects and engineers who determined that the average hurricane would destroy approximately 50 percent of the building. What is the annualized loss expectancy (ALE)?
+
+A. 75 万美金
+$750,000
+正确
+B. 150 万美金
+$1.5 million
+C. 750 万美金
+$7.5 million
+D. 1500 万美金
+$15 million
+
+
+12. 你担心雪崩这个风险会威胁到你的300 万美金运输设施。基于业内意见， 你确定每年雪崩有5%的几率发生。专家提醒你， 雪崩会彻底摧毁你的建筑物， 井迫使你在同一块土地上重建。这300万美金的设施中90%的价值是大楼， 另外1 0%是土地本身。雪崩对于你的运输设施的&nbsp;年度损失预期是多少?
+You are concerned about the risk that an avalanche poses to your $3 million shipping facility. Based on expert opinion, you determine that there is a 5 percent chance that an avalanche will occur each year. Experts advise you that an avalanche would completely destroy your building and require you to rebuild on the same land. Ninety percent of the $3 million value of the facility is attributed to the building, and 10 percent is attributed to the land itself. what is the annualized loss expectancy?
+
+A. 300 万美金.
+$3,000,000
+B. 270 万美金
+$2,700,000
+C. 27 万美金
+$270,000
+D. 13.5 万美金
+$135,000
+正确
+
+
+13. 你担心雪崩这个风险会威胁到你的300 万美金运输设施。基于业内意见， 你确定每年雪崩有5%的几率发生。专家提醒你， 雪崩会彻底摧毁你的建筑物， 井迫使你在同一块土地上重建。这300万美金的设施中90%的价值是大楼， 另外1 0%是土地本身。雪崩对于你的运输设施的单一损失期望是多少?
+You are concerned about the risk that an avalanche poses to your $3 million shipping facility. Based on expert opinion, you determine that there is a 5 percent chance that an avalanche will occur each year. Experts advise you that an avalanche would completely destroy your building and require you to rebuild on the same land. Ninety percent of the $3 million value of the facility is attributed to the building, and 10 percent is attributed to the land itself. What is the single loss expectancy of your shipping facility to avalanches?
+
+A. 300 万美金
+$3,000,000
+B. 270 万美金
+$2,700,000
+正确
+C. 27 万美金
+$270,000
+D. 13.5 万美金
+$135,000
+
+
+14. 什么BIA 度量值被用于表示一个业务功能的最长中断时间， 但这个中断没有对组织产生不可弥补的损害?
+What BIA metric can be used to express the longest time a business function can be unavailable without causing irreparable harm to the organization?
+
+A. SLE
+SLE
+B. EF
+EF
+C. MTD
+MTD
+正确
+D. ARO
+ARO
+
+
+15. 下列哪一项目A 条款标识了一个特定风险每年预计损失的货币量?
+Which one of the following BIA terms identifies the amount of money a business expects to lose to a given risk each year?
+
+A. ARO
+ARO
+B. SLE
+SLE
+C. ALE
+ALE
+正确
+D. EF
+EF
+
+
+16. 在业务影响评估的优先级识别阶段， 什么测量单位用于资产价值量化?
+What unit of measurement should be used to assign quantitative values to assets in the priority identification phase of the business impact assessment?
+
+A. 货币
+Monetary
+正确
+B. 效用
+Utility
+C. 重要性
+Importance
+D. 时间
+Time
+
+
+17. 在BCP 阶段， BCP 过程消耗的主要资源将是什么?
+What will be the major resource consumed by the BCP process during the BCP phase?
+
+A. 硬件
+Hardware
+B. 软件
+Software
+C. 处理时间
+Processing time
+D. 人员
+Personnel
+正确
+
+
+18. 在组织持续生存方面，为确保适当的措施用于减少灾难影响，以下哪一项描述了企业管理人员和总监的责任?
+What is the term used to describe the responsibility of a firm&rsquo;s officers and directors to ensure that adequate measures are in place to minimize the effect of a disaster on the organization&rsquo;s continued viability?
+
+A. 企业责任
+Corporate responsibility
+B. 灾难需求
+Disaster requirement
+C. 应尽职责
+Due diligence
+正确
+D. 持续经营责任
+Going concern responsibility
+
+
+19. 一旦BCP 团队选定， 放在团队议程首要位置的是什么?
+Once the BCP team is selected, what should be the first item placed on the team&rsquo;s agenda?
+
+A. 业务影响评估
+Business impact assessment
+B. 业务组织评估
+Business organization analysis
+正确
+C. 资源需求评估
+Resource requirements analysis
+D. 法律和合规性评估
+Legal and regulatory assessment
+
+

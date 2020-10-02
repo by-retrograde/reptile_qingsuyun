@@ -1,0 +1,1930 @@
+1. COBIT和COSO可一起使用，但有不同的目标和重点。由于它们属于两种模型，因此以下哪项是不正确的？
+i. COSO是公司治理模型，COBIT是IT治理模型。
+ii. COSO更侧重于战略层面，而COBIT更侧重于运营层面。
+iii. COBIT是满足许多COSO目标的一种方式，但只能从IT角度出发。
+iv. COSO还需要关注非IT的内容，例如公司文化、财务会计准则、董事会责任和内部沟通架构。
+COBIT and COSO can be used together, but have different goals and focuses. Which of the following is incorrect as it pertains to these two models?
+i. COSO is a model for corporate governance, and COBIT is a model for IT governance.
+ii. COSO deals more at the strategic level, while COBIT focuses more at the operational level.
+iii. COBIT is a way to meet many of the COSO objectives, but only from the IT perspective.
+iv. COSO deals with non-IT items also, as in company culture, financial accounting principles, board of director responsibility, and internal communication structures.
+
+A. 全部正确
+None
+正确
+B. 全部不正确
+All&nbsp;
+C. &nbsp;i, ii&nbsp;
+&nbsp;i, ii&nbsp;
+D. &nbsp;ii, iii&nbsp; 
+&nbsp;ii, iii
+
+
+2. 多年来，不同组织开发出了不同模型和框架以帮助企业更有效地执行各种流程。以下哪一项提供的定义映射是正确？
+i. COSO&nbsp;企业安全体系结构和服务管理的方法和框架
+ii. ITIL&nbsp;由英国政府商务办公室制定的用于服务管理的流程
+iii.&nbsp;六西格玛(Six Sigma) &nbsp;业务管理策略，可用于改进过程
+iv. 能力成熟度模型集成(CMMI) &nbsp;由Carnegie Mellon提供，用于过程改进的组织性开发
+Several models and frameworks have been developed by different organizations over the years to help businesses carry out processes in a more efficient and effective manner. Which of the following provides the correct definition mapping of one of these items?
+i. COSO A framework and methodology for enterprise security architecture and service management
+ii. ITIL Processes to allow for IT service management developed by the United Kingdom&rsquo;s Office of Government Commerce
+iii. Six Sigma Business management strategy that can be used to carry out process improvement
+iv. Capability Maturity Model Integration (CMMI) Organizational development for process improvement developed by Carnegie Mellon
+
+A. &nbsp; i
+&nbsp; i
+B. i、iii
+i、iii
+C. &nbsp;ii、iv
+&nbsp;ii、iv
+D. ii、iii、iv
+ii、iii、iv
+正确
+
+
+3. 能力成熟度模型集成(CMMI)是一种过程改进方法，用来帮助组织改进其性能。CMMI模型可能也用于作为一种框架评价组织的过程成熟度。以下哪一项不是基于该模型水平被指派给组织的正确映射？
+i. 成熟度第2级-管理(或可重复)
+ii. 成熟度第3级&mdash;定义
+iii. 成熟度第4级&mdash;定量管理
+iv. 成熟度第5级&mdash;优化
+Capability Maturity Model Integration (CMMI) is a process improvement approach that is used to help organizations improve their performance. The CMMI model may also be used as a framework for appraising the process maturity of the organization. Which of the following is an incorrect mapping of the levels that may be assigned to an organization based upon this model?
+i. Maturity Level 2 &ndash; Managed or Repeatable
+ii. Maturity Level 3 &ndash; Defined
+iii. Maturity Level 4 &ndash; Quantitatively Managed
+iv. Maturity Level 5 &ndash; Optimizing
+
+A. i
+i
+B. i、ii
+i、ii
+C. 所有这些
+All of them
+D. 以上都不是
+None of them
+正确
+
+
+4. 一个组织的信息系统风险管理(ISRM)策略应该具有许多项目来提供明确的方向和结构。以下哪一项不是这种类型的策略应该覆盖的核心项目？
+i. IRM团队的目标
+ii. 组织将接受的风险级别和认为可接受的风险级别
+iii. 正式的风险识别流程
+iv. IRM策略与组织战略规划过程的联系
+v. 属于IRM的职责以及对应的角色
+vi. 风险与特定物理控制之间的映射
+vii. 针对员工行为改变和根据风险分析进行资源分配的方法
+viii. 风险与性能目标和预算之间的映射
+ix. 监测控制有效性的关键指标
+An organization&rsquo;s information system risk management (ISRM) policy should address many items to provide clear direction and structure. Which of the following is not a core item that should be covered in this type of policy?
+i. The objectives of the IRM team
+ii. The level of risk the organization will accept and what is considered an acceptable level of risk
+iii. Formal processes of risk identification
+iv. The connection between the IRM policy and the organization&rsquo;s strategic planning processes
+v. Responsibilities that fall under IRM and the roles to fulfill them
+vi. The mapping of risk to specific physical controls
+vii. The approach toward changing staff behaviors and resource allocation in response to risk analysis
+viii. The mapping of risks to performance targets and budgets
+ix. Key indicators to monitor the effectiveness of controls
+
+A. ii、v、ix
+ii、v、ix
+B. &nbsp;vi
+&nbsp;vi
+正确
+C. &nbsp;v
+&nbsp;v
+D. vii、ix
+vii、ix
+
+
+5. 越来越多的组织通过外包业务功能使自己能专注于核心业务功能。公司一般使用托管公司来维护各种网站和电子邮件服务器，让服务提供商来负责各种电信连接，让灾难恢复公司负责主机代管能力，让云计算提供商负责基础架构或各种应用程序服务，开发人员负责编制软件，让安全公司管理漏洞。在分析外包合作伙伴或供应商的过程中，应列入下列哪一项？
+i. 进行现场调查和访谈
+ii. 审查合同，以确保在安全和保护级别上达成一致
+iii. 务必准备好服务级别协议
+iv. 检查内部和外部的审计报告，以及第三方的评审结果
+v. 参考原先和现有的客户所做的介绍和沟通
+vi. 审查更好的商业局报告
+More organizations are outsourcing business functions to allow them to focus on their core business functions. Companies use hosting companies to maintain websites and e-mail servers, service providers for various telecommunication connections, disaster recovery companies for co-location capabilities, cloud computing providers for infrastructure or application services, developers for software creation, and security companies to carry out vulnerability management. Which of the following items should be included during the analysis of an outsourced partner or vendor?
+i. Conduct onsite inspection and interviews
+ii. Review contracts to ensure security and protection levels are agreed upon
+iii. Ensure service level agreements are in place
+iv. Review internal and external audit reports and third-party reviews
+v. Review references and communicate with former and existing customers
+vi. Review Better Business Bureau reports
+
+A. ii, iii, iv
+ii, iii, iv
+B. &nbsp;iv、v、vi
+&nbsp;iv、v、vi
+C. 全部都是
+全部都是
+正确
+D. i, ii, iii
+i, ii, iii
+
+
+6. 在正式架构框架开发和实施学科中，使用了特定的术语分类。以下哪组术语的定义是错误的？
+i. 架构&nbsp;&nbsp;系统所包含组件的基本组织结构，彼此的关系和所处环境以及设计和发展指导原则。
+ii. 架构描述(AD)&nbsp;&nbsp;一系列相关的角度表述整个系统。
+iii. 利益相关者&nbsp;&nbsp;对系统感兴趣或与系统相关的个人、团队或组织机构(或类别)。
+iv. 视图&nbsp;&nbsp;正式表述体系机构的各种文档的集合。
+v. 视角&nbsp;&nbsp;构建和使用视图的约定规范。根据模板来开发每个视图，确定每个视图的目标和观众以及创建和分析它的技术。
+There is a specific terminology taxonomy used in the discipline of formal architecture framework development and implementation. Which of the following terms has an incorrect definition?
+i. Architecture&nbsp;Fundamental organization of a system embodied in its components, their relationships to each other and to the environment, and the principles guiding its design and evolution.
+ii. Architectural description (AD) &nbsp;Representation of a whole system from the perspective of a related set of concerns.
+iii. Stakeholder&nbsp;Individual, team, or organization (or classes thereof) with interests in, or concerns relative to, a system.
+iv. View Collection of document types to convey an architecture in a formal manner.
+v. Viewpoint A specification of the conventions for constructing and using a view. A template from which to develop individual views by establishing the purposes and audience for a view and the techniques for its creation and analysis.
+
+A. &nbsp;i, iii
+&nbsp;i, iii&nbsp;
+B. ii, iv
+ii, iv
+正确
+C. &nbsp;iv, v
+&nbsp;iv, v
+D. &nbsp;ii
+&nbsp;ii
+
+
+7. 使用以下场景回答2个问题。
+Ron负责更新公司的业务连续性和灾难恢复的计划和流程。经过业务影响分析后，他的团队告诉他，如果公司的电子商务支付网关超过24小时无法处理付款，这将严重影响公司的生存。分析表明，停电后，支付网关和支付处理应在13小时内恢复。Ron的团队需要提供具有冗余、容错和故障转移能力的综合性解决方案。
+Ron is in charge of updating his company&rsquo;s business continuity and disaster recovery plans and processes. After conducting a business impact analysis, his team has told him that if the company&rsquo;s e-commerce payment gateway was unable to process payments for 24 hours or more, this could drastically affect the survivability of the company. The analysis indicates that after an outage, the payment gateway and payment processing should be restored within 13 hours. Ron&rsquo;s team needs to integrate solutions that provide redundancy, fault tolerance, and failover capability.
+
+8. COBIT和COSO可一起使用，但有不同的目标和重点。由于它们属于两种模型，因此以下哪项是不正确的？
+i. COSO是公司治理模型，COBIT是IT治理模型。
+ii. COSO更侧重于战略层面，而COBIT更侧重于运营层面。
+iii. COBIT是满足许多COSO目标的一种方式，但只能从IT角度出发。
+iv. COSO还需要关注非IT的内容，例如公司文化、财务会计准则、董事会责任和内部沟通架构。
+COBIT and COSO can be used together, but have different goals and focuses. Which of the following is incorrect as it pertains to these two models?
+i. COSO is a model for corporate governance, and COBIT is a model for IT governance.
+ii. COSO deals more at the strategic level, while COBIT focuses more at the operational level.
+iii. COBIT is a way to meet many of the COSO objectives, but only from the IT perspective.
+iv. COSO deals with non-IT items also, as in company culture, financial accounting principles, board of director responsibility, and internal communication structures.
+
+A. 全部正确
+ None
+正确
+B. 全部不正确
+ All&nbsp;
+C. &nbsp;i, ii&nbsp;
+ &nbsp;i, ii&nbsp;
+D. &nbsp;ii, iii&nbsp; 
+&nbsp;ii, iii
+
+
+9. 攻击者可修改客户端的JavaScript，这些JavaScript提供结构化布局。这些攻击通常发生在被破坏的网络服务器内的表单域中。以下哪项最恰当地描述了这种攻击类型？
+An attacker can modify the client-side JavaScript that provides structured layout and HTML representation. This commonly takes place through form fields within compromised web servers. Which of the following best describes this type of attack?
+
+A. 注入攻击
+Injection attack
+B. 基于DOM的XSS
+DOM-based XSS
+正确
+C. 存储型XSS
+Persistent XSS
+D. 会话劫持
+Session hijacking
+
+
+10. Tim最近开始在一个没有定义安全流程的组织工作。他想改进的一个领域是软件修补。与组织文化一致，他正考虑分散或非管理模式修补。以下哪项不是组织面临这样一个模式的风险之一？
+Tim recently started working at an organization with no defined security processes. One of the areas he&rsquo;d like to improve is software patching. Consistent with the organizational culture, he is considering a decentralized or unmanaged model for patching. Which of the following is not one of the risks his organization would face with such a model?
+
+A. 该模式通常要求用户具有打破最小权限原则的管理员凭据。
+This model typically requires users to have admin credentials, which violates the principle of least privilege.
+B. 这将更容易确保所有软件都被更新，因为它们将被配置为自动执行。
+It will be easier to ensure that all software is updated, since they will be configured to do so automatically.
+正确
+C. 证明组织中每个应用程序的状态可能很难(或不可能)。
+It may be difficult (or impossible) to attest to the status of every application in the organization.
+D. 让每个应用程序或服务独立下载补丁会导致网络拥塞。
+Having each application or service independently download the patches will lead to network congestion.
+
+
+11. 通过使用允许访问的数据去发现限制信息，这种行为被称为________。
+Uncovering restricted information by using permissible data is referred to as ___.
+
+A. 推理
+inference
+正确
+B. 数据挖掘
+data mining
+C. 干扰
+perturbation
+D. 单元抑制
+cell suppression
+
+
+12. 风险分析可通过定性或定量方法进行。选择正确方法来满足组织目标是很重要的。在定量分析中，以下哪些项目不会被分配一个数值？
+i. 资产价值
+ii. 威胁频率
+iii. 脆弱性严重程度
+iv. 影响破坏
+v. 防护成本
+vi. 保护效率
+vii. 可能性
+A risk analysis can be carried out through qualitative or quantitative means. It is important to choose the right approach to meet the organization&rsquo;s goals. In a quantitative analysis, which of the following items would not be assigned a numeric value?
+i. Asset value
+ii. Threat frequency
+iii. Severity of vulnerability
+iv. Impact damage
+v. Safeguard costs
+vi. Safeguard effectiveness
+vii. Probability
+
+A. 以上都是
+All of them
+B. 以上都不是
+None of them
+正确
+C. &nbsp;ii
+&nbsp;ii
+D. vii
+vii
+
+
+13. 以下哪项不是故障模式和影响分析(FMEA)方法的正确特征？
+Which of the following is not a correct characteristic of the Failure Modes and Effect Analysis (FMEA) method?
+
+A. 确定功能和识别功能故障。
+Determining functions and identifying functional failures
+B. 通过结构化过程来评估故障原因及其故障影响。
+Assessing the causes of failure and their failure effects through a structured process
+C. 支持团队执行的结构化流程，用于识别高层次的安全问题。
+Structured process carried out by an identified team to address high-level security compromises
+正确
+D. 确定哪些地方最可能出现故障，并确定可能导致此问题或实施控制的缺陷，以减少故障的影响
+Identifying where something is most likely going to break and either fixing the flaws that could cause this issue or implementing controls to reduce the impact of the break
+
+
+14. 以下哪个法系，用于欧洲大陆国家，如法国和西班牙，并且它是基于规则，不是基于先例？
+Which world legal system of law is used in continental European countries, such as France and Spain, and is rule-based law, not precedence based?
+
+A. 大陆法法系(法典)
+Civil (code) law system
+正确
+B. 普通法法系
+Common law system
+C. 习惯法法系
+Customary law system
+D. 混合法法系
+Mixed law system
+
+
+15. 瓦森纳协定协议（Wassenaar Arrangement）的主要目标是防止构成可能威胁区域以及国际安全和稳定的军事能力。这个协议怎样与技术关联？
+The main goal of the Wassenaar Arrangement is to prevent the buildup of military capabilities that could threaten regional and international security and stability. How does this relate to technology?
+
+A. 密码学是一种双重用途的工具。
+Cryptography is a dual-use tool.
+正确
+B. 技术被用于武器系统。
+Technology is used in weaponry systems.
+C. 军事行动与关键基础设施系统直接相关。
+Military actions directly relate to critical infrastructure systems.
+D. 根据这项协议，关键基础设施系统可能面临风险。
+Critical infrastructure systems can be at risk under this agreement.
+
+
+16. 以下哪一项关于员工胁迫的描述是最恰当的？
+Which of the following statements is true about employee duress?
+
+A. 通过安装紧急按钮可以减轻其风险
+Its risks can be mitigated by installing panic buttons.
+正确
+B. 通过安装颤栗空间可以减轻其风险。
+Its risks can be mitigated by installing panic rooms.
+C. 通过实施强制休假可以减轻其风险
+Its risks can be mitigated by enforcing forced vacations.
+D. 通过使用正确的裁剪级别可以更容易检测出威胁
+It can more easily be detected using the right clipping levels.
+
+
+17. 您的公司与另一家公司签订了合同，并要求这一家公司遵守特定的安全措施。经过六个月的努力，您的公司决定验证签订合同的这家公司是否满足这些安全要求。
+Your company enters into a contract with another company as part of which your company requires the other company to abide by specific security practices. Six months into the effort, you decide to verify that the other company is satisfying these security requirements. Which of the following would you conduct?
+
+A. 第三方审计
+Third-party audit
+B. 外部（第二方）审计
+External (second-party) audit
+正确
+C. 结构化穿行测试
+Structured walk-through test
+D. 全中断测试
+Full-interruption test
+
+
+18. DRP和BCP都是针对&ldquo;计划&rdquo;的开发，同时整个管理过程中也应该涵盖这两个方面。_____提供了一个既有弹性又有能力有效响应的框架，从而保护了组织主要利益相关者的利益。
+While Disaster Recovery Planning (DRP) and Business Continuity Planning (BCP) are directed at the development of &ldquo;plans,&rdquo; is the holistic management process that should cover both of them. _____ provides a framework for integrating resilience with the capability for effective responses that protects the interests of the organization&rsquo;s key stakeholders.
+
+A. 操作连续性
+continuity of operations
+B. 业务连续性管理
+business continuity management
+正确
+C. 风险管理
+risk management
+D. 企业管理架构
+enterprise management architecture
+
+
+19. 在星期二上午，Jami被传唤到安全总监办公室，在那里她看到了其他部门的6名同事。安全总监指出两周内的相关事宜。每个人将负责从设施中删除特定系统，将其转移到离站设施，并执行它们。每个人都需要测试已安装的系统，并确保生产活动的正确配置。Jami即将参加什么活动？
+On a Tuesday morning, Jami is summoned to the office of the security director, where she finds six of her peers from other departments. The security director gives them instructions about an event that will be taking place in two weeks. Each of the individuals will be responsible for removing specific systems from the facility, bringing them to the offsite facility, and implementing them. Each individual will need to test the installed systems and ensure the configurations are correct for production activities. What event is Jami about to take part in?
+
+A. 平行测试
+Parallel test
+正确
+B. 完全中断测试
+Full-interruption test
+C. 模拟测试
+Simulation test
+D. 结构化穿行测试
+Structured walk-through test
+
+
+20. Terry的老板告诉他需要实施一个网络交换基础设施，能允许几个系统连接到任何存储设备上。Terry需要实施什么？
+Terry is told by his boss that he needs to implement a networked-switched infrastructure that allows several systems to be connected to any storage device. What does Terry need to roll out?
+
+A. 电子链接
+Electronic vaulting
+B. 分级存储管理
+Hierarchical storage management
+C. 存储区域网络
+Storage area network
+正确
+D. 远程日志
+Remote journaling
+
+
+21. Frank是一家大型金融机构的新安全经理。他被告知，该组织需要降低网络和基础设施的许多组件的总体拥有成本。该组织目前维护着许多分布式网络、软件包和应用程序。Frank最好选择服务提供商提供的以下哪项云服务？
+Frank is a new security manager for a large financial institution. He has been told that the organization needs to reduce the total cost of ownership for many components of the network and infrastructure. The organization currently maintains many distributed networks, software packages, and applications. Which of the following best describes the cloud services that are most likely provided by service providers for Frank to choose from?
+
+A. &ldquo;基础设施即服务&rdquo;提供类似于操作系统的环境，&ldquo;平台即服务&rdquo;提供操作系统和其他主要处理平台，&ldquo;软件即服务&rdquo;提供特定的基于应用程序的功能。
+Infrastructure as a Service provides an environment similar to an operating system, Platform as a Service provides operating systems and other major processing platforms, and Software as a Service provides specific application- based functionality.
+B. &ldquo;基础设施即服务&rdquo;提供类似于数据中心的环境，&ldquo;平台即服务&rdquo;提供操作系统和其他主要处理平台，&ldquo;软件即服务&rdquo;提供特定的基于应用程序的功能。
+Infrastructure as a Service provides an environment similar to a data center, Platform as a Service provides operating systems and other major processing platforms, and Software as a Service provides specific application-based functionality.
+正确
+C. &ldquo;基础设施即服务&rdquo;提供类似于数据中心的环境，&ldquo;平台即服务&rdquo;提供基于应用程序的功能，&ldquo;软件即服务&rdquo;提供特定操作系统功能。
+Infrastructure as a Service provides an environment similar to a data center, Platform as a Service provides application-based functionality, and Software as a Service provides specific operating system functionality.
+D. &ldquo;基础设施即服务&rdquo;提供类似于数据库的环境，&ldquo;平台即服务&rdquo;提供操作系统和其他主要处理平台，&ldquo;软件即服务&rdquo;提供特定的基于应用程序的功能。
+Infrastructure as a Service provides an environment similar to a database, Platform as a Service provides operating systems and other major processing platforms, and Software as a Service provides specific application-based functionality.
+
+
+22. John在公司网络上发现了一个模拟开关的流氓系统。攻击者利用系统上的软件修改帧标签值。以下哪项最恰当地描述了发生的攻击类型？
+John has uncovered a rogue system on the company network that emulates a switch. The software on this system is being used by an attacker to modify frame tag values. Which of the following best describes the type of attack that has most likely been taking place?
+
+A. DHCP监听
+DHCP snooping
+B. VLAN跳跃攻击
+VLAN hopping
+正确
+C. 网络流量整形
+Network traffic shaping
+D. 网络流量跳跃攻击
+Network traffic hopping
+
+
+23. Larry是一名经验丰富的安全专家，并了解使用ISP的DNS服务器进行互联网连接的潜在危险。当Larry在酒店或任何不完全信任的环境使用笔记本电脑时，他会更新HOSTS文件中的值。以下哪项最恰当地描述Larry执行这种类型任务的原因？
+Larry is a seasoned security professional and knows the potential dangers associated with using an ISP&rsquo;s DNS server for Internet connectivity. When Larry stays at a hotel or uses his laptop in any type of environment he does not fully trust, he updates values in his HOSTS file. Which of the following best describes why Larry carries out this type of task?
+
+A. 降低攻击者向系统发送错误ARP地址从而引导其到达恶意网站所带来的风险。
+Reduces the risk of an attacker sending his system a corrupt ARP address that points his system to a malicious website
+B. 确保基于主机的IDS被正确更新。
+Ensures his host-based IDS is properly updated
+C. 降低攻击者向系统发送虚假IP地址从而引导其到达恶意网站所带来的风险。
+Reduces the risk of an attacker sending his system an incorrect IP address-to-host mapping that points his system to a malicious website
+正确
+D. 确保基于网络的IDS与其基于主机的IDS正确同步。
+Ensures his network-based IDS is properly synchronized with his host-based IDS
+
+
+24. Bob已经注意到，其中一台网络交换机在过去一周内一直表现异常。Bob安装了一个网络协议分析器来监控到这台特别交换机的流量。他已识别出来自外部源、使用目标端口161的UDP流量。以下哪项最恰当地描述了最可能发生的事情？
+Bob has noticed that one of the network switches has been acting strangely over the last week. Bob installed a network protocol analyzer to monitor the traffic going to the specific switch. He has identified UDP traffic coming from an outside source using the destination port 161. Which of the following best describes what is most likely taking place?
+
+A. 攻击者正在修改交换机SNMP MIB
+An attacker is modifying the switch SNMP MIB.
+正确
+B. 攻击者正在执行选择性DoS攻击
+An attacker is carrying out a selective DoS attack.
+C. 攻击者正在操作ARP缓存
+An attacker is manipulating the ARP cache.
+D. 攻击者正在执行注入攻击
+An attacker is carrying out an injection attack.
+
+
+25. IEEE_____为设备提供唯一的ID。 某种IEEE提供数据加密、完整性和源身份认证功能。IEEE_____为用于数据加密的会话密钥执行密钥协议函数。每种标准都提供具体的参数从而可以工作在IEEE_____框架中。
+IEEE _____ provides a unique ID for a device. IEEE _____ provides data encryption, integrity, and origin authentication functionality. IEEE _____carries out key agreement functions for the session keys used for data encryption. Each of these standards provides specific parameters to work within an IEEE _____framework.
+
+A. 802.1AF, 802.1AE, 802.1AR, 802.1X EAP-TLS
+802.1AF, 802.1AE, 802.1AR, 802.1X EAP-TLS
+B. 802.1AT, 802.1AE, 802.1AM, 802.1X EAP-SSL
+802.1AT, 802.1AE, 802.1AM, 802.1X EAP-SSL
+C. 802.1AR, 802.1AE, 802.1AF, 802.1X EAP-SSL
+802.1AR, 802.1AE, 802.1AF, 802.1X EAP-SSL
+D. 802.1AR, 802.1AE, 802.1AF, 802.1X EAP-TLS
+802.1AR, 802.1AE, 802.1AF, 802.1X EAP-TLS
+正确
+
+
+26. John是一位安全工程师，他所在的公司为各政府机构开发高度机密产品。虽然公司设有VPN来保护通过互联网和其他非信任网络传播流量，但John知道内部流量也应受到保护。以下哪项是John的公司应采取的最佳方式？
+John is a security engineer at a company that develops highly confidential products for various government agencies. While his company has VPNs set up to protect traffic that travels over the Internet and other nontrusted networks, he knows that internal traffic should also be protected. Which of the following is the best type of approach John&rsquo;s company should take?
+
+A. 实现提供802.1AE安全功能的数据链路技术
+Implement a data link technology that provides 802.1AE security functionality.
+正确
+B. 实现提供802.1AE安全功能的网络级技术
+Implement a network-level technology that provides 802.1AE security functionality.
+C. 通过L2TP实现TLS
+Implement TLS over L2TP.
+D. 通过L2TP实现IPSec
+Implement IPSec over L2TP.
+
+
+27. 以下哪项最恰当地描述了创建无类域间路由(CIDR)的原因？
+Which of the following best describes why classless interdomain routing (CIDR) was created?
+
+A. 允许IPv6流量穿越IPv4网络
+To allow IPv6 traffic to tunnel through IPv4 networks
+B. 允许将IPSec集成到IPv4流量中
+To allow IPSec to be integrated into IPv4 traffic
+C. 允许地址类大小满足组织需要
+To allow an address class size to meet an organization&rsquo;s need
+正确
+D. 允许IPv6穿越IPSec流量
+To allow IPv6 to tunnel IPSec traffic
+
+
+28. 在OSI模型，逻辑链路控制层(LLC)的功能是什么？
+What is the purpose of the Logical Link Control (LLC) layer in the OSI model?
+
+A. 为网络层协议提供标准接口
+Provides a standard interface for the network layer protocol
+正确
+B. 为数据链路层提供帧功能
+Provides the framing functionality of the data link layer
+C. 在封装过程中提供数据包的寻址
+Provides addressing of the packet during encapsulation
+D. 提供将&ldquo;位&rdquo;转换为电信号的功能
+Provides the functionality of converting bits into electrical signals
+
+
+29. 并非每个数据传输都包含会话层。以下哪项最恰当地描述了会话层功能？
+Not every data transmission incorporates the session layer. Which of the following best describes the functionality of the session layer?
+
+A. 端到端的数据传输
+End-to-end data transmission
+B. 在分布式环境中应用客户端/服务端的通信机制
+Application client/server communication mechanism in a distributed environment
+正确
+C. 应用到计算机的物理通信
+Application-to-computer physical communication
+D. 为应用程序提供正确的传输语法
+Provides application with the proper syntax for transmission
+
+
+30. 以下哪个框架是一个二维模型，使用了6个基本疑问词和不同的视角全面解释该企业？
+Which of the following frameworks is a two-dimensional model that uses six basic communication interrogatives intersecting with different viewpoints to give a holistic understanding of the enterprise?
+
+A. SABSA
+SABSA
+B. TOGAF
+TOGAF
+C. CMMI
+CMMI
+D. Zachman
+Zachman
+正确
+
+
+31. 以下哪项最恰当地描述了通过环境设计预防犯罪行为(CPTED)来整合区域和活动的原因？
+Which of the following best describes why Crime Prevention Through Environmental Design (CPTED) would integrate block parties and civic meetings?
+
+A. 这些活动旨在使人们共同协作来增加本区域整体犯罪行为。
+These activities are designed to get people to work together to increase the overall crime and criminal behavior in the area.
+B. 这些活动旨在使公司共同协作来提高对本区域可接受和不可接受活动的整体关注度。
+These activities are designed to get corporations to work together to increase the overall awareness of acceptable and unacceptable activities in the area.
+C. 这些活动旨在使人们共同协作来改进这种设计模式的三种策略。
+These activities are designed to get people to work together to increase the three strategies of this design model.
+D. 这些活动旨在使人们共同提高对本区域可接受和不可接受活动的整体关注度。
+These activities are designed to get people to work together to increase the overall awareness of acceptable and unacceptable activities in the area.
+正确
+
+
+32. 有不同类型的灭火系统。以下哪个答案最恰当地描述了泛滥式和预作用式系统之间的区别？
+There are different types of fire suppression systems. Which of the following answers best describes the difference between a deluge and a preaction system?
+
+A. 泛滥式系统提供了一种延迟机制，这样，如果某人发现警告有误或火灾已通过其他方式扑灭，则可禁用系统。预作用式系统也提供类似功能，但有宽大的喷水头，允许大量的水快速喷出。
+A deluge system provides a delaying mechanism that allows someone to deactivate the system in case of a false alarm or if the fire can be extinguished by other means. A preaction system provides similar functionality but has wide open sprinkler heads that allow a lot of water to be dispersed quickly.
+B. 预作用式系统提供了一种延迟机制，这样，如果某人发现警告有误或火灾已通过其他方式扑灭，则可禁用系统。泛滥式系统有宽大的喷水头，允许大量的水快速喷出。
+A preaction system provides a delaying mechanism that allows someone to deactivate the system in case of a false alarm or if the fire can be extinguished by other means. A deluge system has wide open sprinkler heads that allow a lot of water to be dispersed quickly.
+正确
+C. 干管式系统提供了一种延迟机制，这样，如果某人发现警告有误或火灾已通过其他方式扑灭，则可禁用系统。泛滥式系统有宽大的喷水头，允许大量的水快速喷出。
+A dry pipe system provides a delaying mechanism that allows someone to deactivate the system in case of a false alarm or if the fire can be extinguished by other means. A deluge system has wide open sprinkler heads that allow a lot of water to be dispersed quickly.
+D. 预作用式系统提供了一种延迟机制，这样，如果某人发现警告有误或火灾已通过其他方式扑灭，则可禁用系统。泛滥式系统也提供类似功能，但具有宽大的喷水头，允许大量的水快速喷出。
+A preaction system provides a delaying mechanism that allows someone to deactivate the system in case of a false alarm or if the fire can be extinguished by other means. A deluge system provides similar functionality but has wide open sprinkler heads that allow a lot of water to be dispersed quickly.
+
+
+33. 有一种喷水灭火系统，管道中是空的，只有当达到某一温度时才开始放水，并建立了一套&ldquo;延迟机制&rdquo;。这种喷水灭火系统被称为什么？
+What is the name of a water sprinkler system that keeps pipes empty and doesn&rsquo;t release water until a certain temperature is met and a &ldquo;delay mechanism&rdquo; is instituted?
+
+A. 湿管式
+Wet
+B. 预作用式
+Preaction
+正确
+C. 延迟式
+Delayed
+D. 干管式
+Dry
+
+
+34. 一家公司需要采用CCTV系统以监控设施外的大片区域。以下哪种是符合这种情况的镜头组合？
+A company needs to implement a CCTV system that will monitor a large area of the facility. Which of the following is the correct lens combination for this?
+
+A. 一个广角镜头和一个小透镜孔径。
+A wide-angle lens and a small lens opening
+正确
+B. 一个广角镜头和一个大透镜孔径。
+A wide-angle lens and a large lens opening
+C. 一个广角镜头和一个带小焦距的大透镜孔径。
+A wide-angle lens and a large lens opening with a small focal length
+D. 一个广角镜头和一个带大焦距的大透镜孔径。
+A wide-angle lens and a large lens opening with a large focal length
+
+
+35. 许多操作系统实现了地址空间格局随机化(ASLR)。以下哪项最恰当地描述了这种技术？
+Many operating systems implement address space layout randomization (ASLR). Which of the following best describes this type of technology?
+
+A. 随机安排内存地址空间
+&nbsp;Randomly arranging memory address values
+正确
+B. 限制能在特权模式下执行指令的进程类型
+Restricting the types of processes that can execute instructions in privileged mode
+C. 在虚拟机中运行特权指令
+Running privileged instructions in virtual machines
+D. 随机返回指针值
+Randomizing return pointer values
+
+
+36. 以下哪种访问控制机制提供了定义访问控制策略最细的粒度
+Which of the following access control mechanisms gives you the most granularity in defining access control policies?
+
+A. 基于属性的访问控制（ABAC）
+Attribute-based access control (ABAC)
+正确
+B. 基于角色的访问控制（RBAC）
+Role-based access control (RBAC)
+C. 强制访问控制（MAC）
+Mandatory access control (MAC)
+D. 非自主访问控制（DAC）
+Discretionary access control (DAC)
+
+
+37. Hanna是一名严重依赖特定操作系统的公司的安全经理。操作系统用于员工工作站，并嵌入到支持自动化生产线软件的设备中。她发现操作系统有一个漏洞，攻击者可能利用这个漏洞执行进程而释放内存段。以下哪项最恰当地描述了此漏洞引入的威胁类型？
+Hanna is a security manager of a company that relies heavily on one specific operating system. The operating system is used in the employee workstations and is embedded within devices that support the automated production line software. She has uncovered that the operating system has a vulnerability that could allow an attacker to force applications to not release memory segments after execution. Which of the following best describes the type of threat this vulnerability introduces?
+
+A. 注入攻击
+Injection attacks
+B. 内存奔溃
+Memory corruption
+C. 拒绝服务
+Denial of service
+正确
+D. 软件锁定
+Software locking
+
+
+38. 操作系统有许多不同结构让所有不同的执行组件保持必要的同步。操作系统会维护一个进程表。以下哪项最恰当地描述了操作系统进程表的作用？
+An operating system has many different constructs to keep all of the different execution components in the necessary synchronization. One construct the operating system maintains is a process table. Which of the following best describes the role of a process table within an operating system?
+
+A. 进程表包含每个进程的信息，这些进程在执行各个进程的指令时被CPU使用。
+The table contains information about each process that the CPU uses during the execution of the individual processes&rsquo; instructions.
+正确
+B. 进程表包含内存边界地址，以确保进程不会互相破坏数据。
+The table contains memory boundary addresses to ensure that processes do not corrupt each other&rsquo;s data.
+C. 进程表包含CPU在状态转换期间使用的状态位。
+The table contains condition bits that the CPU uses during state transitions.
+D. 进程表包含I/O和内存地址。
+The table contains I/O and memory addresses.
+
+
+39. 以下哪项最恰当地描述了如何用地址总线和数据总线来执行指令？
+Which of the following best describes how an address bus and a data bus are used for instruction execution?
+
+A. CPU会在数据总线上发送&ldquo;取回&rdquo;请求，所请求地址中的数据通过地址总线返回。
+The CPU sends a &ldquo;fetch&rdquo; request on the data bus, and the data residing at the requested address is returned on the address bus.
+B. CPU会在地址总线上发送&ldquo;获取&rdquo;请求，所请求地址中的数据通过地址总线返回。
+The CPU sends a &ldquo;get&rdquo; request on the address bus, and the data residing at the requested address is returned on the data bus.
+C. CPU会在地址总线上发送&ldquo;取回&rdquo;请求，所请求地址中的数据通过地址总线返回。
+The CPU sends a &ldquo;fetch&rdquo; request on the address bus, and the data residing at the requested address is returned on the data bus.
+正确
+D. CPU会在数据总线上发送&ldquo;获取&rdquo;请求，所请求地址中的数据通过地址总线返回。
+The CPU sends a &ldquo;get&rdquo; request on the data bus, and the data residing at the requested address is returned on the address bus.
+
+
+40. 操作系统可能不适用于特定的处理器系统。以下哪项最恰当地描述了一个操作系统可在Intel处理器上工作，却不能在AMD处理器工作的原因？
+Operating systems may not work on systems with specific processors. Which of the following best describes why one operating system may work on an Intel processor but not on an AMD processor?
+
+A. 操作系统没有被开发为在特定处理器的架构工作，并且不能使用特定的处理器指令集。
+The operating system was not developed to work within the architecture of a specific processor and cannot use that specific processor instruction set.
+正确
+B. 操作系统是在新的处理器架构发布之前开发的，因此不能向后兼容。
+The operating system was developed before the new processor architecture was released, and thus is not backward compatible.
+C. 操作系统被编程为使用不同的指令集。
+The operating system is programmed to use a different instruction set.
+D. 操作系统依赖于平台，因此只能在一个特定的处理器系列上工作。
+The operating system is platform dependent, and thus can work only on one specific processor family.
+
+
+41. Khadijah带领公司的软件开发团队。她知道攻击面分析和开发威胁模型的重要性。在软件开发生命周期的哪个阶段应该执行这些操作？
+Khadijah is leading a software development team for her company. She knows the importance of conducting an attack surface analysis and developing a threat model. During which phase of the software development life cycle should she perform these actions?
+
+A. 需求收集
+Requirements gathering
+B. 测试与验证
+Testing and validation
+C. 发布与维护
+Release and maintenance
+D. 设计
+Design
+正确
+
+
+42. 下列哪种安全模式实施一种做法：一个对象的安全级别永远不变(称为&ldquo;强静&rdquo;属性)？
+Which security model enforces the principle that the security levels of an object should never change and is known as the &ldquo;strong tranquility&rdquo; property?
+
+A. Biba
+Biba
+B. Bell-LaPadula
+Bell-LaPadula
+正确
+C. Brewer-Nash
+Brewer-Nash
+D. 非相干
+Noninterference
+
+
+43. John是公司新任命的软件开发总监。几个专有应用程序为员工提供单独的服务，但员工必须独立登录每个应用程序才能访问这些独立的服务。John希望提供一种方法，让这些独立应用程序提供的服务能被集中访问和控制。以下哪项最恰当地描述了John应该部署的架构？
+John is the new director of software development within his company. Several proprietary applications offer individual services to the employees, but the employees have to log into each and every application independently to gain access to these discrete services. John would like to provide a way that allows each of the services provided by the various applications to be centrally accessed and controlled. Which of the following best describes the architecture that John should deploy?
+
+A. 面向服务的架构
+Service-oriented architecture
+正确
+B. Web服务架构
+Web services architecture
+C. 单点登录框架
+Single sign-on architecture
+D. 分层服务架构
+Hierarchical service architecture
+
+
+44. Lynn计划去旅行，因此她登录一个网站购买机票。这个网站不仅提供机票价格，在她购票时还提供酒店客房和租车等服务。航空公司、酒店和租赁公司都是相互独立的公司。Lynn决定同时通过这个网站购买酒店住宿。该网站使用安全断言标记语言来实现此类联合身份管理功能。在该示例中，哪个实体是主体，哪个实体是身份提供者，哪个实体是服务提供者？
+Lynn logs into a website and purchases an airline ticket for her upcoming trip. The website also offers her pricing and package deals for hotel rooms and rental cars while she is completing her purchase. The airline, hotel, and rental companies are all separate and individual companies. Lynn decides to purchase her hotel room through the same website at the same time. The website is using Security Assertion Markup Language to allow for this type of federated identity management functionality. In this example which entity is the principal, which entity is the identity provider, and which entity is the service provider?
+
+A. 门户网站、Lynn、酒店
+Portal, Lynn, hotel company
+B. Lynn、航空公司、酒店
+Lynn, airline company, hotel company
+正确
+C. Lynn、酒店、航空公司
+Lynn, hotel company, airline company
+D. 门户网站、Lynn、航空公司
+Portal, Lynn, airline company
+
+
+45. John需要确保公司的应用程序以标准方式，从合作伙伴的应用程序接受所提供的数据。以下哪一项最恰当地描述了John应该实施的技术？
+John needs to ensure that his company&rsquo;s application can accept provisioning data from the company&rsquo;s partner&rsquo;s application in a standardized method. Which of the following best describes the technology that John should implement?
+
+A. 服务供应标记语言(Service Provisioning Markup Language)
+Service Provisioning Markup Language
+正确
+B. 可扩展配置标记语言(Extensible Provisioning Markup Language)
+Extensible Provisioning Markup Language
+C. 安全断言标记语言(Security Assertion Markup Language)
+Security Assertion Markup Language
+D. 安全配置标记语言(Security Provisioning Markup Language)
+Security Provisioning Markup Language
+
+
+46. 身份即服务（IDaaS）以下哪种协议来向第三方提供身份认证？
+Which of the following protocols would an Identity as a Service (IDaaS) provider use to authenticate you to a third party?
+
+A. Diameter
+Diameter
+B. OAuth
+OAuth
+C. Kerberos
+Kerberos
+D. OpenID
+OpenID
+正确
+
+
+47. 适当的访问控制需要一个结构化用户供应流程。以下哪一项最恰当地描述了用户供应？
+Proper access control requires a structured user provisioning process. Which of the following best describes user provisioning?
+
+A. 对存在于一个或多个系统、目录或应用程序(响应业务流程)的用户客体和属性进行创建、维护和停用。
+The creation, maintenance, and deactivation of user objects and attributes as they exist in one or more systems, directories, or applications, in response to business processes
+正确
+B. 对存在于一个或多个系统、目录或应用程序(响应合规流程)的用户客体和属性进行创建、维护、激活和授权。
+The creation, maintenance, activation, and delegation of user objects and attributes as they exist in one or more systems, directories, or applications, in response to compliance processes
+C. 对存在于一个或多个系统、目录或应用程序(响应业务流程)的用户客体和属性进行维护。
+The maintenance of user objects and attributes as they exist in one or more systems, directories, or applications, in response to business processes
+D. 对存在于一个或多个系统、目录或应用程序(响应业务流程)的用户客体和属性进行创建和停用。
+The creation and deactivation of user objects and attributes as they exist in one or more systems, directories, or applications, in response to business processes
+
+
+48. Jay是一家信用卡处理公司的安全管理员。该公司拥有许多尚未同步的身份存储库。Jay准备在公司内监督集中化和身份数据的同步过程。他认为人力资源部门的数据库中的数据是最新的，在其同步过程中不能被其他身份存储库中的软件所覆盖。在该公司的身份管理结构中，以下哪一项最恰当地描述了此数据库的作用？
+Jay is the security administrator at a credit card processing company. The company has many identity stores, which are not properly synchronized. Jay is going to oversee the process of centralizing and synchronizing the identity data within the company. He has determined that the data in the HR database will be considered the most up-to-date data, which cannot be overwritten by the software in other identity stores during their synchronization processes. Which of the following best describes the role of this database in the identity management structure of the company?
+
+A. 权威记录系统
+Authoritative system of record
+正确
+B. 源服务器基础设施
+Infrastructure source server
+C. 主身份存储库
+Primary identity store
+D. 分层的主数据库
+Hierarchical database primary
+
+
+49. 如果网络中包含移动IP、无线与有线方式的用户互连等多种协议，安全专业人员应当选择以下哪种集中访问控制协议？
+Which of the following centralized access control protocols would a security professional choose if her network consisted of multiple protocols, including Mobile IP, and had users connecting via wireless and wired transmissions?
+
+A. RADIUS
+RADIUS
+B. TACACS+
+TACACS+
+C. Diameter
+Diameter
+正确
+D. Kerberos
+Kerberos
+
+
+50. 在使用容器和隐式权限继承(基于非任意支配模型)的环境中，会实施哪种访问控制策略？
+Which access control policy is enforced in an environment that uses containers and implicit permission inheritance using a nondiscretionary model?
+
+A. 基于规则
+Rule-based
+B. 基于角色
+Role-based
+正确
+C. 基于身份
+Identity-based
+D. 强制性
+Mandatory
+
+
+51. 什么是可扩展标记语言(XML)，为何要创建它？
+What is Extensible Markup Language (XML), and why was it created?
+
+A. 是创建各种标记语言的规范，从而满足行业的各种需要。
+A specification that is used to create various types of markup languages for specific industry requirements
+正确
+B. 用来创建静态和动态网站的一种规范。
+A specification that is used to create static and dynamic websites
+C. 概述所有格式的一种规范，它是详细的标记语言，所有公司都可以使用它。
+A specification that outlines a detailed markup language dictating all formats of all companies that use it
+D. 为安全起见，不允许互操作的一种规范。
+A specification that does not allow for interoperability for the sake of security
+
+
+52. 以下哪一项是有关标记语言的真实描述？
+Which of the following is a true statement pertaining to markup languages?
+
+A. 超文本标记语言(HTML)来源于通用标记语言(GML)，而后者来源于标准通用标记语言(SGML)。
+Hypertext Markup Language (HTML) came from Generalized Markup Language (GML), which came from the Standard Generalized Markup Language (SGML).
+B. 超文本标记语言(HTML)来源于标准通用标记语言(SGML)，而后者来源于通用标记语言(GML)。
+Hypertext Markup Language (HTML) came from Standard Generalized Markup Language (SGML), which came from the Generalized Markup Language (GML).
+正确
+C. 标准通用标记语言(SGML)来源于超文本标记语言(HTML)，而后者来源于通用标记语言(GML)。
+Standard Generalized Markup Language (SGML) came from the Hypertext Markup Language (HTML), which came from the Generalized Markup Language (GML).
+D. 标准通用标记语言(SGML)来源于通用标记语言(GML)，而后者来源于超文本标记语言(HTML)。
+Standard Generalized Markup Language (SGML) came from the Generalized Markup Language (GML), which came from the Hypertext Markup Language (HTML).
+
+
+53. 用户的数字身份通常不仅仅由用户名组成。以下哪一项不是组成用户身份的常规项？
+A user&rsquo;s digital identity is commonly made up of more than just a username. Which of the following is not a common item that makes up a user&rsquo;s identity?
+
+A. 授权
+Entitlements
+B. 特质
+Traits
+C. 图形
+Figures
+正确
+D. 属性
+Attributes
+
+
+54. Sue被要求为公司的环境安装Web访问管理(WAM)产品。以下哪一项是对WAM常规用途的最合理描述？
+Sue has been asked to install a web access management (WAM) product for her company&rsquo;s environment. What is the best description for what WAMs are commonly used for?
+
+A. 控制外部实体对内部对象的访问请求
+Control external entities requesting access to internal objects
+正确
+B. 控制内部实体对外部对象的访问请求
+Control internal entities requesting access to external objects
+C. 控制外部实体通过X.500数据库的访问请求
+Control external entities requesting access through X.500 databases
+D. 控制内部实体通过X.500数据库的访问请求
+Control internal entities requesting access through X.500 databases
+
+
+55. 以下哪一项不是使用内容分发网络的优点？
+Which of the following is not an advantage of using content distribution networks?
+
+A. 改进对区域用户的响应能力
+Improved responsiveness to regional users
+B. 防御ARP欺骗攻击的能力
+Resistance to ARP spoofing attacks
+正确
+C. 定制区域用户内容
+Customization of content for regional users
+D. 防御DDoS攻击的能力
+Resistance to DDoS attacks
+
+
+56. 一家金融机构开发了基于ISO/IEC 27000系列的内部安全程序。安全人员已被告知需要制定度量标准并集成到该程序中，以衡量其效果。以下哪一类标准应当被遵循，以提供这种类型的指导和功能？
+A financial institution has developed its internal security program based upon the ISO/IEC 27000 series. The security officer has been told that metrics need to be developed and integrated into this program so that effectiveness can be gauged. Which of the following standards should be followed to provide this type of guidance and functionality?
+
+A. ISO/IEC 27002
+ISO/IEC 27002
+B. ISO/IEC 27003
+ISO/IEC 27003
+C. ISO/IEC 27004
+ISO/IEC 27004
+正确
+D. ISO/IEC 27005
+ISO/IEC 27005
+
+
+57. 以下哪一项通常不是电子发现(e-Discovery)的一个元素？
+Which of the following is normally not an element of e-Discovery?
+
+A. 识别
+Identification
+B. 保存
+Preservation
+C. 产生
+Production
+D. 残留
+Remanence
+正确
+
+
+58. 各种组织保证各个安全努力的有效性和可测量性是非常重要的。以下哪一项不是用于跟踪安全努力成效的常见方法？
+It is important that organizations ensure that their security efforts are effective and measurable. Which of the following is not a common method used to track the effectiveness of security efforts?
+
+A. 服务级别协议
+Service level agreement
+B. 投资回报率
+Return on investment
+C. 平衡计分卡系统
+Balanced scorecard system
+D. 资源调配系统
+Provisioning system
+正确
+
+
+59. 以下哪一项是故障树分析的真实特性？
+Which of the following provides a true characteristic of a fault tree analysis?
+
+A. 故障树为可能发生在一系列业务流程上的错误分配定性值。
+Fault trees are assigned qualitative values to faults that can take place over a series of business processes.
+B. 故障树是被分配失败模式的值。
+Fault trees are assigned failure mode values.
+C. 故障树是被标记的每种情况可能出现的实际概率数字。
+Fault trees are labeled with actual numbers pertaining to failure probabilities.
+正确
+D. 故障树是用于软件调试的阶梯方式。
+Fault trees are used in a stepwise approach to software debugging.
+
+
+60. 以下哪一项是错误的定义映射？
+i. 操作性关键威胁、资产和脆弱性评估(OCTAVE) &nbsp;以团队为导向的做法，通过举办研讨会来评估组织和IT的风险
+ii. ISACA&nbsp;IT风险（ISACA Risk IT）旨在弥补通用架构与IT为中心架构之间的间隙
+iii. ISO/IEC 27005 集成到信息安全管理体系(ISMS)的风险管理实施计划的国际标准
+iv. 失效模式和影响分析(FMEA)将一个组件剖析为其基本功能，以识别出各种缺陷以及所造成影响的方法
+v. 故障树分析 在复杂系统中将具体缺陷映射到根本原因的方法
+&nbsp;Which of the following has an incorrect definition mapping?
+i. Operationally Critical Threat, Asset, and Vulnerability Evaluation (OCTAVE) Team-oriented approach that assesses organizational and IT risks through facilitated workshops
+ii. ISACA Risk IT Aims to bridge the gap between generic frameworks and&nbsp;IT-centric ones
+iii. ISO/IEC 27005 International standard for the implementation of a risk management program that integrates into an information security management system (ISMS)
+iv. Failure Modes and Effect Analysis (FMEA) Approach that dissects a component into its basic functions to identify flaws and those flaws&rsquo; effects
+v. Fault tree analysis Approach to map specific flaws to root causes in complex systems
+
+A. 以上都不是
+&nbsp;None of them
+正确
+B. &nbsp;ii
+&nbsp;ii
+C. iii、iv
+iii、iv
+D. v
+V
+
+
+61. 信息安全领域正逐步成熟和发展，更趋组织化和标准化。组织性安全模型应该基于一个正式的体系框架。以下哪一项最恰当地描述了正式架构框架是什么和为什么使用它？
+Information security is a field that is maturing and becoming more organized and standardized. Organizational security models should be based upon a formal architecture framework. Which of the following best describes what a formal architecture framework is and why it would be used?
+
+A. 数学模型，定义了各种软件组件能输入且提供必要保护的安全状态。
+Mathematical model that defines the secure states that various software components can enter and still provide the necessary protection
+B. 概念模型，被组织为几个架构视图，每个视图都解决利益相关者关心的问题。
+Conceptual model that is organized into multiple views addressing each of the stakeholder&rsquo;s concerns
+正确
+C. 商业企业框架，被分成六个概念级别，以确保以可控方式部署和管理安全。
+Business enterprise framework that is broken down into six conceptual levels to ensure security is deployed and managed in a controllable manner
+D. 企业框架，允许适当的安全治理。
+Enterprise framework that allows for proper security governance
+
+
+62. 如果Joe想使用一种风险评估方法让不同的业务负责人识别风险，并知晓如何予以处置，他会用到以下哪种方法？
+If Joe wanted to use a risk assessment methodology that allows the various business owners to identify risks and know how to deal with them, what methodology would he use?
+
+A. 定性
+Qualitative
+B. COSO
+COSO
+C. FRAP
+FRAP
+D. OCTAVE
+OCTAVE
+正确
+
+
+63. 能力成熟度模型集成(CMMI)方法在安全程序和企业发展中被频繁使用。以下哪一项不是该模型的特性？
+The Capability Maturity Model Integration (CMMI) approach is being used more frequently in security program and enterprise development. Which of the following provides an incorrect characteristic of this model?
+
+A. 它提供了一种如何实现增量改进的方式。
+It provides a pathway for how incremental improvement can take place.
+B. 它提供结构化的步骤，组织通过遵循它可从一个级别向下一个进化，并不断改进自身流程。
+It provides structured steps that can be followed so an organization can evolve from one level to the next and constantly improve its processes.
+C. 它是由Carnegie Mellon创建的改进流程。
+It was created for process improvement and developed by Carnegie Mellon.
+D. 它在SABSA模型基础上构建。
+It was built upon the SABSA model.
+正确
+
+
+64. 以下哪一项最恰当地描述了ISO/IEC 27000系列和COBIT角色之间的差异？
+Which of the following best describes the difference between the role of the ISO/IEC 27000 series and COBIT?
+
+A. COBIT系列是高级安全项目需求概述，而ISO/IEC 27000是每个安全控制的目标。
+COBIT provides a high-level overview of security program requirements, while the ISO/IEC 27000 series provides the objectives of the individual security controls.
+B. ISO/IEC 27000系列是高级安全项目需求概述，而COBIT是每个安全控制的目标。
+&nbsp;The ISO/IEC 27000 series provides a high-level overview of security program requirements, while COBIT provides the objectives of the individual security controls.
+正确
+C. COBIT是面向流程，而ISO/IEC 27000系列是面向解决方案的。
+COBIT is process oriented, and the ISO/IEC 27000 series is solution oriented.
+D. ISO/IEC 27000面向流程，而COBIT系列面向解决方案。
+The ISO/IEC 27000 series is process oriented, and COBIT is solution oriented.
+
+
+65. 近年来出现了许多为特定目的制定的企业体系结构模型。其中一些可用来提供信息安全流程和集成整体组织结构的技术。以下哪一项所提供的架构类型和关联定义的映射关系是错误的？
+There are many enterprise architecture models that have been developed over the years for specific purposes. Some of them can be used to provide structure for information security processes and technology to be integrated throughout an organization. Which of the following provides an incorrect mapping between the architect type and the associated definition?
+
+A. Zachman框架 用于开发信息安全企业体系结构的模型和方法。
+Zachman Framework Model and methodology for the development of information security enterprise architectures
+正确
+B. TOGAF Open Group开发的企业架构的开发模型和方法。
+TOGAF Model and methodology for the development of enterprise architectures developed by The Open Group
+C. DoDAF 美国国防部架构框架，确保系统之间的互搡作满足军事目标。
+DoDAF U.S. Department of Defense architecture framework that ensures interoperability of systems to meet military mission goals
+D. MODAF 英国国防部开发的主要用于军事支持任务的架构框架。
+MODAF Architecture framework used mainly in military support missions developed by the British Ministry of Defence
+
+
+66. 以下哪一项最恰当地描述了经济合作与发展组织(OECD)的目的？
+Which of the following best describes the purpose of the Organization for Economic Co-operation and Development (OECD)?
+
+A. 一个国际组织，帮助不同政府共同应对全球化经济所带来的经济、社会和管理挑战。
+An international organization that helps different governments come together and tackle the economic, social, and governance challenges of a globalized economy
+正确
+B. 一个国家组织，帮助不同政府共同应对全球化经济所带来的经济、社会和管理挑战。
+A national organization that helps different governments come together and tackle the economic, social, and governance challenges of a globalized economy
+C. 一个国际组织，帮助不同组织共同应对全球化经济所带来的经济、社会和管理挑战。
+An international organization that helps different organizations come together and tackle the economic, social, and governance challenges of a globalized economy
+D. 一个国家组织，帮助不同组织共同应对全球化经济所带来的经济、社会和管理挑战。
+A national organization that helps different organizations come together and tackle the economic, social, and governance challenges of a globalized economy
+
+
+67. 为成功发展和实施企业安全体系结构，必须理解和遵循以下哪一项？
+i. 战略定位
+ii. 流程改进
+iii. 业务支持
+iv. 安全有效性
+For an enterprise security architecture to be successful in its development and implementation, which of the following items must be understood and followed?
+i. Strategic alignment
+ii. Process enhancement 
+iii. Business enablement
+iv. Security effectiveness&nbsp;
+
+A. i、ii
+i、ii
+B. ii、iii
+ii、iii
+C. i、ii、iii、iv
+i、ii、iii、iv
+正确
+D. iii、iv
+iii、iv
+
+
+68. 以下哪一项是一种基于XML的协议，该协议定义了如何利用HTTP传输来进行Web服务通信的架构？
+Which of the following is an XML-based protocol that defines the schema of how web service communication takes place over HTTP transmissions?
+
+A. 面向服务的协议（Service-Oriented Protocol）
+Service-Oriented Protocol
+B. Active X协议
+Active X Protocol
+C. 简单对象访问协议（Simple Object Access Protocol）
+Simple Object Access Protocol
+正确
+D. Web本体语言（Web Ontology Language）
+Web Ontology Language
+
+
+69. 国资保险公司的骗保分析师每天使用数据库工具来辅助识别违规行为，并通过利用规则来发现被捕获的数据间的各种联系。这些工具有助于识别多种信息类型之间的关系。这属于哪种数据库知识发现(KDD)考量方法？
+A fraud analyst with a national insurance company uses database tools every day to help identify violations and identify relationships between the captured data through the uses of rule discovery. These tools help identify relationships among a wide variety of information types. What kind of knowledge discovery in database (KDD) is this considered?
+
+A. 可能性
+Probability
+B. 统计
+Statistical
+正确
+C. 分类
+Classification
+D. 行为
+Behavioral
+
+
+70. 为能被法院所接受，证据通常应该具有以下哪种特性？
+In order to be admissible in court, evidence should normally be which of the following?
+
+A. 传唤
+Subpoenaed
+B. 相关
+Relevant
+正确
+C. 示意
+Motioned
+D. 裁决
+Adjudicated
+
+
+71. 哪种法律系统的特征依赖先前对法律的解释？
+Which legal system is characterized by its reliance on previous interpretations of the law?
+
+A. 侵权行为
+Tort
+B. 习惯法
+Customary
+C. 普通法
+Common
+正确
+D. 民法(法典)
+Civil (code)
+
+
+72. 以下哪一项最恰当地描述了分层存储管理(HSM)和存储区域网络(SAN)技术之间的区别？
+Which of the following best describes the difference between hierarchical storage management (HSM) and storage area network (SAN) technologies?
+
+A. HSM使用光盘或磁带自动点唱机，而SAN是由几个互连的存储系统构成的网络。
+HSM uses optical or tape jukeboxes, and SAN is a network of connected storage systems.
+正确
+B. SAN使用光盘或磁带自动点唱机，而HSM是由几个互连的存储系统构成的网络。
+SAN uses optical or tape jukeboxes, and HSM is a network of connected storage systems.
+C. HSM和SAN是一样的，区别仅在实施上。
+HSM and SAN are one and the same. The difference is in the implementation.
+D. HSM使用光盘或磁带自动点唱机，而SAN是如何制定和实施该技术的标准。
+HSM uses optical or tape jukeboxes, and SAN is a standard of how to develop and implement this technology.
+
+
+73. 加密和解密可发生在不同的操作系统、应用程序和网络协议栈的层面上。端到端加密发生在_____内。IPSec发生在_____层。PPTP加密发生在_____层。链路加密发生在_____层和_____层。
+Encryption and decryption can take place at different layers of an operating system, application, and network stack. End-to-end encryption happens within the___. IPSec encryption takes place at the___ layer. PPTP encryption takes place at the___ layer. Link encryption takes place at the ___and ___layers.
+
+A. 应用程序、传输、数据链路、数据链路、物理
+applications, transport, data link, data link, physica
+B. 应用程序、传输、网络、数据链路、物理
+applications, transport, network, data link, physical
+C. 应用程序、网络、数据链路、数据链路、物理
+applications, network, data link, data link, physical
+正确
+D. 网络、传输、数据链路、数据链路、物理
+network, transport, data link, data link, physical
+
+
+74. 当CPU传递指令集和需要处理的数据时，程序状态字(PSW)寄存器会包含一个值，指示该执行应该发生在特权模式下，以下哪一项将被视为真实的？
+When a CPU is passed an instruction set and data to be processed and the program status word (PSW) register contains a value indicating that execution should take place in privileged mode, which of the following would be considered true?
+
+A. 操作系统执行在监管模式下
+Operating system is executing in supervisory mode.
+B. 来自受信进程的请求
+Request came from a trusted process.
+正确
+C. 本该在用户模式下可用的功能是不可用的
+Functionality that is available in user mode is not available.
+D. 一个不受信进程提交了执行的请求
+An untrusted process submitted the execution request.
+
+
+75. ISO/IEC 27000是ISO/IEC信息安全管理体系(ISMS)标准中崛起的系列。它包括国际标准化组织(ISO)和国际电工委员会(IEC)联合公布的信息安全标准。下列哪一项所提供的此标准系列的逐一映射是不正确？
+ISO/IEC 27000 is a growing family of ISO/IEC information security management system (ISMS) standards. It comprises information security standards published jointly by the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC). Which of the following provides an incorrect mapping of the individual standards that make up this family of standards?
+
+A. ISO/IEC 27002：信息安全管理的做法准则
+ISO/IEC 27002: Code of practice for information security management
+B. ISO/IEC 27003：ISMS实现指南
+ISO/IEC 27003: Guideline for ISMS implementation
+C. ISO/IEC 27004：信息安全管理对策和度量指标框架指南
+ISO/IEC 27004: Guideline for information security management measurement and metrics framework
+D. ISO/IEC 27005：提供信息安全管理系统审计和认证主体部分的指南
+ISO/IEC 27005: Guideline for bodies providing audit and certification of information security management systems
+正确
+
+
+76. 如果一项特定资产的ALE是100 000美元，实施控制后新的ALE是45 000美元，而控制的年度成本是30 000美元，那么公司应该实现这个控制吗？
+If the Annual Loss Expectancy (ALE) for a specific asset is $100,000, and after implementation of the control the new ALE is $45,000 and the annual cost of the control is $30,000, should the company implement this control?
+
+A. 是
+Yes
+正确
+B. 否
+No
+C. 没有足够信息
+Not enough information
+D. 取决于年度发生率（ARO）
+Depends on the Annualized Rate of Occurrence (ARO)
+
+
+77. Kerberos是一种常用的访问控制和身份认证技术。了解这项技术能做什么、不能做什么以及潜在失败是非常重要的。以下哪一项不是使用Kerberos时必须解决的潜在安全性问题？
+i. KDC可以是一个单点故障。
+ii. KDC必须可伸缩。
+iii. 密钥暂时存储在用户的工作站上。
+iv. Kerberos容易遭受密码猜测攻击。
+&nbsp;Kerberos is a commonly used access control and authentication technology. It is important to understand what the technology can and cannot do and its potential downfalls. Which of the following is not a potential security issue that must be addressed when using Kerberos?
+i. The KDC can be a single point of failure.
+ii. The KDC must be scalable.
+iii. Secret keys are temporarily stored on the users&rsquo; workstations.
+iv. Kerberos is vulnerable to password guessing.
+
+A. &nbsp;i、iv
+&nbsp;i、iv
+B. &nbsp;iii
+&nbsp;iii
+C. 所有
+All of them
+D. 都不是
+None of them
+正确
+
+
+78. 以下哪一项是对数据元素之间逻辑关系的表示。数据结构指明了元素间关联的程度、访问方法、处理选择以及数据元素的组织？
+Which of the following is a representation of the logical relationship between elements of data and dictates the degree of association among elements, methods of access, processing alternatives, and the organization of data elements?
+
+A. 数据元素
+Data element
+B. 数组
+Array
+C. 长期组件
+Secular component
+D. 数据结构
+Data structure
+正确
+
+
+79. Jenny需要雇用一家新的软件开发公司为公司创建内部银行软件。由于必须在公司环境中专门创建，因此该软件必须是专属的。以下哪一项有助于Jenny衡量出各种软件开发公司的开发过程的先进性和成熟度？
+Jenny needs to engage a new software development company to create her company&rsquo;s internal banking software. It will need to be created specifically for her company&rsquo;s environment, so it must be proprietary in nature. Which of the following would be useful for Jenny to use as a gauge to determine how advanced the various software development companies are in their processes?
+
+A. 瀑布式模型
+Waterfall methodology
+B. 能力成熟度模型集成的级别
+Capability Maturity Model Integration level
+正确
+C. 审计结果
+Auditing results
+D. 关键性能指标
+Key performance metrics
+
+
+80. 使用下面的场景来回答2个问题。
+Jim就职于一家大的能源公司。公司高级管理层和Jim的团队进行了一个会议，目的是在不降低整体安全性的前提下缩减IT成本。高级管理层决定将所有的管理系统都移到云服务提供商处。而这些系统具有专属的应用程序，目前运行在Linux服务器上。
+Jim works for a large energy company. His senior management just conducted a meeting with Jim&rsquo;s team with the purpose of reducing IT costs without degrading their security posture. The senior management decided to move all administrative systems to a cloud provider. These systems are proprietary applications currently running on Linux servers.
+
+81. Henry是软件设计师团队的组长。他们的软件开发项目所处的阶段是：需要减少代码运行总量、减少不可信用户的可用入口、尽量减少特权级别和消除不必要的服务。以下哪一项最恰当地描述了团队完成这些任务需要执行的第一个步骤？
+Henry is the team leader of a group of software designers. They are at a stage in their software development project where they need to reduce the amount of code running, reduce entry points available to untrusted users, reduce privilege levels as much as possible, and eliminate unnecessary services. Which of the following best describes the first step the team needs to carry out to accomplish these tasks?
+
+A. 攻击面分析
+Attack surface analysis
+正确
+B. 软件开发生命周期
+Software development life cycle
+C. 风险评估
+Risk assessment
+D. 单元测试
+Unit testing
+
+
+82. 当多个数据库交换事务时，每个数据库都会被更新。这会以许多不同的方式多次发生。为保护数据的完整性，数据库应引入一个称为ACID测试的概念。这个缩写代表着什么？
+When multiple databases exchange transactions, each database is updated. This can happen many times and in many different ways. To protect the integrity of the data, databases should incorporate a concept known as an ACID test. What does this acronym stand for?
+
+A. 可用性、机密性、完整性、持久性
+Availability, confidentiality, integrity, durability
+B. 可用性、一致性、完整性、持久性
+Availability, consistency, integrity, durability
+C. 原子性、机密性、隔离性、持久性
+Atomicity, confidentiality, isolation, durability
+D. 原子性、一致性、隔离性、持久性
+Atomicity, consistency, isolation, durability
+正确
+
+
+83. IPSec的主要协议是AH和ESP。AH提供下列哪些服务？
+IPSec&rsquo;s main protocols are AH and ESP. Which of the following services does AH provide?
+
+A. 机密性和身份认证
+Confidentiality and authentication
+B. 机密性和可用性
+Confidentiality and availability
+C. 完整性和可访问性
+Integrity and accessibility
+D. 完整性和身份认证
+Integrity and authentication
+正确
+
+
+84. 攻击者的首选技术是尽快成为目标系统的&ldquo;正常&rdquo;特权用户。这通常可通过以下各种方式来完成，但除了哪一项？
+A preferred technique of attackers is to become &ldquo;normal&rdquo; privileged users of the systems they compromise as soon as possible. This can typically be accomplished in all the following ways except which one?
+
+A. 破坏现有的特权账户
+Compromising an existing privileged account
+B. 创建一个新的特权账户
+Creating a new privileged account
+C. 删除/etc/passwd文件
+Deleting the /etc/passwd file
+正确
+D. 提升现有账户的权限
+Elevating the privileges of an existing account
+
+
+85. ISO/IEC 27031:2011是组织可遵循的一种业务连续性国际标准。以下哪一项是这一标准的正确特征？
+ISO/IEC 27031:2011 is an international standard for business continuity that organizations can follow. Which of the following is a correct characteristic of this standard?
+
+A. 是一套有关业务连续性的信息和通信就绪指南。
+Guidelines for information and communications technology readiness for business continuity
+正确
+B. ISO/IEC标准是整个BS 7999系列的一个组件。
+ISO/IEC standard that is a component of the overall BS 7999 series
+C. 由NIST制定的标准，已经发展为一个国际标准
+Standard that was developed by NIST and evolved to be an international standard
+D. 主要面向金融业开发
+Developed primarily for the financial sector
+
+
+86. 在VoIP环境中，常用到实时传输协议(RTP)和RTP控制协议(RTCP)。以下哪一项最恰当地描述了这两种协议之间的差异？
+In a VoIP environment, the Real-time Transport Protocol (RTP) and RTP Control Protocol (RTCP) are commonly used. Which of the following best describes the difference between these two protocols?
+
+A. RTCP为通过IP网络传送音频和视频提供标准化的数据包格式。RTP提供带外统计和控制信息，以反馈QoS级别。
+RTCP provides a standardized packet format for delivering audio and video over IP networks. RTP provides out-of-band statistics and control information to provide feedback on QoS levels.
+B. RTP为通过IP网络传送数据提供标准化的数据包格式。RTCP提供控制信息，以反馈QoS级别。
+RTP provides a standardized packet format for delivering data over IP networks. RTCP provides control information to provide feedback on QoS levels.
+C. RTP为通过MPLS网络传送音频和视频提供标准化的数据包格式。RTCP提供控制信息，以反馈QoS级别。
+RTP provides a standardized packet format for delivering audio and video over MPLS networks. RTCP provides control information to provide feedback on QoS levels.
+D. RTP为通过IP网络传送音频和视频提供标准化的数据包格式。RTCP提供带外统计和控制信息，以反馈QoS级别。
+RTP provides a standardized packet format for delivering audio and video over IP networks. RTCP provides out-of-band statistics and control information to provide feedback on QoS levels.
+正确
+
+
+87. 以下哪一种多路复用技术被用来分析与每个输入设备的普通负载相关的数据，然后就每个设备应该被分配多少时间进行数据传输做出实时决策？
+Which of the following multiplexing technologies analyzes statistics related to the typical workload of each input device and makes real-time decisions on how much time each device should be allocated for data transmission?
+
+A. 时分多路复用
+Time-division multiplexing
+B. 波分多路复用
+Wave-division multiplexing
+C. 频分多路复用
+Frequency-division multiplexing
+D. 统计时分多路复用
+Statistical time-division multiplexing
+正确
+
+
+88. Rebecca是一家大型零售公司内部审核员。该公司具有大量Web应用程序，它们运行着与全球客户和合作伙伴相关的关键业务流程。她的公司希望能对这些流程进行安全的技术控制。以下哪一项不是审核这些技术控制的好方法？
+Rebecca is an internal auditor for a large retail company. The company has a number of web applications that run critical business processes with customers and partners around the world. Her company would like to ensure the security of technical controls on these processes. Which of the following would not be a good approach to auditing these technical controls?
+
+A. 日志审查
+Log reviews
+B. 代码审查
+Code reviews
+C. 人事背景调查
+Personnel background checks
+正确
+D. 误用案例测试
+Misuse case testing
+
+
+89. Betty收到多个未知来源的电子邮件，这些电子邮件试着以&ldquo;点击这里&rdquo;的方法引诱她点击一个特殊链接。以下哪一项最恰当地描述了这种情况下最可能发生的事情？
+Betty has received several e-mail messages from unknown sources that try and entice her to click a specific link using a &ldquo;Click Here&rdquo; approach. Which of the following best describes what is most likely taking place in this situation?
+
+A. DNS域欺骗攻击
+DNS pharming attack
+B. 具有迷惑性的嵌入式超链接
+Embedded hyperlink is obfuscated
+正确
+C. 恶意软件后门的安装
+Malware back-door installation
+D. 双向注入式攻击
+Bidirectional injection attack
+
+
+90. Don是一家建筑公司的高级经理。他发现一份关键的合同已被更新，该合同允许该公司继续开发一个闲置了几个月的操作系统。Don兴奋地开始私下处理该操作系统，但他不能告诉他的员工，直到该消息公开宣布的那几天。随着Don开始对系统进行修改，虽然各个员工工作在一个较低的安全级别上，但他们也注意到其所连接系统中的变化。请问什么样的模型可用于确保这种情况不会发生？
+Don is a senior manager of an architectural firm. He has just found out that a key contract was renewed, allowing the company to continue developing an operating system that was idle for several months. Excited to get started, Don begins work on the operating system privately, but cannot tell his staff until the news is announced publicly in a few days. However, as Don begins making changes in the software, various staff members notice changes in their connected systems, even though they work in a lower security level. What kind of model could be used to ensure this does not happen?
+
+A. Biba
+Biba
+B. Bell-LaPadula
+Bell-LaPadula
+C. 非相干
+Noninterference
+正确
+D. Clark-Wilson
+Clark-Wilson
+
+
+91. 使用下面的场景来回答2个问题。
+Frank是一名新的内部软件设计和编程经理。他一直告诉团队，在开始设计和编制新产品前，需要制定一个正式架构。他也要求其团队在进行软件设计时注意理解各种安全问题。Frank向团队展示了如何遵循系统的办法，同时要求团队了解在开发各种软件产品时各种漏洞是如何产生的。
+Frank is the new manager of the in-house software designers and programmers. He has been telling his team that before design and programming on a new product begins, a formal architecture needs to be developed. He also needs this team to understand security issues as they pertain to software design. Frank has shown the team how to follow a systematic approach that allows them to understand how different compromises could take place with the software products they develop.
+
+92. 引进外部审计师比使用内部团队更有优势。以下哪一项关于使用外部审计师是不正确的？
+Bringing in third-party auditors has advantages over using an internal team. Which of the following is not true about using external auditors?
+
+A. 某些政府的法规要求使用他们。
+They are required by certain governmental regulations.
+B. 带来了他们在其他许多组织中积累的经验。
+They bring experience gained by working in many other organizations.
+C. 他们比其他任何人更了解组织的流程和技术。
+They know the organization&rsquo;s processes and technology better than anyone else.
+正确
+D. 他们受内部的文化和政治影响较轻。
+They are less influenced by internal culture and politics
+
+
+93. Barry被告知在网络中使用的IDS产品，需要具有启发式功能。以下哪一项最恰当地描述了此功能？
+Barry was told that the IDS product that is being used on the network has heuristic capabilities. Which of the following best describes this functionality?
+
+A. 收集数据包，在分配异常值之前重新组装各个数据片段
+Gathers packets and reassembles the fragments before assigning anomaly values
+B. 收集数据以计算攻击发生的概率
+Gathers data to calculate the probability of an attack taking place
+正确
+C. 收集数据包，并比较其签名引擎的有效载荷值
+Gathers packets and compares their payload values to a signature engine
+D. 收集数据包标头，以确定产生的网络流量是否可疑
+Gathers packet headers to determine if something suspicious is taking place within the network traffic
+
+
+94. Patty准备下周给公司行政人员做一个演示。她想说明利用特定的云计算解决方案会给公司带来各种好处。以下哪一项不能正确地描述这些好处或优势？
+Patty is giving a presentation next week to the executive staff of her company. She wants to illustrate the benefits of the company using specific cloud computing solutions. Which of the following does not properly describe one of these benefits or advantages?
+
+A. 组织在IT发展和功能上有更大的灵活性和敏捷性。
+Organizations have more flexibility and agility in IT growth and functionality.
+B. 因为它是一个共享交付模型，所以云计算的成本会升高。
+Cost of computing can be increased since it is a shared delivery model.
+正确
+C. 因为计算上不再集中，且在物理上与数据中心脱离，所以可实现与位置无关。
+Location independence can be achieved because the computing is not centralized and tied to a physical data center.
+D. 通过自动化，能够准实时地实现资源的弹性扩展。
+Scalability and elasticity of resources can be accomplished in near real-time through automation.
+
+
+95. 进行定量风险分析时，需要对收集的物品分配数值，以进行成本效益分析。以下哪个公式正确描述了防护措施对公司的价值？
+When conducting a quantitative risk analysis, items are gathered and assigned numeric values so that cost/benefit analysis can be carried out. Which of the following provides the correct formula to understand the value of a safeguard?
+
+A. (实现防护措施前的ALE)-(实现防护措施后的ALE)-(防护措施每年的成本) =防护措施对公司的价值
+(ALE before implementing safeguard) &ndash; (ALE after implementing safeguard) &ndash; (annual cost of safeguard) = value of safeguard to the company
+正确
+B. (实现防护措施前的ALE)-(实现防护措施期间的ALE)-(防护措施每年的成本)= 防护措施对公司的价值
+(ALE before implementing safeguard) &ndash; (ALE during implementing safeguard) &ndash; (annual cost of safeguard) = value of safeguard to the company
+C. (实现防护措施前的ALE)-(正在实现防护措施的ALE)-(防护措施每年的成本) =防护措施对公司的价值
+(ALE before implementing safeguard) &ndash; (ALE while implementing safeguard) &ndash; (annual cost of safeguard) = value of safeguard to the company
+D. (实现防护措施前的ALE)-(实现防护措施后的ALE)-(资产每年的成本) =防护措施对公司的价值
+(ALE before implementing safeguard) &ndash; (ALE after implementing safeguard) &ndash; (annual cost of asset) = value of safeguard to the company
+
+
+96. 不同系统端口允许不同计算机之间的服务和协议进行通信。互联网名称与地址分配机构已将_____分配给注册端口，而将_____分配给动态端口。
+System ports allow different computers to communicate with each other&rsquo;s services and protocols. The Internet Corporation for Assigned Names and Numbers has assigned registered ports to be ______ and dynamic ports to be______.
+
+A. 0~1024，49152~65535
+0&ndash;1024, 49152&ndash;65535
+B. 1024~49151，49152~65535
+1024&ndash;49151, 49152&ndash;65535
+正确
+C. 1024~49152，49153~65535
+1024&ndash;49152, 49153&ndash;65535
+D. 0~1024，1025~49151
+0&ndash;1024, 1025&ndash;49151
+
+
+97. 以下哪一项是指一个国际组织，它帮助不同政府一起应对经济全球化带来的经济、社会和治理上的挑战，并提供有关隐私权的保护和个人数据的跨界流动规则？
+Which of the following is an international organization that helps different governments come together and tackle the economic, social, and governance challenges of a globalized economy and provides guidelines on the protection of privacy and transborder flows of personal data rules?
+
+A. 全球理事会网络犯罪公约
+Council of Global Convention on Cybercrime
+B. 欧洲理事会网络犯罪公约
+Council of Europe Convention on Cybercrime
+C. 经济合作与发展组织
+Organisation for Economic Co-operation and Development
+正确
+D. 反网络犯罪的合作与发展组织
+Organisation for Cybercrime Co-operation and Development
+
+
+98. 在对信息资产进行分类时，关于信息敏感性描述，以下哪项是正确的？
+When classifying an information asset, which of the following is true concerning its sensitivity?
+
+A. 敏感信息丢失带来的损失，与如何影响组织的基本业务流程相关。
+It is commensurate with how its loss would impact the fundamental business processes of the organization.
+B. 敏感性由重置成本决定。
+It is determined by its replacement cost.
+C. 敏感性由重置成本和信息损失可能性的乘积决定。
+It is determined by the product of its replacement cost and the probability of its compromise.
+D. 如果敏感信息向未授权的个人泄露，则敏感性与组织的损失相关。
+It is commensurate with the losses to an organization if it were revealed to unauthorized individuals.
+正确
+
+
+99. 为免于管理和维护许多不同类型的安全产品和解决方案，Joan想购买一个能将很多技术组合在一起的装置。她希望实现集中控制、流线维护并减少各种烟囱式安全解决方案。以下哪一项最适合Joan的需求？
+Instead of managing and maintaining many different types of security products and solutions, Joan wants to purchase a product that combines many technologies into one appliance. She would like to have centralized control, streamlined maintenance, and a reduction in stove pipe security solutions. Which of the following would best fit Joan&rsquo;s needs?
+
+A. 专用装置
+Dedicated appliance
+B. 集中式混合的防火墙应用程序
+Centralized hybrid firewall applications
+C. IDS/IPS混合集成
+Hybrid IDS&IPS integration
+D. 统一威胁管理
+Unified threat management
+正确
+
+
+100. 移动IP协议允许在互联网上存在独立于地点的路由IP数据包。每个移动设备都由其_____来标识，而与它所在互联网上的当前位置无关。当它离开家庭网络时，移动节点与_____相连。
+The Mobile IP protocol allows location-independent routing of IP datagrams on the Internet. Each mobile node is identified by its _____, disregarding its current location in the Internet. While away from its home network, a mobile node is associated with a_____.
+
+A. 主要地址，转交地址
+prime address, care-of address
+B. 家庭地址，转交地址
+home address, care-of address
+正确
+C. 家庭地址，备用地址
+home address, secondary address
+D. 主要地址，备用地址
+prime address, secondary address
+
+
+101. 在可扩展访问控制标记语言(XACML)结构中，主体元素是_____，资源元素是_____，行动元素是_____。
+In the structure of Extensible Access Control Markup Language (XACML), a Subject element is the_____, a Resource element is the_____ , and an Action element is the_____.
+
+A. 请求实体，被请求实体，访问类型
+requesting entity, requested entity, types of access
+正确
+B. 被请求实体，请求实体，访问类型
+requested entity, requesting entity, types of access
+C. 请求实体，被请求实体，访问控制
+requesting entity, requested entity, access control
+D. 被请求实体，请求实体，访问控制
+requested entity, requesting entity, access control
+
+
+102. Mary深夜玩电脑时，发现可以使用一种方法去攻破一家小公司的人事档案系统。她决定只去随便看看，并不窃取任何信息。如果她不窃取任何信息，她这样的行为还是犯罪吗？
+Mary is playing around on her computer late at night and discovers a way to compromise a small company&rsquo;s personnel files. She decides to take a look around, but does not steal any information. Is she still committing a crime even if she does not steal any of the information?
+
+A. 没有，因为她没窃取任何信息，所以她没犯罪。
+No, since she does not steal any information, she is not committing a crime.
+B. 是的，她获得了未经授权的访问。
+Yes, she has gained unauthorized access.
+正确
+C. 没有，如果她公开了该公司的脆弱性。
+Not if she discloses the vulnerability she exploited to the company.
+D. 是的，她可能在不知情时危及系统。
+Yes, she could jeopardize the system without knowing it.
+
+
+103. 使用下面的场景来回答3个问题。
+Zack是一名安全顾问，被聘请来帮助一家会计公司改善当前的电子邮件安全状态。公司要求在他们的客户发送了公司的会计文件和数据之后，无法对所发邮件予以否认。该公司也想运用更细粒度的身份认证方法，对当前的邮件服务器和客户端进行集成。
+Zack is a security consultant who has been hired to help an accounting company improve some of their current e-mail security practices. The company wants to ensure that when their clients send the company accounting files and data, the clients cannot later deny sending these messages. The company also wants to integrate a more granular and secure authentication method for their current mail server and clients.
+
+104. _____是从灾难中恢复所耗费的时间，而_____用时间来表示可在相同事故中损失的数据量。
+A _____ is the amount of time it should take to recover from a disaster, and a _____ is the amount of data, measured in time, that can be lost and be tolerable from that same event.
+
+A. 恢复时间目标、恢复点目标
+recovery time objective, recovery point objective
+正确
+B. 恢复点目标、恢复时间目标
+recovery point objective, recovery time objective
+C. 最大可容忍停机时间、工作恢复时间
+maximum tolerable downtime, work recovery time
+D. 工作恢复时间，最大可容忍停机时间
+work recovery time, maximum tolerable downtime
+
+
+105. 以下哪项不被认为是一种安全编码实践？
+Which of the following is not considered a secure coding practice?
+
+A. 验证用户输入
+Validate user inputs
+B. 默认拒绝
+Default deny
+C. 深度防御
+Defense in depth
+D. 高（紧）耦合
+High (tight) coupling
+正确
+
+
+106. 安全意识培训的目的是使人员在遇到安全问题时，能识别并做出更好的响应。以下哪一项通常不是安全意识培训所涉及的主题？
+The purpose of security awareness training is to expose personnel to security issues so that they may be able to recognize them and better respond to them. Which of the following is not normally a topic covered in security awareness training?
+
+A. 社会工程
+Social engineering
+B. 网络钓鱼
+Phishing
+C. 捕鲸
+Whaling
+D. 攻讦
+Trolling
+正确
+
+
+107. 下一代防火墙结合了各种其他类型防火墙的最佳属性。以下哪一项不是这些防火墙类型的共同特征？
+Next-generation firewalls combine the best attributes of other types of firewalls. Which of the following is not a common characteristic of these firewall types?
+
+A. 集成的入侵预防系统
+Integrated intrusion prevention system
+B. 共享基于云聚合的签名
+Sharing signatures with cloud-based aggregators
+C. 自动化的事件响应
+Automated incident response
+正确
+D. 成本高
+High cost
+
+
+108. 在通用准则架构内，一般会使用什么类型的评级系统？
+What type of rating system is used within the Common Criteria structure?
+
+A. PP
+PP
+B. EPL
+EPL
+C. EAL
+EAL
+正确
+D. A-D
+A&ndash;D
+
+
+109. 在故障防护模式下，假设发生电源故障时，门被配置什么状态？
+Doors configured in fail-safe mode assume what position in the event of a power failure?
+
+A. 打开和锁定
+Open and locked
+B. 关闭和锁定
+Closed and locked
+C. 关闭和解锁
+Closed and unlocked
+正确
+D. 打开
+Open
+
+
+110. _____是一种在XML和处理模型中实施的声明性访问控制策略语言，它描述了如何解释安全策略。_____是一种XML型框架，由OASIS开发，用来在合作组织之间交换用户、资源和服务供应信息。
+_____, a declarative access control policy language implemented in XML and a processing model, describes how to interpret security policies. _____ is an XML-based framework being developed by OASIS for exchanging user, resource, and service provisioning information between cooperating organizations.
+
+A. 服务供应标记语言(SPML)，可扩展访问控制标记语言(XACML)
+Service Provisioning Markup Language (SPML), Extensible Access Control Markup Language (XACML)
+B. 可扩展访问控制标记语言(XACML)，服务供应标记语言(SPML)
+Extensible Access Control Markup Language (XACML), Service Provisioning Markup Language (SPML)
+正确
+C. 可扩展访问控制标记语言(XACML)，安全断言标记语言(SAML)
+Extensible Access Control Markup Language (XACML), Security Assertion Markup Language (SAML)
+D. 安全断言标记语言(SAML)，服务供应标记语言(SPML)
+Security Assertion Markup Language (SAML), Service Provisioning Markup Language (SPML)
+
+
+111. 以下哪一项是安全专业人员在考虑采用物联网(IoT)设备时不需要关心的？
+Which of the following is not a concern of a security professional considering adoption of Internet of Things (IoT) devices?
+
+A. 身份认证机制较弱或不存在
+Weak or nonexistent authentication mechanisms
+B. 静态和运动中数据的脆弱性
+Vulnerability of data at rest and data in motion
+C. 部署修补程序和更新的难度
+Difficulty of deploying patches and updates
+D. 与连接性相关的各种高成本
+High costs associated with connectivity
+正确
+
+
+112. 使用下面的场景来回答2个问题。
+Tim是一家大型分布式金融投资组织的CISO。公司网络里有不同的网络设备和软件应用程序，这些设备和程序生成了自己专有的日志和审计数据。Tim和安全团队正在试图审查所有的日志文件，找出网络内的任何疑点。但他们被弄得不堪重负。Tim团队还需要处理的另一个问题是：很多网络设备都默认开启了IPv6转IPv4的自动通道。
+Tim is the CISO for a large distributed financial investment organization. The company&rsquo;s network is made up of different network devices and software applications, which generate their own proprietary logs and audit data. Tim and his security team have become overwhelmed with trying to review all of the log files when attempting to identify if anything suspicious is taking place within the network. &nbsp;Another issue Tim&rsquo;s team needs to deal with is that many of the network devices have automated IPv6-to-IPv4 tunneling enabled by default.
+
+113. 在典型的PKI架构中，执行下列事务的顺序是怎样的？
+1) 接收方解密并获得会话密钥。
+2) 发件方请求接收方的公钥。
+3) 从公共目录发送公钥。
+4) 发件方用接收方的公钥加密会话密钥并发送。
+&nbsp;In what order would a typical PKI infrastructure perform the following transactions?
+i. Receiver decrypts and obtains session key.
+ii. Sender requests receiver&rsquo;s public key.
+iii. Public key is sent from a public directory.
+iv. Sender sends a session key encrypted with receiver&rsquo;s public key.
+
+A. 4，3，2，1
+&nbsp;iv, iii, ii, i&nbsp;
+B. 2，1，3，4
+&nbsp;ii, i, iii, iv
+C. 2，3，4，1
+&nbsp;ii, iii, iv, i&nbsp;
+正确
+D. 2，4，3，1
+&nbsp;ii, iv, iii, i
+
+
+114. 互联网协议安全(IPSec)实际上是一个协议套件。套件中的每个协议都提供不同功能。以下哪项不是IPSec的功能或特性之一？
+Internet Protocol Security (IPSec) is actually a suite of protocols. Each protocol within the suite provides different functionality. Which of the following is not a function or characteristic of IPSec?
+
+A. 加密
+Encryption
+B. 链路层保护
+Link layer protection
+正确
+C. 身份认证
+Authentication
+D. 数据包负载和包头的保护
+Protection of packet payloads and the headers
+
+
+115. George是一家为客户提供网上银行和相关在线服务的大型银行的安全经理。George最近发现一些客户抱怨：在无任何主动操作的情况下，银行账户发生了变化。George通过与安全团队合作发现，所有变化是在适当的身份认证步骤完成后产生的。以下哪一项最可能描述这种情况的发生？
+George is the security manager of a large bank, which provides online banking and other online services to its customers. George has recently found out that some of the bank&rsquo;s customers have complained about changes to their bank accounts that they did not make. George worked with the security team and found out that all changes took place after proper authentication steps were completed. Which of the following describes what most likely took place in this situation?
+
+A. Web服务器遭受了跨站脚本攻破。
+Web servers were compromised through cross-scripting attacks.
+B. TLS连接被中间人攻击破解。
+TLS connections were decrypted through a man-in-the-middle attack.
+C. 个人电脑被安装键盘记录的木马程序所破坏。
+Personal computers were compromised with Trojan horses that installed keyloggers.
+正确
+D. Web服务器被伪装攻击所攻破。
+Web servers were compromised and masquerading attacks were carried out.
+
+
+116. 以下哪一项最恰当地描述了一种用来处置由数据残留所导致风险产生的控制技术？
+Which of the following best describes a technical control for dealing with the risks presented by data remanence?
+
+A. 加密
+Encryption
+正确
+B. 数据保留策略
+Data retention policies
+C. 文件删除
+File deletion
+D. 使用固态驱动器(SSD)
+Using solid-state drives (SSD)
+
+
+117. Jack需要评估公司最近升级的一个重要Web应用程序的性能。这个应用程序有一些非常有用，但不常用的新功能。他希望用户体验是正面的，同时不希望看到用户的问题报告。Jack应采用以下哪一种技术？
+Jack needs to assess the performance of a critical web application that his company recently upgraded. Some of the new features are very profitable, but not frequently used. He wants to ensure that the user experience is positive, but doesn&rsquo;t want to wait for the users to report problems. Which of the following techniques should Jack use?
+
+A. 真实用户监测
+Real user monitoring
+B. 综合事务
+Synthetic transactions
+正确
+C. 日志审查
+Log reviews
+D. 管理评审
+Management review
+
+
+118. Mark是一个公司新任的首席隐私官(CPO)，他被要求审查不同的员工。这种类型岗位的职能是什么？
+Mark has been asked to interview individuals to fulfill a new position in his company, chief privacy officer (CPO). What is the function of this type of position?
+
+A. 确保公司的财务信息是正确且安全的
+Ensuring that company financial information is correct and secure
+B. 确保客户、公司和员工的数据受到保护
+Ensuring that customer, company, and employee data is protected
+正确
+C. 确保安全策略被定义和执行
+Ensuring that security policies are defined and enforced
+D. 确保合作伙伴信息被安全保存
+Ensuring that partner information is kept safe
+
+
+119. 风险管理计划必须以正确顺序来制定。以下哪项所列步骤顺序是正确的？
+1) 创建风险管理团队。
+2) 计算每项资产的价值。
+3) 识别能影响被确定资产的脆弱性和威胁。
+4) 识别公司待评估的资产。
+A risk management program must be developed properly and in the right sequence. Which of the following provides the correct sequence for the steps listed?
+i. Develop a risk management team.
+ii. Calculate the value of each asset.
+iii. Identify the vulnerabilities and threats that can affect the identified assets.
+iv. Identify company assets to be assessed.
+
+A. &nbsp;1，3，2，4
+&nbsp;i, iii, ii, iv&nbsp;
+B. 2，1，4，3
+&nbsp;ii, i, iv, iii&nbsp;
+C. 3，1，4，2
+iii, i, iv, ii&nbsp;
+D. 1，4，2，3
+&nbsp;i, iv, ii, iii
+正确
+
+
+120. 在各种网站上，_____常用来作为数据的图形表示形式。它被表示为一些倾斜字符，必须由人工输入，从而证明主体是人，而不是一种类似软件机器人的自动化工具。
+A(n) _____ is the graphical representation of data commonly used on websites. It is a skewed representation of characteristics a person must enter to prove that the subject is a human and not an automated tool, as in a software robot.
+
+A. 反欺骗的符号
+anti-spoofing symbol
+B. CAPTCHA
+CAPTCHA
+正确
+C. 垃圾邮件的反欺骗符号
+spam anti-spoofing symbol
+D. CAPCHAT
+CAPCHAT
+
+
+121. 使用下面的场景回答3个问题。
+Jack刚受聘担任一家大医院的安全主任。该组织开发了一些专用的应用程序。他们认为外部实体不会了解到应用程序的内部逻辑，因此在该软件处理数据时，该组织并未实施多层次控制。Jack准备做的第一件事就是风险评估，以确定本组织当前的风险状态。他同时告诉老板：医院应当通过ISO认证，以增强其客户与合作伙伴的信心。
+Jack has just been hired as the security officer for a large hospital. The organization develops some of its own proprietary applications. The organization does not have as many layers of controls when it comes to the data processed by these applications, since it is assumed that external entities will not understand the internal logic of the applications. One of the first things that Jack wants to carry out is a risk assessment to determine the organization&rsquo;s current risk profile. He also tells his boss that the hospital should become ISO certified to bolster its customers&rsquo; and partners&rsquo; confidence.
+
+122. 证据的不同分类取决于其形式和可能被收集的方式。以下哪项可被认为是支持性证据？
+There are different categories for evidence depending upon what form it is in and possibly how it was collected. Which of the following is considered supporting evidence?
+
+A. 最好的证据
+Best evidence
+B. 确证性证据
+Corroborative evidence
+正确
+C. 决定性证据
+Conclusive evidence
+D. 直接证据
+Direct evidence
+
+
+123. 根据数据状态的不同，敏感数据机密性保护方式也会有所不同。以下哪项是保护传输中数据的最恰当方式？
+The confidentiality of sensitive data is protected in different ways depending on the state of the data. Which of the following is the best approach to protecting data in transit?
+
+A. SSL
+SSL
+B. VPN
+VPN
+正确
+C. IEEE 802.1x
+IEEE 802.1x
+D. 全盘加密
+Whole-disk encryption
+
+
+124. 操作系统虽然同时在内存中保持多个进程。但由于只有一个CPU，而存在着多个进程，所以各个进程之间只能在其指定的时间片段内与CPU交互。每个进程被分配到一个中断值，允许进程以这种中断值为时间切片来执行。以下哪一项最恰当的描述了可屏蔽和非可屏蔽中断之间的差异？
+An operating system maintains several processes in memory at the same time. The processes can only interact with the CPU during their assigned time slices since there is only one CPU and many processes. Each process is assigned an interrupt value to allow for this type of time slicing to take place. Which of the following best describes the difference between maskable and non-maskable interrupts?
+
+A. 可屏蔽中断被分配给关键进程，而非可屏蔽中断被分配给非关键进程。
+A maskable interrupt is assigned to a critical process, and a non-maskable interrupt is assigned to a noncritical process.
+B. 可屏蔽中断被分配到ring 0里的进程，而非可屏蔽中断分配到ring 3里的进程。
+A maskable interrupt is assigned to a process in ring 0, and a non-maskable interrupt is assigned to a process in ring 3.
+C. 可屏蔽中断分配到ring 3里的进程，而非可屏蔽中断分配到ring 4里的进程。
+A maskable interrupt is assigned to a process in ring 3, and a non-maskable interrupt is assigned to a process in ring 4.
+D. 可屏蔽中断被分配给非关键过程，而非可屏蔽中断被分配给关键进程。
+A maskable interrupt is assigned to a noncritical process, and a non-maskable interrupt is assigned to a critical process.
+正确
+
+
+125. 一般公司应当遵循某些步骤来选择和实施新的电脑产品。以下哪个排序是正确的？
+Companies should follow certain steps in selecting and implementing a new computer product. Which of the following sequences is ordered correctly?
+
+A. 评估、认可、认证
+Evaluation, accreditation, certification
+B. 评估、认证、认可
+Evaluation, certification, accreditation
+正确
+C. 认证、评估、认可
+Certification, evaluation, accreditation
+D. 认证、认可、评估
+Certification, accreditation, evaluation
+
+
+126. 对于一家智能手机制造商，除了以下哪项以外，都应该视为供应链风险管理流程的一部分？
+All of the following should be considered as part of the supply chain risk management process for a smartphone manufacturer except
+
+A. 被下游合作伙伴植入的木马
+Hardware Trojans inserted by downstream partners
+B. ISO/IEC 27001
+ISO/IEC 27001
+正确
+C. 被上游合作伙伴植入的木马
+Hardware Trojans inserted by upstream partners
+D. NIST特别出版物 800-161
+NIST Special Publication 800-161
+
+
+127. 一家软件开发公司发布了一个产品，该产品被部署到客户环境中时却带有一些错误。一般在发布前，软件所有代码都要经历一长串测试环节。团队经理发现其代码曾有过少量更改，而该程序在发布前并未经过测试。下列哪项测试是最不可能被执行的？
+A software development company released a product that committed several errors that were not expected once deployed in their customers&rsquo; environments. All of the software code went through a long list of tests before being released. The team manager found out that after a small change was made to the code, the program was not tested before it was released. Which of the following tests was most likely not conducted?
+
+A. 单元
+Unit
+B. 编译
+Compiled
+C. 集成
+Integration
+D. 回归
+Regression
+正确
+
+
+128. Mark就职于一家跨国公司，他正在审查公司里与数据泄露相关的策略和流程。以下哪一项是他必须考虑的问题？
+Mark works for a large corporation operating in multiple countries worldwide. He is reviewing his company&rsquo;s policies and procedures dealing with data breaches. Which of the following is an issue that he must take into consideration?
+
+A. 每个国家可能会有独特的通知要求。
+Each country may or may not have unique notification requirements.
+正确
+B. 必须将所有的泄露在24小时内通知到受影响的各方。
+All breaches must be announced to affected parties within 24 hours.
+C. 泄露通知只是一个&ldquo;尽力而为&rdquo;的过程，不是一个有保证的流程。
+Breach notification is a &ldquo;best effort&rdquo; process and not a guaranteed process.
+D. 如果所有PII已从数据存储中被移除，则可免于泄露通知。
+Breach notifications are avoidable if all PII is removed from data stores.
+
+
+129. 以下哪一项最恰当地描述了为什么基于角色的访问控制可减轻公司管理负担？
+Which of the following best describes what role-based access control offers companies in reducing administrative burdens?
+
+A. 它允许实体决定谁可以和谁不可以访问各种资源。
+It allows entities closer to the resources to make decisions about who can and cannot access resources.
+B. 它为访问控制提供了一个集中式方法，为部门经理减负。
+It provides a centralized approach for access control, which frees up department managers.
+C. 可根据各种工作分配的指令，方便地在角色中撤销和建立新的用户成员。
+User membership in roles can be easily revoked and new ones established as job assignments dictate.
+正确
+D. 它执行企业范围的安全策略、标准和准则。
+It enforces an enterprise-wide security policy, standards, and guidelines.
+
+
+130. Jane怀疑一名员工将敏感数据发给公司的一个竞争对手。该员工需要在日常活动中用到这些数据，因此该员工的访问权限很难被恰当地限制。在这个场景中，哪项最恰当描述了公司的脆弱性、威胁、风险和必要控制措施？
+Jane is suspicious that an employee is sending sensitive data to one of the company&rsquo;s competitors. The employee has to use this data for daily activities, thus it is difficult to properly restrict the employee&rsquo;s access rights. In this scenario, which best describes the company&rsquo;s vulnerability, threat, risk, and necessary control?
+
+A. 脆弱性是员工的访问权限，威胁是内部实体滥用特权的访问，风险是数据丢失对业务的影响，而必要的控制是详细的网络流量监控。
+Vulnerability is employee access rights, threat is internal entities misusing privileged access, risk is the business impact of data loss, and the necessary control is detailed network traffic monitoring.
+B. 脆弱性是宽松的访问权限，威胁是内部实体滥用特权的访问，风险是数据丢失对业务的影响，而必要的控制是详细用户监控。
+Vulnerability is lenient access rights, threat is internal entities misusing privileged access, risk is the business impact of data loss, and the necessary control is detailed user monitoring.
+正确
+C. 脆弱性是员工的访问权限，威胁是内部员工滥用特权的访问，风险是泄密对业务的影响，而必要的控制是多因素身份认证。
+Vulnerability is employee access rights, threat is internal employees misusing privileged access, risk is the business impact of confidentiality, and the necessary control is multifactor authentication.
+D. 脆弱性是员工的访问权限，威胁是内部用户滥用特权的访问，风险是泄密对业务的影响，而必要的控制是CCTV。
+Vulnerability is employee access rights, threat is internal users misusing privileged access, risk is the business impact of confidentiality, and the necessary control is CCTV.
+
+
+131. 在员工监控问题上，重要的是解决好&ldquo;隐私的合理期待&rdquo;(REP)问题。在美国法律体系中，用来定义隐私保护所提供范围的隐私期待是：
+It is important to deal with the issue of &ldquo;reasonable expectation of privacy&rdquo; (REP) when it comes to employee monitoring. In the U.S. legal system the expectation of privacy is used when defining the scope of the privacy protections provided by the
+
+A. 联邦隐私法（Federal Privacy Act）
+Federal Privacy Act
+B. 爱国者法案（PATRIOT Act）
+PATRIOT Act
+C. 宪法第四修正案（Fourth Amendment of the Constitution）
+Fourth Amendment of the Constitution
+正确
+D. 金融服务现代化法案（Bill of Rights）
+Bill of Rights
+
+
+132. Terry是一家信用卡处理公司的安全经理。他们公司在局域网中部署了一台内部DNS服务器，并还在DMZ中部署了一台外部DNS服务器。公司还使用了其服务提供商提供的DNS服务器。Terry发现攻击者已经操控了几台DNS服务器，并通过缓存将员工的流量指向一些恶意网站。以下哪项最恰当的描述了该公司应该实施的解决方案？
+Terry is a security manager for a credit card processing company. His company uses internal DNS servers, which are placed within the LAN, and external DNS servers, which are placed in the DMZ. The company also relies upon DNS servers provided by its service provider. Terry has found out that attackers have been able to manipulate several DNS server caches to point employee traffic to malicious websites. Which of the following best describes the solution this company should implement?
+
+A. IPSec
+IPSec
+B. PKI
+PKI
+C. DNSSEC
+DNSSEC
+正确
+D. 基于MAC的安全
+MAC-based security
+
+
+133. Aaron是一名安全经理，他需要制定一种解决方案：使公司的移动设备能通过数字证书，并且以标准和集中的方式进行身份认证。这些移动客户端的应用程序需要用到TCP连接。以下哪一项是Aaron可执行的最佳解决方案？
+Aaron is a security manager who needs to develop a solution to allow his company&rsquo;s mobile devices to be authenticated in a standardized and centralized manner using digital certificates. The applications these mobile clients use require a TCP connection. Which of the following is the best solution for Aaron to implement?
+
+A. 使用PKI的SESAME
+SESAME using PKI
+B. 使用EAP的RADIUS
+RADIUS using EAP
+C. 使用EAP的Diameter
+Diameter using EAP
+正确
+D. 使用TTLS的RADIUS
+RADIUS using TTLS
+
+

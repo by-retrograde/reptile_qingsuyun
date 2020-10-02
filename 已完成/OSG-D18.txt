@@ -1,0 +1,266 @@
+1. 什么类型的灾难恢复计划测试在备份设施中充分评估运营，但不转移主站点业务的主要运营责任?
+What type of disaster recovery plan test fully evaluates operations at the backup facility but does not shift primary operations responsibility from the main site?
+
+A. 结构化演练
+Structured walk-through
+B. 并行测试
+Parallel test
+正确
+C. 全中断测试
+Full-interruption test
+D. 模拟测试
+Simulation test
+
+
+2. 什么样的备份组合策略提供最快的备份还原时间?
+What combination of backup strategies provides the fastest backup restoration time?
+
+A. 完整备份和差异备份
+Full backups and differential backups
+正确
+B. 部分备份和增量备份
+Partial backups and incremental backups
+C. 完整备份和增量备份
+Full backups and incremental backups
+D. 增量备份和差异备份
+Incremental backups and differential backups
+
+
+3. 什么样的备份组合策略能提供最快的备份创建时间?
+What combination of backup strategies provides the fastest backup creation time?
+
+A. 完整备份和差异备份
+Full backups and differential backups
+B. 部分备份和增量备份
+Partial backups and incremental backups
+C. 完整备份和增量备份
+Full backups and incremental backups
+正确
+D. 增量备份和差异备份
+Incremental backups and differential backups
+
+
+4. 什么类型的备份包括所有文件自最近一次完整备份以来存储修改文件的拷贝?
+What type of backup involves always storing copies of all files modified since the most recent full backup?
+
+A. 差异备份
+Differential backups
+正确
+B. 部分备份
+Partial backup
+C. 增量备份
+Incremental backups
+D. 数据库备份
+Database backup
+
+
+5. 什么灾难恢复计划工具可以用来防止为所提供产品提供相应支持的重要软件公司破产?
+What disaster recovery planning tool can be used to protect an organization against the failure of a critical software firm to provide appropriate support for their products?
+
+A. 差异备份
+Differential backups
+B. 业务影响评估
+Business impact assessment
+C. 增量备份
+Incremental backups
+D. 软件托管协议
+Software escrow agreement
+正确
+
+
+6. 什么类型的文件能够帮助公关专家和其他需要灾难恢复工作的高度概括总结的人?
+What type of document will help public relations specialists and other individuals who need a high-level summary of disaster recovery efforts while they are under way?
+
+A. 执行摘要
+Executive summary
+正确
+B. 技术指南
+Technical guides
+C. 具体部门计划
+Department-specific plans
+D. 清单
+Checklists
+
+
+7. 哪种数据库备份策略类型包括在远程站点维护实时的备份服务器?
+What type of database backup strategy involves maintenance of a live backup server at the remote site?
+
+A. 事务记录
+Transaction logging
+B. 远程日志
+Remote journaling
+C. 电子传送
+Electronic vaulting
+D. 远程镜像
+Remote mirroring
+正确
+
+
+8. 下列哪一项是热站点的特征而不是温站点的特征?
+Which one of the following items is a characteristic of hot sites but not a characteristic of warm sites?
+
+A. 通信电路
+Communications circuits
+B. 工作站
+Workstations
+C. 服务器
+Servers
+D. 当前数据
+Current data
+正确
+
+
+9. 灾难声明后估计激活温站点的标准时间是多长?
+What is the typical time estimate to activate a warm site from the time a disaster is declared?
+
+A. 1小时
+1 hour
+B. 6小时
+6 hours
+C. 12小时
+12hours
+正确
+D. 24小时
+24 hours
+
+
+10. 下列哪个备选处理场所需要的激活时间最长?
+Which one of the following alternative processing sites takes the longest time to activate?
+
+A. 热站点
+Hot site
+B. 移动站点
+Mobile site
+C. 冷站点
+Cold site
+正确
+D. 温站点
+Warm site
+
+
+11. 什么业务连续性计划技术可以帮助准备灾难恢复计划的业务单元优先任务?
+What business continuity planning technique can help you prepare the business unit prioritization task of disaster recovery planning?
+
+A. 脆弱性分析
+Vulnerability analysis
+B. 业务影响评估
+Business impact assessment
+正确
+C. 风险管理
+Risk management
+D. 连续性规划
+Continuity planning
+
+
+12. 什么灾难恢复原则能最好地保护组织避免硬件故障?
+What disaster recovery principle best protects your organization against hardware failure?
+
+A. 一致性
+Consistency
+B. 效率
+Efficiency
+C. 冗余
+Redundancy
+正确
+D. 首要
+Primacy
+
+
+13. 下列哪种数据库恢复技术之一是准确的、数据库保持在备选位置的最新副本?
+In which one of the following database recovery techniques is an exact, up-to-date copy of the database maintained at an alternative location?
+
+A. 事务记录
+Transaction logging
+B. 远程日志
+Remote journaling
+C. 电子传送
+Electronic vaulting
+D. 远程镜像
+Remote mirroring
+正确
+
+
+14. &ldquo;百年一遇洪水&rdquo;对于应急准备的官员是什么意思?
+What does the term &ldquo;100-year flood plain&rdquo; mean to emergency preparedness officials?
+
+A. 最后一次袭击该区域的任何类型的洪水超过100 年之久
+The last flood of any kind to hit the area was more than 100 years ago.
+B. 在任何一年洪水发生的可能性在1/100的级别
+The odds of a flood at this level are 1 in 100 in any given year.
+正确
+C. 预计该区域由洪水带来的问题至少100年是安全的
+The area is expected to be safe from flooding for at least 100 years.
+D. 对该地区最后一次严重洪水袭击己过100年之久
+The last significant flood to hit the area was more than 100 years ago.
+
+
+15. 当组织在尝试恢复操作，但不知道它将在何处时，以下哪个存储位置可以提供一个很好的选择？
+Which one of the following storage locations provides a good option when the organization does not know where it will be when it tries to recover operations?
+
+A. 主数据中心
+Primary data center
+B. 现场办公室
+Field office
+C. 云计算
+Cloud computing
+正确
+D. IT经理的家里
+IT manager&rsquo;s home
+
+
+16. 以下哪项控制为存储设备提供了容错功能？
+Which one of the following controls provides fault tolerance for storage devices?
+
+A. 负载均衡
+Load balancing
+B. RAID
+RAID
+正确
+C. Clustering
+Clustering
+D. HA pairs
+HA pairs
+
+
+17. 下列哪一种灾难类别不受通常的商业标准或房主保险覆盖?
+Which one of the following disaster types is not usually covered by standard business or homeowner&rsquo;s insurance?
+
+A. 地震
+Earthquake
+B. 洪水
+Flood
+正确
+C. 火
+Fire
+D. 盗窃
+Theft
+
+
+18. 根据美国联邦紧急事务管理局的统计， 美国各州至少有地震活动的中等风险的比例大概是多少?
+According to the Federal Emergency Management Agency, approximately what percentage of U.S. states is rated with at least a moderate risk of seismic activity?
+
+A. 20%
+20 percent
+B. 40%
+40 percent
+C. 60%
+60 percent
+D. 80%
+80 percent
+正确
+
+
+19. 下列哪一项是人为灾难的例子?
+Which one of the following is an example of a man-made disaster?
+
+A. 海啸
+Tsunami
+B. 地震
+Earthquake
+C. 停电
+Power outage
+正确
+D. 雷击
+Lightning strike
+
+

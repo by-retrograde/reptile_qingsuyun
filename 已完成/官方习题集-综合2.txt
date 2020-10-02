@@ -1,0 +1,1620 @@
+1. 云计算将共享责任模型用于安全方面，其中供应商和客户各自承担一些安全性责任。 责任划分取决于所使用的服务模式。从客户承担最小责任的情况到客户承担最大责任的情况，请按这个顺序、依据下列选项排列出云服务产品。
+A. IaaS(基础设施即服务)
+B. PaaS(平台即服务)
+C. SaaS(软件即服务)
+D. TaaS(团队即服务)
+Cloud computing uses a shared responsibility model for security, where the vendor and customer each bear some responsibility for security. The division of responsibility depends upon the type of service used. Place the cloud service offerings listed here in order from the case where the customer bears the least responsibility to where the customer bears the most responsibility.
+A. IaaS
+B. SaaS
+C. PaaS
+D. TaaS
+
+A. 看答案
+正确
+B. 不看答案
+
+
+2. 为下列IP地址匹配合适的描述。每条描述可匹配一次、多次或不匹配。
+IP 地址
+1. 10.14.124.240
+2. 127.0.0.1
+3. 129.74.250.100
+4. 169.254.103.17
+5. 192.168.15.10
+6. 216.15.1.10
+描述
+公共IP
+私有IP
+APIPA地址
+还回地址
+Match each of the numbered IP addresses with the best lettered description of that IP address. Each IP address in the numbered list should have one answer from the descriptions. Each description may be used once, more than once, or not at all.
+IP address
+1. 10.14.124.240
+2. 127.0.0.1
+3. 129.74.250.100
+4. 169.254.103.17
+5. 192.168.15.10
+6. 216.15.1.10
+Description
+A. Public IP address
+B. Private IP address
+C. APIPA address
+D. Loopback address
+
+A. 看答案
+正确
+B. 不看答案
+
+
+3. &nbsp;参考以下场景回答案后面的4个问题。
+Matthew 和Richard 是位于不同物理位置的朋友，他们开始彼此通信时希望使用加密技术来保障其通信的保密性。他们交换数字证书开始通信，并计划使用非对称加密算法来安全交换电子邮件。
+Matthew and Richard are friends located in different physical locations who would like to begin communicating with each other using cryptography to protect the confidentiality of their communications. They exchange digital certificates to begin this process and plan to use an asymmetric encryption algorithm for the secure exchange of email messages.
+
+4. Jim希望采用合适的测试工具对其公司进行安全评估。请为下列测试工具匹配对应的用途。每项均只可匹配一次。
+工具：
+1. Nmap
+2. QualysGuard
+3. Metasploit
+4. Nikto
+5. aircrack-ng
+通途：
+A. 网络漏洞扫描
+B. 端口扫描
+C. 无线加密评估
+D. Web漏洞扫描
+E. 漏洞利用攻击框架
+Jim is performing a security assessment of his company and would like to use appropriate testing tools. Match each of the numbered tools with the best lettered description of the tool&rsquo;s purpose. You should use each item exactly once.
+Tools
+1. Nmap
+2. QualysGuard
+3. Metasploit
+4. Nikto
+5. aircrack-ng
+Purpose
+A. Network vulnerability scanning
+B. Port scanning
+C. Wireless encryption assessment
+D. Web vulnerability scanning
+E. Exploitation framework
+
+A. 看答案
+正确
+B. 不看答案
+
+
+5. Sue 的组织最近未通过安全评估，因为他们的网络是单一的平面广播域，并且在不同的功能组之间可能嗅探流量。她应该推荐什么解决方案来防止问题的出现？
+Sue&rsquo;s organization recently failed a security assessment because their network was a single flat broadcast domain, and sniffing traffic was possible between different functional groups. What solution should she recommend to help prevent the issues that were identified?
+
+A. 使用VLAN
+Use VLANs.
+正确
+B. 更改所有系统的子网掩码
+Change the subnet mask for all systems.
+C. 部署网关
+Deploy gateways.
+D. 打开端口安全
+Turn on port security.
+
+
+6. Jennifer 需要衡量她的信息安全计划的有效性，因为她致力于组织的长期目标。她应该选择什么类型的措施？
+Jennifer needs to measure the effectiveness of her information security program as she works toward her organization&rsquo;s long-term goals. What type of measures should she select?
+
+A. 度量
+Metrics
+B. KPI
+KPIs
+正确
+C. SLA
+SLAs
+D. OKRs
+OKRs
+
+
+7. Scott 的组织将其外部IP 地址配置为192.168.1.25。当流量发送到他们的ISP 时，它不会到达其目的地。Scott 的组织遇到什么问题？
+Scott&rsquo;s organization has configured their external IP address to be 192.168.1.25. When traffic is sent to their ISP, it never reaches its destination. What problem is Scott&rsquo;s organization encountering?
+
+A. BGP 未正确设置
+BGP is not set up properly.
+B. 他们没有向ISP 注册IP
+They have not registered their IP with their ISP
+C. IP 地址是一个私有的、不可路由的地址
+The IP address is a private, nonroutable address.
+正确
+D. 192.168.1.25 是家庭路由器的保留地址
+192.168.1.25 is a reserved address for home routers.
+
+
+8. EAP 的什么关键假设可以通过使用PEAP 来弥补？
+What key assumption made by EAP can be remedied by using PEAP?
+
+A. EAP 假定LEAP 将取代TKIP，确保身份验证将发生
+EAP assumes that LEAP will replace TKIP, ensuring that authentication will occur.
+B. EAP 最初假定使用物理隔离的信道，并且通常不加密
+EAP originally assumed the use of physically isolated channels and is usually not encrypted.
+正确
+C. 没有使用EAP 可用的TLS 实现
+There are no TLS implementations available using EAP.
+D. EAP 不允许额外的身份验证方法，PEAP 添加额外的方法
+EAP does not allow additional authentication methods, and PEAP adds additional methods.
+
+
+9. 访问控制的问责制有哪两个重要因素？
+What two important factors does accountability for access control rely on?
+
+A. 鉴定和授权
+Identification and authorization
+B. 身份验证和授权
+Authentication and authorization
+C. 识别和身份验证
+Identification and authentication
+正确
+D. 责任和身份验证
+Accountability and authentication
+
+
+10. 参考这里所示的图，箭头指示的安全控制的名称是什么？
+Referring to the figure shown here, what is the name of the security control indicated by the arrow?
+
+
+A. 陷门
+Mantrap
+B. 入侵防御系统
+Intrusion prevention system
+C. 旋转门
+Turnstile
+正确
+D. 门户
+Portal
+
+
+11. Tracy 最近接受了联邦政府机构的一个IT 合规职位，该部门与国防部密切合作处理政府机密问题。以下哪项法律最不可能属于Tracy 的代理机构？
+Tracy recently accepted an IT compliance position at a federal government agency that works very closely with the Defense Department on classified government matters. Which one of the following laws is least likely to pertain to Tracy&rsquo;s agency?
+
+A. HIPAA
+HIPAA
+正确
+B. FISMA
+FISMA
+C. HSA
+HSA
+D. CFAA
+CFAA
+
+
+12. 根据COPPA 的条款，哪些类型的网站受到管制？
+What type of websites are regulated under the terms of COPPA?
+
+A. 不由金融机构经营的金融网站
+Financial websites not run by financial institutions
+B. 收集个人信息的医疗保健网站
+Healthcare websites that collect personal information
+C. 收集儿童信息的网站
+Websites that collect information from children
+正确
+D. 金融机构运营的金融网站
+Financial websites run by financial institutions
+
+
+13. 当Alex 使用他的智能卡向上游认证服务提供证书时，Alex 希望使用哪个ITU-T标准？
+Which ITU-T standard should Alex expect to see in use when he uses his smart card to provide a certificate to an upstream authentication service?
+
+A. X.500
+X.500
+B. SPML
+SPML
+C. X.509
+X.509
+正确
+D. SAML
+SAML
+
+
+14. Colin 正在审查根据共同标准分配了EAL7 评价保证级别的系统。他对系统的最高保证是什么？
+Colin is reviewing a system that has been assigned the EAL7 evaluation assurance level under the Common Criteria. What is the highest level of assurance that he may have about the system?
+
+A. 已经完成功能测试
+It has been functionally tested.
+B. 已经完成有条理的测试和检查
+It has been methodically tested and checked.
+C. 已经完成设计、测试和审查
+It has been methodically designed, tested, and reviewed.
+D. 已经完成正式验证、设计和测试
+It has been formally verified, designed, and tested.
+正确
+
+
+15. 当渗透测试人员在测试期间使用Metasploit 时，Lauren 不应该关注哪个潜在问题列表？
+Which of the following concerns should not be on Lauren&rsquo;s list of potential issues when penetration testers suggest using Metasploit during their testing?
+
+A. Metasploit 只能测试有相应插件的漏洞
+Metasploit can only test vulnerabilities it has plug-ins for.
+正确
+B. 渗透测试只涉及组织安全的时间点视图
+Penetration testing only covers a point-in-time view of the organization&rsquo;s security.
+C. Metasploit 之类的工具可能导致拒绝服务问题
+Tools like Metasploit can cause denial of service issues.
+D. 渗透测试不能测试过程和政策
+Penetration testing cannot test process and policy.
+
+
+16. Alice 想要向安全模型添加另一个客体，并授予自己对该客体的权限。Take-Grant保护模型中的哪个规则将允许她完成此操作？
+Alice would like to add another object to a security model and grant herself rights to that object. Which one of the rules in the Take-Grant protection model would allow her to complete this operation?
+
+A. 采取规则
+Take rule
+B. 授予规则
+Grant rule
+C. 创建规则
+Create rule
+正确
+D. 删除规则
+Remove rule
+
+
+17. 什么类型的防火墙能够检测第7 层的流量，并对恶意流量执行协议特定的分析？
+What type of firewall is capable of inspecting traffic at layer 7 and performing protocolspecific analysis for malicious traffic?
+
+A. 应用防火墙
+Application firewall
+正确
+B. 状态检查防火墙
+Stateful inspection firewall
+C. 包过滤防火墙
+Packet filtering firewall
+D. 堡垒主机
+Bastion host
+
+
+18. Kathleen 想要建立一个提供有关其组织的用户和服务信息的系统，该系统使用一个中央的、开放的、供应商中立、基于标准的系统，并且可以很容易地查询。以下哪项技术是她的最佳选择？
+Kathleen wants to set up a service to provide information about her organization&rsquo;s users and services using a central, open, vendor-neutral, standards-based system that can be easily queried. Which of the following technologies is her best choice?
+
+A. RADIUS
+RADIUS
+B. LDAP
+LDAP
+正确
+C. Kerberos
+Kerberos
+D. 活动目录
+Active Directory
+
+
+19. Tommy 处理所在组织的访问控制请求。用户接触他并解释说需要访问人力资源数据库，以完成CFO 要求的人员分析工作。用户向Tommy 成功展示了什么？
+Tommy handles access control requests for his organization. A user approaches him and explains that he needs access to the human resources database in order to complete a headcount analysis requested by the CFO. What has the user demonstrated successfully to Tommy?
+
+A. 许可
+Clearance
+B. 职责分离
+Separation of duties
+C. 需知
+Need to know
+正确
+D. 隔离
+Isolation
+
+
+20. 在OSI模型中，当数据包从数据流更改为数据段或数据报时，它遍历了哪个层？
+In the OSI model, when a packet changes from a datastream to a segment or a datagram, what layer has it traversed?
+
+A. 传输层
+The Transport layer
+正确
+B. 应用层
+The Application layer
+C. 数据链路层
+The Data Link layer
+D. 物理层
+The Physical layer
+
+
+21. Margot 正在调查网络上的可疑活动，并使用协议分析器来嗅探入站和出站流量。她注意到具有相同源和目标IP 地址的异常数据包。什么类型的攻击使用此数据包类型？
+Margot is investigating suspicious activity on her network and uses a protocol analyzer to sniff inbound and outbound traffic. She notices an unusual packet that has identical source and destination IP addresses. What type of attack uses this packet type?
+
+A. Fraggle
+Fraggle
+B. Smurf
+Smurf
+C. Land
+Land
+正确
+D. Teardrop
+Teardrop
+
+
+22. 在正常的预雇佣活动期间，通常不执行以下哪种背景调查？
+Which one of the following background checks is not normally performed during normal pre-hire activities?
+
+A. 信用检查
+Credit check
+B. 参考验证
+Reference verification
+C. 犯罪记录检查
+Criminal records check
+D. 医疗记录检查
+Medical records check
+正确
+
+
+23. Sally 的组织需要能够证明某些工作人员发送电子邮件，她希望采用能提供该功能的技术，而不必更改其现有的电子邮件系统。Sally 作为电子邮件系统的所有者需要实现的功能的技术术语是什么？她可以使用什么工具来做？
+Sally&rsquo;s organization needs to be able to prove that certain staff members sent emails, and she wants to adopt a technology that will provide that capability without changing their existing email system. What is the technical term for the capability Sally needs to implement as the owner of the email system, and what tool could she use to do it?
+
+A. 诚信；IMAP
+Integrity; IMAP
+B. 否认；加密
+Repudiation; encryption
+C. 不可否认；数字签名
+Nonrepudiation; digital signatures
+正确
+D. 认证；DKIM
+Authentication; DKIM
+
+
+24. 下列哪些类型的控制没有描述陷门？
+Which of the following types of controls does not describe a mantrap?
+
+A. 威慑
+Deterrent
+B. 预防
+Preventive
+C. 补偿
+Compensating
+正确
+D. 物理
+Physical
+
+
+25. 分散式访问控制的主要优点是什么？
+What is the primary advantage of decentralized access control?
+
+A. 它提供更好的冗余
+It provides better redundancy.
+B. 它提供对接近资源的人的接触控制
+It provides control of access to people closer to the resources.
+正确
+C. 它更便宜
+It is less expensive.
+D. 它提供了更细粒度的访问控制
+It provides more granular control of access.
+
+
+26. 当Jim 登录到系统时，将其密码与存储在数据库中的散列值进行比较。这个过程是什么？
+When Jim logs into a system, his password is compared to a hashed value stored in a database. What is this process?
+
+A. 鉴定
+Identification
+B. 散列
+Hashing
+C. 令牌化
+Tokenization
+D. 身份验证
+Authentication
+正确
+
+
+27. Susan 想要监视VMWare 环境中系统之间的流量。她最好选择什么解决方案来监控流量？
+Susan wants to monitor traffic between systems in a VMWare environment. What solution would be her best option to monitor that traffic?
+
+A. 使用传统的基于硬件的IPS
+Use a traditional hardware-based IPS.
+B. 在每个虚拟系统上安装
+Wireshark Install Wireshark on each virtual system.
+C. 设置虚拟跨接口并使用VM IDS 捕获数据
+Set up a virtual span port and capture data using a VM IDS.
+正确
+D. 使用netcat 捕获VM 之间发送的所有流量
+Use netcat to capture all traffic sent between VMs.
+
+
+28. 以下哪一个可能加强组织现有实体设施，并避免实施业务连续性计划的强化规定？
+Which one of the following is an example of a hardening provision that might strengthen an organization&rsquo;s existing physical facilities and avoid implementation of a business continuity plan?
+
+A. 修补漏水屋顶
+Patching a leaky roof
+正确
+B. 审查和更新防火墙访问控制列表
+Reviewing and updating firewall access control lists
+C. 升级操作系统
+Upgrading operating systems
+D. 部署网络入侵检测系统
+Deploying a network intrusion detection system
+
+
+29. 下列哪项活动有助于减轻零日漏洞的威胁？
+Which one of the following activities transforms a zero-day vulnerability into a less dangerous attack vector?
+
+A. 发现漏洞
+Discovery of the vulnerability
+B. 传输层加密的实现
+Implementation of transport-layer encryption
+C. 重新配置防火墙
+Reconfiguration of a firewall
+D. 释放安全补丁
+Release of a security patch
+正确
+
+
+30. 该图显示了什么类型的日志文件？
+What type of log file is shown in this figure?
+
+
+A. 应用
+Application
+B. Web 服务器
+Web server
+C. 系统
+System
+D. 防火墙
+Firewall
+正确
+
+
+31. Grace 正在考虑在其组织中使用新的身份证，用于物理访问控制。她看到下图显示的样品卡，但并不确定该卡使用的技术。请问这是什么类型的卡？
+Grace is considering the use of new identification cards in her organization that will be used for physical access control. She comes across the sample card shown here and is unsure of the technology it uses. What type of card is this?
+
+
+A. 智能卡
+Smart card
+B. 相二卡
+Phase-two card
+C. 接近卡
+Proximity card
+D. 磁条卡
+Magnetic stripe card
+正确
+
+
+32. Ben 正在选择一种用于拥有10000名员工的组织中的加密算法。他必须促进组织内任何两名员工之间的沟通。以下哪种算法将允许他用最短的时间来实现密钥管理？
+Ben is selecting an encryption algorithm for use in an organization with 10,000 employees. He must facilitate communication between any two employees within the organization. Which one of the following algorithms would allow him to meet this goal with the least time dedicated to key management?
+
+A. RSA
+RSA
+正确
+B. IDEA
+IDEA
+C. 3DES
+3DES
+D. Skipjack
+Skipjack
+
+
+33. Steve 正在开发一个输入验证例程，它将保护支持Web 应用程序的数据库免受SQL 注入攻击。Steve 应在哪里放置输入验证码？
+Steve is developing an input validation routine that will protect the database supporting a web application from SQL injection attack. Where should Steve place the input validation code?
+
+A. 嵌入在网页中的JavaScript
+JavaScript embedded in the web pages
+B. Web 服务器上的后端代码
+Backend code on the web server
+正确
+C. 数据库上的存储过程
+Stored procedure on the database
+D. 用户的Web 浏览器上的代码
+Code on the user&rsquo;s web browser
+
+
+34. Lauren希望监控她的LDAP服务器，以便查出导致问题的类型。如果她想要使用生产服务器和实际流量进行测试，她应该使用什么类型的监控？
+Lauren wants to monitor her LDAP servers to identify what types of queries are causing problems. What type of monitoring should she use if she wants to be able to use the production servers and actual traffic for her testing?
+
+A. 活跃
+Active
+B. 实时
+Real-time
+C. 被动
+Passive
+正确
+D. 重放
+Replay
+
+
+35. 当使用3DES 算法时，实现强安全性最少需要多少密钥？
+What is the minimum number of cryptographic keys necessary to achieve strong security when using the 3DES algorithm?
+
+A. 1
+1
+B. 2
+2
+正确
+C. 3
+3
+D. 4
+4
+
+
+36. 组织一般隔一段时间就应该为相关人员开展业务连续性计划评估培训，请问培训的最短时间间隔是多少？
+What is the minimum interval at which an organization should conduct business continuity plan refresher training for those with specific business continuity roles?
+
+A. 每周
+Weekly
+B. 每月
+Monthly
+C. 半年一次
+Semiannually
+D. 每年
+Annually
+正确
+
+
+37. Ben 正努力整合联合身份管理系统，并需要为基于浏览器的单点登录交换身份验证和授权信息。哪项技术是他最好的选择？
+Ben is working on integrating a federated identity management system and needs to exchange authentication and authorization information for browser-based single sign-on. What technology is his best option?
+
+A. HTML
+HTML
+B. XACML
+XACML
+C. SAML
+SAML
+正确
+D. SPML
+SPML
+
+
+38. 组织的应急响应准则应包括以下哪个组成部分？
+Which one of the following components should be included in an organization&rsquo;s emergency response guidelines?
+
+A. 立即反应程序
+Immediate response procedures
+正确
+B. 长期业务连续性协议
+Long-term business continuity protocols
+C. 组织的冷站点激活程序
+Activation procedures for the organization&rsquo;s cold sites
+D. 订购设备的联系信息
+Contact information for ordering equipment
+
+
+39. 以下哪一项不是(ISC)2 道德守则的规范之一？
+Which one of the following is not one of the canons of the (ISC)2 Code of Ethics?
+
+A. 保护社会公共利益和维持必要的公众信任
+Protect society, the common good, necessary public trust and confidence, and the infrastructure.
+B. 正直、诚实、公正、负责任和合法地行事
+Act honorably, honestly, justly, responsibly, and legally.
+C. 为负责人提供高效优质的服务
+Provide diligent and competent service to principals.
+D. 保持所有调查和评估的合格记录
+Maintain competent records of all investigations and assessments.
+正确
+
+
+40. 使用可信信道和链路加密是防止什么类型的访问控制攻击的方法？
+Using a trusted channel and link encryption are both ways to prevent what type of access control attack?
+
+A. 暴力
+Brute force
+B. 欺骗登录屏幕
+Spoofed login screens
+C. 中间人攻击
+Man-in-the-middle attacks
+正确
+D. 字典攻击
+Dictionary attacks
+
+
+41. 什么访问控制系统允许所有者决定谁可以访问他们拥有的客体？
+What access control system lets owners decide who has access to the objects they own?
+
+A. 基于角色的访问控制
+Role-based access control
+B. 基于任务的访问控制
+Task-based access control
+C. 自由访问控制
+Discretionary access control
+正确
+D. 基于规则的访问控制
+Rule-based access control
+
+
+42. 以下哪种灾难恢复测试类型涉及灾难恢复设施的实际激活？
+Which one of the following disaster recovery test types involves the actual activation of the disaster recovery facility?
+
+A. 模拟试验
+Simulation test
+B. 桌面练习
+Tabletop exercise
+C. 并行测试
+Parallel test
+正确
+D. 清单审查
+Checklist review
+
+
+43. 使用下表，以及你对审计过程的了解，回答后面的3个问题。
+
+Using the following table and your knowledge of the auditing process, answer questions .
+
+
+44. 根据以下场景，回答后面的3个问题：
+Jack工作的大型企业多年来一直采用非集中式日志系统。最近该企业开始实施集中日志系统，但在审查日志时他们发现了一起数据泄露事件，且有可能涉及了一名恶意的内部人员。
+&nbsp;The large business that Jack works for has been using noncentralized logging for years. They have recently started to implement centralized logging, however, and as they reviewed logs, they discovered a breach that appeared to have involved a malicious insider.
+
+45. 以下预防措施可有助于防止哪类攻击？
+&nbsp;要求提供身份证明
+&nbsp;针对只有语音的请求，要求回叫授权
+&nbsp;避免通过只基于语音的通信方式更改密码
+What type of attack would the following precautions help prevent?
+&nbsp;Requesting proof of identity
+&nbsp;Requiring callback authorizations on voice-only requests
+&nbsp;Not changing passwords via voice communications
+
+A. DOS攻击
+DoS attacks
+B. 蠕虫
+Worms
+C. 社会工程学攻击
+Social engineering
+正确
+D. 肩窥
+Shoulder surfing
+
+
+46. 剩余数据是在试图清除之后留下的什么类型的数据的另一个术语？
+Residual data is another term for what type of data left after attempts have been made to erase it?
+
+A. 剩余数据
+Leftover data
+B. MBR
+MBR
+C. Bitrot
+Bitrot
+D. 残余数据
+Remnant data
+正确
+
+
+47. Fred 的组织需要在他们的VPN上使用非IP协议。应该选择哪些常见的VPN协议在本地处理非IP协议？
+Fred&rsquo;s organization needs to use a non-IP protocol on their VPN. Which of the common VPN protocols should he select to natively handle non-IP protocols?
+
+A. PPTP
+PPTP
+B. L2F
+L2F
+C. L2TP
+L2TP
+正确
+D. IPSec
+IPsec
+
+
+48. Ed的组织有5个IP地址由ISP分配给他们，但需要将超过100台计算机和网络设备连接到互联网。他可以使用什么技术通过有限的IP地址连接他的整个网络？
+Ed&rsquo;s organization has 5 IP addresses allocated to them by their ISP but needs to connect over 100 computers and network devices to the Internet. What technology can he use to connect his entire network via the limited set of IP addresses he can use?
+
+A. IPSec
+IPsec
+B. PAT
+PAT
+正确
+C. SDN
+SDN
+D. IPX
+IPX
+
+
+49. Susan的SMTP服务器在接受和中继电子邮件之前不验证发件人。这个安全配置问题是什么？
+Susan&rsquo;s SMTP server does not authenticate senders before accepting and relaying email. What is this security configuration issue known as?
+
+A. 电子邮件网关
+An email gateway
+B. SMTP中继
+An SMTP relay
+C. 符合X.400标准的网关
+An X.400-compliant gateway
+D. 开路继电器
+An open relay
+正确
+
+
+50. Michelle负责其组织的移动设备管理工作，并且需要针对丢失和被盗的设备进行处理。以下哪项建议可以为她的组织提供最大的保证，即如果设备被盗了，但数据不会丢失？
+Michelle is in charge of her organization&rsquo;s mobile device management efforts and handles lost and stolen devices. Which of the following recommendations will provide the most assurance to her organization that data will not be lost if a device is stolen?
+
+A. 强制性密码和应用程序管理
+Mandatory passcodes and application management
+B. 完整设备加密和强制密码
+Full device encryption and mandatory passcodes
+正确
+C. 远程擦除和GPS跟踪
+Remote wipe and GPS tracking
+D. 启用GPS跟踪和完整设备加密
+Enabling GPS tracking and full device encryption
+
+
+51. 哪种OASIS 标准标记语言用于在组织内部和第三方生成配置请求？
+What OASIS standard markup language is used to generate provisioning requests both within organizations and with third parties?
+
+A. SAML
+SAML
+B. SPML
+SPML
+正确
+C. XACML
+XACML
+D. SOA
+SOA
+
+
+52. 在事件响应过程的哪个阶段，组织将考虑是否需要将此事件通知执法官员或其他监管机构？
+During which phase of the incident response process would an organization determine whether it is required to notify law enforcement officials or other regulators of the incident?
+
+A. 检测
+Detection
+B. 恢复
+Recovery
+C. 补救
+Remediation
+D. 报告
+Reporting
+正确
+
+
+53. 在硬盘驱动器退出使用并作为剩余资产出售之前，从电脑中取出硬盘驱动器是什么类型的操作？
+The removal of a hard drive from a PC before it is retired and sold as surplus is an example of what type of action?
+
+A. 清洗
+Purging
+B. 清扫
+Sanitization
+正确
+C. 消磁
+Degaussing
+D. 销毁
+Destruction
+
+
+54. Chris正为其组织进行风险评估，并确定单次洪水可能对其设施造成的损害程度。请问这是什么指标？
+Chris is conducting a risk assessment for his organization and has determined the amount of damage that a single flood could be expected to cause to his facilities. What metric has Chris identified?
+
+A. ALE
+ALE
+B. SLE
+SLE
+正确
+C. ARO
+ARO
+D. AV
+AV
+
+
+55. Ben 在他的组织中重用密码时遇到了问题(组织要求他每30 天更改一次密码)。使用哪种类型的密码设置来帮助防止此问题的发生？
+Ben has encountered problems with users in his organization reusing passwords, despite a requirement that they change passwords every 30 days. What type of password setting should Ben employ to help prevent this issue?
+
+A. 较长的最短期限
+Longer minimum age
+B. 增加密码复杂程度
+Increased password complexity
+C. 实施密码历史记录
+Implement password history
+正确
+D. 实施密码长度要求
+Implement password length requirements
+
+
+56. Carol 希望实施一项控制措施，以保护她的组织免受数据中心瞬间断电的影响。哪种控制最能满足她的需要？
+Carol would like to implement a control that protects her organization from the momentary loss of power to the data center. Which control is most appropriate for her needs?
+
+A. 冗余服务器
+Redundant servers
+B. RAID
+RAID
+C. UPS
+UPS
+正确
+D. 发电机
+Generator
+
+
+57. Gordon正在为某制造公司的IT 运营部门制定业务连续性计划。该公司位于北达科他州，他们正在评估地震风险。他们选择采取风险接受策略。以下哪项操作与该策略一致？
+Gordon is developing a business continuity plan for a manufacturing company&rsquo;s IT operations. The company is located in North Dakota and currently evaluating the risk of earthquake. They choose to pursue a risk acceptance strategy. Which one of the following actions is consistent with that strategy?
+
+A. 购买地震保险
+Purchasing earthquake insurance
+B. 将数据中心迁移到更安全的区域
+Relocating the data center to a safer area
+C. 记录决策过程
+Documenting the decision-making process
+正确
+D. 重新设计设施以承受地震的冲击
+Reengineering the facility to withstand the shock of an earthquake
+
+
+58. 以下哪种知识产权保护机制的持续时间最短？
+Which one of the following intellectual property protection mechanisms has the shortest duration?
+
+A. 版权
+Copyright
+B. 专利
+Patent
+正确
+C. 商标
+Trademark
+D. 商业秘密
+Trade secret
+
+
+59. Alice正在设计能供六个用户使用的密码系统，并希望使用对称加密算法。她想要任何两个用户能够彼此通信而不必担心第三用户的窃听。她需要生成多少个对称加密密钥？
+Alice is designing a cryptosystem for use by six users and would like to use a symmetric encryption algorithm. She wants any two users to be able to communicate with each other without worrying about eavesdropping by a third user. How many symmetric encryption keys will she need to generate?
+
+A. 6
+6
+B. 12
+12
+C. 15
+15
+正确
+D. 30
+30
+
+
+60. Ricky想通过VPN连接访问远程文件服务器。他通过连接到VPN并尝试登录来开始此过程。将主体/客体模型应用于此请求，Ricky的登录尝试主体是什么？
+Ricky would like to access a remote file server through a VPN connection. He begins this process by connecting to the VPN and attempting to log in. Applying the subject/object model to this request, what is the subject of Ricky&rsquo;s login attempt?
+
+A. Ricky
+Ricky
+正确
+B. VPN
+VPN
+C. 远程文件服务器
+Remote file server
+D. 远程服务器上包含的文件
+Files contained on the remote server
+
+
+61. 作为雇用新员工过程的一部分，Kathleen的身份管理团队创建了一个新的用户客体，并确保用户客体在需要它的目录和系统中可用。这个过程叫什么？
+As part of hiring a new employee, Kathleen&rsquo;s identity management team creates a new user object and ensures that the user object is available in the directories and systems where it is needed. What is this process called?
+
+A. 注册
+Registration
+B. 配置
+Provisioning
+正确
+C. 人口
+Population
+D. 身份验证加载
+Authenticator loading
+
+
+62. Renee正使用加密技术来保护互联网上敏感的商业秘密。她试图降低什么风险度量？
+Renee is using encryption to safeguard sensitive business secrets when in transit over the Internet. What risk metric is she attempting to lower?
+
+A. 可能性
+Likelihood
+正确
+B. RTO
+RTO
+C. MTO
+MTO
+D. 影响
+Impact
+
+
+63. 哪个团队最适合评估和报告一个组织对第三方实施的行政控制的有效性？
+Which group is best suited to evaluate and report on the effectiveness of administrative controls an organization has put in place to a third party?
+
+A. 内部审计师
+Internal auditors
+B. 渗透测试者
+Penetration testers
+C. 外聘审计员
+External auditors
+正确
+D. 设计、实施和监控控制的员工
+Employees who design, implement, and monitor the controls
+
+
+64. Ben关注他的系统并对系统进行密码破解攻击。他希望实施安全控制，防止攻击者获得这些散列值来破解系统。哪两个控制将最好地实现这一目标？
+Ben is concerned about password cracking attacks against his system. He would like to implement controls that prevent an attacker who has obtained those hashes from easily cracking them. What two controls would best meet this objective?
+
+A. 更长的密码以及更长的盐
+Longer passwords and salting
+正确
+B. 线上加密，并用SHA1替代
+MD5Over-the-wire encryption and use of SHA1 instead of MD5
+C. 使用盐和MD5
+Salting and use of MD5
+D. 使用shadow密码和盐
+Using shadow passwords and salting
+
+
+65. Susan发现，他们组织使用智能卡的门锁经常不管用，因为工作人员经常把门开着。她在门上贴了一个提醒标志，提醒工作人员一旦把门打开，可能会不安全。另外，她还增加了警报，如果门打开时间超过五分钟，会发出警报声。她实施了什么类型的控制？
+Susan has discovered that the smart card-based locks used to keep the facility she works at secure are not effective because staff members are propping the doors open. She places signs on the doors reminding staff that leaving the door open creates a security issue, and she adds alarms that will sound if the doors are left open for more than five minutes. What type of controls has she put into place?
+
+A. 物理
+Physical
+B. 行政
+Administrative
+C. 补偿
+Compensation
+正确
+D. 恢复
+Recovery
+
+
+66. Ben的工作是确保数据标有适当的敏感性标签。由于Ben在美国政府工作，他必须将Unclassified、Confidential、Secret和Top Secret这四个标签应用于系统和介质。如果Ben被要求标记一个处理秘密、机密和未分类信息的系统，他应该如何标记？
+Ben&rsquo;s job is to ensure that data is labeled with the appropriate sensitivity label. Since Ben works for the US government, he has to apply the labels Unclassified, Confidential, Secret, and Top Secret to systems and media. If Ben is asked to label a system that handles Secret, Confidential, and Unclassified information, how should he label it?
+
+A. 混合分类
+Mixed classification
+B. 机密
+Confidential
+C. 最高机密
+Top Secret
+D. 秘密
+Secret
+正确
+
+
+67. 在电子发现过程的哪个阶段，组织对所收集的信息进行粗略剪切，以丢弃不相关的信息？
+During what phase of the electronic discovery process does an organization perform a rough cut of the information gathered to discard irrelevant information?
+
+A. 保存
+Preservation
+B. 鉴定
+Identification
+C. 收集
+Collection
+D. 处理
+Processing
+正确
+
+
+68. 根据IT系统的特定需求应用安全控制，这是什么活动？
+What activity is being performed when you apply security controls based on the specific needs of the IT system that they will be applied to?
+
+A. 标准化
+Standardizing
+B. 基线
+Baselining
+C. 范围
+Scoping
+正确
+D. 修订
+Tailoring
+
+
+69. 当使用具有8位二进制加密密钥的加密算法时，存在多少种可能的密钥？
+How many possible keys exist when using a cryptographic algorithm that has an 8-bit binary encryption key?
+
+A. 16
+16
+B. 128
+128
+C. 256
+256
+正确
+D. 512
+512
+
+
+70. 以下哪个计算模型允许在单个处理器上通过操作系统进行切换而不需要修改应用程序来执行多个进程？
+Which one of the following computing models allows the execution of multiple processes on a single processor by having the operating system switch between them without requiring modification to the applications?
+
+A. 多任务
+Multitasking
+正确
+B. 多处理
+Multiprocessing
+C. 多程序
+Multiprogramming
+D. 多线程
+Multithreading
+
+
+71. Fred在新雇主的公司中负责商业秘密和机密内部数据。如果他选择离开该雇主并在该雇主竞争对手的公司工作，Fred原雇主应该使用什么法律工具来保护他们的数据？
+Fred&rsquo;s new employer has hired him for a position with access to their trade secrets and confidential internal data. What legal tool should they use to help protect their data if he chooses to leave to work at a competitor?
+
+A. 停止损失订单
+A stop-loss order
+B. NDA
+An NDA
+正确
+C. AUP
+An AUP
+D. 加密
+Encryption
+
+
+72. 什么类型的身份验证者方法基于时间或算法的系统生成动态密码的类型2身份验证因素？
+A Type 2 authentication factor that generates dynamic passwords based on a time- or algorithm-based system is what type of authenticator?
+
+A. PIV
+A PIV
+B. 智能卡
+A smart card
+C. 令牌
+A token
+正确
+D. CAC
+A CAC
+
+
+73. Tom是互联网服务提供商的总顾问，最近他收到了针对该公司的诉讼通知，因为有客户通过提供商的电路来非法传输受版权保护的内容。这种情况下，什么法律能保护Tom的公司？
+Tom is the general counsel for an Internet service provider, and he recently received notice of a lawsuit against the firm because of copyrighted content illegally transmitted over the provider&rsquo;s circuits by a customer. What law protects Tom&rsquo;s company in this case?
+
+A. 计算机欺诈和滥用法
+Computer Fraud and Abuse Act
+B. 数字千年版权法
+Digital Millennium Copyright Act
+正确
+C. 窃听法
+Wiretap Act
+D. 版权法
+Copyright Code
+
+
+74. 调查、访谈和审计都是衡量组织安全状况哪些重要组成部分的方法？
+Surveys, interviews, and audits are all examples of ways to measure what important part of an organization&rsquo;s security posture?
+
+A. 代码质量
+Code quality
+B. 服务漏洞
+Service vulnerabilities
+C. 安全意识
+Awareness
+正确
+D. 攻击面
+Attack surface
+
+
+75. 什么类型的防火墙使用多个代理服务器，并通过分析每个服务使用的协议来过滤流量？
+What type of firewall uses multiple proxy servers that filter traffic based on analysis of the protocols used for each service?
+
+A. 静态包过滤防火墙
+A static packet filtering firewall
+B. 应用级网关防火墙
+An application-level gateway firewall
+正确
+C. 电路级网关防火墙
+A circuit-level gateway firewall
+D. 状态检查防火墙
+A stateful inspection firewall
+
+
+76. 哪种RAID级别也被称为磁盘镜像？
+What RAID level is also known as disk mirroring?
+
+A. RAID 0
+RAID 0
+B. RAID 1
+RAID 1
+正确
+C. RAID 3
+RAID 3
+D. RAID 5
+RAID 5
+
+
+77. Susan正在配置她的网络设备以使用syslog。她应该设置什么，以确保她收到有关异常问题的通知，但不会收到正常的操作问题消息？
+Susan is configuring her network devices to use syslog. What should she set to ensure that she is notified about issues but does not receive normal operational issue messages?
+
+A. 设施代码
+The facility code
+B. 日志优先级
+The log priority
+C. 安全级别
+The security level
+D. 严重程度
+The severity level
+正确
+
+
+78. 攻击者可以利用下列哪项技术进行TOC/TOU攻击？
+Which one of the following techniques can an attacker use to exploit a TOC/TOU vulnerability?
+
+A. 文件锁定
+File locking
+B. 异常处理
+Exception handling
+C. 算法复杂度
+Algorithmic complexity
+正确
+D. 并发控制
+Concurrency control
+
+
+79. 参照以下情景，回答后面的3个问题。
+Hunter是大数据中心管理公司DataTech的设备经理。公司为一个设备安装防洪系统，他正在评估这件事，该设备和设备中的数据总价值1亿美元，安装新的防洪系统将花费1000万美元。Hunter咨询了洪水专家，了解到该设备所处的洪泛平原每200年会发一次洪水，一旦洪水发生，它可能导致2000万美元的设备受损。
+Hunter is the facilities manager for DataTech, a large data center management firm. He is evaluating the installation of a flood prevention system at one of DataTech&rsquo;s facilities. The facility and contents are valued at $100 million. Installing the new flood prevention system would cost $10 million.&nbsp;Hunter consulted with flood experts and determined that the facility lies within a 200-year flood plain and that, if a flood occurred, it would likely cause $20 million in damage to the facility.
+
+80. 美国的哪部法律要求保护PHI(受保护健康信息)？
+What US law mandates the protection of protected health information?
+
+A. FERPA(家庭教育权利和隐私法)
+FERPA
+B. SAFE 法案
+SAFE Act
+C. GLBA(Graham Leach Bliley 法案)
+GLBA
+D. HIPAA(健康保险流通和责任法案)
+HIPAA
+正确
+
+
+81. Martha 是一所学院的信息安全官，负责保护学生记录的隐私。什么法律适用于她的情况？
+Martha is the information security officer for a small college and is responsible for safeguarding the privacy of student records. What law most directly applies to her situation?
+
+A. HIPAA(健康保险流通和责任法案)
+HIPAA
+B. HITECH(美国电子病历项目)
+HITECH
+C. COPPA(加利福尼亚在线隐私保护法案)
+COPPA
+D. FERPA(家庭教育权利和隐私法)
+FERPA
+正确
+
+
+82. Bell-LaPadula 是什么类型的访问控制模型例子？
+Bell-LaPadula is an example of what type of access control model?
+
+A. DAC(自由决定访问控制)
+DAC
+B. RBAC(基于角色的访问控制)
+RBAC
+C. MAC(媒介访问控制)
+MAC
+正确
+D. ABAC(基于属性的访问控制)
+ABAC
+
+
+83. 哪两种逻辑网络拓扑可以在物理上部署成星型结构？
+What two logical network topologies can be physically implemented as a star topology?
+
+A. 总线和网格
+A bus and a mesh.
+B. 环和网格
+A ring and a mesh.
+C. 总线和环
+A bus and a ring.
+正确
+D. 不可能将其他网络拓扑部署成星型
+It is not possible to implement other topologies as a star.
+
+
+84. 什么因素可以区分帧中继与X.25？
+What important factor differentiates Frame Relay from X.25?
+
+A. 帧中继通过单个WAN载波连接支持多个PVC
+Frame Relay supports multiple PVCs over a single WAN carrier connection.
+正确
+B. 帧中继是一种小区交换技术，而X.25是分组交换技术
+Frame Relay is a cell switching technology instead of a packet switching technology like X.25.
+C. 帧中继不提供承诺信息速率(CIR)
+Frame Relay does not provide a Committed Information Rate (CIR).
+D. 帧中继在供应商一端仅需要一个DTE即可
+Frame Relay only requires a DTE on the provider side.
+
+
+85. 什么类别的灭火器能够扑灭电气火灾？
+What class of fire extinguisher is capable of fighting electrical fires?
+
+A. A 类
+Class A
+B. B 类
+Class B
+C. C 类
+Class C
+正确
+D. D 类
+Class D
+
+
+86. Harry 担心其组织内的会计师会利用他们的合法权限，使用数据欺骗攻击来掩盖欺诈活动。以下哪种方法最能抵御这种类型的攻击？
+Harry is concerned that accountants within his organization will use data diddling attacks to cover up fraudulent activity in accounts that they normally access. Which one of the following controls would best defend against this type of attack?
+
+A. 加密
+Encryption
+B. 访问控制
+Access controls
+C. 完整性验证
+Integrity verification
+正确
+D. 防火墙
+Firewalls
+
+
+87. 下列哪一项不是软件开发的敏捷方法的原则？
+Which one of the following is not a principle of the Agile approach to software development?
+
+A. 传递信息的最有效方法是通过网络
+The most efficient method of conveying information is electronic.
+正确
+B. 工作软件是进度的主要衡量标准
+Working software is the primary measure of progress.
+C. 简单是至关重要的
+Simplicity is essential.
+D. 业务人员和开发人员必须每天一起工作
+Businesspeople and developers must work together daily.
+
+
+88. 在什么模式的云计算中，两个或多个组织合作构建一个自用的共享云计算环境？
+In what model of cloud computing do two or more organizations collaborate to build a shared cloud computing environment that is for their own use?
+
+A. 公共云
+Public cloud
+B. 私有云
+Private cloud
+C. 社区云
+Community cloud
+正确
+D. 共享云
+Shared cloud
+
+
+89. Don的公司正考虑使用基于客体的存储系统，其中通过使用API调用将数据放置在供应商管理的存储环境中。他们使用的是什么类型的云计算服务？
+Don&rsquo;s company is considering the use of an object-based storage system where data is placed in a vendor-managed storage environment through the use of API calls. What type of cloud computing service is in use?
+
+A. IaaS
+IaaS
+正确
+B. PaaS
+PaaS
+C. CaaS
+CaaS
+D. SaaS
+SaaS
+
+
+90. 以下哪种恶意软件针对系统漏洞使用内置的传播机制来传播？
+Which one of the following malware types uses built-in propagation mechanisms that exploit system vulnerabilities to spread?
+
+A. 特洛伊木马
+Trojan horse
+B. 蠕虫
+Worm
+正确
+C. 逻辑炸弹
+Logic bomb
+D. 病毒
+Virus
+
+
+91. 以下哪项不是关键风险指标的有效用途？
+Which of the following is not a valid use for key risk indicators?
+
+A. 在问题发生之前提供警告
+Provide warnings before issues occur.
+B. 提供实时事件响应信息
+Provide real-time incident response information.
+正确
+C. 提供过去风险的历史信息
+Provide historical views of past risks.
+D. 提供组织风险承受力的信息
+Provide insight into risk tolerance for the organization.
+
+
+92. George正在协助检察官对一个试图侵入乔治公司计算机系统的黑客提出起诉。他把系统日志交给检察官作为证据，检察官坚持要求乔治在庭上说明他是如何收集日志的。什么证据规则要求乔治的证词？
+George is assisting a prosecutor with a case against a hacker who attempted to break into the computer systems at George&rsquo;s company. He provides system logs to the prosecutor for use as evidence, but the prosecutor insists that George testify in court about how he gathered the logs. What rule of evidence requires George&rsquo;s testimony?
+
+A. 证词证据规则
+Testimonial evidence rule
+B. 口头证据规则
+Parol evidence rule
+C. 最佳证据规则
+Best evidence rule
+D. 传闻证据规则
+Hearsay rule
+正确
+
+
+93. 在软件测试期间通常测试哪三种类型的接口？
+What three types of interfaces are typically tested during software testing?
+
+A. 网络、物理、应用程序接口
+Network, physical, and application interfaces
+B. API、UI、物理接口
+APIs, UIs, and physical interfaces
+正确
+C. 网络接口、API、UI
+Network interfaces, APIs, and UIs
+D. 应用程序、程序、用户界面
+Application, programmatic, and user interfaces
+
+
+94. Jackie正在创建一个包含Customers表的数据库，如图所示。她正在设计一个包含订单的新表，并计划使用该表格中的公司ID来唯一标识与每个订单相关联的客户。公司ID字段在订单表中扮演什么角色？
+Jackie is creating a database that contains the Customers table, shown here. She is designing a new table to contain Orders and plans to use the Company ID in that table to uniquely identify the customer associated with each order. What role does the Company ID field play in the Orders table?
+
+
+A. 主键
+Primary key
+B. 外键
+Foreign key
+正确
+C. 候选键
+Candidate key
+D. 参考键
+Referential key
+
+
+95. 当合法的用户使用生物识别器而未被成功验证时，会发生什么类型的错误？
+What type of error occurs when a valid subject using a biometric authenticator is not authenticated?
+
+A. 类型1 错误
+A Type 1 error
+正确
+B. 类型2 错误
+A Type 2 error
+C. 类型3 错误
+A Type 3 error
+D. 类型4 错误
+A Type 4 error
+
+
+96. 哪些账户通常在账户管理评估期间进行评估？
+Which accounts are typically assessed during an account management assessment?
+
+A. 随机样本
+A random sample
+B. 高特权的账户
+Highly privileged accounts
+正确
+C. 最近生成的账户
+Recently generated accounts
+D. 长期存在的账户
+Accounts that have existed for long periods of time
+
+
+97. Vivian为零售连锁商店工作，并且希望销售点的终端设备上只能使用预先批准的软件。Vivian应该使用什么方法？
+Vivian works for a chain of retail stores and would like to use a software product that restricts the software used on point-of-sale terminals to those packages on a preapproved list. What approach should Vivian use?
+
+A. 反病毒
+Antivirus
+B. 启发式
+Heuristic
+C. 白名单
+Whitelist
+正确
+D. 黑名单
+Blacklist
+
+
+98. VoIP呼叫管理器和VoIP电话最容易受到以下哪两种类型的攻击？
+What two types of attacks are VoIP call managers and VoIP phones most likely to be susceptible to?
+
+A. DoS和恶意软件
+DoS and malware
+B. 蠕虫和木马
+Worms and Trojans
+C. DoS和主机操作系统攻击
+DoS and host OS attacks
+正确
+D. 主机操作系统攻击和缓冲区溢出
+Host OS attacks and buffer overflows
+
+
+99. 什么RADIUS备用方案通常用于思科网络设备并支持双因素身份验证？
+What RADIUS alternative is commonly used for Cisco network gear and supports twofactor authentication?
+
+A. RADIUS +
+RADIUS+
+B. TACACS +
+TACACS+
+正确
+C. XTACACS
+XTACACS
+D. Kerberos
+Kerberos
+
+
+100. 在这里的TCP三次握手的图中，系统A在步骤3中应该向系统B发送什么？
+In this diagram of the TCP three-way handshake, what should system A send to system B in step 3?
+
+
+A. ACK
+ACK
+正确
+B. SYN
+SYN
+C. FIN
+FIN
+D. RST
+RST
+
+
+101. 以下哪种工具可提供不可否认性？
+Which one of the following tools may be used to achieve the goal of nonrepudiation?
+
+A. 数字签名
+Digital signature
+正确
+B. 对称加密
+Symmetric encryption
+C. 防火墙
+Firewall
+D. IDS
+IDS
+
+
+102. Theresa正在实施一个新的访问控制系统，并希望确保开发人员无法将代码从开发系统移动到生产环境中。她直接执行什么信息安全原则？
+Theresa is implementing a new access control system and wants to ensure that developers do not have the ability to move code from development systems into the production environment. What information security principle is she most directly enforcing?
+
+A. 职责分离
+Separation of duties
+正确
+B. 两人控制
+Two-person control
+C. 最小特权
+Least privilege
+D. 工作轮换
+Job rotation
+
+
+103. Matt正在对Linux服务器进行渗透测试，并成功获得了对管理账户的访问权限。他现在想要获得密码散列用于暴力攻击。他在哪里可能找到散列值(假设系统的配置都是现代安全标准)？
+Matt is conducting a penetration test against a Linux server and successfully gained access to an administrative account. He would now like to obtain the password hashes for use in a brute-force attack. Where is he likely to find the hashes, assuming the system is configured to modern security standards?
+
+A. /etc/passwd
+/etc/passwd
+B. /etc/hash
+/etc/hash
+C. /etc/secure
+/etc/secure
+D. /etc/shadow
+/etc/shadow
+正确
+
+
+104. Angie正在她的网络出口处配置监控以增强安全性，这样做会允许什么类型的数据包离开网络进入互联网？
+Angie is configuring egress monitoring on her network to provide added security. Which one of the following packet types should Angie allow to leave the network headed for the Internet?
+
+A. 源地址为Angie公共IP地址的数据包
+Packets with a source address from Angie&rsquo;s public IP address block
+正确
+B. 目的地址为Angie公共IP地址的数据包
+Packets with a destination address from Angie&rsquo;s public IP address block
+C. 源地址不是Angie地址块的数据包
+Packets with a source address outside Angie&rsquo;s address block
+D. 源地址为Angie私有地址的数据包
+Packets with a source address from Angie&rsquo;s private address block
+
+
+105. 软件能力成熟度模型(SW-CMM)的最后阶段是什么？
+What is the final stage of the Software Capability Maturity Model (SW-CMM)?
+
+A. 可重复
+Repeatable
+B. 定义
+Defined
+C. 管理
+Managed
+D. 优化
+Optimizing
+正确
+
+
+106. Susan准备报废其组织的一些DVD-ROM，这些DVD-ROM包含组织的最高机密数据。她应该怎么做才能确保数据不会暴露？
+Susan is preparing to decommission her organization&rsquo;s archival DVD-ROMs that contain Top Secret data. How should she ensure that the data cannot be exposed?
+
+A. 消磁
+Degauss
+B. 零擦除
+Zero wipe
+C. 粉碎
+Pulverize
+正确
+D. 安全擦除
+Secure erase
+
+
+107. 网络基础设施与控制层分离开来，供应商处于中立地位，网络编程设计都是基于标准的，这些概念与以下哪个选项关系最密切？
+The separation of network infrastructure from the control layer, combined with the ability to centrally program a network design in a vendor-neutral, standards-based implementation, is an example of what important concept?
+
+A. MPLS，使用较短标签替换长网络地址，支持各种协议
+MPLS, a way to replace long network addresses with shorter labels and support a wide range of protocols
+B. FCoE，一种在以太网上支持常见应用程序的融合协议
+FCoE, a converged protocol that allows common applications over Ethernet
+C. SDN，一种支持网络虚拟化的融合协议
+SDN, a converged protocol that allows network virtualization
+正确
+D. CDN，一种访问常见网络设计的融合协议
+CDN, a converged protocol that makes common network designs accessible
+
+
+108. 密码的安全性是Gabe所在组织的信息安全计划的重中之重，她很担心密码的安全性。以下哪一项可通过对用户进行身份验证来帮助Gabe最大限度地保证密码安全？
+Gabe is concerned about the security of passwords used as a cornerstone of his organization&rsquo;s information security program. Which one of the following controls would provide the greatest improvement in Gabe&rsquo;s ability to authenticate users?
+
+A. 更复杂的密码
+More complex passwords
+B. 对用户进行安全教育以防止社会工程学攻击
+User education against social engineering
+C. 多因素身份验证
+Multifactor authentication
+正确
+D. 多使用基于个人知识的安全问题
+Addition of security questions based on personal knowledge
+
+
+109. 什么类型的入站数据包是ping泛洪攻击的特征？
+What type of inbound packet is characteristic of a ping flood attack?
+
+A. ICMP echo 请求数据包
+ICMP echo request
+正确
+B. ICMP echo 应答数据包
+ICMP echo reply
+C. ICMP 目的地不可达的数据包
+ICMP destination unreachable
+D. ICMP 路由改变的数据包
+ICMP route changed
+
+
+110. David所在的组织使用正式数据治理计划。他正在与一个员工磋商，该员工参与了某个项目，该项目创建了一个全新的数据类，并希望为该数据类分配一个分类级别。谁负责将信息分配到分类级别？
+David works in an organization that uses a formal data governance program. He is consulting with an employee working on a project that created an entirely new class of data and wants to work with the appropriate individual to assign a classification level to that information. Who is responsible for the assignment of information to a classification level?
+
+A. 数据创建者
+Data creator
+B. 数据所有者
+Data owner
+正确
+C. CISO
+CISO
+D. 数据监管者
+Data custodian
+
+
+111. 作为新的BYOD策略的一部分，Jim被要求能够识别员工自行带到公司的设备。这些设备并不会被加入到例如Active Directory这样的集中管理系统，下列哪项将会为Jim提供最佳方法来可靠地识别各个设备？
+Jim has been asked to individually identify devices that users are bringing to work as part of a new BYOD policy. The devices will not be joined to a central management system like Active Directory, but he still needs to uniquely identify the systems. Which of the following options will provide Jim with the best means of reliably identifying each unique device?
+
+A. 记录各个系统的MAC地址
+Record the MAC address of each system.
+B. 要求用户填写表格为每个系统进行注册
+Require users to fill out a form to register each system.
+C. 利用端口扫描器对每个系统进行扫描
+Scan each system using a port scanner.
+D. 通过Web注册系统采用设备指纹
+Use device fingerprinting via a web-based registration system.
+正确
+
+
+112. B 类网络的默认子网掩码是什么？
+What is the default subnet mask for a Class B network?
+
+A. 255.0.0.0
+255.0.0.0
+B. 255.255.0.0
+255.255.0.0
+正确
+C. 255.254.0.0
+255.254.0.0
+D. 255.255.255.0
+255.255.255.0
+
+
+113. 通常会在渗透测试的什么阶段记录应用程序的标题信息？
+Application banner information is typically recorded during what penetration testing phase?
+
+A. 计划
+Planning
+B. 攻击
+Attack
+C. 报告
+Reporting
+D. 发现
+Discovery
+正确
+
+
+114. Alex正在准备对其公司的网络系统进行渗透测试，为此他进行了招标。他想要最大程度地保证测试的有效性，并不关心真实的攻击。请问他在招标过程中需要进行什么类型的渗透测试？
+Alex is preparing to solicit bids for a penetration test of his company&rsquo;s network and systems. He wants to maximize the effectiveness of the testing rather than the realism of the test. What type of penetration test should he require in his bidding process?
+
+A. 黑盒
+Black box
+B. 晶盒
+Crystal box
+正确
+C. 灰盒
+Gray box
+D. 零盒
+Zero box
+
+
+115. Fred需要部署一个网络设备，要求能将他的网络连接到其他网络，同时还能控制网络上的流量。什么类型的设备是Fred最佳的选择？
+Fred needs to deploy a network device that can connect his network to other networks while controlling traffic on his network. What type of device is Fred&rsquo;s best choice?
+
+A. 交换机
+A switch
+B. 网桥
+A bridge
+C. 网关
+A gateway
+D. 路由器
+A router
+正确
+
+

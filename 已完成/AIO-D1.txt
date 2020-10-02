@@ -1,0 +1,367 @@
+1. 信息安全行业由各种最佳实践、标准、模型和框架组成。一些安全措施不是同时被开发的，但是可以集成到一个组织安全计划中，这有助于提高它们的有效性和效率。了解所有不同的方法是很重要的，这样组织就可以选择最适合其业务需求的方法。如果一个组织想要在一段时间内改进它的安全过程，那么应该选择集成何种安全措施?
+&nbsp;I.应该集成信息技术基础设施库，因为它可以把服务流程管理、业务驱动程序和安全性改进匹配起来。
+&nbsp;II.应该集成六西格玛原则，因为它允许识别和改进安全进程的缺陷。
+&nbsp;III.应该集成能力成熟度模型，因为它提供了不同的成熟度级别。
+&nbsp;iv应该集成开放组架构框架，因为它提供了改进流程的结构。
+The information security industry is made up of various best practices, standards, models, and frameworks. Some were not developed first with security in mind, but can be integrated into an organizational security program to help in its effectiveness and efficiency. It is important to know of all of these different approaches so that an organization can choose the ones that best fit its business needs and culture. Which of the following best describes the approach(es) that should be put into place if an organization wants to integrate a way to improve its security processes over a period of time?
+i. &nbsp;Information Technology Infrastructure Library should be integrated because 
+it allows for the mapping of IT service process management, business drivers, and security improvement.
+ii. &nbsp;Six Sigma should be integrated because it allows for the defects of security processes to be identified and improved upon.
+iii. &nbsp;Capability Maturity Model Integration should be integrated because it provides distinct maturity levels.
+iv. &nbsp;The Open Group Architecture Framework should be integrated because it provides a structure for process improvement.
+
+A. &nbsp;I、III
+&nbsp;i, iii
+B. &nbsp;II、III, iv
+&nbsp;ii, iii, iv
+C. &nbsp;II、III
+&nbsp;ii, iii
+正确
+D. &nbsp;II、IN
+&nbsp;ii, iv
+
+
+2. 国际标准机构ISO和IEC制定了一系列标准，用于世界各地的组织实施和维护信息安全管理系统。这些标准来自英国标准7799，分为两部分。组织可以使用本系列标准作为指导方针，但是也可以通过认证的第三方来对其进行认证。下列哪个是与组成ISO/IEC 27000系列的单个标准不正确的映射?
+I. ISO/IEC 27001概述了ISMS实施指南，ISO/IEC 27003概述了ISMS项目的要求。
+II. ISO/IEC 27005概述了审计和认证指南，ISO/IEC 27002概述了度量框架。
+III. ISO/IEC 27006概述了项目实施指南，ISO/IEC 27005概述了风险管理指南。
+IV. ISO/IEC 27001概述了实践守则，ISO/IEC 27004概述了实现框架。
+The international standards bodies ISO and IEC developed a series of standards that are used in organizations around the world to implement and maintain information security management systems. The standards were derived from the British Standard 7799, which was broken down into two main pieces. Organizations can use this series of standards as guidelines, but can also be certified against them by accredited third parties. Which of the following are incorrect mappings pertaining to the individual standards that make up the ISO/IEC 27000 series?
+i. &nbsp;ISO/IEC 27001 outlines ISMS implementation guidelines, and ISO/IEC 27003 outlines the ISMS program&rsquo;s requirements.
+ii. ISO/IEC 27005 outlines the audit and certification guidance, and ISO/IEC 27002 outlines the metrics framework.
+iii. &nbsp;ISO/IEC 27006 outlines the program implementation guidelines, and ISO/IEC 27005 outlines risk management guidelines.
+iv. &nbsp;ISO/IEC 27001 outlines the code of practice, and ISO/IEC 27004 outlines the implementation framework.
+
+A. I、III
+i, iii
+B. I、II
+i, ii
+C. II、III, IV
+ii, iii, iv
+D. I、II、III, IV
+i, ii, iii, iv
+正确
+
+
+3. 使用下面的情景信息，来回答以下问题
+Susan的老板告诉她，她将接替公司的现任安全经理。她的老板向她解释说，安全措施的操作并没有以标准的方式执行，因此一些系统有适当的安全配置，而一些系统则没有。她的老板需要了解，这些配置有问题的系统受到的风险有多大，以及应该采取什么措施来应对这种情况。
+Susan has been told by her boss that she will be replacing the current security manager within her company. Her boss explained to her that operational security measures have not been carried out in a stan-dard fashion, so some systems have proper security configurations and some do not. Her boss needs to understand how dangerous it is to have some of the systems misconfigured, along with what to do in this situation.
+
+4. 使用下面的情景信息，回答以下问题
+Todd是一名安全管理人员，负责在他工作的金融机构实施人员安全控制。Todd知道很多员工并不完全了解他们的行为会给机构带来风险;因此，需要开发一个安全意识项目。他已经确定当客户需要兑现3500美元的支票时，银行出纳员需要得到已被监管的特权。他还发现，一些员工已在公司的具体职位上待了三年。Todd希望能够调查银行的一些人事活动，以了解是否有欺诈活动发生。Todd已经确保两个人必须同时使用不同的钥匙，才能打开银行保险库。
+Todd is a new security manager and has the responsibility of implementing personnel security controls within the financial institution where he works. Todd knows that many employees do not fully understand how their actions can put the institution at risk; thus, an awareness program needs to be developed. &nbsp;He has determined that the bank tellers need to get a supervisory override when customers have checks over $3,500 that need to be cashed. He has also uncovered that some employees have stayed in their specific positions within the company for over three years. Todd would like to be able to investigate some of the bank&rsquo;s personnel activi-ties to see if any fraudulent activities have taken place. Todd is already ensuring that two people must use separate keys at the same time to open the bank vault.
+
+5. 使用下面的情景信息，回答以下问题
+一家公司的小型远程办公室价值80万美元。根据历史数据估计，该设施所在区域每10年可能会发送一次火灾。并且在目前的情况下，一旦发生火灾，就算检测和预防性的控制措施已部署，据估计也会摧毁该设施的60%
+A small remote office for a company is valued at $800,000. It is estimated, based on historical data, that a fire is likely to occur once every ten years at a facility in this area. It is estimated that such a fire would destroy 60 percent of the facility under the current circumstances and with the current detective and preventative controls in place.
+
+6. 使用下面的情景信息，来回答以下问题
+一家公司拥有一个电子商务网站，该公司年收入的60%都是由电子商务网站创造的。在当前情况下，网站对攻击威胁的年化损失预期为92000美元。在实行了新的应用程序层防火墙之后，新的年化损失预期变成了30000美元。但是，防火墙每年要花费65 000美元来运行和维护。
+A company has an e-commerce web-site that carries out 60 percent of its annual revenue. Under the current circumstances, the annualized loss expectancy for a website against the threat of attack is $92,000. After implementing a new application-layer firewall, the new annualized loss expectancy would be $30,000. The firewall costs $65,000 per year to implement and maintain.
+
+7. 使用下面的情景信息，回答以下问题。
+过去几年里，A公司有一台存放敏感数据的服务器，被放在一间没有锁的房间里。房间的门上挂个牌子，上面写着，&ldquo;1号房间&rdquo;。在门上挂标志是希望警告别人:该房间有重要的服务器，不要进入该房间。公司意识到这样做，可能会存在安全隐患，于是决定为服务器安装一个加固锁和服务器笼子，并取走了门上的标志。A公司还加强了服务器的配置，并采用了严格的操作系统访问控制措施。
+A server that houses sensitive data has been stored in an unlocked room for the last few years at Company A. The door to the room has a sign on the door that reads &ldquo;Room 1.&rdquo; This sign was placed on the door with the hope that people would not look for important servers in this room. Realzing this is not optimum security the company has decided to install a reinforced lock and server cage for the server and remove the sign. The company has also hardened the server&rsquo;s configuration and employed strict operating system access controls.&nbsp;
+
+8. 下列哪个定义映射是不正确的?
+i. 民法:基于对以前法律的解释
+ii. 普通法:基于规则的法律，而不是基于程序的法律
+iii. 习惯法:主要处理个人行为和行为模式
+iv. 宗教法:基于该地区的宗教信仰
+Which of the following has an incorrect definition mapping?
+i. &nbsp;Civil (code) law: Based on previous interpretations of laws
+ii. &nbsp;Common law: Rule-based law, not precedence-based
+iii. &nbsp;Customary law: Deals mainly with personal conduct and patterns of behavior
+iv. &nbsp;Religious law: Based on religious beliefs of the region
+
+A. &nbsp;I、III
+&nbsp;i, iii
+B. &nbsp;I、II、III
+&nbsp;i, ii, iii
+C. I、II
+&nbsp;i, ii
+正确
+D. IV
+iv
+
+
+9. 在参加CISSP考试之前，一个CISSP候选人签署了一份道德声明。下列哪一项将违反（ISC）2道德准则，可能导致候选人失去证书?
+A CISSP candidate signs an ethics statement prior to taking the CISSP examination. Which of the following would be a violation of the (ISC)2Code of Ethics that could cause the candidate to lose his or her certification?
+
+A. 向其他CISSP候选人发送相关考试信息或评论
+E-mailing information or comments about the exam to other CISSP candidates
+正确
+B. 向((ISC)2提交考试题目的意见
+Submitting comments on the questions of the exam to (ISC)2
+C. 向董事会提交关于课程考试和内容的意见
+Submitting comments to the board of directors regarding the test and content of the class
+D. 对CISSP认证及其认证方法进行介绍
+Conducting a presentation about the CISSP certification and what the certification means
+
+
+10. 下面哪个术语是用于表示意外事件的潜在原因，及其可能对系统或组织造成破坏?
+The term used to denote a potential cause of an unwanted incident, which may result in harm to a system or organization is
+
+A. 漏洞
+Vulnerability
+B. 利用
+Exploit
+C. 威胁
+Threat
+正确
+D. 攻击者
+Attacker
+
+
+11. 下列哪一项是隐私法的规则?
+Many privacy laws dictate which of the following rules?
+
+A. 个人有权删除他们不希望别人知道的任何数据
+Individuals have a right to remove any data they do not want others to know.
+B. 机构不需要确保数据是准确的
+Agencies do not need to ensure that the data is accurate.
+C. 各机构需要允许所有政府机构获得数据
+Agencies need to allow all government agencies access to the data.
+D. 机构不能使用和他们收集目的不同的数据
+Agencies cannot use collected data for a purpose different from what they were collected for.
+正确
+
+
+12. 你将使用以下哪项来控制员工编写的原始白皮书的公开分发、复制、展示和修改?
+Which of the following would you use to control the public distribution, reproduction, display, and adaptation of an original white paper written by your staff?
+
+A. 版权
+Copyright
+正确
+B. 商标
+Trademark
+C. 专利
+Patent
+D. 商业秘密
+Trade secret
+
+
+13. 在灾难发生后立即启动紧急程序，目的是防止出现生命危险和__________
+The purpose of initiating emergency procedures right after a disaster takes place is to prevent loss of life and injuries, and to _______________.
+
+A. 确保该地区不发生抢劫或欺诈行为
+secure the area to ensure that no looting or fraud takes place
+B. 减少进一步的损失
+mitigate further damage
+正确
+C. 保护证据和线索
+protect evidence and clues
+D. 调查损坏的程度
+investigate the extent of the damages
+
+
+14. 开发业务连续性计划的第一步是什么?
+What is one of the first steps in developing a business continuity plan?
+
+A. 识别备份解决方案
+Identify a backup solution.
+B. 执行模拟测试
+Perform a simulation test.
+C. 执行业务影响分析
+Perform a business impact analysis.
+正确
+D. 制定业务恢复计划
+Develop a business resumption plan.
+
+
+15. OCTAVE, NIST SP 800-30和AS/NZS 31000是在公司和组织内开展风险管理的不同方法，这些方法有什么不同?
+OCTAVE, NIST SP 800-30, and AS/NZS 31000 are different approaches to carrying out risk management within companies and organizations. What are the differences between these methods?
+
+A. NIST SP 800-30和OCTAVE是基于公司的，而NZS是国际的
+NIST SP 800-30 and OCTAVE are corporate based, while AS/NZS is international.
+B. NIST SP 800-30是基于IT的，而OCTAVE和AS/NZS 4360是基于公司的
+NIST SP 800-30 is IT based, while OCTAVE and AS/NZS 31000are corporate based.
+正确
+C. AS/NZS是基于IT的，OCTAVE和NIST SP 800一30是基于保险的
+AS/NZS is IT based, and OCTAVE and NIST SP 800-30 are assurance based.
+D. NIST SP800-30和NZS是基于公司的，而OCTAVE是国际的
+NIST SP 800-30 and AS/NZS are corporate based, while OCTAVE is international.
+
+
+16. 什么是ISO/IEC 27799标准?
+What is the ISO/IEC 27799 standard?
+
+A. 关于如何保护个人健康信息的标准
+A standard on how to protect personal health information
+正确
+B. BS 17799的新版本
+The new version of BS 17799
+C. 对新ISO 27000系列的定义
+Definitions for the new ISO 27000 series
+D. 新版本的NIST SP 800- 60
+The new version of NIST SP 800-60
+
+
+17. 什么是COBIT?它与信息安全系统、安全计划开发有什么关系?
+What is COBIT and where does it fit into the development of information security systems and security programs?
+
+A. 用于安全计划开发的标准、过程和策略的列表
+Lists of standards, procedures, and policies for security program development
+B. ISO 17799的当前版本
+Current version of ISO 17799
+C. 一个旨在阻止组织内部欺诈的框架
+A framework that was developed to deter organizational internal fraud
+D. 制定控制目标的标准
+Open standards for control objectives
+正确
+
+
+18. 为什么真正的定量风险分析是不可能实现的?
+Why is a truly quantitative risk analysis not possible to achieve?
+
+A. 这是有可能的，这也是为什么它被使用的原因
+It is possible, which is why it is used.
+B. 它分配严重性级别，因此很难将其转化为货币价值
+It assigns severity levels. Thus, it is hard to translate into monetary values.
+C. 它只处理定量的元素
+It is dealing with purely quantitative elements.
+D. 处理定量元素必须使用定量措施
+Quantitative measures must be applied to qualitative elements.
+正确
+
+
+19. 下列哪一项最准确描述了定量风险分析?
+Which best describes a quantitative risk analysis?
+
+A. 定量风险分析是一种研究不同安全威胁的基于场景的分析方法
+A scenario-based analysis to research different security threats
+B. 定量风险分析是一种描述潜在损失、损失概率和风险严重程度的方法
+A method used to apply severity levels to potential loss, probability of loss, and risks
+C. 定量风险分析是一种在风险评估中为资产评估价值的方法
+A method that assigns monetary values to components in the risk assessment
+正确
+D. 定量风险分析是一种基于个人直觉和观点的方法
+A method that is based on gut feelings and opinions
+
+
+20. 执行和审查风险分析信息的团队，为什么应该由不同部门的人组成?
+Why should the team that will perform and review the risk analysis information be made up of people in different departments?
+
+A. 确保这个过程是公平的，没有人被排除在外
+To make sure the process is fair and that no one is left out.
+B. 这是不应该的。它应该是一个从组织外部引入的小组，否则分析有偏差且无法使用
+It shouldn&rsquo;t. It should be a small group brought in from outside the organization because otherwise the analysis is biased and unusable.
+C. &nbsp;因为不同部门的人理解他们部门的风险。因此，它确保进行&nbsp; &nbsp;分析的数据尽可能接近现实
+&nbsp;Because people in different departments understand the risks of their department. Thus, it ensures the data going into the analysis is as close to reality as possible.
+正确
+D. 因为风险是由不同部门的人造成的，所以他们应该承担责任
+Because the people in the different departments are the ones causing the risks, so they should be the ones held accountable.
+
+
+21. 如何计算剩余风险?
+How do you calculate residual risk?
+
+A. 威胁X风险X资产价值
+Threats &times; risks &times; asset value
+B. (威胁X资产价值X脆弱性) X风险
+(Threats &times; asset value &times; vulnerability) &times; risks
+C. 年化率X频率=年度损失预期
+SLE &times; frequency = ALE
+D. (威胁X资产价值X脆弱性)X控制间隙
+(Threats &times; vulnerability &times; asset value) &times; controls gap
+正确
+
+
+22. 哪一项准确描述了计算年度损失预期(ALE)的目的?
+Which best describes the purpose of the ALE calculation?
+
+A. 量化环境的安全级别
+Quantifies the security level of the environment
+B. 估计一个对策的损失
+Estimates the loss possible for a countermeasure
+C. 量化成本和效益的比值结果
+Quantifies the cost/benefit result
+D. 估计在一年时间内威胁的损失
+Estimates the loss potential of a threat in a span of a year
+正确
+
+
+23. 在确定是否应该实现特定的安全控制时，哪种技术是最有价值的?
+Which is the most valuable technique when determining if a specific security control should be implemented?
+
+A. 风险分析
+Risk analysis
+B. 成本/效益分析
+Cost/benefit analysis
+正确
+C. 年度损失预期
+ALE results
+D. 找出造成风险的漏洞和威胁
+Identifying the vulnerabilities and threats causing the risk
+
+
+24. 对识别的风险不采取行动，在什么情况下是可接受的?
+When is it acceptable to not take action on an identified risk?
+
+A. 绝不。因为良好的安全解决方案可以减小所有风险
+Never. Good security addresses and reduces all risks.
+B. 一些策略问题不允许规避这种风险
+When political issues prevent this type of risk from being addressed.
+C. 必要的对策比较复杂
+When the necessary countermeasure is complex.
+D. 采取预防措施所花费的成本有可能超过资产潜在的损失
+When the cost of the countermeasure outweighs the value of the asset and potential loss.
+正确
+
+
+25. 下列哪一项对数据泄露的认识是正确的?
+Which of the following is true about data breaches?
+
+A. 它们非常罕见
+They are exceptionally rare.
+B. 它们总是涉及个人身份信息
+They always involve personally identifiable information (PII).
+C. 它们可能触发法律或合规要求
+They may trigger legal or regulatory requirements.
+正确
+D. 美国没有与数据泄露有关的法律
+The United States has no laws pertaining to data breaches.
+
+
+26. 为确保信息安全管理系统遵循行业的最佳实践，下列哪个标准对你最有用?
+Which of the following standards would be most useful to you in ensuring your information security management system follows industry best practices?
+
+A. NIST SP 800-53
+NIST SP 800-53
+B. 六西格玛原则
+Six Sigma
+C. ISO/IEC 27000系列
+ISO/IEC 27000 series
+正确
+D. COSO IC
+COSO IC
+
+
+27. 为成功保障一个组织的安全，以下哪个因素是最重要的?
+Which factor is the most important item when it comes to ensuring security is successful in an organization?
+
+A. 高级管理层的支持
+Senior management support
+正确
+B. 有效控制和实现方法
+Effective controls and implementation methods
+C. 更新相关的安全策略和程序
+Updated and relevant security policies and procedures
+D. 所有员工的安全意识
+Security awareness by all employees
+
+
+28. 为更好地处理计算机犯罪，立法机构己经采取了哪些措施?
+To better deal with computer crime, several legislative bodies have taken what steps in their strategy?
+
+A. 拓展了一些隐私法
+Expanded several privacy laws
+B. 扩大了资产的定义，将数据纳入资产的范围
+Broadened the definition of property to include data
+正确
+C. 要求公司具有计算机犯罪保险
+Required corporations to have computer crime insurance
+D. 重新定义了跨境问题
+Redefined transborder issues
+
+

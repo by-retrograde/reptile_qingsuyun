@@ -1,0 +1,375 @@
+1. _______是一种软件测试技术，它向程序的输入接口提供无效、意外或随机的数据。
+_______ is a software testing technique that provides invalid, unexpected, or random data to the input interfaces of a program.&nbsp;
+
+A. 敏捷测试
+&nbsp;Agile testing&nbsp;
+B. 结构化测试
+Structured testing&nbsp;
+C. 模糊测试
+Fuzzing&nbsp;
+正确
+D. 欧洲计算机病毒协会标准反病毒测试
+EICAR
+
+
+2. 根据以下场景回答3个问题。
+Brad是一家零售公司的新安全管理员。他发现安全团队需要解决几个问题，以更好地保护组织整体。在查看不同的Web服务器日志时，他发现以下几个字符&ldquo;%20"和&ldquo;../&rdquo;。Web服务器软件确保用户通过Web浏览器向他们提交的表单中输入信息的准确性。Brad指出，该组织有一个两层的网络体系结构，这使得Web服务器能直与后端数据库连接。
+&nbsp;Brad is a new security administrator within a retail company. He is discovering several issues that his security team needs to address to better secure their organization overall. When reviewing different web server logs, he finds several HTTP server requests with the characters &ldquo;%20&rdquo; and &ldquo;../&rdquo;. The web server software ensures that users input the correct information within the forms that are presented to them via their web browsers. Brad identifies that the organization has a two-tier network architecture in place, which allows the web servers to directly interact with the back-end database.
+
+3. 根据以下场景回答3个问题。
+Sandy刚开始在一家新公司担任软件开发经理。当她与新团队成员交流时，她发现某些事情可能需要不同的处理方式。程序员近期开发了软件代码，并将其上传到集中服务器以便备份。服务器软件没有版本控制功能，所以有时软件产品包含过期的代码元素。她还发现，许多内部业务软件包遵循公共对象请求代理架构，这样，将更难在整个网络中重用分布式Web服务。其中一个团队成员在业务导向软件包中集成了几个开放的API功能。
+Sandy has just started as the manager of software development at a new company. As she interviews her new team members, she is finding out a few things that may need to be approached differently. Programmers currently develop software code and upload it to a centralized server for backup purposes. The server software does not have versioning control capability, so sometimes the end software product contains outdated code elements. She has also discovered that many in-house business software packages follow the Common Object Request Broker Architecture, which does not necessarily allow for easy reuse of distributed web services available throughout the network. One of the team members has combined several open API functionalities within a business-oriented software package.
+
+4. 数据库软件执行三种主要的完整性服务:语义、引用和实体。下列哪一项正确地描述了这些服务之一?
+i.语义完整性机制确保结构和语义规则被强制执行。
+ii.如果所有外键引用现有主键，则数据库具有引用完整性。
+iii.实体完整性确保元组仅根据主键值来定义。
+Database software performs three main types of integrity services: semantic, referential, and entity. Which of the following correctly describes one of these services? 
+i. A semantic integrity mechanism makes sure structural and semantic rules are enforced. 
+ii. A database has referential integrity if all foreign keys reference existing primary keys. 
+iii. Entity integrity guarantees that the tuples are uniquely identified by primary key values.&nbsp;
+
+A. &nbsp;ii
+&nbsp;ii&nbsp;
+B. &nbsp;ii, iii
+&nbsp;ii, iii&nbsp;
+C. i, ii, iii
+i, ii, iii
+正确
+D. &nbsp;i, ii
+&nbsp;i, ii&nbsp;
+
+
+5. ActiveX数据对象(ADO)是一种API，允许应用程序访问后端数据库系统。它是一组ODBC接口，具有通过可访问对象公开数据源的功能。下面关于ADO特性错误的是?
+i它是底层数据访问技术(如OLE DB)的低级数据访问编程接口。
+ii它是一组用于访问数据源的COM对象，而不仅是数据库端口。
+iii.它允许开发人员编写访问数据的程序，而不需要知道数据库是如何实现的。
+iv.使用ADO访问数据库时需要使用SQL命令。
+ActiveX Data Objects (ADO) is an API that allows applications to access back-end database systems. It is a set of ODBC interfaces that exposes the functionality of data sources through accessible objects. Which of the following are incorrect characteristics of ADO? i. It&rsquo;s a low-level data access programming interface to an underlying data access technology (such as OLE DB). 
+ii. It&rsquo;s a set of COM objects for accessing data sources, not just database access. 
+iii. It allows a developer to write programs that access data without knowing how the database is implemented. 
+iv. SQL commands are required to access a database when using ADO.&nbsp;
+
+A. &nbsp;i, iv
+&nbsp;i, iv
+正确
+B. &nbsp;ii, iii
+&nbsp;ii, iii
+C. i, ii, iii
+i, ii, iii
+D. &nbsp;i, ii, iii, iv
+&nbsp;i, ii, iii, iv
+
+
+6. 定量风险分析的最后一步是什么？
+What is the final step of a quantitative risk analysis?
+
+A. 确定资产价值
+Determine asset value.
+B. 确定年度发生率
+Assess the annualized rate of occurrence
+C. 计算年度损失预期值
+Derive the annualized loss expectancy.
+D. 进行成本/效益分析
+Conduct a cost/benefit analysis.
+正确
+
+
+7. Karen希望她的团队开发一款软件，让她的公司能够利用其他公司目前所能提供的多项Web服务。下列哪一个最好地描述了所需要的组件和它们所扮演的角色?
+Karen wants her team to develop software that allows her company to take advantage of and use many of the web services currently available by other companies. Which of the following best describes the components that need to be in place and what their roles are?
+
+A. Web服务提供应用程序功能。UDDI(用描述、发现和集成)提供Web服务的规范。Web服务描述语言提供Web服务的公布和发现机制。简单对象访问协议允许在Web服务的请求者和提供者之间交换消息。
+Web service provides the application functionality. Universal Description, Discovery, and Integration describes the web service&rsquo;s specifications. The Web Services Description Language provides the mechanisms for web services to be posted and discovered. The Simple Object Access Protocol allows for the exchange of messages between a requester and provider of a web service.
+B. Web服务提供应用程序功能。Web服务描述语言描述Web服务的规范。UDDI提供了Web服务的发布和发现机制。简单对象访问协议允许在Web服务的请求者和提供者之间交换消息。
+Web service provides the application functionality. The Web Services Description Language describes the web service&rsquo;s specifications. Universal Description, Discovery, and Integration provides the mechanisms for web services to be posted and discovered. The Simple Object Access Protocol allows for the exchange of messages between a requester and provider of a web service.
+正确
+C. Web服务提供应用程序功能。Web服务描述语言描述了Web服务的规范。简单对象访问协议提供了Web服务的发布和发现机制。UDDI允许在Web服务的请求者和提供者之间交换消息。
+Web service provides the application functionality. The Web Services Description Language describes the web service&rsquo;s specifications. The Simple Object Access Protocol provides the mechanisms for web services to be posted and discovered. Universal Description, Discovery, and Integration allows for the exchange of messages between a requester and provider of a web service.
+D. Web服务提供应用程序功能。简单对象访问协议描述了Web服务的规范。UDDI提供了Web服务的发布和发现机制。Web服务描述语言允许在Web服务的请求者和提供者之间交换消息。
+Web service provides the application functionality. The Simple Object Access Protocol describes the web service&rsquo;s specifications. Universal Description, Discovery, and Integration provides the mechanisms for web services to be posted and discovered. The Web Services Description Language allows for the exchange of messages between a requester and provider of a web service.
+
+
+8. 下列哪一项不能有效地对外部获取软件进行安全评估?
+Which of the following is not very useful in assessing the security of acquired software?
+
+A. 供应商的可靠度和成熟度
+The reliability and maturity of the vendor
+B. NIST国家软件参考库
+The NIST&rsquo;s National Software Reference Library
+正确
+C. 第三方漏洞评估
+Third-party vulnerability assessments
+D. 内部代码重审
+In-house code reviews
+
+
+9. John正在审查数据库产品。因为公司的业务逻辑需求，他需要一款能操作标准数据集的产品。下列哪一项是必要的产品?
+John is reviewing database products. He needs a product that can manipulate a standard set of data for his company&rsquo;s business logic needs. Which of the following should the necessary product implement?
+
+A. 关系数据库
+Relational database
+B. 对象关系数据库
+Object-relational database
+正确
+C. 网络数据库
+Network database
+D. 动态-静态
+Dynamic-static
+
+
+10. 下列对哪一项攻击的定义有错误?
+Which of the following has an incorrect attack to definition mapping?
+
+A. EBJ XSS攻击内容处理阶段通常通过客户端的Java进行
+EBJ XSS attack Content processing stages performed by the client, typically in client-side Java.
+正确
+B. 非持久性XSS攻击来自Web客户端响应的不当防御
+Nonpersistent XSS attack Improper sanitation of response from a web client.
+C. 对于持久性XSS攻击，攻击者提供的数据会保存在服务器上
+Persistent XSS attack Data provided by attackers is saved on the server.
+D. 对于基于DOM的XSS攻击，内容处理阶段通常通过客户端的JavaScript执行
+DOM-based XSS attack Content processing stages performed by the client, typically in client-side JavaScript.
+
+
+11. 下列哪种攻击类型最好地描述了在输入字段中插入专门修改和过长的数据时通常发生的问题?
+Which of the following attack types best describes what commonly takes place when you insert specially crafted and excessively long data into an input field?
+
+A. 遍历攻击
+Traversal attack
+B. 统一码编码攻击
+Unicode encoding attack
+C. URL编码攻击
+URL encoding attack
+D. 缓存区溢出攻击
+Buffer overflow attack
+正确
+
+
+12. 面向对象的编程的一个特点是延迟承诺。下列哪一项是对这种特点最好的描述?
+One of the characteristics of object-oriented programming is deferred commitment. Which of the following is the best description for this characteristic?
+
+A. 软件的组成模块是自治对象，通过交换消息进行合作
+The building blocks of software are autonomous objects, cooperating through the exchange of messages.
+B. 对象的内部组件可在不改变系统其他部分的情况下重新定义
+The internal components of an object can be redefined without changing other parts of the system.
+正确
+C. 类被其他程序重用，但可通过继承来改进它们
+Classes are reused by other programs, though they may be refined through inheritance.
+D. 面向对象的分析、设计和建模与业务需求和解决方案相对应
+Object-oriented analysis, design, and modeling map to business needs and solutions.
+
+
+13. 以下哪一项是第2级别的能力成熟度集成模型?
+Which of the following is the second level of the Capability Maturity Model Integration?&nbsp;
+
+A. 可重复
+Repeatable&nbsp;
+正确
+B. 定义
+&nbsp;Defined&nbsp;
+C. 管理
+Managed&nbsp;
+D. 优化
+Optimizing&nbsp;
+
+
+14. Marge为她的团队选择一个可遵循的软件开发方法。她的团队负责开发的应用程序是一个几乎不能出现差错的关键应用程序。下面哪一项最好地描述了她的团队应该遵循的模型类型?
+Marge has to choose a software development methodology that her team should follow. The application that her team is responsible for developing is a critical application that can have few to no errors. Which of the following best describes the type of model her team should follow?&nbsp;
+
+A. 净室
+Cleanroom&nbsp;
+正确
+B. 联合分析开发(JAD)
+Joint Analysis Development (JAD)&nbsp;
+C. 快速应用开发(RAD)
+&nbsp;Rapid Application Development (RAD)&nbsp;
+D. 重用模型
+&nbsp;Reuse methodology
+
+
+15. Tim是一家金融机构的软件开发员。他开发了实现公司业务逻辑功能的中间件代码。他使用的一个应用程序是用C语言编写的，随着时间的推移，似乎占用了太多内存。下面哪一项最好地描述了Tim应该怎样消除这个软件的此类问题?
+Tim is a software developer for a financial institution. He develops middleware software code that carries out his company&rsquo;s business logic functions. One of the applications he works with is written in the C programming language and seems to be taking up too much memory as it runs over time. Which of the following best describes what Tim should implement to rid this software of this type of problem?&nbsp;
+
+A. 边界检查
+Bounds checking&nbsp;
+B. 垃圾收集器
+Garbage collector&nbsp;
+正确
+C. 参数检查
+Parameter checking&nbsp;
+D. 编译
+Compiling&nbsp;
+
+
+16. John是公司内部应用程序开发部门的经理。他需要确保他的团队在开发阶段的正确时间执行所有正确的测试类型。下列哪一项准确地描述了应该执行的软件测试类型?
+i.单元测试个体组件位于一个受控的环境中，编程人员在这里确认数据结构、逻辑和边界
+条件。
+ii.集成测试验证组件像设计规范概述的一样协同工作。
+iii.验收测试确保代码符合客户的需求。&middot;
+iv.回归测试当系统发生变化之后，重新测试以保障其功能、性能及安全性
+John is a manager of the application development department within his company. He needs to make sure his team is carrying out all of the correct testing types and at the right times of the development stages. Which of the following accurately describe types of software testing that should be carried out?
+i. Unit testing Testing individual components in a controlled environment where programmers validate data structure, logic, and boundary conditions. 
+ii. Integration testing Verifying that components work together as outlined in design specifications. 
+iii. Acceptance testing Ensuring that the code meets customer requirements. 
+iv. Regression testing After a change to a system takes place, retesting to ensure functionality, performance, and protection.&nbsp;
+
+A. &nbsp;i, ii
+&nbsp;i, ii
+B. &nbsp;ii, iii
+&nbsp;ii, iii
+C. &nbsp;i, ii,iv
+&nbsp;i, ii.iv
+D. &nbsp;i, ii, iii, iv
+&nbsp;i, ii, iii, iv
+正确
+
+
+17. 软件开发生命周期有几个阶段。下列哪一项按正确顺序列出了这些阶段?
+The software development life cycle has several phases. Which of the following lists these phases in the correct order?
+
+A. 需求收集、设计、开发、维护、测试、发布
+Requirements gathering, design, development, maintenance, testing, release
+B. 需求收集、设计、开发、测试、操作和维护
+Requirements gathering, design, development, testing, operations and maintenance
+正确
+C. 原型设计、构建和修复、增量、测试、维护
+&nbsp;Prototyping, build and fix, increment, test, maintenance&nbsp;
+D. 原型设计、测试、需求收集、集成、测试
+&nbsp;Prototyping, testing, requirements gathering, integration, testing&nbsp;
+
+
+18. 数据库可实时记录事务处理，通常在分布式环境中更新多个数据库。这种类型的复杂性可能引入许多完整性威胁，因此数据库软件应该具备所谓的&ldquo;ACID测试&rdquo;的特性。下列哪项不是ACID测试的特性?
+i.原子性将事务处理分成多个工作单元，并确保所有修改都生效或都不生效。
+ii.一致性事务处理必须遵守为特定数据库制定的完整性策略，并确保在不同数据库中所有数据的一致性。
+iii.事务处理完全隔离执行直至完成，事务处理之间互不影响。
+iv一旦事务处理在所有的系统上都被验证为是正确的，它就会被提交，并且数据库无法回滚。
+Databases can record transactions in real time, which usually updates more than one database in a distributed environment. This type of complexity can introduce many integrity threats, so the database software should implement the characteristics of what&rsquo;s known as the ACID test. Which of the following are incorrect characteristics of the ACID test? 
+i. Atomicity Divides transactions into units of work and ensures that all modifications take effect or none takes effect. 
+ii. Consistency A transaction must follow the integrity policy developed for that particular database and ensure all data is consistent in the different databases. 
+iii. Isolation Transactions execute in isolation until completed, without interacting with other transactions. 
+iv. Durability Once the transaction is verified as inaccurate on all systems, it is committed and the databases cannot be rolled back.&nbsp;
+
+A. &nbsp;i, ii
+&nbsp;i, ii&nbsp;
+B. &nbsp;ii. iii
+&nbsp;ii. iii&nbsp;
+&nbsp;
+C. &nbsp;ii, iv
+&nbsp;ii, iv&nbsp;
+D. &nbsp;iv
+&nbsp;iv&nbsp;
+正确
+
+
+19. 以下哪一项是关系数据库中的行和列?
+Which of the following are rows and columns within relational databases?
+
+A. 行和元组
+Rows and tuples
+B. 属性和行
+Attributes and rows
+C. 键和视图
+Keys and views
+D. 元组和属性
+Tuples and attributes
+正确
+
+
+20. 联机事务处理((OLTP)系统检测到无效的处理时，会执行以下哪项操作?
+An online transaction processing (OLTP) system that detects an invalid transaction should do which of the following?
+
+A. 回滚并重写原始数据
+Roll back and rewrite over original data
+B. 终止所有连接直到妥善解决
+Terminate all transactions until properly addressed
+C. 编写报告进行汇报
+Write a report to be reviewed
+正确
+D. 检查每个数据项
+Checkpoint each data entry
+
+
+21. 安全首次应该在项目的哪个阶段被解决?
+When should security first be addressed in a project?
+
+A. 需求开发阶段
+During requirements development
+正确
+B. 集成测试阶段
+During integration testing
+C. 详细设计阶段
+During design specifications
+D. 实施阶段
+During implementation
+
+
+22. 下列哪一种技术或一组技术用于阻止数据库推理攻击?
+Which of the following techniques or set of techniques is used to deter database inference attacks?
+
+A. 分隔、单元抑制、噪声和扰动 
+Partitioning, cell suppression, and noise and perturbation
+正确
+B. 控制对数据字典的访问
+Controlling access to the data dictionary
+C. 分隔、单元抑制和小查询集
+Partitioning, cell suppression, and small query sets
+D. 分隔、噪声和扰动和小查询集
+Partitioning, noise and perturbation, and small query sets
+
+
+23. 数据库视图提供什么类型的安全控件?
+Database views provide what type of security control?
+
+A. 检测性
+Detective
+B. 纠正性
+Corrective
+C. 防御性
+Preventive
+正确
+D. 行政性
+Administrative
+
+
+24. 多实例化的目的是什么?
+What is the purpose of polyinstantiation?
+
+A. 限制低级别主体访问低级别信息
+To restrict lower-level subjects from accessing low-level information
+B. 复制客体和修改副本的属性
+To make a copy of an object and modify the attributes of the second copy
+正确
+C. 创建不同的客体对相同的输入作出不同的反应
+To create different objects that will react in different ways to the same input
+D. 创建不同的对象继承类的属性
+To create different objects that will take on inheritance attributes from their class
+
+
+25. 一个系统经常安装补丁，但最近还是感染了一种危险的病毒。如果反恶意软件表明对文件进行杀毒时可能会破坏文件，那么正确的选择是什么?
+A system has been patched many times and has recently become infected with a dangerous virus. If antimalware software indicates that disinfecting a file may damage it, what is the correct action?
+
+A. 对文件进行杀毒并联系供应商
+Disinfect the file and contact the vendor
+B. 对数据进行备份并杀毒
+Back up the data and disinfect the file
+C. 用之前安全的文件覆盖感染病毒的文件
+Replace the file with the file saved the day before
+D. 从未感染的备份介质上用己打补丁的文件来恢复
+Restore an uninfected version of the patched file from backup media
+正确
+
+
+26. 以下哪一项是关于DevOps最恰当的描述?
+Which of the following best describes the term DevOps?
+
+A. 是一种是将开发、IT、质量保证(QA)工作人员组成同一软件开发项目团队的实践。
+The practice of incorporating development, IT, and quality assurance (QA) staff into software development projects.
+正确
+B. 由许多(或所有)利益相关者代表组成的多元开发小组。
+A multidisciplinary development team with representatives from many or all the stakeholder populations.
+C. 支持及时发布的软件开发活动。
+The operationalization of software development activities to support just-in-time delivery.
+D. 一种软件开发方法，它更多地依赖于操作原型的使用，而不是广泛的前期计划。
+A software development methodology that relies more on the use of operational prototypes than on extensive upfront planning.
+
+

@@ -1,0 +1,266 @@
+1. 全面实现有10人参与的非对称算法需要多少个密钥?
+How many encryption keys are required to fully implement an asymmetric algorithm with 10 participants?
+
+A. 10
+10
+B. 20
+20
+正确
+C. 45
+45
+D. 100
+100
+
+
+2. &nbsp;哪个入围的AES利用了预白噪声化和后自噪声化技术?
+Which AES finalist makes use of prewhitening and postwhitening&nbsp; techniques?
+
+A. Rijndael
+Rijndael
+B. Twofish
+Twofish
+正确
+C. Blowfish
+Blowfish
+D. Skipjack
+Skipjack
+
+
+3. 什么类型的密码系统经常利用一个通道，借助一本著名的书来加密密钥?
+What type of cryptosystem commonly makes use of a passage from a well-known book for the encryption key?
+
+A. Vernam加密
+Vernam cipher
+B. 滚动密钥加密
+Running key cipher
+正确
+C. Skipjack加密
+Skipjack cipher
+D. Twofish加密
+Twofish cipher
+
+
+4. 什么样的攻击，使得凯撒密码几乎无法使用?
+What kind of attack makes the Caesar cipher virtually unusable?
+
+A. 中间人攻击
+Meet-in-the-middle attack
+B. 托管攻击
+Escrow attack
+C. 频率分析攻击
+Frequency analysis attack
+正确
+D. 换位攻击
+Transposition attack
+
+
+5. 高级加密标准使用的分块大小是多少?
+What block size is used by the Advanced Encryption Standard?
+
+A. 32位
+32 bits
+B. 64位
+64 bits
+C. 128位
+128 bits
+正确
+D. 可变
+Variable
+
+
+6. 全面实现有10人参与的对称算法需要多少个密钥?
+How many keys are required to fully implement a symmetric algorithm with 10 participants?
+
+A. 10
+10
+B. 20
+20
+C. 45
+45
+正确
+D. 100
+100
+
+
+7. 许多加密算法依赖于分解大素数乘积的难题。它们依靠的这个问题的特点是什么?
+Many cryptographic algorithms rely on the difficulty of factoring the product of large prime numbers. What characteristic of this problem are they relying on?
+
+A. 包含扩散
+It contains diffusion.
+B. 包含混淆
+It contains confusion.
+C. 包含单向函数
+It is a one-way function.
+正确
+D. 符合Kerchoff原则
+It complies with Kerchoff&rsquo;s principle.
+
+
+8. 下面哪种数据加密标准(DES)操作模式能被用于大量信息， 确保在加密/解密过程中不会因为一个早期的错误而破坏整个通信?
+Which one of the following Data Encryption Standard (DES) operating modes can be used for large messages with the assurance that an error early in the encryption/decryption process won&rsquo;t spoil results throughout the communication?
+
+A. 密码分组链接（CBC）
+Cipher Block Chaining (CBC)
+B. 电子代码本（ECB）
+Electronic Code Book (ECB)
+C. 密码回馈（CFB）
+Cipher Feedback (CFB)
+D. 输出回馈（OFB）
+Output feedback (OFB)
+正确
+
+
+9. Dave正在开发一个需要多人才能取回密钥的密钥托管系统，但并不依靠每个参与者到现场。他正在使用什么类型的技术?
+Dave is developing a key escrow system that requires multiple people to retrieve a key but does not depend on every participant being present. What type of technique is he using?
+
+A. 分割知识
+Split knowledge
+B. M of N控制
+M of N Control
+正确
+C. 工作函数
+Work function
+D. 零知识证明
+Zero-knowledge proof
+
+
+10. 了通过使用对称加密算法对双向通信进行保护， 需要的加密密钥的最小数目是多少?
+What is the minimum number of cryptographic keys required for secure two-way communications in symmetric key cryptography?
+
+A. 1
+One
+正确
+B. 2
+Two
+C. 3
+Three
+D. 4
+Four
+
+
+11. 以下密码类型中，哪一项对大块的消息而不是单个字符或位的消息进行操作?
+Which one of the following cipher types operates on large pieces of a message rather than individual characters or bits of a message?
+
+A. 流加密
+Stream cipher
+B. 凯撒加密
+Caesar cipher
+C. 块加密
+Block cipher
+正确
+D. ROT3加密
+ROT3 cipher
+
+
+12. 3DES加密算法使用的块大小是多少？
+What block size is used by the 3DES encryption algorithm?
+
+A. 32位
+32 bits
+B. 64位
+64 bits
+正确
+C. 128位
+128 bits
+D. 256位
+256 bits
+
+
+13. 数学函数16模3的输出值是多少?
+What is the output value of the mathematical function 16 mod 3?
+
+A. 0
+0
+B. 1
+1
+正确
+C. 3
+3
+D. 5
+5
+
+
+14. 如果配置正确，已知唯一的牢不可破的加密系统是什么?
+When correctly implemented, what is the only cryptosystem known to be unbreakable?
+
+A. 换位密码
+Transposition cipher
+B. 替代密码
+Substitution cipher
+C. 高级加密标准
+Advanced Encryption Standard
+D. 一次性填充
+One-time pad
+正确
+
+
+15. 秘密密钥加密系统不能实现下列哪一项?
+Which one of the following cannot be achieved by a secret key cryptosystem?
+
+A. 不可否认性
+Nonrepudiation
+正确
+B. 机密性
+Confidentiality
+C. 可用性
+Authentication
+D. 密钥分发
+Key distribution
+
+
+16. 下列哪一个不是高级加密标准Rijndael算法可能的密钥长度?
+Which one of the following is not a possible key length for the Advanced Encryption Standard Rijndael cipher?
+
+A. 56位
+56 bits
+正确
+B. 128位
+128 bits
+C. 192位
+192 bits
+D. 256位
+256 bits
+
+
+17. 什么类型的加密方式，依赖于不断变化消息中字符的位置去实现机密性?
+What type of cipher relies on changing the location of characters within a message to achieve confidentiality?
+
+A. 流加密
+Stream cipher
+B. 换位加密
+Transposition cipher
+正确
+C. 块加密
+Block cipher
+D. 替换加密
+Substitution cipher
+
+
+18. 数据加密标准(DES)密码系统中使用的密钥长度是多少?
+What is the length of the cryptographic key used in the Data Encryption Standard (DES) cryptosystem?
+
+A. 56位
+56 bits
+正确
+B. 128位
+128 bits
+C. 192位
+192 bits
+D. 256位
+256 bits
+
+
+19. John近期收到一封来自Bill的电子邮件。需要满足什么密码学目标，才能让John相信Bill是这封邮件的发送者?
+John recently received an email message from Bill. What cryptographic goal would need to be met to convince John that Bill was actually the sender of the message?
+
+A. 不可否认性
+Nonrepudiation
+正确
+B. 机密性
+Confidentiality
+C. 可用性
+Availability
+D. 完整性
+Integrity
+
+

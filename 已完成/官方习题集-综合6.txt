@@ -1,0 +1,2091 @@
+1. 这里显示的逻辑操作的值是多少？
+
+（注意:图像可能不能在所有设备或浏览器上显示）
+What is the value of the logical operation shown here?
+
+(NOTE: Images may not function on all devices or browsers)
+
+A. 0 1 1 1 1 1
+0 1 1 1 1 1
+B. 1 1 0 0 1 0
+1 1 0 0 1 0
+正确
+C. 0 0 1 0 0 0
+0 0 1 0 0 0
+D. 0 0 1 1 0 1
+0 0 1 1 0 1
+
+
+2. 访客应该__________________。
+Visitors should be __________________.
+
+A. 允许所有的访问
+Allowed full access
+B. 记录并跟踪
+Logged and tracked
+正确
+C. 颁发计算机访问凭据
+Issued computer access credentials
+D. 免于筛查
+Exempt from screening
+
+
+3. 什么软件开发技术包含一个基本原则，即它重视对变更的响应，而不是遵循计划？
+What software development technique includes as a basic principle that it values responding to change over following a plan?
+
+A. 螺旋
+Spiral
+B. 瀑布
+Waterfall
+C. 敏捷
+Agile
+正确
+D. CMM
+CMM
+
+
+4. 以下哪种密码算法使用最长的密钥？
+Which of the following cipher algorithms uses the longest key?
+
+A. 一次性密码本
+One-time pad cipher
+正确
+B. 凯撒密码
+Caesar cipher
+C. Vigen&egrave;re密码
+Vigen&egrave;re cipher
+D. 柱状换位密码
+Columnar transposition cipher
+
+
+5. 在不同级别的员工之间保留一块独立工作区的一个重要原因是预防以下哪一项？
+An important reason to maintain separate work areas between different levels of employees is the prevention of which of the following?
+
+A. 碰撞
+Collision
+B. 共谋
+Collusion
+C. 肩窥
+Shoulder surfing
+正确
+D. 明文攻击
+Plain-text attack
+
+
+6. 如果您需要每小时更新一次备份设施，您会选择哪个选项？
+If you require hourly updates to backup facilities, what option do you choose?
+
+A. 手动备份
+Manual backups
+B. 远程日志
+Remote journaling
+正确
+C. 远程镜像
+Remote mirroring
+D. 远程控制
+Remote control
+
+
+7. ____________模型侧重于主、客体的安全创建和删除。最终此模型是定义某些安全操作边界作为八个主要保护规则或行为集合。
+The ____________ model is focused on the secure creation and deletion of both subjects and objects. Ultimately, this model is a collection of eight primary protection rules or actions that define the boundaries of certain secure actions.
+
+A. Biba
+Biba
+B. Sutherland
+Sutherland
+C. Graham-Denning
+Graham-Denning
+正确
+D. Brewer-Nash
+Brewer-Nash
+
+
+8. &nbsp;哪种类型的攻击包括诸如诱骗秘书泄露领导密码等行为？
+What type of attack includes activities such as tricking a secretary into revealing the boss&rsquo;s password?
+
+A. 闲聊攻击
+Chatty attack
+B. 社会工程
+Social engineering
+正确
+C. 垃圾搜寻
+Dumpster diving
+D. 心理战
+Psychological operations
+
+
+9. 数据库备份以何种方式批量传输到异地恢复位置？
+Under what method are database backups bulk transferred to off-site recovery locations?
+
+A. 电子账单
+Electronic billing
+B. 电子支付
+Electronic payment
+C. 电子传送
+Electronic vaulting
+正确
+D. 电子保管
+Electronic safekeeping
+
+
+10. &nbsp;哪个恢复站点替代方案通过合同租赁选项来提供共享资源？
+Which recovery site alternative provides shared resources through contractual leasing options?
+
+A. 云服务
+Cloud services
+正确
+B. 移动站点
+Mobile site
+C. 热站点
+Hot site
+D. 冷站点
+Cold site
+
+
+11. 哪些非主流的替代恢复地点由容易重新安置的单位所组成？
+What nontraditional alternative recovery site is made up of transportable relocation units?
+
+A. 场外局
+Off-site bureau
+B. 服务局
+Service bureau
+C. 移动站点
+Mobile site
+正确
+D. 移动套件
+Mobility suite
+
+
+12. 下列方法中哪一种用来确认软件是否被病毒感染是最不安全的？
+Which of the following is the least secure method for determining whether software is infected by a virus?
+
+A. 用病毒检测工具扫描。
+Scan it with a virus inspection tool.
+B. 执行它。
+Execute it.
+正确
+C. 验证其核心文件的大小。
+Verify the size of its core files.
+D. 对其核心文件执行循环冗余检查(CRC)。
+Perform a cyclic redundancy check (CRC) on its core files.
+
+
+13. 灾难恢复服务的目的和意义是什么？
+What is the point and purpose of disaster recovery services?
+
+A. 防止对业务运营的中断
+To prevent interruption to business operations
+B. 防止对业务运营的干扰
+To prevent intrusion upon business operations
+C. 提供恢复设施以继续经营
+To provide restoration facilities to continue business operations
+正确
+D. 为幸存者提供口粮
+To provide personnel for provisioning rations to survivors
+
+
+14. 以下哪种灾难绝对是无法预防的，但仍被认为是任何正式安全规划阶段的一部分?
+Which of the following disasters is absolutely unpreventable but still considered a part of any formal security-planning phase?
+
+A. 市电停电
+Utility failure
+B. 基础设施故障
+Infrastructure failure
+C. 供电中断
+Power outage
+D. 自然灾难
+Natural disaster
+正确
+
+
+15. &nbsp;下列哪个选项不被认为是灾难的原因？
+Which of the following options is not considered a cause of disaster?
+
+A. 停电
+Power outage
+B. 恐怖袭击
+Terrorist attack
+C. 飓风破坏
+Hurricane destruction
+D. 停机检修时间
+Maintenance downtime
+正确
+
+
+16. &nbsp;____________数据模型将数据存储在多个数据库中，不过这数据是逻辑连接的。用户将数据库视为单个实体，即使它包含通过网络互连的许多部分。
+The ____________ data model has data stored in more than one database, but the data is still logically connected. The user perceives the database as a single entity, even though it comprises numerous parts interconnected over a network.
+
+A. 层次式
+Hierarchical
+B. 规范化
+Normalized
+C. 分布式
+Distributed
+正确
+D. 关系式
+Relational
+
+
+17. 下列哪个陈述针对业务连续性规划来说是正确的？
+Which of the following statements is true of business continuity planning?
+
+A. 它可以防止任何潜在灾难中断业务。
+It prevents every possible disaster from interrupting business.
+B. 它限制了易发灾难的破坏程度。
+It limits the extent of damage for commonly occurring disasters.
+正确
+C. 它奖励了灾难恢复的受益者。
+It rewards the beneficiaries of disaster recovery.
+D. 它最大限度地扩大了自然灾害的保险范围。
+It maximizes the insurance coverage against natural disaster.
+
+
+18. 什么文档应该说明关键业务信息将存储在哪里？
+What document should state where critical business information will be stored?
+
+A. 业务影响评估
+Business impact assessment
+B. 目的声明
+Statement of purpose
+C. 重要记录程序
+Vital records program
+正确
+D. 应急响应指南
+Emergency-response guidelines
+
+
+19. &nbsp;哪个软件开发生命周期模型允许过程只返回到前一阶段？
+What software development life cycle model allows the process to return only to the immediately preceding phase?
+
+A. 软件能力成熟度模型
+Software Capability Maturity Model
+B. 瀑布模型
+Waterfall model
+正确
+C. 开发周期
+Development cycle
+D. 螺旋模型
+Spiral model
+
+
+20. 对于每个被认为可以接受的风险，BCP文档的风险分析部分应包括哪些内容？
+What should be included in the risk assessment portion of the BCP documentation for each risk that was deemed acceptable?
+
+A. 未来可能需要重新考虑的事件
+Future events that might warrant reconsideration
+正确
+B. 缓解条款
+Mitigation provisions
+C. 降低风险的过程
+Processes to reduce the risk
+D. 响应清单
+Response checklist
+
+
+21. 哪种类型的决策涉及事件对公司员工和客户群的情感影响？
+What type of decision-making involves the emotional impact of events on a firm&rsquo;s workforce and client base?
+
+A. 定量决策
+Quantitative decision-making
+B. 连续性决策
+Continuity decision-making
+C. 定性决策
+Qualitative decision-making
+正确
+D. 影响决策
+Impact decision-making
+
+
+22. 根据（ISC）2的定义，以下哪一个不是业务连续性计划（BCP）过程的三个主要步骤之一？
+Which one of the following is not one of the three main steps of the business continuity planning (BCP) process, as defined by (ISC)2?
+
+A. 项目范围及计划
+Project scope and planning
+B. 业务影响评估
+Business impact assessment
+C. 系统备份
+System backup
+正确
+D. 连续性计划
+Continuity planning
+
+
+23. 在制定连续性战略的过程中，哪个阶段的机制和程序将实际降低设计的风险？
+In what phase of the process used to develop a continuity strategy are mechanisms and procedures that will actually mitigate the risks designed?
+
+A. 策略开发
+Strategy development
+B. 规定和处置
+Provisions and processes
+正确
+C. 培训和教育
+Education and training
+D. 业务影响评估
+Business impact assessment
+
+
+24. 下列哪个业务影响评估变量表示组织中每个资源的美元价值？
+Which one of the following business impact assessment variables represents the dollar value of each organizational resource?
+
+A. AV
+AV
+正确
+B. SLE
+SLE
+C. ARO
+ARO
+D. MTD
+MTD
+
+
+25. 在哪种渗透测试中，测试人员无法访问系统配置信息？
+During what type of penetration test does the tester have no access to system configuration information?
+
+A. 黑盒渗透测试
+Black-box penetration test
+正确
+B. 白盒渗透测试
+White-box penetration test
+C. 灰盒渗透测试
+Gray-box penetration test
+D. 红盒渗透测试
+Red-box penetration test
+
+
+26. &nbsp;如果没有详细的分步指南来说明如何完成必要的任务，则以下哪项用于创建此类文档？
+If a specific step-by-step guide does not exist that prescribes how to accomplish a necessary task, which of the following is used to create such a document?
+
+A. 策略
+Policy
+B. 标准
+Standard
+C. 程序
+Procedure
+D. 指南
+Guideline
+正确
+
+
+27. 哪个安全角色负责执行安全策略和高级管理层规定的保护任务。
+The security role of ________________ is responsible for the tasks of implementing the prescribed protection defined by the security policy and senior management.
+
+A. 数据保管员
+Data custodian
+正确
+B. 数据所有者
+Data owner
+C. 审计员
+Auditor
+D. 信息安全官
+InfoSec officer
+
+
+28. 在分配分类标签时，以下哪项不是基本标准？
+When assigning a classification label, which of the following is not an essential criterion?
+
+A. 价值或成本
+Value or cost
+B. 数据披露损害评估
+Data disclosure damage assessment
+C. 来源或起源
+Source or origin
+正确
+D. 成熟度或年龄
+Maturity or age
+
+
+29. 远程擦除是项有用的功能，可最大程度地降低未经授权拥有移动设备的人员访问个人或机密信息的风险。对于确保数据真正防止恶意恢复，哪些附加功能至关重要？
+Remote wipe is a useful feature in minimizing the risk of personal or confidential information being accessed by those in unauthorized possession of a mobile device. What additional feature is essential to ensure that data is truly protected against malicious recovery?
+
+A. 屏幕锁
+Screen lock
+B. GPS 跟踪
+GPS tracking
+C. 数据所有权管理
+Data ownership management
+D. 设备加密
+Device encryption
+正确
+
+
+30. 下列哪个是一个封闭系统的有效定义?
+Which of the following is a valid definition of a closed system?
+
+A. 一种被设计用于与较小范围的其他系统协同工作，通常都来自相同的制造厂商
+A system designed to work well with a narrow range of other systems, generally all from the same manufacturer
+正确
+B. 公开了源代码和其他内部逻辑的系统
+A system where the source code and other internal logic is exposed to the public
+C. 使用公认的行业标准设计的系统
+A system designed using agreed-upon industry standards
+D. 对公众隐藏了源代码和其他内部逻辑的系统
+A system where the source code and other internal logic is hidden from the public
+
+
+31. 如何生成元数据？
+How is metadata generated?
+
+A. 通过创建数据仓库
+By creating a data warehouse
+B. 通过执行数据挖掘
+By performing data mining
+正确
+C. 通过托管数据集市
+By hosting a data mart
+D. 通过编写数据字典
+By authoring a data dictionary
+
+
+32. 以下八个主要的保护规则或行为定义了什么安全模型的边界？安全创建客体安全创建主体安全删除客体安全删除主体安全提供读访问权限安全提供授予访问权限安全提供删除访问权限安全提供转移访问权限The following eight primary protection rules or actions define the boundaries of what security model?Securely create an object.Securely create a subject.Securely delete an object.Securely delete a subject.Securely provide the read access right.Securely provide the grant access right.Securely provide the delete access right.Securely provide the transfer access right.
+
+A. Graham-Denning
+Graham-Denning
+正确
+B. Bell-LaPadula
+Bell-LaPadula
+C. Take-Grant
+Take-Grant
+D. Sutherland
+Sutherland
+
+
+33. 通用准则哪部分指定了内置于评估目标中供应商的安全声明？
+What part of the Common Criteria specifies the claims of security from the vendor that are built into a target of evaluation?
+
+A. 保护轮廓
+Protection profiles
+B. 评估保证级别
+Evaluation assurance level
+C. 证书颁发机构
+Certificate authority
+D. 安全目标
+Security target
+正确
+
+
+34. &nbsp;以下哪项是不正确？
+Which of the following is not true?
+
+A. 遵守所有适用的法律规定是维持安全的关键部分。
+Complying with all applicable legal requirements is a key part of sustaining security.
+B. 如果遵守法规会导致安全性降低，则通常有可能无视法律规定。
+It is often possible to disregard legal requirements if complying with regulations would cause a reduction in security.
+正确
+C. 一个行业和国家的法律规定应被视为是建立安全基础设施其余部分的基准或基础。
+The legal requirements of an industry and of a country should be considered the baseline or foundation on which the remainder of the security infrastructure must be built.
+D. 行业和政府对组织的行为施加法律规定、限制和条例。
+Industry and governments impose legal requirements, restrictions, and regulations on the practices of an organization.
+
+
+35. 当员工离开组织时，应对用户帐户执行哪项操作？
+Which of the following should be done to a user&rsquo;s account when an employee leaves the organization?
+
+A. 删除用户帐户
+Delete the user&rsquo;s account
+B. 更改用户密码
+Change the user&rsquo;s password
+C. 修改用户权限
+Modify the user&rsquo;s privileges
+D. 禁用用户帐户
+Disable the user&rsquo;s account
+正确
+
+
+36. &nbsp;哪种类型的攻击使用恶意电子邮件并针对一个公司里的一组员工？
+What type of attack uses malicious email and targets a group of employees within a single company?
+
+A. 网络钓鱼
+Phishing
+B. 鱼叉式网络钓鱼
+Spear phishing
+正确
+C. 捕鲸
+Whaling
+D. 语音钓鱼
+Vishing
+
+
+37. 以下哪项是防范彩虹表攻击的最佳方法？
+Which of the following is the best method to protect against rainbow-table attacks?
+
+A. 加密通过网络传送的密码
+Encrypting passwords sent over the network
+B. 启用防火墙
+Enable firewalls
+C. 使系统保持最新
+Keeping systems up-to-date
+D. 密码加盐
+Salting passwords
+正确
+
+
+38. 以下哪项不是防范暴力破解和字典攻击的有效安全措施？
+Which of the following is not a valid security measure to protect against brute-force and dictionary attacks?
+
+A. 通过安全策略强制使用强密码。
+Enforce strong passwords through a security policy.
+B. 严格控制物理访问。
+Maintain strict control over physical access.
+C. 要求所有用户远程登录。
+Require all users to log in remotely.
+正确
+D. 使用双因素身份验证。
+Use two-factor authentication.
+
+
+39. 哪种类型的攻击可以检测通过网络发送的明文密码？
+What type of attack can detect passwords sent across a network in clear text?
+
+A. 欺骗攻击
+Spoofing attack
+B. 垃圾邮件攻击
+Spamming attack
+C. 嗅探攻击
+Sniffing attack
+正确
+D. 旁路攻击
+Side-channel attack
+
+
+40. 当一个组织试图识别风险时，他们首先应该识别什么？
+When an organization is attempting to identify risks, what should they identify first?
+
+A. 资产
+Assets
+正确
+B. 威胁
+Threats
+C. 漏洞
+Vulnerabilities
+D. 公共攻击
+Public attacks
+
+
+41. 缺乏数据流控制可能导致以下情况，除了以下哪项？
+The lack of data flow control could result in all but which of the following?
+
+A. 泪滴连接
+Dropped connections
+B. 数据崩溃
+Corrupted data
+C. 服务质量管理
+Quality of service management
+正确
+D. 自我造成的拒绝服务
+Self-inflicted denial of service
+
+
+42. 安全断言标记语言（SAML）攻击通常集中在哪一方面？
+Security Association Markup Language (SAML) attacks often focus on?
+
+A. 基于Web的身份验证
+Web-based authentication
+正确
+B. 数据盗窃
+Data theft
+C. 中间人攻击
+Man-in-the-middle attacks
+D. 屏幕抓取
+Screen scraping
+
+
+43. 哪个工具或组织是一个开放的信息和工具存储库，其专注于提高在线或基于web的应用程序的安全性？
+What tool or organization is an open repository of information and tools focusing on improving security for online or web-based applications?
+
+A. CVE
+CVE
+B. PCI DSS
+PCI DSS
+C. OWASP
+OWASP
+正确
+D. XSS
+XSS
+
+
+44. __________是一种编程攻击，用来伪造信息并将其发送给访客或导致他们的信息系统未授权的情况下丢弃信息。
+___________ is a form of programming attack that is used to either falsify information being sent to a visitor or cause their system to give up information without authorization.
+
+A. SQL注入
+SQL injection
+B. 缓冲区溢出
+Buffer overflow
+C. 分布式拒绝服务
+DDoS
+D. XML利用
+XML exploitation
+正确
+
+
+45. 以下哪种不是物理识别或电子门禁？
+What of the following is not a form of physical identification or electronic access control?
+
+A. 安全门
+Security gate
+正确
+B. 安全徽章
+Security badge
+C. 智能卡
+Smart card
+D. 令牌设备
+Token device
+
+
+46. 下面哪种技术不能避免单点故障？
+Which of the following is not a technique to avoid a single point of failure?
+
+A. RAID
+RAID
+B. 冗余服务器或集群
+Redundant servers or clusters
+C. 高速网络连接
+High-speed network connection
+正确
+D. 故障切换
+Failover
+
+
+47. __________由对进程可以访问的内存和资源所设置的限制组成。这也说明与定义进程在它所划定的限制区域之内。
+The __________ of a process consist of limits set on the memory addresses and resources it can access. This also states or defines the area within which a process is confined.
+
+A. 隔离
+Isolation
+B. 界限
+Bounds
+正确
+C. 约束
+Confinement
+D. 身份验证
+Authentication
+
+
+48. 什么安全模型的基于用户权限而动态改变和基于用户活动而访问？
+What security model is based on dynamic changes of user privileges and access based on user activity?
+
+A. Sutherland
+Sutherland
+B. Brewer-Nash
+Brewer&ndash;Nash
+正确
+C. Biba
+Biba
+D. Graham-Denning
+Graham&ndash;Denning
+
+
+49. ___________是密码学的一个弱点，即明文消息使用不同密钥通过相同算法生成相同密文消息。
+___________ is a weakness in cryptography where a plain-text message generates identical cipher-text messages using the same algorithm but using different keys.
+
+A. 随机数
+Nonce
+B. 聚合
+Aggregation
+C. 聚类
+Clustering
+正确
+D. 共谋
+Collusion
+
+
+50. 在Bell-LaPadula模型中，谁被允许违反星号属性，当它这样做时实际上并不违反安全性？
+From within the Bell&ndash;LaPadula model, what is allowed to violate the star property, but when doing so does not actually violate security?
+
+A. 最终用户
+End users
+B. 入侵者
+ntruders
+C. 根管理员
+Root administrators
+D. 可信主体
+Trusted subject
+正确
+
+
+51. 全盘加密可配置为：安全地将其主密钥存储在以下哪种本地存储设备里？
+Whole hard drive encryption can be configured to securely store its master encryption key in what locally present storage device?
+
+A. RAM
+RAM
+B. L2 cache
+L2 cache
+C. CMOS
+CMOS
+D. TPM
+TPM
+正确
+
+
+52. _______________模型基于主体可以访问的预设的域或客体列表。该模型基于自动化理论和域的隔离。这意味着主体只允许对预设客体执行预定的动作。
+The _______________ model is based on predetermining the set or domain of objects that a subject can access. The set or domain is a list of those objects that a subject can access. This model is based on automation theory and domain separation. This means subjects are only able to perform predetermined actions against predetermined objects.
+
+A. Clark-Wilson
+Clark-Wilson
+B. Goguen-Meseguer
+Goguen-Meseguer
+正确
+C. Graham-Denning
+Goguen-Meseguer
+D. Bell-LaPadula
+Bell-LaPadula
+
+
+53. Bob正在开发一个数据库驱动的网站，他担心最终用户会将内容插入到网站中，这样当第三方浏览网站时，会导致执行他们不希望的操作。Bob想要防御的是哪种类型的攻击？
+Bob is developing a database-driven website, and he is worried that end users will insert content onto the site that, when viewed by a third party, causes them to perform an undesirable action. What type of attack is Bob attempting to defend against?
+
+A. SQL注入
+SQL injection
+B. 跨站脚本
+Cross-site scripting
+正确
+C. 缓冲区溢出
+Buffer overflow
+D. 邪恶双胞胎
+Evil twin
+
+
+54. Christopher想用非对称加密向Renee发送一条消息，他应该使用什么密钥来加密消息？
+Christopher would like to send Renee a message using asymmetric encryption. What key should he use to encrypt the message?
+
+A. Christopher的公钥
+Christopher&rsquo;s public key
+B. Christopher的私钥
+Christopher&rsquo;s private key
+C. Renee的公钥
+Renee&rsquo;s public key
+正确
+D. Renee的私钥
+Renee&rsquo;s private key
+
+
+55. 在什么类型的攻击中，入侵者攻击客户端与服务器之间的连接？
+In what type of attack does the intruder initiate connections to both a client and a server?
+
+A. 选择明文攻击
+Chosen plain-text attack
+B. 中间相遇攻击
+Meet-in-the-middle attack
+C. 中间人攻击
+Man-in-the-middle attack
+正确
+D. 重放攻击
+Replay attack
+
+
+56. 哪种无线安全协议使用AES加密？
+Which wireless security protocol makes use of AES cryptography?
+
+A. WPS
+WPS
+B. WEP
+WEP
+C. WPA
+WPA
+D. WPA2
+WPA2
+正确
+
+
+57. 哪个IPsec协议提供了不可否认性的保证？
+Which IPsec protocol provides assurances of nonrepudiation?
+
+A. AH
+AH
+正确
+B. ISAKMP
+ISAKMP
+C. DH
+DH
+D. ESP
+ESP
+
+
+58. 下列哪一类证据包括可以带进法庭的有形物品（如：枪支）？
+Which one of the following types of evidence consists of tangible objects (such as a gun) that can be brought into court?
+
+A. 文档证据
+Documentary evidence
+B. 真实证据
+Real evidence
+正确
+C. 言词证明
+Testimonial evidence
+D. 最佳证据
+Best evidence
+
+
+59. 哪个TCP/IP通信端口通常用于受TLS保护的web通信？
+What TCP/IP communications port is commonly used for TLS-protected web communications?
+
+A. 80
+80
+B. 220
+220
+C. 443
+443
+正确
+D. 559
+559
+
+
+60. Christopher想用数字签名给Renee发送一条消息,他应该使用什么密钥来创建数字签名？
+Christopher would like to send Renee a message using a digital signature. What key should he use to create the digital signature?
+
+A. Christopher的公钥
+Christopher&rsquo;s public key
+B. Christopher的私钥
+Christopher&rsquo;s private key
+正确
+C. Renee的公钥
+Renee&rsquo;s public key
+D. Renee的私钥
+Renee&rsquo;s private key
+
+
+61. 在软件能力成熟度模型的哪个阶段，开发人员开始依照一系列正式的、文档化的软件开发过程进行操作？
+In which phase of the Capability Maturity Model for Software do developers begin to operate according to a set of formal, documented software development practices?
+
+A. 初始级
+Initial
+B. 可重复
+Repeatable
+C. 可定义
+Defined
+正确
+D. 可管理
+Managed
+
+
+62. 什么协议来管理IPsec使用的安全关联？
+What protocol manages the security associations used by IPsec?
+
+A. ISAKMP（Internet安全关联密钥管理协议）
+ISAKMP
+正确
+B. SKIPIP（简单密钥管理协议）
+SKIP
+C. IPComp（IP有效载荷压缩协议）
+IPComp
+D. SSL
+SSL
+
+
+63. 什么为常见的Internet应用服务（如：FTP)和一些内部网络应用服务(如：rexec)提供了安全替换。
+What package provides secure replacements for common Internet utilities like FTP and some internal network utilities like rexec?
+
+A. PGP
+PGP
+B. SSH
+SSH
+正确
+C. PEM
+PEM
+D. SSL
+SSL
+
+
+64. 下列哪项不是数字证书的必需组件？
+Which one of the following is not a required component of a digital certificate?
+
+A. 序列号
+Serial number
+B. 有效期
+Validity period
+C. 接收方姓名
+Receiver&rsquo;s name
+正确
+D. X.509版本号
+X.509 version
+
+
+65. 下列哪个算法/协议对不可否认性提供了内在支持？
+Which of the following algorithms/protocols provides inherent support for nonrepudiation?
+
+A. HMAC
+HMAC
+B. DSA
+DSA
+正确
+C. MD5
+MD5
+D. SHA-1
+SHA-1
+
+
+66. 需要多少个非对称密钥才能允许10个人中的任意2个人私下通信？
+How many asymmetric keys are necessary to allow any 2 people from a set of 10 to communicate privately with each other?
+
+A. 2
+2
+B. 4
+4
+C. 20
+20
+正确
+D. 45
+45
+
+
+67. 下列哪项不是申请发明专利的必要条件？
+Which one of the following is not a requirement of an invention to be patented?
+
+A. 它必须是新的。
+It must be new.
+B. 它以前必须作为商业机密被保护。
+It must be previously protected as a trade secret.
+正确
+C. 它必须是有用的。
+It must be useful.
+D. 它不能显而易见的。
+It must be nonobvious.
+
+
+68. 如果一个人想要向另一个人证明了解事实但又不透露事实本身，可以使用什么技术？
+What technique may be used if an individual wants to prove knowledge of a fact to another individual without revealing the fact itself?
+
+A. 分割知识
+Split-knowledge proof
+B. 工作函数
+Work function
+C. 数字签名
+Digital signature
+D. 零知识证明
+Zero-knowledge proof
+正确
+
+
+69. 在Biba模型中，什么规则阻止用户从较低级别的分类中读取数据？
+In the Biba model, what rule prevents a user from reading from lower levels of classification?
+
+A. 星号属性
+Star axiom
+B. 简单属性
+Simple property
+正确
+C. 不能向上读
+No read up
+D. 不能向下写
+No write down
+
+
+70. 每次使用相同密钥加密相同的消息时，什么被用来创建独特的密文从而增强加密的强度？
+What is used to increase the strength of cryptography by creating a unique cipher text every time the same message is encrypted with the same key?
+
+A. 初始化向量
+Initialization vector
+正确
+B. 维格纳密码
+Vignere cipher
+C. 隐写术
+Steganography
+D. 流密码
+Stream cipher
+
+
+71. 挑战-应答协议支持的加密目标是什么？
+What cryptographic goal does the challenge-response protocol support?
+
+A. 机密性
+Confidentiality
+B. 完整性
+Integrity
+C. 身份验证
+Authentication
+正确
+D. 不可否认性
+Nonrepudiation
+
+
+72. 安全系统评估中的哪个过程表示正式接受认证配置？
+Which process in the evaluation of a security system represents the formal acceptance of a certified configuration?
+
+A. 认证
+Certification
+B. 评估
+Evaluation
+C. 认可
+Accreditation
+正确
+D. 正式分析
+Formal analysis
+
+
+73. Jones研究所有6名员工，使用对称密钥加密系统来确保通信的机密性。如果每个员工都需要私下与其他员工进行交流，那么需要多少个密钥？
+The Jones Institute has six employees and uses a symmetric key encryption system to ensure confidentiality of communications. If each employee needs to communicate privately with every other employee, how many keys are necessary?
+
+A. 1
+1
+B. 6
+6
+C. 15
+15
+正确
+D. 30
+30
+
+
+74. 定性风险分析是基于什么？
+What is qualitative risk analysis based on?
+
+A. 美元值
+Dollar values
+B. 固定百分比
+Concrete percentages
+C. 历史日志和记录
+Historical logs and records
+D. 观点
+Opinions
+正确
+
+
+75. 高级加密标准的Rijndael加密算法支持的最大密钥长度是多少？
+What is the maximum key length supported by the Advanced Encryption Standard&rsquo;s Rijndael encryption algorithm?
+
+A. 128位
+128 bits
+B. 192位
+192 bits
+C. 256位
+256 bits
+正确
+D. 512位
+512 bits
+
+
+76. 什么类型的软件许可证协议通常用于高价和特别专业的软件包？
+What type of software license agreement is commonly used for high-priced and highly specialized software packages?
+
+A. 合同协议
+Contractual agreements
+正确
+B. 收缩性薄膜包装协议
+hrink-wrap agreements
+C. 口头协议
+Verbal agreements
+D. 单击包装协议
+Click-wrap agreements
+
+
+77. 关于加密散列函数，下列哪个选项是不正确的？
+Which one of the following is not true in regards to a cryptographic hash function?
+
+A. 散列函数是一种方法。
+The hash function is one way.
+B. 大多数散列算法的输出是可变的。
+The output of most hashing algorithms is variable.
+正确
+C. 散列函数相对容易计算。
+The hash function is relatively easy to compute.
+D. 散列函数被设计为抗冲突的。
+The hash function is designed to be collision resistant.
+
+
+78. 今天大多数恶意软件的主要目的是什么？
+What is the primary purpose of most malware today?
+
+A. 感染文字处理文档
+Infecting word processor documents
+B. 创建僵尸网络
+Creating botnets
+正确
+C. 破坏数据
+Destroying data
+D. 发送垃圾邮件
+Sending spam
+
+
+79. 最近一段声称允许用户在个人电脑上玩Xbox游戏的恶意代码以软件形式在互联网上传播。该软件实际上在试图执行它的用户机器上启动了恶意代码。这说明了什么类型的恶意代码？
+Recently, a piece of malicious code was distributed over the Internet in the form of software claiming to allow users to play Xbox games on their PCs. The software actually launched the malicious code on the machines of users who attempted to execute it. What type of malicious code does this describe?
+
+A. 逻辑炸弹
+Logic bomb
+B. 病毒
+Virus
+C. 特洛伊木马
+Trojan horse
+正确
+D. 蠕虫
+Worm
+
+
+80. 在应用程序不转义的情况下，什么字符不应被允许在web表单输入并传递到数据库？
+What character should never be allowed in web form input that the application will pass to a database without being escaped?
+
+A. !
+!
+B. $
+$
+C. #
+#
+D. '
+'
+正确
+
+
+81. 什么HTML标记往往是一次成功的XSS攻击的关键？
+What HTML tag is often essential to a successful XSS attack?
+
+A. <HEAD>
+<HEAD>
+B. <XSS>
+<XSS>
+C. <SCRIPT>
+<SCRIPT>
+正确
+D. <H2>
+<H2>
+
+
+82. 以下哪个阶段用来确保事件响应循环的结束，并提高你对未来事件的响应效率？
+Which process ensures that you close the loop of incident response to improve the effectiveness of your response to future incidents?
+
+A. 遏制
+Containment
+B. 经验教训
+Lessons learned
+正确
+C. 隔离
+Isolation
+D. 分析
+Analysis
+
+
+83. 以下哪种方式的反病毒响应功能可以删除恶意代码，但不修复已造成的损坏？
+Which of the following is the type of antivirus response function that removes the malicious code but leaves damage unrepaired?
+
+A. 清除
+Cleaning
+B. 移除
+Removal
+正确
+C. 隐形
+Stealth
+D. 多态
+Polymorphism
+
+
+84. 当你不想事先通知某人时，会使用哪种证据收集技术？
+Which evidence-gathering technique is used when you do not want to provide an individual with any advance notice?
+
+A. 搜查许可证
+Search warrant
+正确
+B. 传票
+Subpoena
+C. 自首
+Voluntary surrender
+D. 访谈
+Interview
+
+
+85. 商标法规定的不需要续签的保护期限是多长？
+What is the length of protection offered by trademark law without requiring a renewal?
+
+A. 5年
+5 years
+B. 7年
+7 years
+C. 10年
+10 years
+正确
+D. 20年
+20 years
+
+
+86. 当攻击者在初始状态检查和资源使用之间替换资源时，会利用什么漏洞?
+What vulnerability is being exploited when an attacker replaces a resource between the initial status check and the use of the resource?
+
+A. 隐蔽通道
+Covert channel
+B. TOC/TOU
+TOC/TOU
+正确
+C. 缓冲区溢出
+Buffer overflow
+D. 维护钩子
+Maintenance hook
+
+
+87. 什么是剩余风险？
+What is residual risk?
+
+A. 实施对策后，继续存在的风险
+The risk remaining after a countermeasure is installed
+正确
+B. 随着实施保障措施的成熟，风险水平会随着时间慢慢消失
+The level of risk that slowly evaporates over time as implemented safeguards mature
+C. 组织所面临的风险总量
+The total amount of risk an organization faces
+D. 管理层选择接受而不是减轻的风险
+The risk that management chooses to accept rather than mitigate
+
+
+88. 下面哪个文件最不可能含有病毒？
+Which one of the following files is least likely to contain a virus?
+
+A. COMMAND.COM
+COMMAND.COM
+B. SOLITAIRE.EXE
+SOLITAIRE.EXE
+C. SECRET.TXT
+SECRET.TXT
+正确
+D. LOVE.VBS
+LOVE.VBS
+
+
+89. 下列哪一个是混合RAID，涉及到使用嵌套分布奇偶校验数据的条带驱动器集的镜像？
+Which of the following is nested RAID involving the mirroring of striped drive sets with evenly distributed parity data?
+
+A. RAID 1
+RAID 1
+B. RAID 6
+RAID 6
+C. RAID 1+5
+RAID 1+5
+正确
+D. RAID 1+0
+RAID 1+0
+
+
+90. 哪个方法不是确保有效和可靠的配备安全人员所必不可少的？
+What method is not integral to assuring effective and reliable security staffing?
+
+A. 筛选
+Screening
+B. 联系
+Bonding
+C. 培训
+Training
+D. 调节
+Conditioning
+正确
+
+
+91. 微软提供的哪个编程环境包括公共语言接口？
+What programming environment offered by Microsoft includes the Common Language Interface?
+
+A. COM
+COM
+B. DCOM
+DCOM
+C. .NET Framework&nbsp;
+NET Framework
+正确
+D. ActiveX
+ActiveX
+
+
+92. 电源火线和零线之间的电势差会产生什么样的干扰？
+What form of interference is generated by a difference in power between hot and neutral wires of a power source?
+
+A. 射频干扰
+Radio frequency interference
+B. 串扰噪声
+Cross-talk noise
+C. 导线模式噪声
+Traverse mode noise
+正确
+D. 普通模式噪声
+Common mode noise
+
+
+93. 什么技术可以让数据库管理员通过向不同安全许可等级用户显示不同的数据来防止推理攻击？
+What technique may database administrators use to prevent inference attacks by presenting different data to users of different security clearance levels?
+
+A. 多实例
+Polyinstantiation
+正确
+B. 聚合
+Aggregation
+C. 供应
+Provisioning
+D. 语义完整性
+Semantic integrity
+
+
+94. 下面哪个是解释语言的例子？
+Which of the following is an example of an interpreted language?
+
+A. C++
+C++
+B. VBScript
+VBScript
+正确
+C. Java
+Java
+D. Fortran
+Fortran
+
+
+95. Windows蓝屏死机是一个针对软件故障的_______例子。
+The Windows Blue Screen of Death is an example of a _______ approach to software failure.
+
+A. 故障开放
+Fail-open
+B. 故障防护
+Fail-secure
+正确
+C. 限制检查
+Limit check
+D. 面向对象
+Object-oriented
+
+
+96. 美国哪部联邦法案阻止那些挫败版权保护机制的企图，这些保护机制由版权所有者用于受保护的作品？
+What U.S. federal law prohibits attempts to circumvent copyright protection mechanisms placed on a protected work by the copyright holder?
+
+A. 数字千禧年版权法案
+Digital Millennium Copyright Act
+正确
+B. 商业机密法案
+Trade Secrets Act
+C. 版权促进法案
+Copyright Enhancement Act
+D. 美国爱国者法案
+USA PATRIOT Act
+
+
+97. 域名系统（DNS）使用什么结构的数据库模型？
+What type of data model does the Domain Name System (DNS) use?
+
+A. 关系式
+Relational
+B. 分布式
+Distributed
+C. 事务式
+Transactional
+D. 分层式
+Hierarchical
+正确
+
+
+98. 哪个数据库特征确保事务以全有或全无的方式执行？
+Which database principle ensures that transactions execute in an all-or-nothing fashion?
+
+A. 原子性
+Atomicity
+正确
+B. 一致性
+Consistency
+C. 隔离性
+Isolation
+D. 持久性
+Durability
+
+
+99. 下面哪个函数不是SQL中的聚合函数？
+Which of the following is not an aggregate function in SQL?
+
+A. MAX()
+MAX()
+B. SUM()
+SUM()
+C. SELECT()
+SELECT()
+正确
+D. AVG()
+AVG()
+
+
+100. 下列哪一种方法使用数学算法来分析数据，并开发模型用于预测未来的活动？
+Which of the following approaches uses mathematical algorithms to analyze data, developing models that may be used to predict future activity?
+
+A. 专家系统
+Expert systems
+B. 数据挖掘
+Data mining
+正确
+C. 数据仓库
+Data warehousing
+D. 信息发现
+Information discovery
+
+
+101. 什么是风险？
+What is risk?
+
+A. 任何可能发生的，会带来不希望的或不想要结果的事情
+Any potential occurrence that can cause an undesirable or unwanted outcome
+B. 导致损失事件的实际发生
+The actual occurrence of an event that results in&nbsp; &nbsp;loss
+C. 某种威胁利用特定脆弱性并导致资产损害的可能性
+The likelihood that any specific threat will exploit a specific vulnerability to cause harm to an asset
+正确
+D. 因威胁而遭受资产损失的一个实例
+An instance of being exposed to asset loss due to a&nbsp; threat
+
+
+102. 哪个数据库元素等同于单个属性？
+What database element is equivalent to a single attribute?
+
+A. 表格
+Table
+B. 行
+Row
+C. 列
+Column
+正确
+D. 属性
+
+Attribute
+
+
+
+103. 哪个数据库安全功能使用锁定机制来防止单元格被同时编辑？
+What database security feature uses a locking mechanism to prevent simultaneous edits of cells?
+
+A. 语义完整性机制
+Semantic integrity mechanism
+B. 并发性
+Concurrency
+正确
+C. 多实例
+Polyinstantiation
+D. 数据库分区
+Database partitioning
+
+
+104. 定量风险分析计算产生的年度损失预期和成本/效益结果用于什么目的？
+The quantitative risk analysis equations produce ALEs and cost/benefit results that are used for what purpose?
+
+A. 购买保险
+Purchasing insurance
+B. 分配责任
+Assigning responsibility.
+C. 知道损失有多大
+Knowing how large a loss will be
+D. 确定优先级
+Determining priority
+正确
+
+
+105. 什么是用户和人员安全的基础？
+What is the foundation of user and personnel security?
+
+A. 背景调查
+Background checks
+B. 工作描述
+Job descriptions
+正确
+C. 审计和监控
+Auditing and monitoring
+D. 自主访问控制
+Discretionary access control
+
+
+106. 采取对策的成本/效益公式是什么？
+What is the countermeasure cost/benefit equation?
+
+A. 单一损失预期*年发生比率
+SLE * ARO
+B. 暴露因子*资产价值*年发生比率
+EF * AV * ARO
+C. （年度损失预期1-年度损失预期2）-对策成本
+(ALE1 &ndash; ALE2) &ndash; CM cost
+正确
+D. 总风险+控制间隙
+Total risk + controls gap
+
+
+107. 安全计划文档应当___________。
+Security planning documentation should ________________.
+
+A. 为个人定义工作
+Define work for individuals
+B. 指责过失
+Assign blame for faults
+C. 为角色指定任务
+Prescribe tasks to roles
+正确
+D. 发布以供公众访问
+Be posted for public access
+
+
+108. 建议采取的安全管理方法是什么？
+What is the recommended management approach to security?
+
+A. 自上向下
+Top-down
+正确
+B. 自下而上
+Bottom-up
+C. 双人控制
+Two-man control
+D. 改良的瀑布模型
+Modified waterfall
+
+
+109. 安全工作能否成功的决定性因素是什么？
+What is the determining factor to whether a security effort will be successful?
+
+A. 适当的技术知识
+Proper technical knowledge
+B. 用户意识
+User awareness
+C. 高级管理层的支持
+Senior management support
+正确
+D. 足够的预算
+Sufficient budget
+
+
+110. 执行全面的风险分析过程通常会带来哪一项好处？
+Which of the following is often a side benefit of a thorough risk analysis process?
+
+A. 消除对组织的所有威胁
+Removal of all threats to an organization
+B. 精简安全策略
+Streamlining of security policies
+C. 对所有资产进行全面而详细的评估
+Complete and detailed valuation of all assets
+正确
+D. 部署安全措施
+Deployment of safeguards
+
+
+111. 年度损失预期可以用下列哪个公式计算？
+The annualized loss expectancy can be calculated using which of the following equations?
+
+A. 暴露因子*年发生比率
+Exposure factor * annualized rate of occurrence
+B. 资产价值*暴露因子
+Asset value * exposure factor
+C. 资产价值*风险概率*保障利益
+Asset value * risk probability * safeguard benefit
+D. 资产价值*暴露因子*年发生比率
+Asset value * exposure factor * annualized rate of occurrence
+正确
+
+
+112. 下列哪个选项是不正确的？
+Which of the following is not true?
+
+A. 纯粹的定量分析是不可能的。
+A purely quantitative analysis is not possible.
+B. 定性风险分析采用复杂的公式和计算方法。
+Qualitative risk analysis employs complex formulas and calculations.
+正确
+C. 定量风险分析为资产的损失分配真实的货币数值。
+Quantitative risk analysis assigns real dollar figures to the loss of an asset.
+D. 定性风险分析为资产损失分配主观价值和无形价值。
+Qualitative risk analysis assigns subjective and intangible values to the loss of an asset.
+
+
+113. 以下哪个选项是不正确？
+Which of the following is not true?
+
+A. 策略、标准、基线、指南和程序可以合并到一个文档中。
+Policies, standards, baselines, guidelines, and procedures can be combined in a single document.
+正确
+B. 并非所有用户都需要知道所有安全分类级别的安全标准、基线、指南和程序。
+Not all users need to know the security standards, baselines, guidelines, and procedures for all security classification levels.
+C. 当发生变更时，只更新和重新分发受影响的材料比更新整体策略并重新分发它更容易。
+When changes occur, it is easier to update and redistribute only the affected material rather than update a monolithic policy and redistribute it.
+D. 形式化结构的上层（即安全策略），文档较少，因为它们是对概要与目标的泛论。在形式化结构的底层（即指南和程序），有许多文档，因为它们包含为那些有限数量的系统、网络、部门、区域所定制的详细信息。
+Higher up the formalization structure (that is, security policies), there are fewer documents because they are general broad discussions of overview and goals. Further down the formalization structure (that is, guidelines and procedures), there are many documents because they contain details specific to a limited number of systems, networks, divisions, areas, and so on.
+
+
+114. 下列哪项教学被认为是其它教学的先决条件？
+Which of the following elements of teaching is considered a prerequisite for the others?
+
+A. 教育
+Education
+B. 意识
+Awareness
+正确
+C. 培训
+Training
+D. 认证证书
+Certification
+
+
+115. 在保护公司数据方面，哪个安全角色最终负责应尽职责？
+Which security role is ultimately responsible for due diligence in protecting a company&rsquo;s data?
+
+A. 用户
+The user
+B. 数据所有者
+The data owner
+正确
+C. 数据保管员
+The data custodian
+D. 管理员
+The administrator
+
+
+116. 当通过审计发现某人执行了特定行为时，就可以合法地建立起问责制。这样的调查和核查过程还可以带来什么好处？
+When it can be legally established that a human performed a specific action that was discovered via auditing, accountability has been established. What additional benefit is derived from this Redundancy and verification process?
+
+A. 不可否认性
+Nonrepudiation
+正确
+B. 隐私
+Privacy
+C. 抽象
+Abstraction
+D. 冗余
+Redundancy
+
+
+117. 下列哪一项不是完整性保护的有效定义或观点？
+Which of the following is not a valid definition or perspective of integrity protection?
+
+A. 防止未经授权的主体进行修改。
+Unauthorized subjects should be prevented from making modifications.
+B. 防止授权的主体进行未授权的修改，例如错误。
+Authorized subjects should be prevented from making unauthorized modifications, such as mistakes.
+C. 数据一旦被保存到有保障的设施中，就可以因任何原因而进行更改。
+Data, once stored in a secured facility, can be changed for any reason.
+正确
+D. 客体应该在内、外部保持一致，使其数据能够准确无误的反映真实情况。
+Objects should be internally and externally consistent so that their data is a correct and true reflection of the real world.
+
+
+118. 以下哪项是由国际信息系统审计和控制协会（ISACA）和IT治理协会（ITGI）制定的最佳IT安全实践？
+Which of the following is a documented set of best IT security practices crafted by Information Systems Audit and Control Association (ISACA) and IT Governance Institute (ITGI)?
+
+A. ISO 17799
+ISO 17799
+B. COBIT
+COBIT
+正确
+C. OSSTMM
+OSSTMM
+D. 通用准则(IS 15408)
+Common Criteria (IS 15408)
+
+
+119. 高级管理层必须表现出合理的___________________，以便在发生亏损时减少他们的过失和责任。
+Senior management must show reasonable ___________________ to reduce their culpability and liability when a loss occurs.
+
+A. 利润
+Profits
+B. 保险
+Insurance
+C. 应尽关注
+Due care
+正确
+D. 资产评估
+Asset valuation
+
+
+120. 下面哪个不是配置管理的元素?
+Which of the following is not an element of configuration management?
+
+A. 支持回滚
+Supporting rollback
+B. 详细说明
+Detailed documentation
+C. 对可能的变化进行系统性分析
+Systematic analysis of impending alterations
+D. 运用螺旋模型进行项目管理
+Use of the spiral model of project management
+正确
+
+
+121. 在尝试对用户强制实施问责时，必须解决哪些关键问题？
+When attempting to impose accountability on users, what key issue must be addressed?
+
+A. 可靠的日志存储系统
+Reliable log storage system
+B. 正确的警告横幅通知
+Proper warning banner notification
+C. 法律辩护/认证支持
+Legal defense/support of authentication
+正确
+D. 使用自主访问控制
+Use of discretionary access control
+
+
+122. 在授予某人资源访问的权限之前先要确定某人是谁，第一步是什么？
+When establishing who someone is before you grant them access to resources, what is the first step?
+
+A. 验证凭据
+Verify credentials
+B. 声明身份
+Claim an identity
+正确
+C. 授予权力
+Grant authority
+D. 监视活动
+Monitor activity
+
+
+123. CIA三元组中的哪一项会导致攻击与损害事件发生最多、可能性最大？
+Which component of the CIA Triad has the most avenues or vectors of attack and compromise?
+
+A. 机密性
+Confidentiality
+B. 完整性
+Integrity
+C. 可用性
+Availability
+正确
+D. 可问责性
+Accountability
+
+
+124. 一旦某个资产不再需要当前分配的分类或敏感性级别保护，则需要______________。
+________________ is required once an asset no longer warrants or needs the protection of its currently assigned classification or sensitivity level.
+
+A. 多实例
+Polyinstantiation
+B. 扰乱
+Perturbation
+C. 解除分类
+Declassification
+正确
+D. 物理保护
+Physical protection
+
+
+125. _____________是一种新系统部署测试，其中新系统和旧系统同时运行。
+A _____________is a type of new system deployment testing where the new system and the old system run simultaneously.
+
+A. 并行运行
+Parallel run
+正确
+B. 模拟试验
+Simulation test
+C. 黑盒测试
+Black-box test
+D. 压力测试
+Stress test
+
+
+126. 变更管理的主要目的是什么？
+What is the primary purpose of change management?
+
+A. 防止安全性被意外的降低
+To prevent unwanted reductions to security
+B. 允许管理层审查所有的变更
+To allow management to review all changes
+正确
+C. 延迟发布关键任务补丁
+To delay the release of mission-critical patches
+D. 提高最终用户的生产率
+To improve productivity of end users
+
+
+127. 下列哪一项是政府/军事组织的最高安全级别？
+Which of the following is the highest security classification for a government/military organization?
+
+A. 分类的
+Classified
+B. 绝密
+Top secret
+正确
+C. 敏感
+Sensitive
+D. 敏感但未分类
+Sensitive but unclassified
+
+
+128. 下列哪一项不是实施数据分类的理由？
+Which of the following is not a reason for data classification?
+
+A. 用低安全级别措施保护所有内容意味着敏感数据很容易被访问
+Because securing everything at a low security level means sensitive data is easily accessible
+B. 确定分配多少精力、资金和资源来保护数据并控制对数据的访问
+To determine how much effort, money, and resources are allocated to protect the data and control access to it.
+C. 用高安全级别措施保护所有内容太过昂贵，并且限制了对非机密、非关键数据的访问
+Because securing everything at a high security level is too expensive and restricts access to unclassified, noncritical data
+D. 提供了不可抵赖性
+To provide for nonrepudiation
+正确
+
+
+129. 哪种用数据包交换网络系统创建的连接在每次连接时重用相同的基本参数或虚拟路径？
+Which type of connection created by a packet-switching networking system reuses the same basic parameters or virtual pathway each time it connects?
+
+A. 按需连接的宽带
+Bandwidth on demand connection
+B. 交换虚电路
+Switched virtual circuit
+C. 永久虚电路
+Permanent virtual circuit
+正确
+D. CSU/DSU连接
+CSU/DSU connection
+
+
+130. 以下哪种WAN连接技术提供的通信保障最少？
+Which of the following types of WAN connections offer the least assurance of communications?
+
+A. 专用链线
+Dedicated lines
+B. 非专用链线
+Nondedicated lines
+正确
+C. 租用线路
+Leased lines
+D. 点到点链路
+Point-to-point link lines
+
+
+131. 下列哪项不是数据包交换的特性？
+Which of the following is not a feature of packet switching?
+
+A. 集中的突发通信
+Bursty traffic focused
+B. 已知的固定延迟
+Fixed known delays
+正确
+C. 易受数据损耗的影响
+Sensitive to data loss
+D. 支持任何通信类型
+Supports any type of traffic
+
+
+132. 以下哪个是APIPA地址？
+Which of the following is an APIPA address?
+
+A. 169.254.1.152
+169.254.1.152
+正确
+B. 192.168.6.1
+192.168.6.1
+C. 172.18.53290
+172.18.53290
+D. 10.183.4.72
+10.183.4.72
+
+
+133. 下列哪项不是NAT的优点？
+Which of the following is not a benefit of NAT?
+
+A. 使用RFC 1918地址
+Use of RFC 1918 addresses
+B. 租用更少的公共地址
+Fewer leased public addresses
+C. 隐藏内部系统的配置
+Hidden configuration of internal systems
+D. 从外部实体访问启动
+Access initiations from external entities
+正确
+
+
+134. 当使用L2TP为IP通信创建VPN连接时，哪种VPN协议能够实现有效负载加密机制？
+Which VPN protocol can be implemented as the payload encryption mechanism when L2TP is used to craft the VPN connection for an IP communication?
+
+A. L2F
+L2F
+B. PPTP
+PPTP
+C. IPsec
+IPsec
+正确
+D. SSH
+SSH
+
+
+135. 以下哪一项在敏捷软件开发中不受重视？
+Which of the following is not valued in Agile software development?
+
+A. 全面的文档
+Comprehensive documentation
+正确
+B. 个体与交互
+Individuals and interactions
+C. 有效的软件
+Working software
+D. 客户协同
+Customer collaboration
+
+
+136. 隧道模式VPN是用来连接哪些类型的系统?
+A tunnel mode VPN is used to connect which types of systems?
+
+A. 主机和服务器
+Hosts and servers
+B. 客户机和终端
+Clients and terminals
+C. 主机和网络
+Hosts and networks
+正确
+D. 服务器和域控制器
+Servers and domain controllers
+
+
+137. 以下哪项与使用手机无关？
+Which of the following is not a risk related to cell phone usage?
+
+A. 数据截获
+Data interception
+B. 访问交换机控制端口
+Switch console port access
+正确
+C. 窃听
+Eavesdropping
+D. 克隆
+Cloning
+
+
+138. 所有公共电子邮件都遵守什么互联网标准？
+What Internet standard does all public email comply with?
+
+A. IEEE 802.11
+IEEE 802.11
+B. X.400
+X.400
+正确
+C. X.509
+X.509
+D. LDAP
+LDAP
+
+
+139. 在讨论高速电信链路或网络运营商服务时，容错意味着什么？
+In a discussion of high-speed telco links or network carrier services, what does fault tolerance mean?
+
+A. 错误检查
+Error checking
+B. 冗余
+Redundancy
+正确
+C. 流量控制
+Flow control
+D. 带宽需求
+Bandwidth on demand
+
+
+140. 以下哪项可能会给语音通信带来新的漏洞？
+Which of the following may introduce new vulnerabilities to voice communications?
+
+A. 调制解调器
+Modems
+B. VoIP
+VoIP
+正确
+C. 加密
+Encryption
+D. PBX
+PBX
+
+
+141. 什么类型的知识产权通常用于保护文学作品（包括计算机软件）？
+What type of intellectual property protection is commonly used to cover literary works (including computer software)?
+
+A. 版权
+Copyright
+正确
+B. 商标
+Trademark
+C. 专利
+Patent
+D. 服务标志
+Service mark
+
+
+142. 符合802.11n的设备使用什么频率来保持对传统802.11g设备的兼容支持？
+What frequency does an 802.11n-compliant device employ that allows it to maintain support for legacy 802.11g devices?
+
+A. 5 GHz
+5 GHz
+B. 900 MHz
+900 MHz
+C. 7 GHz
+7 GHz
+D. 2.4 GHz
+2.4 GHz
+正确
+
+
+143. 个人区域网络这个术语与什么无线技术的联系最为紧密？
+The term personal area network is most closely associated with what wireless technology?
+
+A. 802.15
+802.15
+正确
+B. 802.11
+802.11
+C. 802.16
+802.16
+D. 802.3
+802.3
+
+
+144. 下列哪项不是通过计算机网络执行的非法活动？
+Which of the following is not an illegal activity that can be performed over a computer network?
+
+A. 盗窃
+Theft
+B. 破坏资产
+Destruction of assets
+C. 资源浪费
+Waste of resources
+正确
+D. 间谍活动
+Espionage
+
+
+145. 组织哪方面的安全策略、程序或过程会影响所有其他方面？
+What aspect of an organizational security policy, procedure, or process affects all other aspects?
+
+A. 意识训练
+Awareness training
+B. 逻辑安全
+Logical security
+C. 灾难恢复
+Disaster recovery
+D. 物理安全
+Physical security
+正确
+
+
+146. DHCP客户端在哪个端口请求配置?
+On what port do DHCP clients request a configuration?
+
+A. 25
+25
+B. 110
+110
+C. 68
+68
+正确
+D. 443
+443
+
+
+147. 当攻击者向论坛提交代码，以便将来访问该站点的访问者在查看来自攻击者的帖子时会看到弹出的另一个URL，这时会发生什么类型的攻击？
+What type of attack is taking place when an attacker submits code to a discussion forum so that future visitors to the site will see a pop-up of another URL when they view the posting from the attacker?
+
+A. 缓冲区溢出
+Buffer overflow
+B. 目录遍历
+Directory traversal
+C. 跨站脚本
+Cross-site scripting
+正确
+D. SQL注入
+SQL injection
+
+
+148. 你如何确定组织中需要转移或建立一个新的设施？
+How might you map out the organizational needs for transfer to or establishment in a new facility?
+
+A. 库存评估
+Inventory assessment
+B. 威胁评估
+Threat assessment
+C. 风险分析
+Risk analysis
+D. 关键路径分析
+Critical path analysis
+正确
+
+
+149. 电器、光源、电缆和电路等产生的干扰源是什么？
+Which source of interference is generated by electrical appliances, light sources, electrical cables and circuits, and so on?
+
+A. 串扰噪声
+Cross-talk noise
+B. 射频干扰
+Radio frequency interference
+正确
+C. 导线模式噪声
+Traverse mode noise
+D. 共模噪声
+Common mode noise
+
+

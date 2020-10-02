@@ -1,0 +1,250 @@
+1. 在发生火灾和除非灭火的情况下， 下列哪一项不是造成计算机设备损坏的罪魁祸首?
+Which of the following is typically not a culprit in causing damage to computer equipment in the event of a fire and a triggered suppression?
+
+A. 热
+Heat
+B. 灭火介质
+Suppression medium
+C. 烟
+Smoke
+D. 照明
+Light
+正确
+
+
+2. &nbsp;对于计算机设施， 基于水的灭火系统最好的类型是什么?What is the best type of water-based fire suppression system for a computer facility?
+
+A. 湿管系统
+Wet pipe system
+B. 干管系统
+Dry pipe system
+C. 预先响应系统
+Preaction system
+正确
+D. 洪水系统
+Deluge system
+
+
+3. &nbsp;B类灭火器不会使用下列哪个灭火材料?A Type B fire extinguisher may use all except which of the following suppression mediums?
+
+A. 水
+Water
+正确
+B. 二氧化碳
+CO2
+C. 哈龙或可接受的哈龙替代品
+Halon or an acceptable halon substitute
+D. 苏打酸
+Soda acid
+
+
+4. &nbsp;什么电压等级的静电会引起存储在硬盘中的数据的破坏?At what voltage level can static electricity cause destruction of data stored on hard drives?
+
+A. 4000伏特
+4,000
+B. 17000伏特
+17,000
+C. 40伏特
+40
+D. 1500伏特
+1,500
+正确
+
+
+5. 计算机机房理想的湿度范围是什么?What is the ideal humidity range for a computer room?
+
+A. 20%至40%
+20&ndash;40 percent
+B. 40%至60%
+40&ndash;60 percent
+正确
+C. 60%至75%
+60&ndash;75 percent
+D. 80%至95%
+80&ndash;95 percent
+
+
+6. &nbsp;所有安全解决方案中最重要的目标是什么?What is the most important goal of all security solutions?
+
+A. 暴露阻止
+Prevention of disclosure
+B. 维护完整性
+Maintaining integrity
+C. 人身安全
+Human safety
+正确
+D. 维持可用性
+Sustaining availability
+
+
+7. 无论使用何种形式的物理访问控制，保安人员或其他监控系统都必须被部署来阻止以下问题，但除了哪一个?No matter what form of physical access control is used, a security guard or other monitoring system must be deployed to prevent all but which of the following?
+
+A. 尾随
+Piggybacking
+B. 间谍
+Espionage
+正确
+C. 伪装
+Masquerading
+D. 滥用
+Abuse
+
+
+8. &nbsp;以下哪一项不是触发物理安全报警的典型类型?Which of the following is not a typical type of alarm that can be triggered for physical security?
+
+A. 预防
+Preventive
+正确
+B. 威慑
+Deterrent
+C. 排斥
+Repellant
+D. 通知
+Notification
+
+
+9. 什么类型的运动检测仪能感应到被监控对象周围电场或磁场的变化?What type of motion detector senses changes in the electrical or magnetic field surrounding a monitored object?
+
+A. 波形检测仪
+Wave
+B. 光电检测仪
+Photoelectric
+C. 热能检测仪
+Heat
+D. 电容检测仪
+Capacitance
+正确
+
+
+10. 物理访问控制设备最普通和便宜的是什么?What is the most common and inexpensive form of physical access control device?
+
+A. 照明
+Lighting
+B. 保安人员
+Security guard
+C. 钥匙锁
+Key locks
+正确
+D. 栅栏
+Fences
+
+
+11. 基于水的灭火系统中最常见的故障原因是什么?What is the most common cause of failure for a water-based fire suppression system?
+
+A. 缺水
+Water shortage
+B. 人
+People
+正确
+C. 离子检测器
+Ionization detectors
+D. 在吊顶上探测仪的布放
+Placement of detectors in drop ceilings
+
+
+12. &nbsp;以下哪一项不是使用保安人员的缺点?Which of the following is not a disadvantage of using security guards?
+
+A. 保安人员通常不了解设施内操作的范围
+Security guards are usually unaware of the scope of the operations within a facility.
+正确
+B. 并非所有环境和设施都支持保安人员
+Not all environments and facilities support security guards.
+C. 并非所有安全人员自身就是可靠的
+Not all security guards are themselves reliable.
+D. 预先筛选、联系和培训并不能保证安全人员的有效和可靠
+Prescreening, bonding, and training do not guarantee effective and reliable security guards.
+
+
+13. &nbsp;周边安全设备或机制的最常见形式是什么?What is the most common form of perimeter security devices or mechanisms?
+
+A. 保安人员
+Security guards
+B. 栅栏
+Fences
+C. CCTV
+CCTV
+D. 照明
+Lighting
+正确
+
+
+14. &nbsp;以下哪一项是一套双门，往往由保安人员保护，并且用于容纳主体，并直到他们的身份和授权信息被验证?Which of the following is a double set of doors that is often protected by a guard and is used to contain a subject until their identity and authentication are verified?
+
+A. 大门
+Gate
+B. 旋转门
+Turnstile
+C. 陷门
+Mantrap
+正确
+D. 接近式传感器
+Proximity detector
+
+
+15. 下列哪个典型的安全措施的执行不涉及包含可重用移动介质的存储设施?Which of the following is not a typical security measure implemented in relation to a media storage facility containing reusable removable media?
+
+A. 雇佣库管理员或保管员
+Employing a librarian or custodian
+B. 使用存入/取出过程
+&nbsp;Using a check-in/check-out process
+&nbsp;
+C. 哈希
+Hashing
+正确
+D. 在返回的介质上使用净化工具
+Using sanitization tools on returned media
+
+
+16. 为了维持最有效和安全的服务器机房，以下哪一项不必是真的？Which of the following does not need to be true in order to maintain the most efficient and secure server room?
+
+A. 必须和人共存
+It must be human compatible.
+正确
+B. 必须包括非水灭火装置的使用
+It must include the use of non-water fire suppressants.
+&nbsp;
+C. 湿度必须保持在40%到60%之间
+The humidity must be kept between 40 and 60 percent.
+D. 温度必须保持在华氏60到75度
+The temperature must be kept between 60 and 75 degrees Fahrenheit.
+
+
+17. &nbsp;以下哪一项不是设施或场地的安全关注的设计元素？Which of the following is not a security-focused design element of a facility or site?
+
+A. 工作区和访客区的隔离
+Separation of work and visitor areas
+B. 限制对高价值或重要区域的访问
+Restricted access to areas with higher value or importance
+C. 位于设施核心或中央位置的机密区域
+Confidential assets located in the heart or center of a facility
+D. 对设施内所有位置的相同访问
+Equal access to all locations within a facility
+正确
+
+
+18. 通常什么基础设施组件位于多个楼层的相同位置，用于把每个楼层网络连接在一起以提供便利？What infrastructure component is often located in the same position across multiple floors in order to provide a convenient means of linking floor-based networks together?
+
+A. 服务器机房
+Server room
+B. 配线间
+Wiring closet
+正确
+C. 数据中心
+Datacenter
+D. 介质柜
+Media cabinets
+
+
+19. 对于新的设施，有什么方法可以用来制定出组织的需要？What method can be used to map out the needs of an organization for a new facility?
+
+A. 日志文件审计
+Log file audit
+B. 关键路径分析
+Critical path analysis
+正确
+C. 风险分析
+Risk analysis
+D. 存货清单
+Inventory
+
+

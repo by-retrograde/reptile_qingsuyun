@@ -1,0 +1,230 @@
+1. 以下哪些是拒绝服务攻击? (选择三项)
+Which of the following are DoS attacks? (Choose three.)
+
+A. 泪滴攻击
+Teardrop
+正确
+B. Smurf攻击
+Smurf
+正确
+C. 死亡ping
+Ping of death
+正确
+D. &nbsp;欺骗
+&nbsp;Spoofing
+
+
+2. 请参考下面的场景来回答3个问题：
+一个组织有一份需要核实后报告事件的响应计划。为了安全目的，该组织并没有公布这份计划。只有事件响应团队的少数几个成员知道这份计划及其内容。近日，服务器管理员发现自己管理的Web服务器运行比平时慢。快速调查后，他发现攻击来自某个特定IP地址。他立即重新启动Web服务器以重置连接，攻击停止了。然后，他使用从互联网上找到的专门针对此IP地址的工具进行了数小时的反击。因为来自这个IP地址的攻击停了下来，他没有报案。
+An organization has an incident response plan that requires reporting incidents after verifying them. For security purposes, the organization has not published the plan. Only members of the incident response team know about the plan and its contents. Recently, a server administrator noticed that a web server he manages was running slower than normal. After a quick investigation, he realized an attack was coming from a specific IP address. He immediately rebooted the web server to reset the connection and stop the attack. He then used a utility he found on the internet to launch a protracted attack against this IP address for several hours. Because attacks from this IP address stopped, he didn&rsquo;t report the incident.
+
+3. 当用户拥有不必要的特权时需要进行哪项活动?
+What would detect when a user has more privileges than necessary?
+
+A. 账户管理
+Account management
+B. 用户权限审计
+User entitlement audit
+正确
+C. 日志记录
+Logging
+D. 报告
+Reporting
+
+
+4. 下列哪一项比实际内容更侧重于模式和数据的趋势?
+Which of the following focuses more on the patterns and trends of data than on the actual content?
+
+A. 击键监控
+Keystroke monitoring
+B. 流量分析
+Traffic analysis
+正确
+C. 事件日志
+Event logging
+D. 安全审计
+Security auditing
+
+
+5. 什么可以用来减少使用非统计方法的日志或审计数据量?
+What can be used to reduce the amount of logged or audited data using nonstatistical methods?
+
+A. 阀值
+Clipping levels
+正确
+B. 取样
+Sampling
+C. 日志分析
+Log analysis
+D. 报警触发器
+Alarm triggers
+
+
+6. 下列哪些选项能在环境中有条不紊地检查或审查以确保符合法规，并且检测异常、未授权的事件或犯罪?
+Which of the following options is a methodical examination or review of an environment to ensure compliance with regulations and to detect abnormalities, unauthorized occurrences, or outright crimes?
+
+A. 渗透测试
+Penetration testing
+B. 审计
+Auditing
+正确
+C. 风险分析
+Risk analysis
+D. 陷阱
+Entrapment
+
+
+7. 审计跟踪是什么类型的安全控制?
+What type of a security control is an audit trail?
+
+A. 行政管理性安全控制
+Administrative
+B. 检测性安全控制
+Detective
+正确
+C. 纠正性安全控制
+Corrective
+D. 物理性安全控制
+Physical
+
+
+8. 什么用于保持主体为他们的行为负责，同时他们的身份已经由系统认证?
+What is used to keep subjects accountable for their actions while they are authenticated to a system?
+
+A. 认证
+Authentication
+B. 监控
+Monitoring
+正确
+C. 账户锁定
+Account lockout
+D. 用户权限审查
+User entitlement reviews
+
+
+9. 当使用渗透测试验证安全策略的强度时，下列哪项是不受推荐的?
+When using penetration testing to verify the strength of your security policy, which of the following is not recommended?
+
+A. 模仿以前发生过的对系统的攻击
+Mimicking attacks previously perpetrated against your system
+B. 在没有管理常识的情况下执行攻击
+Performing attacks without management knowledge
+正确
+C. 使用手动和自动攻击工具
+Using manual and automated attack tools
+D. 重新配置系统去解决任何发现的漏洞
+Reconfiguring the system to resolve any discovered vulnerabilities
+
+
+10. 下列选项中，反恶意软件保护的最佳方式是什么?
+Of the following choices, what is the best form of anti-malware protection?
+
+A. 每个系统上多个解决方案
+Multiple solutions on each system
+B. 整个组织一个解决方案
+A single solution throughout the organization
+C. 在不同的位置部署反恶意软件保护
+Anti-malware protection at several locations
+正确
+D. 在所有边界网关不折不扣地过滤内容
+One-hundred-percent content filtering at all border gateways
+
+
+11. 下列哪一项描述了以未打补丁和未受保护的安全漏洞和错误数据设计虚假网络以吸引攻击者?
+Which of the following is a fake network designed to tempt intruders with unpatched and unprotected security vulnerabilities and false data?
+
+A. IDS
+IDS
+B. 蜜网
+Honeynet
+正确
+C. 填充单元
+Padded cell
+D. 伪缺陷
+Pseudo flaw
+
+
+12. 关于主机型入侵检测系统(HIDS)，以下哪一项描述是正确的?
+Which of the following is true for a host-based intrusion detection system (HIDS)?
+
+A. 可以监控整个网络
+It monitors an entire network.
+B. 监控单个系统
+It monitors a single system.
+正确
+C. 对于攻击者和用户是无形的
+It&rsquo;s invisible to attackers and authorized users.
+D. 不能检测恶意代码
+It cannot detect malicious code.
+
+
+13. 在下列选项中，哪一项指出了入侵检测系统(IDS)的主要目的?
+Of the following choices, what indicates the primary purpose of an intrusion detection system (IDS)?
+
+A. 检测异常活动
+Detect abnormal activity
+正确
+B. 诊断系统故障
+Diagnose system failures
+C. 评估系统性能
+Rate system performance
+D. 测试系统漏洞
+Test a system for vulnerabilities
+
+
+14. 以下哪个选项是散播恶意软件的最常见方式?
+Of the following choices, which is the most common method of distributing malware?
+
+A. 驱动下载
+Drive-by downloads
+正确
+B. USB闪存驱动器
+USB flash drives
+C. 勒索
+Ransomware
+D. 未经批准的软件
+Unapproved software
+
+
+15. 在互联网上托管的Web服务器最近被攻击者利用操作系统中的漏洞攻击了。操作系统供应商在事件协助调查并证实该漏洞以前并不知道。什么类型的攻击是这样的?
+A web server hosted on the internet was recently attacked, exploiting a vulnerability in the operating system. The operating system vendor assisted in the incident investigation and verified that the vulnerability was not previously known. What type of attack was this?
+
+A. 僵尸网络
+Botnet
+B. 零日漏洞攻击
+Zero-day exploit
+正确
+C. 拒绝服务攻击
+Denial of service
+D. 分布式拒绝服务攻击
+Distributed denial of service
+
+
+16. SYN泛洪攻击是如何工作的?
+How does a SYN flood attack work?
+
+A. 利用Windows系统中的数据包处理漏洞
+Exploits a packet processing glitch in Windows systems
+B. 使用放大网络产生大量数据包并发送给受害者
+Uses an amplification network to flood a victim with packets
+C. 扰乱TCP使用的三次握手过程
+Disrupts the three-way handshake used by TCP
+正确
+D. 发送超大ping数据包给受害者
+Sends oversized ping packets to a victim
+
+
+17. 在事件响应的修复阶段，安全人员会做下列哪件事?
+Which of the following would security personnel do during the remediation stage of an incident response?
+
+A. 控制事件
+Contain the incident
+B. 收集证据
+Collect evidence
+C. 重建系统
+Rebuild system
+D. 执行根本原因分析
+Root cause analysis
+正确
+
+

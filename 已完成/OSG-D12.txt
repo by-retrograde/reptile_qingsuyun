@@ -1,0 +1,268 @@
+1. 下列哪个验证协议不提供加密或登录凭据保护?
+What authentication protocol offers no encryption or protection for logon credentials?
+
+A. PAP
+PAP
+正确
+B. CHAP
+CHAP
+C. SSL
+SSL
+D. RADIUS
+RADIUS
+
+
+2. 以下哪项不是拒绝服务攻击?
+Which of the following is not a denial-of-service attack?
+
+A. 利用程序的一个漏洞让它消耗100%的CPU计算能力
+Exploiting a flaw in a program to consume 100 percent of the CPU
+B. 向一个系统发送恶意构成的数据包，导致它死机
+Sending malformed packets to a system, causing it to freeze
+C. 当账户锁定没有配置的时候，向一个已知用户账户发起暴力攻击
+Performing a brute-force attack against a known user account when account lockout is not present
+正确
+D. 向某个地址发送成千上万封电子邮件
+Sending thousands of emails to a single address
+
+
+3. 以下哪个攻击可能会绕过即使是最有效的物理和逻辑安全机制后，获得对系统的访问?
+Which of the following can be used to bypass even the best physical and logical security mechanisms to gain access to a system?
+
+A. 字典攻击
+Dictionary attacks
+B. 拒绝服务
+Denial of service
+C. 社会工程学
+Social engineering
+正确
+D. 端口扫描
+Port scanning
+
+
+4. 除了维护、更新系统和进行物理访问控制，下面哪一项是应对PBX欺骗和滥用的最有效反制措施?
+In addition to maintaining an updated system and controlling physical access, which of the following is the most effective countermeasure against PBX fraud and abuse?
+
+A. 加密通信
+Encrypting communications
+B. 改变默认密码
+Changing default passwords
+正确
+C. 使用传输日志
+Using transmission logs
+D. 录音和归档所有的会话
+Taping and archiving all conversations
+
+
+5. 下列哪一种类型的连接可以被描述为一条逻辑电路，总是存在并等待客户发送数据?
+Which of the following is a type of connection that can be described as a logical circuit that always exists and is waiting for the customer to send data?
+
+A. ISDN
+ISDN
+B. PVC
+PVC
+正确
+C. VPN
+VPN
+D. SVC
+SVC
+
+
+6. 为什么垃圾邮件难以阻止?
+Why is spam so difficult to stop?
+
+A. 阻断入站信息的过滤器通常没有那么有效
+Filters are ineffective at blocking inbound messages.
+B. 源地址通常都进行了欺骗
+The source address is usually spoofed.
+正确
+C. 攻击成本很低
+It is an attack requiring little expertise.
+D. 垃圾邮件可导致拒绝服务攻击
+Spam can cause denial-of-service attacks.
+
+
+7. 邮件本身被当成攻击机制，这种攻击称为?
+What is it called when email itself is used as an attack mechanism?
+
+A. 伪装
+Masquerading
+B. 邮件炸弹
+Mail-bombing
+正确
+C. 欺骗
+Spoofing
+D. Smurf攻击
+Smurf attack
+
+
+8. 关于电子邮件保留策略，下列哪一项是通常不是必须与用户讨论的元素?
+Which of the following is typically not an element that must be discussed with end users in regard to email retention policies?
+
+A. 隐私
+Privacy
+B. 审计审查
+Auditor review
+C. 保持器长度
+Length of retainer
+D. 备份方法
+Backup method
+正确
+
+
+9. 为互联网传送邮件设计安全系统时，以下哪一项是最不重要的?
+When you&rsquo;re designing a security system for internet-delivered email, which of the following is least important?
+
+A. 不可否认性
+Nonrepudiation
+B. 可用性
+Availability
+正确
+C. 信息完整性
+Message integrity
+D. 访问限制
+Access restriction
+
+
+10. 下列哪种VPN协议不提供本地数据加密？（多选）
+Which of the following VPN protocols do not offer native data&nbsp;encryption? (Choose all that apply.)
+
+A. L2F
+L2F
+正确
+B. L2TP
+L2TP
+正确
+C. &nbsp;IPsec
+&nbsp;IPsec
+D. PPTP
+PPTP
+正确
+
+
+11. 安全控制的一个重要好处是可以运行在用户不知不觉的情况下，这个特性称为?
+A significant benefit of a security control is when it goes unnoticed by users. What is this called?
+
+A. 隐形
+Invisibility
+B. 透明
+Transparency
+正确
+C. 导流
+Diversion
+D. 隐藏在众目睽睽下
+Hiding in plain sight
+
+
+12. 以下哪一个不是NAT的好处?
+Which of the following is not a benefit of NAT?
+
+A. 隐藏内部IP地址
+Hiding the internal IP addressing scheme
+B. 大量的内部客户端可共享少数公共的互联网地址
+Sharing a few public internet addresses with a large number of internal clients
+C. 在内部网络中使用RFC 1918中定义的私有地址
+Using the private IP addresses from RFC 1918 on an internal network
+D. 过滤网络流量，预防蛮力攻击
+Filtering network traffic to prevent brute-force attacks
+正确
+
+
+13. 什么技术允许通过现有的TCP/IP网络和互联网连接进行电话会谈？
+What technology allows for phone conversations to occur over an existing TCP/IP network and internet connection?
+
+A. IPsec
+IPsec
+B. VoIP
+VoIP
+正确
+C. SSH
+SSH
+D. TLS
+TLS
+
+
+14. 以下哪个OSI层提供IPSec协议功能?
+At which OSI model layer does the IPsec protocol function?
+
+A. 数据链路层
+Data Link
+B. 传输层
+Transport
+C. 会话层
+Session
+D. 网络层
+Network
+正确
+
+
+15. 如果网络使用NAT代理，需要什么才能允许外部客户端通过内部系统发起连接会话?
+What is needed to allow an external client to initiate a communication session with an internal system if the network uses a NAT proxy?
+
+A. IPSec隧道
+IPsec tunnel
+B. 静态NAT
+Static mode NAT
+正确
+C. 静态私有IP 地址
+Static private IP address
+D. 反向域名解析
+Reverse DNS
+
+
+16. 以下哪一个不能在VPN上进行连接?
+Which of the following cannot be linked over a VPN?
+
+A. 两个远程互联的局域网
+Two distant internet-connected LANs
+B. 两个在同一局域网内的系统
+Two systems on the same LAN
+C. 一个连接到互联网的系统和一个连接到互联网的局域网
+A system connected to the internet and a LAN connected to the internet
+D. 两个无中间介质的网络连接系统
+Two systems without an intermediary network connection
+正确
+
+
+17. 以下哪个IP地址不是RFC 1918中定义的私有网络地址?
+Which of the following IP addresses is not a private IP address as defined by RFC 1918?
+
+A. 10.0.0.18
+10.0.0.18
+B. 169.254.1.119
+169.254.1.119
+正确
+C. 172.31.8.204
+172.31.8.204
+D. 192.168.6.43
+192.168.6.43
+
+
+18. _______ 是一种标准算法，用于提供点对点TCP/IP流量加密?
+_______ is a standards-based mechanism for providing encryption for point-to-point TCP/IP traffic.
+
+A. UDP
+UDP
+B. IDEA
+IDEA
+C. IPSec
+IPsec
+正确
+D. SDLC
+SDLC
+
+
+19. 隧道连接可以在除了以下哪一项之上进行建立?
+Tunnel connections can be established over all except for which of the following?
+
+A. WAN 链路
+WAN links
+B. 局域网路径
+LAN pathways
+C. 拨号连接
+Dial-up connections
+D. 孤立系统
+Stand-alone systems
+正确
+
+

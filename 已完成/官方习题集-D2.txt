@@ -1,0 +1,1195 @@
+1. 在将硬盘驱动器发送给第三方组织进行粉碎之前，Susan的组织对其进行零填充。她的组织试图避免什么问题？
+
+Susan&rsquo;s organization performs a zero fill on hard drives before they are sent to a third-party organization to be shredded. What issue is her organization attempting to avoid?
+
+
+A. 第三方站点的数据残留问题
+
+Data remanence while at the third-party site
+
+B. 驱动器被第三方错误处理
+
+Mishandling of drives by the third party
+
+正确
+C. 分级错误问题
+
+Classification mistakes
+
+D. 数据持久性问题
+
+Data permanence
+
+
+
+2. 参照以下情景，回答下面3个问题 ：
+如下安全生命周期图所示，NIST在风险管理中使用了五步程序。运用有关数据角色和实践的知识，基于NIST的架构流程，回答以下问题。
+As shown in the following security lifecycle diagram (loosely based on the NIST reference architecture), NIST uses a five-step process for risk management. Using your knowledge of data roles and practices, answer the following questions based on the NIST framework process.&nbsp; &nbsp;
+
+&nbsp; &nbsp;
+
+3. 下列哪项正确地描述了非政府和政府使用的分类级别对应关系？
+Which mapping correctly matches data classifications between nongovernment and government classification schemes?
+
+A. 绝密-机密/私有 Top Secret – Confidential/Proprietary秘密-私人Secret – Private机密-敏感Confidential – Sensitive
+正确
+B. 秘密-业务机密Secret – Business confidential分级的-私有Classified – Proprietary机密-内部业务Confidential – Business internal
+C. 绝密-私有Top Secret – Business sensitive分级的-内部业务Secret – Business internal机密-私有业务Confidential – Business proprietary
+D. 秘密-私有Secret – Proprietary分级的-私人Classified – Private未加密-公开的Unclassified – Public
+
+
+4. 公司要求Ed通过电子邮件发送组织归类为机密和私有的数据。什么加密技术可保证传输时数据仍是保密的？
+Ed has been asked to send data that his organization classifies as confidential and proprietary via email. What encryption technology would be appropriate to ensure that the contents of the files attached to the email remain confidential as they traverse the internet?
+
+A. SSL
+SSL
+B. TLS
+TLS
+C. PGP
+PGP
+正确
+D. VPN
+VPN
+
+
+5. 假设现在通过了一部新法律，如果公司的数据被盗，那么可能会面临巨额罚款。组织应该怎么应对？&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+A new law is passed that would result in significant financial harm to your company if the data that it covers was stolen or inadvertently released. What should your organization do about this?
+
+A. 选择新的安全基线
+Select a new security baseline.
+B. 重新标记数据
+Relabel the data.
+C. 加密所有静止和传输中的数据
+Encrypt all of the data at rest and in transit.
+D. 重新查看数据类别并将数据恰当分类
+Review its data classifications and classify the data appropriately.
+正确
+
+
+6. 以下哪项描述的不是动态数据？
+Which of the following does not describe data in motion?
+
+A. 备份磁带上的数据被传输至存储设备
+Data on a backup tape that is being shipped to a storage facility
+正确
+B. TCP包中的数据
+Data in a TCP packet
+C. 电子商务交易中的数据
+Data in an e-commerce transaction
+D. 在不同地点之间复制的文件中的数据
+Data in files being copied between locations
+
+
+7. Fred 正在准备将备份磁带送至安全的第三方。Fred 在将磁带送走之前应采取什么步骤？
+Fred is preparing to send&nbsp; &nbsp;backup tapes offsite to a secure third-party storage facility. What steps should Fred take before sending the tapes to that facility?
+
+A. 确保磁带根据其分类得到与原始介质一样的处理方式
+Ensure that the tapes are handled the same way the original media would be handled based on their classification.
+正确
+B. 增加磁带的类别级别，因为它们正在脱离公司的管辖&nbsp; &nbsp; &nbsp;
+Increase the classification level of the tapes because they&nbsp; &nbsp;are leaving the possession of the company.
+C. 清除磁带以确保分级的数据不丢失
+Purge the tapes to ensure that classified data is not lost.
+D. 加密磁带，以免它们在传输中会丢失
+Decrypt the tapes in case they are lost in transit.
+
+
+8. 以下哪个加利福尼亚法律要求在收集加利福尼亚居民个人信息的商业网站上明确公布隐私策略？
+Which California law requires conspicuously posted privacy policies on commercial websites that collect the personal information of California residents?
+
+A. 个人信息保护和电子文件法案
+The Personal Information Protection and Electronic Documents Act
+B. 加利福尼亚在线隐私保护法案
+The California Online Privacy Protection Act
+正确
+C. 加利福尼亚在线网络隐私法案
+California Online Web Privacy Act
+D. 加利福尼亚民法1798.82
+California Civil Code 1798.82
+
+
+9. 哪个数据角色负责给予员工适当的访问权限？
+Which data role is tasked with granting appropriate access to staff members?
+
+A. 数据处理者
+Data processors
+B. 业务所有者
+Business owners
+C. 数据监管者
+Custodians
+D. 管理员
+Administrators
+正确
+
+
+10. 什么类型的加密通常用于静态数据？
+What type of encryption is typically used for data at rest?
+
+A. 非对称加密
+Asymmetric encryption
+B. 对称加密
+Symmetric encryption
+正确
+C. DES
+DES
+D. OTP
+OTP
+
+
+11. &nbsp;以下哪个问题不是数据分类期间所考虑的？
+Which of the following activities is not a consideration during data classification?
+
+A. 谁能访问数据
+Who can access the data
+B. 若数据丢失或泄露，将有什么影响
+What the impact would be if the data was lost or breached
+C. 创建数据的成本是多少
+How much the data cost to create
+正确
+D. 数据可能要求什么保护条例
+What protection regulations may be required for the data
+
+
+12. 按照需要尽可能长时间地保留数据被称为什么？
+Retaining and maintaining information for as long as it is needed is known as what?
+
+A. 数据存储策略
+Data storage policy
+B. 数据存储
+Data storage
+C. 资产维护
+Asset maintenance
+D. 记录保留
+Record retention
+正确
+
+
+13. &nbsp;用于帮助识别文件持有人的内嵌数据和以下哪项有关？
+Embedded data used to help identify the owner of a file is an example of what type of label?
+
+A. 版权提示
+Copyright notice
+B. DLP
+DLP
+C. 数字水印
+Digital watermark
+正确
+D. 隐写术
+Steganography
+
+
+14. 净化固态硬盘(SSD)的最好方法是什么？
+What is the best method to sanitize a solid-state drive (SSD)?
+
+A. 清理
+Clearing
+B. 自动补零
+Zero fill
+C. 瓦解
+Disintegration
+正确
+D. 消磁
+Degaussing
+
+
+15. Lauren的跨国公司希望确保遵守欧盟GDPR。GDPR的哪项原则规定个人应该有权接收有关他或她自己的个人信息，并与另一个数据控制者共享？
+Lauren&rsquo;s multinational company wants to ensure compliance with the EU GDPR. Which principle of the GDPR states that the individual should have the right to receive personal information concerning himself or herself and share it with another data controller?
+
+A. 向前传输
+Onward transfer
+B. 数据完整性
+Data integrity
+C. 执行
+Enforcement
+D. 访问
+Data portability
+正确
+
+
+16. 什么加密算法将为存储于USB盘上的数据提供强大保护？
+What encryption algorithm would provide strong protection for data stored on a USB thumb drive?
+
+A. TLS
+TLS
+B. SHA1
+SHA1
+C. AES
+AES
+正确
+D. DES
+DES
+
+
+17. 以下哪种健康信息受到健康保险流通和责任法案的保护？
+What type of health information is the Health Insurance Portability and Accountability Act required to protect?
+
+A. PII
+PII
+B. PHI
+PHI
+正确
+C. SHI
+SHI
+D. HPHI
+HPHI
+
+
+18. Susan需要为电子邮件提供一套最低安全要求，她怎样才能确保电子邮件的安全性？
+Susan needs to provide a set of minimum security requirements for email. What steps should she recommend for her organization to ensure that the email remains secure?
+
+A. 所有电子邮件应加密
+All email should be encrypted.
+B. 所有电子邮件应加密并标记
+All email should be encrypted and labeled.
+C. 敏感电子邮件应加密并标记
+Sensitive email should be encrypted and labeled.
+正确
+D. 仅高度敏感的电子邮件应加密
+Only highly sensitive email should be encrypted.
+
+
+19. 下图表现了典型的工作站和服务器，以及它们相互之间通过互联网的连接。基于下图回答下面3个问题。
+The following diagram shows a typical workstation and server and their connections to each other and the internet.&nbsp;
+
+
+20. NIST SP 800-60提供了如下所示的程序来评估信息系统。该表显示的是什么程序？
+
+NIST SP 800-60 provides a process shown in the following diagram to assess information systems. What process does this diagram show?
+
+
+A. 选择标准并实施
+Selecting a standard and implementing it
+B. 分类并选择控制
+Categorizing and selecting controls
+正确
+C. 定基线并选择控制
+Baselining and selecting controls
+D. 分类并清除
+Categorizing and sanitizing
+
+
+21. 根据美国联邦政府法规，以下哪一项不被视为PII的内容？
+Which one of the following is not considered PII under U.S. federal government regulations?
+
+A. 名字
+Name
+B. 社会保障号
+Social security number
+C. 学生ID号
+Student ID number
+D. ZIP（邮编）
+ZIP code
+正确
+
+
+22. 用于处理数据的数据角色是什么？
+What data role does a system that is used to process data have?
+
+A. 任务所有者
+Mission owner
+B. 数据所有者
+Data owner
+C. 数据处理者
+Data processor
+正确
+D. 数据监管员
+Custodian
+
+
+23. 以下哪项描述了检查安全控制基线，并仅选择适合你保护的IT系统的控制？
+What term describes the process of reviewing baseline security controls and selecting only the controls that are appropriate for the IT system you are trying to protect?
+
+A. 标准的创建
+Standard creation
+B. CIS基准
+CIS benchmarking
+C. 定基线
+Baselining
+D. 范围界定
+Scoping
+正确
+
+
+24. 根据NIST SP 800-18，系统所有者未执行以下哪项任务？
+Which of the following tasks are not performed by a system owner per NIST SP 800-18?
+
+A. 制定系统安全计划
+Develops a system security plan
+B. 建立适当的使用和保护数据的规则
+Establishes rules for appropriate use and protection of data
+正确
+C. 识别并实施安全控制
+Identifies and implements security controls
+D. 确保系统用户接受适当的安全培训
+Ensures that system users receive appropriate security training
+
+
+25. 公司要求Charles降低某个存储设备的安全级别，该设备存储的是私人数据。Charles 应遵循什么流程？
+Charles has been asked to downgrade the media used for storage of private data for his organization. What process should Charles follow?
+
+A. 将驱动器消磁，然后标记为较低的分类级别
+Degauss the drives, and then relabel them with a lower classification level.
+B. 粉碎驱动器，然后根据所含的数据重新分类
+Pulverize the drives, and then reclassify them based on the&nbsp; data they contain.
+C. 遵循公司的清除流程，然后降级并更换标签
+Follow the organization&rsquo;s purging process, and then downgrade and replace labels.
+正确
+D. 重新标记设备，然后遵循公司的清除流程以确保设备与标签相匹配
+Relabel the media, and then follow the organization&rsquo;s purging process to ensure that the media matches the label.
+
+
+26. 在工作站上处理不同分类水平的数据时，为什么要使用特定屏幕背景？
+Why might an organization use unique screen backgrounds or designs on workstations that deal with data of different classification levels?
+
+A. 表明使用中的软件版本
+To indicate the software version in use
+B. 促使采纳公司消息
+To promote a corporate message
+C. 促进可用性
+To promote availability
+D. 表明数据或系统的分类级别
+To indicate the classification level of the data or system
+正确
+
+
+27. 欧盟（EU）通用数据保护条例（GDPR）不包括以下哪些关键要素？
+The European Union (EU) General Data Protection Regulation (GDPR) does not include which of the following key elements?
+
+A. 需要为指定的、明确的和合法目的的收集信息
+The need to collect information for specified, explicit, and legitimate purposes
+B. 需要确保收集仅限于实现所描述目的的所需信息
+The need to ensure that collection is limited to the information necessary to achieve the stated purpose
+C. 需要保护数据免遭意外破坏
+The need to protect data against accidental destruction
+D. 需要加密静态信息
+The need to encrypt information at rest
+正确
+
+
+28. 焚烧、压碎、撕碎和瓦解都描述了存储介质生命周期中的哪个阶段？
+Incineration, crushing, shredding, and disintegration all describe what stage in the lifecycle of media?
+
+A. 净化
+Sanitization
+B. 消磁
+Degaussing
+C. 清除
+Purging
+D. 销毁
+Destruction
+正确
+
+
+29. 为什么介质重复使用时很少使用解密操作？
+Why is declassification rarely chosen as an option for media reuse?
+
+A. 清除对于敏感数据已经足够了
+Purging is sufficient for sensitive data.
+B. 净化是数据移除的首选方法
+Sanitization is the preferred method of data removal.
+C. 它比购置新介质更贵，而且可能出错
+It is more expensive than new media and may still fail.
+正确
+D. 首选的要求是清理数据
+Clearing is required first.
+
+
+30. NIST SP 800-88样品净化证书（如下图所示）的验证部分是什么问题，此部分目的是为了预防？
+What issue is the validation portion of the NIST SP 800-88 sample certificate of sanitization (shown here) intended to help prevent?
+
+
+A. 销毁
+&nbsp;Destruction
+B. 重复使用
+Reuse
+C. 数据残留磁性
+Data remanence
+正确
+D. 属性
+&nbsp;Attribution
+
+
+31. RAM存储的是什么类型的数据？
+Data stored in RAM is best characterized as what type of data?
+
+A. 静态数据
+Data at rest
+B. 使用中的数据
+Data in use
+正确
+C. 传输中的数据
+Data in transit
+D. 一般数据
+Data at large
+
+
+32. Susan在一个组织工作，该组织对所有移动存储介质进行标记。Susan的雇主为什么会标记所有介质，而不是仅标记一些敏感的存储介质？
+Susan works in an organization that labels all removable media with the classification level of the data it contains, including public data. Why would Susan&rsquo;s employer label all media instead of labeling only the media that contains data that could cause harm if it was exposed?
+
+A. 使用预加标签的存储介质的成本低
+It is cheaper to order all prelabeled media.
+B. 可防止敏感的存储介质未被标记
+It prevents sensitive media from not being marked by mistake.
+正确
+C. 可防止公共介质在重复使用时存储敏感数据
+It prevents reuse of public media for sensitive data.
+D. HIPAA 要求标记所有介质
+Labeling all media is required by HIPAA.
+
+
+33. 有些Linux系统中使用bcrypt来加密，bcrypt基于什么加密方案？
+Linux systems that use bcrypt are using a tool based on what DES alternative encryption scheme?
+
+A. 3DES
+3DES
+B. AES
+AES
+C. Diffie-Hellman
+Diffie&ndash;Hellman
+D. Blowfish
+Blowfish
+正确
+
+
+34. 当计算机报废时应该妥善处理，确保所有存储介质已移除或损毁，该操作称为什么？
+When a computer is removed from service and disposed of, the process that ensures that all storage media has been removed or destroyed is known as what?
+
+A. 净化
+Sanitization
+正确
+B. 清除
+Purging
+C. 毁坏
+Destruction
+D. 解除机密
+Declassification
+
+
+35. Hunter少校在美国军队工作，他负责管理一旦曝光可对国家安全造成严重影响的数据。在美国政府分类标准下，他管理的数据应如何分类？
+Major Hunter, a member of the armed forces, has been entrusted with information that, if exposed, could cause serious damage to national security. Under U.S. government classification standards, how should this data be classified?
+
+A. 未分类
+Unclassified
+B. 绝密
+Top Secret
+C. 机密
+Confidential
+D. 秘密
+Secret
+正确
+
+
+36. Ben的公司位于欧盟，雇佣了一个为其处理数据的第三方组织机构。谁有责任保护数据的隐私，确保数据不用于其他目的？
+Ben&rsquo;s company, which is based in the European Union, hires a third-party organization that processes data for it. Who has responsibility to protect the privacy of the data and ensure that it isn&rsquo;t used for anything other than its intended purpose?
+
+A. Ben公司的责任
+Ben&rsquo;s company is responsible.
+B. 第三方数据处理者的责任
+The third-party data processor is responsible.
+C. 数据控制者的责任
+The data controller is responsible.
+D. 两个组织有相等的责任
+Both organizations bear equal responsibility.
+正确
+
+
+37. 以下哪项不是欧盟通用数据保护条例（GDPR）原则之一？
+Which of the following is not one of the European Union&rsquo;s General Data Protection Regulation (GDPR) principles?
+
+A. 信息必须公平处理
+Information must be processed fairly.
+B. 信息必须在获取后一年内删除
+Information must be deleted within one year of acquisition.
+正确
+C. 必须安全维护信息
+Information must be maintained securely.
+D. 信息必须准确
+Information must be accurate.
+
+
+38. 根据以下场景，回答下面3个问题
+Chris 最近被一家新的组织雇佣，该组织使用以下分类计划：
+(1) 设置分类数据的标准
+(2) 为每类数据指定所有者
+(3) 分类数据
+(4) 为每个类别选择要求的控制
+(5) 为组织选择安全基线
+(6) 研究并调整控制
+(7) 应用并执行控制
+(8) 授权并管理访问
+Chris has recently been hired into a new organization. The organization that Chris belongs to uses the following classification process:
+1. Criteria are set for classifying data.
+2. Data owners are established for each type of data.
+3. Data is classified.
+4. Required controls are selected for each classification.
+5. Baseline security standards are selected for the organization.
+6. Controls are scoped and tailored.
+7. Controls are applied and enforced.
+8. Access is granted and managed.
+
+39. 什么美国政府机构监督那些会利用欧盟公民的个人数据组织符合隐私保护框架？
+What U.S. government agency oversees compliance with the Privacy Shield framework for organizations wishing to use the personal data of EU citizens?
+
+A. 联邦贸易委员会
+The FAA
+B. 食品和药物管理机构
+The FDA
+C. 国防部
+The DoD
+D. 商务部
+The Department of Commerce
+正确
+
+
+40. 哪个数据角色对组织中的数据负有最终责任？
+Which one of the following data roles bears ultimate organizational responsibility for data?
+
+A. 系统所有者
+System owners
+B. 业务所有者
+Business owners
+C. 数据所有者
+Data owners
+正确
+D. 任务所有者
+Mission owners
+
+
+41. 通常使用什么方法来保护传输中的数据？
+What methods are often used to protect data in transit?
+
+A. Telnet、ISDN、UDP
+Telnet, ISDN, UDP
+B. BitLocker, FileVault
+BitLocker, FileVault
+C. AES、Serpent、IDEA
+AES, Serpent, IDEA
+D. TLS、VPN、IPsec
+TLS, VPN, IPSec
+正确
+
+
+42. Ben在下图所示的数据进化和处置流程中遵守NIST SP 800-88指南。他正在处理组织的敏感数据，敏感是NIST模型中的中等安全级别。在卖出存储设备之前，Ben需要遵守什么程序？
+
+Ben is following the National Institute of Standards and Technology (NIST) Special Publication 800-88 guidelines for sanitization and disposition as shown here. He is handling information that his organization classified as sensitive, which is a moderate security categorization in the NIST model. If the media is going to be sold as surplus, what process does Ben need to follow?
+
+
+A. &nbsp;毁坏、验证、记录
+Destroy, validate, document
+B. &nbsp;清理、清除、记录
+Clear, purge, document
+C. 清除、记录、验证
+Purge, document, validate
+D. 清除、验证、记录
+Purge, validate, document
+正确
+
+
+43. Alex在一家政府机构工作，机构要求数据安全性满足美国联邦政府的规定。为满足这些要求，Alex负责数据分类，他应该如何处理这些数据？
+Alex works for a government agency that is required to meet U.S. federal government requirements for data security. To meet these requirements, Alex has been tasked with making sure data is identifiable by its classification level. What should Alex do to the data?
+
+A. 对数据进行分类
+Classify the data.
+B. 加密数据
+Encrypt the data.
+C. 标记数据
+Label the data.
+正确
+D. 将DRM 应用于数据
+Apply DRM to the data
+
+
+44. Steve担心离开组织的员工仍然掌握着专有信息。以下哪项控制对这种威胁最有效？
+Steve is concerned about the fact that employees leaving his organization were often privy to proprietary information. Which one of the following controls is most effective against this threat?
+
+A. 净化
+Sanitization
+B. NDA
+NDAs
+正确
+C. 清理
+Clearing
+D. 加密
+Encryption
+
+
+45. 以下哪种方法使用强磁场来擦除介质？
+What method uses a strong magnetic field to erase media?
+
+A. 磁擦除
+(Magwipe)Magwipe
+B. 消磁
+Degaussing
+正确
+C. 净化
+Sanitization
+D. 清除
+Purging
+
+
+46. 使用命令行远程管理服务器时，以下哪个协议优于Telnet？
+What protocol is preferred over Telnet for remote server administration via the command line?
+
+A. SCP
+SCP
+B. SFTP
+SFTP
+C. WDS
+WDS
+D. SSH
+SSH
+正确
+
+
+47. Joe 在一家大型药物研发公司工作，负责制定数据保留策略。公司必须遵守美国联邦食品药物管理法案第21 条，要求保留带电子签名的记录，请问为什么作出如此规定？
+Joe works at a major pharmaceutical research and development company and has been tasked with writing&nbsp; &nbsp; his organization&rsquo;s data retention policy. As part of its legal requirements, the organization must comply with the U.S. Food and Drug Administration&rsquo;s Code of Federal Regulations Title 21. To do so, it is required to retain records with electronic signatures. Why would a signature be part of a retention requirement?
+
+A. 它保证有人查看过该数据
+It ensures that someone has reviewed the data.
+B. 它提供了保密性
+It provides confidentiality.
+C. 它保证了数据未曾变更
+It ensures that the data has not been changed.
+D. 它证实是谁批准了该数据
+It validates who approved the data.
+正确
+
+
+48. 若备用磁带被偷或丢失，可采取什么额外的安全措施？
+What security measure can provide an additional security control in the event that backup tapes are stolen or lost?
+
+A. 保留磁带的多份副本
+Keep multiple copies of the tapes.
+B. 用硬盘驱动器代替磁带介质
+Replace tape media with hard drives.
+C. 使用合适安全标记
+Use appropriate security labels.
+D. 使用AES256 加密
+Use AES-256 encryption.
+正确
+
+
+49. 以下哪种攻击会使得供应商放弃SSL，转向使用TLS？
+Which attack helped drive vendors to move away from SSL toward TLS-only by default?
+
+A. POODLE
+POODLE
+正确
+B. Stuxnet
+Stuxnet
+C. BEAST
+BEAST
+D. CRIME
+CRIME
+
+
+50. 什么类型的策略描述了数据销毁前保留的时长？
+What type of policy describes how long data is retained and maintained before destruction?
+
+A. 分类
+Classification
+B. 审查
+Audit
+C. 记录保留
+Record retention
+正确
+D. 有效性
+Availability
+
+
+51. 以下哪项用于描述一套通用安全配置，而且通常由第三方提供？
+What term is used to describe a set of common security configurations, often provided by a third party?
+
+A. 安全政策
+Security policy
+B. 基线
+Baseline
+正确
+C. DSS
+DSS
+D. NIST SP 800-53
+NIST SP 800-53
+
+
+52. Chris 负责所在组织的安全标准，他已经为组织配置了Windows PC安全基线，为了确保他负责的工作站正在接受合规性检查，而且在必要时应用设置，Chris该怎么做？
+Chris is responsible for his organization&rsquo;s security standards and has guided the selection and implementation of a security baseline for Windows PCs in his organization. How can Chris most effectively make sure that the workstations he is responsible for are being checked for compliance and that settings are being applied as necessary?
+
+A. 让用户抽样检查基线的合规性
+Assign users to spot-check baseline compliance.
+B. 使用微软组策略
+Use Microsoft Group Policy.
+正确
+C. 创建启动脚本，在系统启动时应用配置
+Create startup scripts to apply policy at system start.
+D. 定期与数据所有者和系统所有者查看基线
+Periodically review the baselines with the data owner and&nbsp; &nbsp;system owners.
+
+
+53. 什么加密算法既可用于BitLocker也可用于Microsoft 的加密文件系统？
+What encryption algorithm is used by both BitLocker and Microsoft&rsquo;s Encrypting File System?
+
+A. Blowfish
+Blowfish
+B. Serpent
+Serpent
+C. AES
+AES
+正确
+D. 3DES
+3DES
+
+
+54. 以下哪项工具用于阻止离职的员工与他们的新雇主分享专有信息？
+What tool is used to prevent employees who leave from sharing proprietary information with their new employers?
+
+A. 加密
+Encryption
+B. NDA
+NDA
+正确
+C. 分类
+Classification
+D. 清除
+Purging
+
+
+55. 一个美国政府数据库包含秘密、机密和绝密数据，该数据库应该被分类为哪个级别？
+A U.S. government database contains Secret, Confidential, and Top Secret data. How should it be classified?
+
+A. 绝密
+Top Secret
+正确
+B. 机密
+Confidential
+C. 秘密
+Secret
+D. 混合分类
+Mixed classification
+
+
+56. 参照以下情景，回答以下3个问题：
+Lauren 供职的医疗保健公司平时处理HIPAA 数据、内部业务数据、健康数据和日常业务通信数据。公司使用以下规定来确保HIPAA 静态数据和传输数据的安全性。使用该表格，回答以下问题。
+
+The healthcare company that Lauren works for handles HIPAA data as well as internal business data, protected health information, and day-to-day business communications. Its internal policy uses the following requirements for securing HIPAA data at rest and in transit.
+
+
+57. 《国际安全港规定》和哪个法律关系最密切？将下列显示的每个编号的数据元素与相应字母类别进行匹配。您也许使用一次类别，或者多次甚至根本不使用。如果数据元素与多个类别匹配，请选择最具体的类别。
+数据元素
+1. 医疗记录
+2. 信用卡号
+3. 社会保障号
+4. 驾驶证注册号
+类别
+A. PCI DSS
+B. PHI
+C.PII
+Match each of the numbered data elements shown here with one of the lettered categories. You may use the categories once, more than once, or not at all. If a data element matches more than one category, choose the one that is most specific.
+Data elements
+1. Medical records
+2. Credit card numbers
+3. Social Security numbers
+4. Driver&rsquo;s license numbers
+Categories
+A. PCI DSS
+B. PHI
+C. PII
+
+A. 看答案
+正确
+B. 不看答案
+
+
+58. 以下哪种方法移除数据的效果最差？
+Which of the following is the least effective method of removing data from media?
+
+A. 消磁
+Degaussing
+B. 清除
+Purging
+C. 擦除
+Erasing
+正确
+D. 清理
+Clearing
+
+
+59. 以下哪项不能决定数据分类？
+Which of the following concerns should not be part of the decision when classifying data?
+
+A. 数据分类的成本
+The cost to classify the data
+正确
+B. 数据的敏感性
+The sensitivity of the data
+C. 数据泄露可能产生的影响
+The amount of harm that exposure of the data could cause
+D. 数据对于组织机构的价值
+The value of the data to the organization
+
+
+60. Fred 的组织中，在一个项目完成后，允许重复使用这个系统。如果一个秘密级别的项目使用的系统来自一个绝密项目，Fred 应该注意什么？
+Fred&rsquo;s organization allows downgrading of systems for reuse after projects have been finished and the systems have been purged. What concern should Fred raise about the reuse of the systems from his Top Secret classified project for a future project classified as Secret?
+
+A. 绝密数据可能与秘密数据混合，导致需要重新标记系统
+The Top Secret data may be commingled with the Secret data,&nbsp;resulting in a need to relabel the system.
+B. 净化旧设备的成本可能超过新设备的成本
+The cost of the sanitization process may exceed the cost of new equipment.
+正确
+C. 净化旧设备时可能会泄露数据
+The data may be exposed as part of the sanitization process.
+D. 组织的DLP 系统可能因为数据标签的不同重新标记新的系
+The organization&rsquo;s DLP system may flag the new system due to the difference in data labels.
+
+
+61. 数据分类的主要目的是什么？
+What is the primary purpose of data classification?
+
+A. 量化数据泄露的成本
+It quantifies the cost of a data breach.
+B. 优先考虑IT的支出
+It prioritizes IT expenditures.
+C. 符合泄露通告法律
+It allows compliance with breach notification laws.
+D. 确定组织数据的价值
+It identifies the value of the data to the organization.
+正确
+
+
+62. Sue 的雇主要求她使用IPsec VPN 来连接网络，当她连接时，IPsec VPN 允许她做什么？
+Sue&rsquo;s employer has asked her to use an IPsec VPN to connect to its network. When Sue connects, what does the IPsec VPN allow her to do?
+
+A. 在公共网络上发送解密的数据，如同她在雇主的内部网络上一样
+Send decrypted data over a public network and act like she is on her employer&rsquo;s internal network.
+B. 通过公共网络创建私人加密网络，如同她在雇主的内部网络上一样
+Create a private encrypted network carried via a public network and act like she is on her employer&rsquo;s internal network.
+正确
+C. 在雇主的内部网络上使用TLS 创建虚拟私人网络
+Create a virtual private network using TLS while on her employer&rsquo;s internal network.
+D. 创建隧道网络，用来连接雇主网络与她的内部家庭网络
+Create a tunneled network that connects her employer&rsquo;s network to her internal home network
+
+
+63. 像Microsoft 的BitLocker这样的完整磁盘加密用于保护什么状态的数据？
+Full disk encryption like Microsoft&rsquo;s BitLocker is used to protect data in what state?
+
+A. 传输的数据
+Data in transit
+B. 静止的数据
+Data at rest
+正确
+C. 未标记的数据
+Unlabeled data
+D. 标记的数据
+Labeled data
+
+
+64. 静止数据的主要信息安全风险是什么？
+What is the primary information security risk to data at rest?
+
+A. 不适当的分类
+Improper classification
+B. 数据泄露
+Data breach
+正确
+C. 解密
+Decryption
+D. 数据完整性缺失
+Loss of data integrity
+
+
+65. 可用于分辨或追踪身份的个人信息称为什么类型的信息？
+Information maintained about an individual that can be used to distinguish or trace their identity is known as what type of information?
+
+A. 个人可识别信息(PII)
+Personally identifiable information (PII)
+正确
+B. 个人健康信息(PHI)
+Personal health information (PHI)
+C. 社会保障号(SSN)
+Social Security number (SSN)
+D. 安全识别信息(SII)
+Secure identity information (SII)
+
+
+66. Saria 在一家政府防御装备承包商工作，公司最近停止了一个重要的研究项目，计划将这些设备用于其他目的。Saria 查看项目后，发现有些磁带不能再次使用，而且使用说明规定它们应当被销毁。为什么公司没有将磁带消磁就再次使用它们？
+The government defense contractor that Saria works for has recently shut down a major research project and is planning on reusing the hundreds of thousands of dollars of systems and data storage tapes used for the project for other purposes. When Saria reviews the company&rsquo;s internal processes, she finds that she can&rsquo;t reuse the tapes and that the manual says they should be destroyed. Why isn&rsquo;t Saria allowed to degauss and then reuse the tapes to save her employer money?
+
+A. 无法解决数据永久性
+Data permanence may be an issue.
+B. 无法解决数据残留磁性
+Data remanence is a concern.
+正确
+C. 磁带上的电子信息会
+bitrot The tapes may suffer from bitrot.
+D. 磁带上的数据无法通过消磁删除
+Data from tapes can&rsquo;t be erased by degaussing.
+
+
+67. FTP 和Telnet 存在诸多问题，使用SFTP 和SSH 可弥补哪个问题？
+What problem with FTP and Telnet makes using SFTP and SSH better alternatives?
+
+A. FTP 和Telnet 应用不广泛
+FTP and Telnet aren&rsquo;t installed on many systems.
+B. FTP 和Telnet 不加密数据
+FTP and Telnet do not encrypt data.
+正确
+C. FTP 和Telnet 有很多已知bug，并且不再被维护
+FTP and Telnet have known bugs and are no longer maintained.
+D. FTP 和Telnet 很难用，而SFTP和SSH更好地解决了该问题
+FTP and Telnet are difficult to use, making SFTP and SSH&nbsp; the preferred solution.
+
+
+68. 根据以下情景回答以下3个问题。
+互联网安全中心(CIS)和不同行业的专家合作，创建操作系统、移动设备、服务器软件和网络设备的安全控制列表。你所在的组织机构已决定在你的系统中使用CIS 基线。根据该决定回答以下问题。
+The Center for Internet Security (CIS) works with subject matter experts from a variety of industries to create lists of security controls for operating systems, mobile devices, server software, and network devices. Your organization has decided to use the CIS benchmarks for your systems. Answer the following questions based on this decision.
+
+69. 若你正为Windows 10 系统选择处理信用卡的安全标准，以下哪个是最佳选择？
+If you are selecting a security standard for a Windows 10 system that processes credit cards, what security standard is your best choice?
+
+A. Microsoft Windows 10 安全基线
+Microsoft&rsquo;s Windows 10 security baseline
+B. CIS Windows 10 基线
+The CIS Windows 10 baseline
+C. PCI DSS
+PCI DSS
+正确
+D. NSA Windows 10 基线
+The NSA Windows 10 baseline
+
+
+70. 下列哪个数据是静态的？
+What scenario describes data at rest?
+
+A. IPsec 隧道中的数据
+Data in an IPSec tunnel
+B. 电子商务交易中的数据
+Data in an e-commerce transaction
+C. 硬盘驱动器上存储的数据
+Data stored on a hard drive
+正确
+D. RAM 上存储的数据
+Data stored in RAM
+
+
+71. 美国政府对数据按照敏感性从低到高的分类是？
+Rearrange the following U.S. government data classification levels in order, from least sensitive to most sensitive.
+
+A. 看答案
+正确
+B. 不看答案
+
+
+72. Chris 负责整个公司的工作站，有些工作站处理的是私有信息，这些工作站报废后该如何处理？
+Chris is responsible for workstations throughout his company and knows that some of the company&rsquo;s workstations are used to handle proprietary information. Which option best describes what should happen at the end of their lifecycle for workstations he is responsible for?
+
+A. 擦除
+Erasing
+B. 清理
+Clearing
+C. 净化
+Sanitization
+正确
+D. 销毁
+Destruction
+
+
+73. 为什么购买高质量介质来存放敏感数据是划算的？
+Why is it cost effective to purchase high-quality media to contain sensitive data?
+
+A. 昂贵的介质不易损坏
+Expensive media is less likely to fail.
+B. 数据的价值通常远超介质的成本
+The value of the data often far exceeds the cost of the media.
+正确
+C. 昂贵的介质更容易加密
+Expensive media is easier to encrypt.
+D. 更昂贵的介质通常提高数据的完整性
+More expensive media typically improves data integrity.
+
+
+74. 数据标记在数据丢失防护系统中有何应用？
+What does labeling data allow a DLP system to do?
+
+A. 数据丢失防护系统根据不同的标记采取不同的保护
+The DLP system can detect labels and apply appropriate&nbsp; &nbsp; protections.
+正确
+B. 数据丢失防护系统根据分类计划的变动调整标记
+The DLP system can adjust labels based on changes in the classification scheme.
+C. 数据丢失防护系统修改防火墙以允许某些流量通过
+The DLP system can notify the firewall that traffic should be allowed through.
+D. 数据丢失防护系统可以删除未标记的数据
+The DLP system can delete unlabeled data.
+
+
+75. 参照以下情景回答下面3个问题：
+你所在的组织机构定期处理三种类型的数据：客户共享数据、内部业务数据、以及为组织提供显著竞争优势的商业秘密数据。客户共享数据被使用和存储在Web服务器上，然而内部业务数据和商业秘密数据都存储于内部文件服务器和员工工作站中。
+Your organization regularly handles three types of data: information that it shares with customers, information that it uses internally to conduct business, and trade secret information that offers the organization significant competitive advantages. Information shared with customers is used and stored on web servers, while both the internal business data and the trade secret information are stored on internal file servers and employee workstations.
+
+76. 移除数据后保留下来的数据称为什么？
+What term describes data that remains after attempts have been made to remove the data?
+
+A. 剩余字节
+Residual bytes
+B. 数据磁性残留
+Data remanence
+正确
+C. 闲置空间
+Slack space
+D. 自动补零
+Zero fill
+
+
+77. 硬盘驱动器存在备用扇区和坏扇区，SSD上存在多余空间，这些会存在什么共性问题？
+What issue is common to spare sectors and bad sectors on hard drives as well as overprovisioned space on modern SSDs?
+
+A. 可用来隐藏数据
+They can be used to hide data.
+B. 有可能已经丢失磁性了
+They can only be degaussed.
+C. 无法访问到，导致数据磁性残留
+They are not addressable, resulting in data remanence.
+D. 无法清除，导致数据磁性残留
+They may not be cleared, resulting in data remanence.
+正确
+
+
+78. 根据美国政府数据分类标准，以下哪项被认为一旦泄露会造成一定影响？
+Which of the following classification levels is the United States (U.S.) government&rsquo;s classification label for data that could cause damage but wouldn&rsquo;t cause serious or grave damage?
+
+A. 绝密
+Top Secret
+B. 秘密
+Secret
+C. 机密
+Confidential
+正确
+D. 分级的
+Classified
+
+
+79. 什么术语用于描述：允许在相同敏感级别下能够再次使用被重写过的介质。
+What term is used to describe overwriting&nbsp; &nbsp;media to allow for its reuse in an environment operating at the same sensitivity level?
+
+A. 清理
+Clearing
+正确
+B. 删除
+Erasing
+C. 清除
+Purging
+D. 净化
+Sanitization
+
+
+80. Ben负责制定组织的信息分类系统的安全控制，他的首选是安全基线，原因是什么？
+Ben has been tasked with identifying security controls for systems covered by his organization&rsquo;s information classification system. Why might Ben choose to use a security baseline?
+
+A. 它适用于所有情况，允许一致的安全控制
+It applies in all circumstances, allowing consistent security&nbsp; controls.
+B. 它由工业标准机构批准，可为组织免除相关责任
+They are approved by industry standards bodies, preventing liability.
+C. 组织可以根据自身特点设置安全基线
+They provide a good starting point that can be tailored to organizational needs.
+正确
+D. 它可以确保系统总是处于安全状态
+They ensure that systems are always in a secure state.
+
+
+81. Susan就职于一家美国公司，该公司与来自欧盟的客户有业务往来。如果她负责处理客户的PII，她需要做什么？
+Susan works for an American company that conducts business with customers in the European Union. What is she likely to have to do if she is responsible for handling PII from those customers?
+
+A. 一直加密数据
+Encrypt the data at all times.
+B. 根据HIPAA 对数据进行标记并分类
+Label and classify the data according to HIPAA.
+C. 执行PCI DSS标准要求的年度评估
+Conduct yearly assessments to the PCI DSS standard.
+D. 符合标准，例如US-EU隐私保护
+Comply with a standard such as the US-EU Privacy Shield.
+正确
+
+
+82. 信息技术（IT）部门的工作人员被委派负责日常任务，他们担任哪种数据角色？
+Staff in an information technology (IT) department who are delegated responsibility for day-to-day tasks hold what data role?
+
+A. 业务所有人
+Business owner
+B. 用户
+User
+C. 数据处理者
+Data processor
+D. 监管者
+Custodian
+正确
+
+
+83. 数据保留策略如何帮助组织降低相关责任？
+How can a data retention policy help to reduce liabilities?
+
+A. 通过确保不会保留不需要的数据
+By ensuring that unneeded data isn&rsquo;t retained
+正确
+B. 通过确保销毁了有罪的数据
+By ensuring that incriminating data is destroyed
+C. 通过确保数据是完全不可复原的通过确保数据被安全擦除，以至于无法通过合法发现来恢复
+By ensuring that data is securely wiped so it cannot be restored for legal discovery
+D. 通过降低法律要求的数据存储成本
+By reducing the cost of data storage required by law
+
+
+84. 以下哪项管理流程可以帮助组织为敏感信息分配适当级别的安全控制措施？
+Which one of the following administrative processes assists organizations in assigning appropriate levels of security control to sensitive information?
+
+A. 信息分类
+Information classification
+正确
+B. 数据磁性残留
+Remanence
+C. 传输数据
+Transmitting data
+D. 清理
+Clearing
+
+
+85. 当根据介质中所包含数据分类对该介质进行标记时，通常会应用什么规则来标记？
+When media is labeled based on the classification of the data it contains, what rule is typically applied regarding labels?
+
+A. 基于数据的完整性需求来标记
+The data is labeled based on its integrity requirements.
+B. 基于介质中包含的最高数据分类级别来标记
+The media is labeled based on the highest classification level of the data it contains.
+正确
+C. 基于介质中包含的所有数据分类级别来标记
+The media is labeled with all levels of classification of the data it contains.
+D. 基于介质中包含的最低数据分类级别来标记
+The media is labeled with the lowest level of classification of the data it contains.
+
+
+86. 以下哪项涉及最低安全标准？
+What term is used to describe a starting point for a minimum security standard?
+
+A. 大纲
+Outline
+B. 基线
+Baseline
+正确
+C. 策略
+Policy
+D. 配置指南
+Configuration guide
+
+
+87. COBIT，即信息和相关技术的控制目标，是IT管理和治理的框架。在平衡业务需求和安全控制时，谁最有可能会选择和使用COBIT？
+Control Objectives for Information and Related Technology (COBIT) is a framework for information technology (IT) management and governance. Which data management role is most likely to select and apply COBIT to balance the need for security controls against business requirements?
+
+A. 业务所有者
+Business owners
+正确
+B. 数据处理者
+Data processors
+C. 数据所有者
+Data owners
+D. 数据管理员
+Data stewards
+
+

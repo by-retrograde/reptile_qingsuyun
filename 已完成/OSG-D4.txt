@@ -1,0 +1,266 @@
+1. 什么法案更新了健康保险流通与责任法案(HIPAA)中的隐私和安全需求?
+What act updated the privacy and security requirements of the Health Insurance Portability and Accountability Act (HIPAA)?
+
+A. HITECH
+HITECH
+正确
+B. CALEA
+CALEA
+C. CFAA
+CFAA
+D. CCCA
+CCCA
+
+
+2. 涉及信用卡信息处理时， 要符合什么合规义务?
+What compliance obligation relates to the processing of credit card information?
+
+A. SOX
+SOX
+B. HIPAA
+HIPAA
+C. PCI DSS
+PCI DSS
+正确
+D. FERPA
+FERPA
+
+
+3. 以下哪项是关于管理数据隐私的欧盟综合法律，这项法律于2016年通过，2018年生效。
+Which one of the following is the comprehensive EU law that governs data privacy that was passed in 2016 and goes into effect in 2018?
+
+A. DPD
+DPD
+B. GLBA
+GLBA
+C. GDPR
+GDPR
+正确
+D. SOX
+SOX
+
+
+4. 在美国专利保护期是多长?
+What is the standard duration of patent protection in the United States?
+
+A. 提交申请日开始14 年
+14 years from the application date
+B. 专利获得日开始14 年
+14 years from the date the patent is granted
+C. 提交申请日开始20年
+20 years from the application date
+正确
+D. 专利获得日开始20年
+20 years from the date the patent is granted
+
+
+5. 什么行业受Gramm-Leach-Bliley 方案中的条款影响最直接?
+What industry is most directly impacted by the provisions of the Gramm-Leach-Bliley Act?
+
+A. 卫生保健
+Healthcare
+B. 银行
+Banking
+正确
+C. 执法
+Law enforcement
+D. 防护承包商
+Defense contractors
+
+
+6. 以下哪一项许可协议类型不需要用户在执行之前确认他们已经阅读了协议?
+Which one of the following types of licensing agreements does not require that the user acknowledge that they have read the agreement prior to executing it?
+
+A. 标准许可协议
+Standard license agreement
+B. 拆封协议
+Shrink-wrap agreement
+正确
+C. &nbsp;单击许可协议
+Click-wrap agreement
+D. 口头协议
+Verbal agreement
+
+
+7. 以下哪一个法律不是为了保护消费者和网民的隐私权?
+Which one of the following laws is not designed to protect the privacy rights of consumers and internet users?
+
+A. 健康保险易流通与责任法案
+Health Insurance Portability and Accountability Act
+B. 阻止盗用和伪装身份法案
+Identity Theft Assumption and Deterrence Act
+C. 美国爱国者法案
+USA PATRIOT Act
+正确
+D. Gramm-Leach-B1iley 法案
+Gramm-Leach-Bliley Act
+
+
+8. 为了获得数字千禧年版权法案的短暂活动条款的保护， 下列哪些是互联网服务提供商不用满足的需求?
+Which one of the following is not a requirement that Internet service providers must satisfy in order to gain protection under the &ldquo;transitory activities&rdquo; clause of the Digital Millennium Copyright Act?
+
+A. 服务提供商和消息的发起者必须处于不同的状态。
+The service provider and the originator of the message must be located in different states.
+正确
+B. 传输、路由、连接的提供或复制必须由一个没有通过服务提供商选择的材料的自动化技术过程来进行。
+The transmission, routing, provision of connections, or copying must be carried out by an automated technical process without selection of material by the service provider.
+C. 任何中间副本一般不得让预期外的任何收件人访问， 并且不得保留超过合理必要的时间。
+Any intermediate copies must not ordinarily be accessible to anyone other than anticipated recipients and must not be retained for longer than reasonably necessary.
+D. 传输必须由除供应商以外的人发起。
+The transmission must be originated by a person other than the provider.
+
+
+9. 儿童联机隐私保护法案被设计用来保护在互联网上使用的儿童隐私。在企业可以从他们那里收集未经父母同意的个人身份信息之前， 孩子的最小年龄是几岁?
+The Children&rsquo;s Online Privacy Protection Act (COPPA) was designed to protect the privacy of children using the internet. What is the minimum age a child must be before companies can collect personal identifying information from them without parental consent?
+
+A. 13
+13
+正确
+B. 14
+14
+C. 15
+15
+D. 16
+16
+
+
+10. 软件行业使用什么法律来正式地派发大量许可， 并试着标准化从一个州|到另一个州的使用?
+What framework allows U.S. companies to certify compliance with EU privacy laws?
+
+A. 计算机安全法案
+COBiT
+B. 统一计算机信息处理法案
+Privacy Shield
+正确
+C. 数字千禧年版权法案
+Privacy Lock
+D. Gramm-Leach-B1i1ey 法案
+EuroLock
+
+
+11. 什么法律禁止政府机构泄露个人提交给政府保护环境下的信息?
+What law prevents government agencies from disclosing personal information that an individual supplies to the government under protected circumstances?
+
+A. 隐私法案
+Privacy Act
+正确
+B. 电子通信隐私法案
+Electronic Communications Privacy Act
+C. 健康保险流通与责任法案
+Health Insurance Portability and Accountability Act
+D. Gramm-Leach-Bliley 法案
+Gramm-Leach-Bliley Act
+
+
+12. Richard 近期为计划即将开始使用的新产品起了一个不错的名字。他与律师商量并填写相应的申请去保护他的产品名字， 但是仍未从政府收到关于他的申请的回应。他想立即开始使用名字。他应该使用什么样的符号来表明他的产品名字处于受保护的状态?
+Richard recently developed a great name for a new product that he plans to begin using immediately. He spoke with his attorney and filed the appropriate application to protect his product name but has not yet received a response from the government regarding his application. He wants to begin using the name immediately. What symbol should he use next to the name to indicate its protected status?
+
+A. &copy;
+&copy;
+B. &reg;
+&reg;
+C. &trade;
+&trade;
+正确
+D. &dagger;
+&dagger;
+
+
+13. Mary 是一家制造企业Acme Widgets 的联合创始人。与合伙人J侃一起， 她开发了一个特种油， 能显著提高小部件的生产过程。为了保证配方的机密性， Mary 和Joe 计划在其他工人离开后，由他们自己在厂房里大量生产这种油。他们想尽可能保护这个配方。下列哪个知识产权保护最适合他们?
+Mary is the cofounder of Acme Widgets, a manufacturing firm. Together with her partner, Joe, she has developed a special oil that will dramatically improve the widget manufacturing process. To keep the formula secret, Mary and Joe plan to make large quantities of the oil by themselves in the plant after the other workers have left. They want to protect this formula for as long as possible. What type of intellectual property protection best suits their needs?
+
+A. 版权
+Copyright
+B. 商标
+Trademark
+C. 专利
+Patent
+D. 商业秘密
+Trade secret
+正确
+
+
+14. Matthew 最近编写了一个创新的算法去解决一个数学问题， 并且他希望与全世界分享。但是，在技术杂志上发布软件代码之前， 他想获得一些知识产权方面的保护。下列哪个保护最适合他?
+Matthew recently authored an innovative algorithm for solving a mathematical problem, and he wants to share it with the world. However, prior to publishing the software code in a technical journal, he wants to obtain some sort of intellectual property protection. Which type of protection is best suited to his needs?
+
+A. 版权
+Copyright
+正确
+B. 商标
+Trademark
+C. 专利
+Patent
+D. 商业秘密
+Trade secret
+
+
+15. 在设置对获得政府部门授权的监管部门搜查私人住宅和设施的权利限制方面， 什么法律保护了公民的隐私权?
+What law protects the right of citizens to privacy by placing restrictions on the authority granted to government agencies to search private residences and facilities?
+
+A. 隐私法案
+Privacy Act
+B. 第四修正案
+Fourth Amendment
+正确
+C. 第二修正案
+Second Amendment
+D. Grarnm-Leach-Bliley 法案
+Gramm-Leach-Bliley Act
+
+
+16. 什么是计算机系统最广泛的类别， 这个类别受计算机欺诈和滥用方案(修正案)保护?
+What is the broadest category of computer systems protected by the Computer Fraud and Abuse Act, as amended?
+
+A. 政府所属系统
+Government-owned systems
+B. 联邦相关系统
+Federal interest systems
+C. 用于洲际贸易的系统
+Systems used in interstate commerce
+正确
+D. 美国境内系统
+Systems located in the United States
+
+
+17. 哪个联邦政府机构有安全责任确保政府计算机系统没有用于处理敏感和/或分类信息?
+Which federal government agency has responsibility for ensuring the security of government computer systems that are not used to process sensitive and/or classified information?
+
+A. 美国国家安全局
+National Security Agency
+B. 联邦调查局
+Federal Bureau of Investigation
+C. 国家标准和技术协会
+National Institute of Standards and Technology
+正确
+D. 联邦情报局
+Secret Service
+
+
+18. 什么类型的法律并不要求国会的法案在联邦一级执行， 而是由行政部门以法规、政策和程序的形式颁布?
+What type of law does not require an act of Congress to implement at the federal level but rather is enacted by the executive branch in the form of regulations, policies, and procedures?
+
+A. 刑法
+Criminal law
+B. 普通法
+Common law
+C. 民法
+Civil law
+D. 行政法
+Administrative law
+正确
+
+
+19. 哪条法律首先要求美国联邦的相关计算机系统操作者接受计算机安全问题的定期培训?
+Which law governs information security operations at federal agencies?
+
+A. 计算机安全法案
+FISMA
+正确
+B. 国家基础设施保护法案
+FERPA
+C. 计算机欺诈和滥用法案
+CFAA
+D. 电子通信隐私法案
+ECPA
+
+

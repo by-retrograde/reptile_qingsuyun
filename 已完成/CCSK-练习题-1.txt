@@ -1,0 +1,1369 @@
+1. CCM：一家名为&ldquo;Infrastructure4Sure&rdquo;的公司提供IaaS服务。客户希望查看他的虚拟机管理程序的安全控制措施。该客户应该关注以下哪个选项？
+
+
+A. 选择占用空间较小的虚拟机管理程序，以减少攻击面
+
+正确
+B. 加固虚拟机管理程序以增加漏洞区域（例如禁用运行在相同虚拟机管理程序主机内的虚机之间的内存共享）
+
+C. 连接未使用的物理硬件设备，启用剪贴板或文件共享服务
+
+D. 通过对虚拟机管理程序的日志进行分析来监控破坏行为
+
+正确
+
+
+2. 当流量可能无法通过物理网络时，如何监控和过滤虚拟网络中的数据？
+
+How can you monitor and filter data in a virtual network when traffic might not cross the physical network?
+
+
+A. 将流量路由到物理网络以进行捕获
+
+Route traffic to the physical network for capturing
+
+正确
+B. 将流量路由到同一虚拟网络上的虚拟设备
+
+Route traffic to a virtual appliance on the same virtual network
+
+C. 将流量路由到同一硬件上的虚拟网络监视或过滤工具
+
+Route traffic to a virtual network monitoring or filtering tool on the same hardware
+
+正确
+D. A和B
+
+
+
+3. CCM:适用范围(Scope Applicability)这一列在CCM中的角色是什么?CCM: What is the role of the Scope Applicability column in the CCM?
+
+A. 它显示哪些架构元素与给定控制相关
+
+It show which architectural elements are related to a given control
+
+B. 它描述了整个域的适用性&nbsp;
+
+It describes the applicability of the overall domain
+
+C. 它将现有的行业标准映射到域中的控制项
+
+It maps the existing industry standards to the controls in the domains
+
+正确
+D. 以上都不是
+
+
+4. 如果没有被篡改或遭受黑客攻击的确凿证据, 文件的可信度不应该因为其在云中创建和存储而受到影响。Absent other evidence, such as tampering or hacking, documents should not be considered more or less admissible or credible because they were created or stored in the cloud.
+
+正确
+
+
+5. 当应用程序组件直接与云服务通信时，管理平面和元结构可能会在应用程序安全范围内。When the application components communicate directly with the cloud service, the management plane and metastructure might fall within the application security scope.
+
+正确
+
+
+6. 由于提供者的限制，漏洞评估无法轻松集成到CI/CD流程中。Vulnerability assessments cannot be easily integrated into CI/CD pipelines because of provider restrictions.
+
+错误
+
+
+7. 尽可能使用弹性服务器并将工作负载移至新实例。Use elastic servers when possible and move workloads to new instances.
+
+错误
+
+
+8. 虚拟设备可能成为瓶颈，因为它们在发生故障时不能自动放行所有流量，相反会拦截流量。Virtual appliances can become bottlenecks because they cannot fail open and must intercept all traffic.
+
+正确
+
+
+9. REST api 是基于 web 服务的标准, 因为它们使用HTTPS并且能跨平台运行。REST APIs are the standard for web-based services because they run over HTTPS and work well across diverse environments.
+
+正确
+
+
+10. CCM:关于云控制矩阵(CCM)v3.0.1，哪一项是不正确的?CCM: Which of the following statements about the CCMv3.0.1 is NOT true?
+
+A. CCM旨在提供基本的安全原则来指导云提供者(CSPs)，并帮助潜在的云客户评估云提供者的整体安全风险
+
+B. CCM提供了一个控制框架，可以详细了解与CSA安全指南一致的安全概念和原则
+
+C. CCM概述了谁负责实施安全控制，以及给定的控制是否与公司治理相关
+
+D. CCM提供了一个控制框架，所有CCM域都直接映射到CSA安全指南中的域
+
+正确
+
+
+11. CCM：假设有一家名为“Security4Sure”的公司提供基于云的服务来共享机密文件。机密文件存储在其服务器中并加密，Security4Sure如何确保其数据中心内的数据安全？
+
+A. 对静态数据进行加密，并采取适当的措施来管理加密密钥
+正确
+B. 审计计划不应由该组织的最高级管理层（例如董事会）采纳和支持
+C. 实现冗余或备用电源，冗余数据通信连接，环境控制（例如空调、消防系统等），部署各种安全设备
+D. 使用安全的传输通道(例如TLS)
+
+
+12. 哪一项是导致网络管理高风险的漏洞之一?
+ENISA: Which of the following is among the vulnerabilities contributing to a high risk ranking for Network Management?
+
+
+A. 用户供应漏洞&nbsp;
+
+User provisioning vulnerabilities
+
+B. AAA漏洞&nbsp;
+
+AAA vulnerabilities
+
+C. 虚拟机管理程序的漏洞
+
+&nbsp; Hypervisor vulnerabilities
+
+D. 物理安全措施不足
+
+&nbsp; Inadequate physical security procedures
+
+E. 系统或O/S的漏洞&nbsp;
+
+System or O/S vulnerabilities
+
+正确
+
+
+13. ENISA:由于它涉及公共云计算，在欧洲数据保护法令中，云客户被认为是:
+ENISA: As it relates to public cloud computing, in the European Data Protection law, the customer is considered to be the:
+
+
+A. 数据控制器&nbsp;
+
+Data controller
+
+正确
+B. 证书持有者&nbsp;
+
+Certificate holder
+
+C. 数据处理器&nbsp;
+
+Data processor
+
+D. 数据所有者
+
+Data owner
+
+E. 数据管理器&nbsp;
+
+Data manager
+
+
+
+14. ENISA:因为实际上不可能以加密的形式处理数据，所以客户应该对云提供者有以下期望:
+ENISA:Because it is practically impossible to process data in encrypted form, customers should have the following expectation of cloud providers:
+
+
+A. 提供者应始终使用硬件安全模块(HSM)存储管理客户加密密钥
+
+Provider should always manage customer encryption keys with hardware security module (HSM) storage
+
+B. 当数据为明文状态时，提供者应立即通知客户
+
+Provider should immediately notify customer whenever data is in plaintext form
+
+C. 提供者应该符合PCI标准&nbsp;
+
+Provider should be PCI compliant
+
+D. 提供者必须高度可靠，并具有补偿控制，以保护纯文本形式的客户数据
+
+Provider must be highly trustworthy and have compensating controls to protect customer data when it is in plaintext form
+
+正确
+E. 必要时实施同态加密&nbsp;
+
+Homomorphic encryption should be implemented where necessary
+
+
+
+15. ENISA:与治理缺失相关的潜在脆弱性是什么？
+ENISA: An underlying vulnerability related to Loss of Governance is
+
+
+A. 缺乏供应商冗余&nbsp;
+
+Lack of supplier redundancy
+
+B. 不清楚资产所有权&nbsp;
+
+Unclear asset ownership
+
+正确
+C. 虚拟机管理程序漏洞&nbsp;
+
+Hypervisor vulnerabilities
+
+D. 缺乏声誉隔离&nbsp;
+
+Lack of reputational isolation
+
+E. 容量规划不足&nbsp;
+
+Inadequate capacity planning
+
+
+
+16. ENISA:以下哪项不是所有情况下普遍存在的五个主要法律问题之一？
+ENISA: Which is not one of the five key legal issues common across all scenarios:
+
+
+A. 数据保护&nbsp;
+
+Data protection
+
+B. 全球化&nbsp;
+
+Globalization
+
+正确
+C. 知识产权&nbsp;&nbsp;
+
+Intellectual property
+
+D. 业务过失&nbsp;
+
+Professional negligence
+
+E. 外包服务和变更控制&nbsp;
+
+Outsourcing services and changes in control
+
+
+
+17. 安全即服务（SecaaS）发展的障碍是什么?
+What are the barriers to developing full confidence in security as a service (SecaaS)?
+
+
+A. 合规性、多租户和厂商锁定&nbsp;
+
+Compliance, multi-tenancy, and vendor lock-in
+
+正确
+B. 供应、联合和合规性&nbsp;
+
+Provisioning, federation, and compliance
+
+C. 单租户和提供者锁定&nbsp;
+
+Single tenancy and vendor lock-in
+
+D. 联合桥梁、软件兼容性和实现&nbsp;&nbsp;
+
+Federation bridges, software compatibility, and implementation
+
+E. 代表、共同租赁和实现&nbsp;
+
+Delegations, bipartisan tenancy, and implementation
+
+
+
+18. 使用安全即服务(SecaaS)的潜在好处是什么?
+What is a potential benefit of using Security-as-a-Service (SecaaS)?
+
+
+A. 完整的可见性&nbsp;
+
+Full visibility
+
+B. 人员配备和专业知识&nbsp;
+
+Staffing and expertise
+
+正确
+C. 监管的差异&nbsp;&nbsp;
+
+Regulation differences
+
+D. 监管数据的处理&nbsp;
+
+Handling of regulated data
+
+E. 改变提供者&nbsp;
+
+Changing providers
+
+
+
+19. 下面哪项允许不同的目录服务和独立的安全域相互连接?
+What item below allows disparate directory services and independent security domains to be interconnected?
+
+
+A. 联合&nbsp;&nbsp;
+
+Federation
+
+正确
+B. 同盟&nbsp;&nbsp;
+
+Coalition
+
+C. 交集&nbsp;&nbsp;
+
+Intersection
+
+D. 联盟&nbsp;&nbsp;
+
+Union
+
+E. 云&nbsp;&nbsp;&nbsp;
+
+Cloud
+
+
+
+20. 哪一项最好地定义了身份、权限和访问管理（IdEA）的&ldquo;身份验证&rdquo;组件？
+Which of the following statements best describes adequate encryption protection of data in the cloud?
+
+
+A. 保证存储库中的数据是100%不受监管的
+
+A guarantee that data in a repository is 100% unregulated
+
+B. 将安全协议更新到最新版本
+
+Updating security protocols to the latest version
+
+C. 在应用程序中确定/声明身份&nbsp;
+
+Establishing/asserting the identity to the application
+
+正确
+D. 指定和维护访问策略的过程&nbsp;
+
+The process of specifying and maintaining access policies
+
+E. 以上都不是
+
+
+
+21. 哪一项表示身份（包括角色，人物角色和属性）到授权的映射？
+Which concept is a mapping of an identity, including roles, person
+
+
+A. 身份验证&nbsp;
+
+Authentication
+
+B. 访问控制&nbsp;
+
+Access control
+
+C. 权威来源&nbsp;
+
+Authoritative source
+
+D. 权利&nbsp;
+
+Entitlement
+
+正确
+E. 联合身份管理&nbsp;
+
+Federated Identity Management
+
+
+
+22. 哪一项被定义为一个给定命名空间内的实体的唯一表示?
+Which concept is defined as the unique expression of an entity within a given namespace?
+
+
+A. 身份&nbsp;&nbsp;
+
+Identity
+
+正确
+B. 标识符&nbsp;
+
+Identifier
+
+C. 属性&nbsp;
+
+Attribute
+
+D. 人物角色&nbsp;
+
+Persona
+
+E. 角色&nbsp;
+
+Role
+
+
+
+23. 下列哪一项不是对象存储加密的方法?
+Which of the following is NOT a method of object storage encryption?
+
+
+A. 外部管理加密&nbsp;
+
+Externally managed encryption
+
+正确
+B. 企业数字版权管理&nbsp;
+
+Enterprise digital rights management.
+
+C. 代理加密&nbsp;
+
+Proxy encryption
+
+D. 文件/文件夹加密&nbsp;
+
+File/folder encryption
+
+E. 客户端/应用程序加密&nbsp;
+
+Client/application encryption.
+
+
+
+24. 哪一项最好的描述了数据（信息）分散分片方案?
+Which statement best describes a data (information) dispersion fragmentation scheme?
+
+
+A. 一片云被分成很多片云(云朵);每个云朵都存储了一部分基于加密算法的文件A cloud is split into cloudlets; each cloudlet stores a portion of the files based on an encryption algorithm.
+
+B. 片段文件在本地服务器上签名并存储在一起;支持任意的数据检索
+
+Fragmented files are signed and stored together on a local server; data retrieval is arbitrary.
+
+C. 一个网络被分成很多节点;所有节点只存储某些类型的文件
+
+A network is split into nodes; all of the nodes store only certain types of files.
+
+D. 基于数据用户的物理位置，将文件碎片（片段）按顺序放置在服务器上
+
+File fragments are sequentially placed on servers based on the physical location of the data user.
+
+E. 文件被分割成碎片;所有的片段都被发送到多个物理存储库
+
+A file is split into fragments; all of the fragments are sent to multiple physical storage repositories.
+
+正确
+
+
+25. 密钥管理的主要考虑因素是什么?
+What are the main considerations for key management?
+
+
+A. 性能、控制、不变性和安全性&nbsp;
+
+Performance, control, immutability, and security
+
+B. 性能、可访问性、不变性和安全性&nbsp;
+
+Performance, accessibility, immutability, and security
+
+C. 性能、可访问性、延迟和安全性&nbsp;
+
+Performance, accessibility, latency, and security
+
+正确
+D. 可访问性、控制、延迟和安全性&nbsp;
+
+Accessibility, control, latency, and security
+
+E. 性能、控制、可访问性和安全性&nbsp;
+
+Performance, control, accessibility, and security
+
+
+
+26. 数据安全控制的三个主要方面是什么?
+What are the three main aspects for data security controls?
+
+
+A. 控制、保护和执行&nbsp;
+
+Controlling, protecting, and enforcing
+
+正确
+B. 门禁控制、加密和备份&nbsp;
+
+Gating, encrypting, and backing up
+
+C. 管理、保护和执行&nbsp;
+
+Managing, securing, and enforcing
+
+D. 控制、监控和管理&nbsp;
+
+Controlling, monitoring, and managing
+
+E. 控制、加密和管理&nbsp;
+
+Controlling, encrypting, and managing
+
+
+
+27. 在数据安全和加密方面，哪种方法更安全、更经济?
+What is a more secure and cost effective approach to data security and encryption?
+
+
+A. 对任何云都应用统一的安全策略&nbsp;
+
+Applying a blanket security policy to anything cloud
+
+B. 应用基于风险的方法&nbsp;
+
+Applying a risk-based approach
+
+正确
+C. 应用数据驱动的方法&nbsp;
+
+Applying a data-driven approach
+
+D. 使用和传统网络相同的策略&nbsp;
+
+Using the same policies applied to the traditional network
+
+E. 首先使用拒绝所有（策略）并锁定所有内容直到满足要求
+
+Initially using a deny all and locking everything down until requirements are met
+
+
+
+28. 哪一项安全措施认为CI/CD可以跟踪所有内容，包括与提交更改的人绑定的源文件中的单个字符更改，以及整个应用程序的堆栈历史。
+Which security advantage considers that CI/CD pipelines can track everything, down to individual character changes in source files tied to the person submitting the change, with the entire application stack history?
+
+
+A. 标准化&nbsp;
+
+Standardization
+
+B. 自动化测试&nbsp;
+
+Automated testing
+
+C. 不可变&nbsp;
+
+Immutable
+
+D. 改进的审计和变更管理&nbsp;
+
+Improved auditing and change management
+
+正确
+E. SecDevOps/DevSecOps and Rugged DevOp
+
+
+
+29. 哪种技术使用管理平面来检测各种活动，例如文件上传或配置更改？
+
+Which technique uses the management plane to detect various activities, such as file uploads or configuration changes?
+
+
+A. 事件驱动的安全性&nbsp;
+
+Event-driven security
+
+正确
+B. 行为安全&nbsp;
+
+Action security
+
+C. 审计与日志&nbsp;
+
+Auditing and logging
+
+D. 静态应用安全测试（SAST）
+
+E. 动态应用安全测试（DAST）
+
+
+
+30. 下面哪一项有助于减少常见的应用程序安全问题？
+Which opportunity helps reduce common application security issues?
+
+
+A. 弹性基础设施&nbsp;
+
+Elastic infrastructure
+
+B. 减少使用微服务&nbsp;
+
+Decreased use of micro-services
+
+C. 默认隔离&nbsp;
+
+Segregation by default
+
+正确
+D. 默认拒绝&nbsp;
+
+Default deny
+
+E. 更少的无服务器配置&nbsp;
+
+Fewer serverless configurations
+
+
+
+31. 应用程序设计和开发过程的哪个阶段主要集中在架构上？
+Which main phase of the application design and development process, is mainly focused on the architecture?
+
+
+A. 培训&nbsp;
+
+Train
+
+B. 定义&nbsp;&nbsp;
+
+Define
+
+C. 设计&nbsp;&nbsp;
+
+Design
+
+正确
+D. 开发&nbsp;&nbsp;
+
+Develop
+
+E. 测试&nbsp;&nbsp;
+
+Test
+
+
+
+32. 在将代码从独立开发环境转移到生产环境时，云安全联盟在哪个阶段关注安全性和测试活动？
+Which meta-phase does the Cloud Security Alliance use to focus on the security and testing activities when moving code from an isolated development environment to production?
+
+
+A. 安全设计和开发
+
+Secure Design and Development
+
+B. 安全运维&nbsp;
+
+Secure Operations
+
+C. 安全部署&nbsp;
+
+Secure Deployment
+
+正确
+D. 安全网络&nbsp;
+
+Secure Networking
+
+E. 安全扩展&nbsp;
+
+Secure Scaling
+
+
+
+33. 每个云客户应该如何设置其云服务提供者（CSP），以便在发生事故时使用？
+What should every cloud customer set up with its cloud service provider (CSP) that can be utilized in the event of an incident?
+
+
+A. 数据销毁计划&nbsp;
+
+A data destruction plan
+
+B. 备份站点&nbsp;
+
+A back-up website
+
+C. 泄漏修复工具&nbsp;
+
+A spill remediation kit
+
+D. 沟通计划&nbsp;&nbsp;
+
+A communication plan
+
+正确
+E. 应急基金（备用基金）
+
+A rainy day fund
+
+
+
+34. 以下哪个不是影响事件响应的云计算特性？
+Which of the following is NOT a cloud computing characteristic that impacts incidence response?
+
+
+A. 云服务实现的资源池，以及云基础设施提供的快速弹性
+
+The resource pooling practiced by cloud services, in addition to the rapid elasticity offered by cloud infrastructures
+
+B. 云计算环境按需自服务性质&nbsp;
+
+The on demand self-service nature of cloud computing environments
+
+C. 数据跨越地理位置或管辖区边界的可能性&nbsp;
+
+The possibility of data crossing geographic or jurisdictional boundaries
+
+D. 私有云中基于对象的存储&nbsp;
+
+Object-based storage in a private cloud
+
+正确
+E. 合租（共享基础设施）用户在收集和分析与事件有关的信息时涉及的隐私问题
+
+Privacy concerns for co-tenants regarding the collection and analysis of telemetry and artifacts associated with an incident
+
+
+
+35. 哪个组件是软件容器系统的关键部分？
+Which component is a key part of software container systems?
+
+
+A. 客户端&nbsp;
+
+A client
+
+B. 执行环境&nbsp;
+
+The execution environment
+
+正确
+C. 自动化控制器&nbsp;&nbsp;
+
+An automated controller
+
+D. 操作系统&nbsp;
+
+Operating system
+
+E. 工作负载工具&nbsp;
+
+Workload tools
+
+
+
+36. 云消费者管理基础设施的主要安全职责是什么？
+What are the primary security responsibilities of the cloud consumer in the management infrastructure?
+
+
+A. 构建并正确配置安全的网络基础设施
+
+Building and properly configuring a secure network infrastructure
+
+B. 正确配置部署虚拟网络，尤其是防火墙
+
+Properly configuring the deployment of the virtual network, especially the firewalls
+
+正确
+C. 正确配置部署虚拟网络，除了防火墙
+
+Properly configuring the deployment of the virtual network, except the firewalls
+
+D. 全网配置双因素身份验证
+
+Configuring second factor authentication across the network
+
+E. 为自定义访问和配置提供尽可能多的API端点
+
+Providing as many API endpoints as possible for custom access and configurations
+
+
+
+37. 谁负责实现对可用的虚拟化资源的安全控制并了解潜在风险？
+Who is responsible for implementing the available virtualized security controls and understanding the underlying risks?
+
+
+A. 云提供者&nbsp;
+
+The cloud provider
+
+B. 云消费者&nbsp;
+
+The cloud consumer
+
+正确
+C. 取决于协议&nbsp;
+
+It depends on the agreement
+
+D. 责任均等&nbsp;
+
+The responsibility is split equally
+
+E. 大部分由提供者承担
+
+The majority is covered by the provider
+
+
+
+38. 对共享安全模型中私有云平台的安全性的描述，下面哪一项是对的?
+What is true about the security for a private cloud platform in the shared security model?
+
+
+A. 云提供者必须确保所有层都是安全的&nbsp;
+
+The cloud provider must ensure all layers are secure
+
+B. 云消费者必须确保所有层都是安全的&nbsp;
+
+The cloud consumer must ensure all layers are secure
+
+C. 云平台维护人员必须确保所有层都是安全的&nbsp;
+
+Whoever maintains the platform must ensure all layers are secure
+
+正确
+D. 安全责任取决于平台层&nbsp;
+
+The responsibility of security depends on the platform layer
+
+E. 提供者和消费者分担安全责任&nbsp;
+
+The provider and consumer split the security responsibilities
+
+
+
+39. 在不同的虚拟网络上运行应用程序，并且只在需要时连接网络，这样做的好处是什么?
+How does running applications on distinct virtual networks and only connecting networks as needed help?
+
+
+A. 它允许您围绕业务组配置应用程序&nbsp;
+
+It enables you to configure applications around business groups
+
+B. 它降低了硬件成本&nbsp;
+
+It reduces hardware costs
+
+C. 它锁定访问并提供更强的数据安全性
+
+It locks down access and provides stronger data security
+
+D. 它减少了系统被破坏时的爆炸半径（影响范围）
+
+It reduces the blast radius of a compromised system
+
+正确
+E. 它提供动态和细粒度的策略，减少管理开销
+
+It provides dynamic and granular policies with less management overhead
+
+
+
+40. 配置SDN防火墙时，在添加所有资产之后的首要配置操作是什么？
+When configuring SDN firewalls, after adding all assets, what is typically the first configuration you must address?
+
+
+A. 创建更新规则&nbsp;
+
+Creating update rules
+
+B. 配置额外的访问&nbsp;
+
+Configuring additional access
+
+C. 打开连接&nbsp;
+
+Opening connections
+
+正确
+D. 配置日志&nbsp;
+
+Configuring logging
+
+E. 断开以前的防火墙&nbsp;
+
+Disconnecting previous firewalls
+
+
+
+41. 为什么不同服务类型的网络通常被隔离在不同的硬件上（比如通过同一宿主机的不同物理网卡提供不同的服务）？
+Why is a service type of network typically isolated on different hardware?
+
+
+A. 它们需要独特的安全性&nbsp;
+
+It requires unique security
+
+B. 它们需要不同的访问控制&nbsp;
+
+It requires distinct access controls
+
+C. 它具有与其它网络不同的功能&nbsp;
+
+It has distinct functions from other networks
+
+正确
+D. 它管理与其它网络之间的通信&nbsp;
+
+It manages the traffic between other networks
+
+E. 它管理云消费者的资源池&nbsp;
+
+It manages resource pools for cloud consumers
+
+
+
+42. 由于没有重叠的流量或功能，最常见的被隔离到不同硬件的是____网络？
+In What are the most commonly seen networks isolated to distinct hardware because of no overlapping traffic or function?
+
+
+A. 企业，管理和存储&nbsp;
+
+Corporate, Management, and Storage
+
+B. 企业，服务和存储&nbsp;
+
+Corporate, Service, and Storage
+
+C. 企业，管理，服务和存储&nbsp;
+
+Corporate, Management, Service, and Storage
+
+D. 管理，服务和存储&nbsp;
+
+Management, Service, and Storage
+
+正确
+E. 企业，管理和服务&nbsp;
+
+Corporate, Management, and Service
+
+
+
+43. 在云提供者和消费者关系中, 哪个实体管理虚拟或抽象的基础设施？
+In the cloud provider and consumer relationship, which entity manages the virtual or abstracted infrastructure?
+
+
+A. 仅云提供者&nbsp;
+
+Only the cloud provider
+
+B. 仅消费者&nbsp;
+
+Only the cloud consumer
+
+正确
+C. 包括云提供者和消费者&nbsp;
+
+Both the cloud provider and consumer
+
+D. 由实体之间的协议来决定&nbsp;
+
+It is determined in the agreement between the entities
+
+E. 按照实体协议进行外包&nbsp;
+
+It is outsourced as per the entity agreement
+
+
+
+44. 哪一层对于安全最重要并且被认为是云安全运行的基础？
+Which layer is the most important for securing because it is considered to be the foundation for secure cloud operations?
+
+
+A. 元结构&nbsp;
+
+Metastructure
+
+B. 基础设施&nbsp;
+
+Infrastructure
+
+正确
+C. 信息结构&nbsp;
+
+Infostructure
+
+D. 应用结构&nbsp;
+
+Applistructure
+
+E. 数据结构&nbsp;
+
+Datastructure
+
+
+
+45. 哪一项最好地描述了云计算对业务连续性管理的影响？
+Which statement best describes the impact of Cloud Computing on business continuity management?
+
+
+A. 地理冗余确保云提供者提供高可用服务
+
+B. 普遍缺乏互操作性标准，这意味着必须额外考虑在云提供者之间迁移的安全控制
+
+C. SaaS 提供者的客户尤其需要降低应用程序锁定的风险
+
+D. 客户需要进行业务连续计划的尽职调查, 以防他们突然需要更换提供者
+
+正确
+E. 如果需要迁移到另一个提供者，则云提供者托管的数据集的大小可能会给迁移带来挑战
+
+
+
+46. &ldquo;使用工具来选择性地降低部分云资源的可用性，从而实现对业务连续性的持续测试&rdquo;，这是对下面那个术语的解释？
+Which term is used to describe the use of tools to selectively degrade portions of the cloud to continuously test business continuity?
+
+
+A. 组织级的停机时间&nbsp;
+
+Organized Downtime
+
+B. 计划的停机&nbsp;
+
+Planned Outages
+
+C. 预期工程&nbsp;
+
+Expected Engineering
+
+D. 混沌工程&nbsp;
+
+Chaos Engineering
+
+正确
+E. 弹性规划&nbsp;
+
+Resiliency Planning
+
+
+
+47. 传统基础设施和云计算之间最显著的安全区别是什么？
+What is the most significant security difference between traditional infrastructure and cloud computing?
+
+
+A. 管理平面&nbsp;
+
+Management plane
+
+正确
+B. 二次认证因素&nbsp;
+
+Secondary authentication factors
+
+C. 网络接入点&nbsp;
+
+Network access points
+
+D. 入侵检测选项&nbsp;
+
+Intrusion detection options
+
+E. 移动安全配置选项&nbsp;
+
+Mobile security configuration options
+
+
+
+48. 为什么知道数据如何被访问很重要？
+Which statement best describes why is it important to know how data is being accessed?
+
+
+A. 用于访问数据的设备可能具有不同的所有权特征The devices used to access data may have different ownership characteristics.
+
+B. 用于访问数据的设备具有不同的存储格式
+
+The devices used to access data have different storage formats.
+
+C. 该设备可能会影响数据分散&nbsp;
+
+The device may affect data dispersion.
+
+D. 用于访问数据的设备使用各种应用程序或客户端, 并且可能具有不同的安全特性
+
+The devices used to access data use a variety of applications or clients and may have different security characteristics.
+
+正确
+E. 用于访问数据的设备使用各种操作系统, 并且可能安装了不同的程序
+
+The devices used to access data use a variety of operating systems and may have different programs installed on them.
+
+
+
+49. 云安全联盟的云控制矩阵（CCM）中包含什么类型的信息？
+What type of information is contained in the Cloud Security Alliance&#39;s Cloud Control Matrix?
+
+
+A. 云环境的网络通信规则&nbsp;
+
+Network traffic rules for cloud environments
+
+B. 所有云操作员的联邦法律业务要求&nbsp;
+
+Federal legal business requirements for all cloud operators
+
+C. 云配置列表, 包括通信逻辑和有效路由&nbsp;
+
+A list of cloud configurations including traffic logic and efficient routes
+
+D. 基于许多标准和法规要求，需要实施的若干要求
+
+&nbsp;A number of requirements to be implemented, based upon numerous standards and regulatory requirements
+
+正确
+E. 典型云公司的指挥控制与管理层次&nbsp;
+
+The command and control management hierarchy of a typical cloud company
+
+
+
+50. 以下哪项是对&ldquo;合规&rdquo;最好的定义？
+Select the best definition of &quot;compliance&quot; from the options below.
+
+
+A. 完成所有表格和书面工作的过程, 以制定防御性的文件追踪
+
+The process of completing all forms and paperwork necessary to develop a defensible paper trail
+
+B. 制定涵盖所有必要安全措施的例行程序
+
+The development of a routine that covers all necessary security measures
+
+C. 及时有效地提交安全报告
+
+The timely and efficient filing of security reports.
+
+D. 安全意识和义务的履行，包括评估和确定必要和适当的纠正措施的优先次序
+
+The awareness and adherence to obligations, including the assessment and prioritization of corrective actions deemed necessary and appropriate
+
+正确
+E. 良好的安全实践和勤奋记录的习惯
+
+The diligent habits of good security practices and recording of the same
+
+
+
+51. 如果不考虑提供者的基础设施, 谁负责构建合规的应用程序和服务？
+If a provider&#39;s infrastructure is not in scope, who is responsible for building compliant applications and services?
+
+
+A. 客户负责应用程序和服务的合规性
+
+The customer is responsible for compliant applications and services.
+
+正确
+B. 提供者必须升级或修复任何不合规的地方
+
+The provider must update or fix whatever is not in compliance.
+
+C. 没人负责，这是一个被接受的风险, 并写进合同条款
+
+No one. It is an accepted risk that is written into the terms and conditions with customers.
+
+D. 由客户和提供者协商解决方案
+
+It is up to the customer and provider to negotiate the solution.
+
+E. 提供者必须根据各种合规性规定为每个客户创建单独的租户
+
+The provider must create a separate tenant for each customer based on the various compliance regulations.
+
+
+
+52. 数据定位的关键问题是：
+The key concern of data location is:
+
+
+A. 数据不应该和其他客户混淆
+
+Data should not be commingled with other customers
+
+B. 数据仅存储在法规允许的地理位置上
+
+Data is stored only in geographic locations permitted by regulations
+
+正确
+C. 数据仅位于高 MTBF (平均故障间隔时间) 的冗余存储子系统上
+
+Data is located only on redundant storage subsystems with high MTBF (mean time between failures)
+
+D. 确保已检索到法律当局要求的所有数据
+
+Assurance that all data requested by legal authorities has been retrieved
+
+E. 确保禁止的位置无法访问数据
+
+Assurance that prohibited locations cannot access the data
+
+
+
+53. 如果云应用或云环境本身与诉讼或调查中的纠纷有关, 证据信息应该如何获取？
+If in certain litigations and investigations, the actual cloud application or environment itself is relevant to resolving the dispute in the litigation or investigation, how is the information likely to be obtained?
+
+
+A. 它可能直接要求传唤提供者
+
+It may require a subpoena of the provider directly
+
+B. 这将需要一场战争
+
+It would require an act of war
+
+C. 它将需要以前的合同协议来获得对环境或应用程序的访问权限
+
+It would require a previous contractual agreement to obtain the application or access to the environment
+
+正确
+D. 它需要以前的访问协议
+
+It would require a previous access agreement
+
+E. 在这种情形下，他将永远不会获得（所需要的证据）
+
+It would never be obtained in this situation
+
+
+
+54. 要确保云提供者合同的可执行性，应该仔细考虑以下哪个因素？
+Cloud provider contract enforceability should be carefully considered in light of
+
+
+A. 成本&nbsp;
+
+Costs
+
+B. 提供者控制证明不足以应对客户风险&nbsp;
+
+Provider controls proving inadequate for customer risks
+
+C. 外国和外州司法管辖区&nbsp;
+
+Foreign and out of state jurisdictions
+
+正确
+D. 提供者关键管理系统&nbsp;
+
+Provider key management systems
+
+E. 预生产云部署&nbsp;
+
+Pre-production cloud deployments
+
+
+
+55. 以下哪一项不是云环境中治理和企业风险管理的要求？
+Which of the following statements are NOT requirements of governance and enterprise risk management in a cloud environment?
+
+
+A. 检查和考虑从云供应链其他成员继承的风险，并采取积极措施通过业务弹性来减轻和遏制风险
+
+B. 尊重云供应链中固有风险的相互依存关系, 并向消费者和依赖方传达企业风险态势和准备情况.
+
+C. 与使用经过良好审查的软件应用程序的公司协商长期合同, 以避免云环境的短暂性
+
+正确
+D. 为利益相关者和股东提供透明度，以展示财政偿付能力和组织透明度
+
+E. B和C
+
+
+
+56. 在哪种部署模型中, 治理策略应考虑由云服务提供者合同和组织内部治理协议组成的最小通用控制集？
+In which deployment model should the governance strategy consider the minimum common set of controls comprised of the Cloud Service Provider contract and the organization&#39;s internal governance agreements?
+
+
+A. 公有云&nbsp;
+
+Public Cloud
+
+B. 私有云&nbsp;
+
+Private Cloud
+
+C. IaaS
+
+D. PaaS
+
+E. 混合云&nbsp;&nbsp;
+
+Hybrid Cloud
+
+正确
+
+
+57. 哪个安全概念包括政策、过程和内部控制，以及组织如何运作，包括领导层的结构和政策以及其他管理机制?
+Which security concept includes the policy, process, and internal controls comprising how an organization is run - including the structures and policies of the leadership and other mechanisms for management?
+
+
+A. 治理&nbsp;
+
+Governance
+
+正确
+B. 企业风险管理&nbsp;
+
+Enterprise risk management
+
+C. 信息风险管理&nbsp;
+
+Information risk management
+
+D. 信息安全&nbsp;
+
+Information security
+
+E. 合规&nbsp;
+
+Compliance
+
+
+
+58. 与其他云部署模型相比, 以下哪个最好地描述了基础设施即服务的利弊？
+What best describes the tradeoff of Infrastructure as a Service as compared to other cloud deployment models?
+
+
+A. 初期低成本和更强的安全功能&nbsp;
+
+Lower initial cost and greater security features
+
+B. 更强的安全功能和更少的扩展性&nbsp;&nbsp;
+
+Greater security features and less extensibility
+
+C. 初期低成本和长期更高的成本&nbsp;
+
+Lower initial costs and greater long terms costs
+
+D. 较少安全功能和更强的扩展性&nbsp;
+
+Less security features and greater extensibility
+
+正确
+E. 初期更高的成本和更强的安全功能&nbsp;&nbsp;
+
+Greater initial costs and greater security features
+
+
+
+59. 哪种云安全模型提供了帮助实现云安全性的通用模板？
+Which cloud security model type provides generalized templates for helping implement cloud security?
+
+
+A. 概念模型或框架&nbsp;
+
+Conceptual models or frameworks
+
+B. 控制模型或框架&nbsp;
+
+Controls models or frameworks
+
+C. 参考架构&nbsp;
+
+Reference architectures
+
+正确
+D. 设计模式&nbsp;
+
+Design patterns
+
+E. 云控制矩阵&nbsp;
+
+Cloud Controls Matrix (CCM)
+
+
+

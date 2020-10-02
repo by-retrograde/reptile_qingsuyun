@@ -1,0 +1,1438 @@
+1. ____________ is a symmetric block type of cipher used to encrypt information and is currently the standard for the US. government in protecting sensitive and secret documents.
+
+试题解析：The Advanced Encryption Standard (AES) is currently used to encrypt and protect US.government sensitive and secret data. There are variants, but the most common is 256 -bit, which is virtually impossible to break today.
+Option A is incorrect because MD5 is a cryptographic hash function used to verify that a file has not been altered.
+SSL uses certificates to create a secure connection using encryption. Option B is incorrect.
+Blowfish is a symmetric-key block cipher that has been replaced by AES encryption. The U.S. government uses AES and not Blowfish. Option C is incorrect.
+A. MD5
+B. Secure Socket Layer (SSL)
+C. Blowfish
+D. Advanced Eincry ption Standard (AES)
+正确
+
+
+2. Which of the following is an international organization of network designers and architects who work together in establishing standards and protocols for the Internet?
+
+试题解析：The IETF is an international organization of network designers and architects who work together in establishing standards and protocols for the Internet.
+IANA oversees global IP address allocation among other Internet tasks. IANA does not establish standards and protocols for the Internet. Option A is incorrect.
+Option B is incorrect because the ISO/IEC develops, maintains and promotes standards in information technology and information communication technology.
+Option C is incorrect because NIST is a federal government standards body in the US.
+A. 1 Internet Assigned Numbers Authority (IANA)
+B. International Organization for Standardization (ISO)/ International Electrotechnical Commission (IEC)
+C. National Institute of Standards and Technology (NIST)
+D. Internet Engineering Task Force (IETF)
+正确
+
+
+3. Which of the following, is the core of any system handling all input/output (I/O) instructions?
+
+试题解析：The central processing unit (CPU) is the core of any and all systems, handling all the basic I/O instructions as they originate from the software.
+The question focuses on the handling of all input/output (I/O) instructions. Only the CPU does that. Options B, C, and D function as a result of the CPU handling all of I/O for the hypervisor, user interface, and supervising application. The CPU is the core of computing systems. Options B, C, and D are incorrect.
+A. Central processing unit (CPU)
+正确
+B. Hypervisor
+C. User interface
+D. Supervising application
+
+
+4. Which of the following are risks associated with virtualization?
+
+试题解析：The primary risks associated with virtualization are loss of governance, snapshot and image security, and sprawl.
+Options B and C are incorrect. Public awareness and increased costs are not risks associ-ated with virtualization.
+Option D is incorrect because the loss of data is not associated with virtua lization any-more than the loss of data is associated with non-virtualization.
+A. Loss of governance, snapshot and image security, and sprawl
+正确
+B. Public awareness, snapshot and image availability, and sprawl
+C. Increased cost, snapshot and image security, and sprawl
+D. Loss of data
+
+
+5. What is the primary reason for the use of SSDs in the cloud today?
+
+试题解析：Solid-state disks (SSDs) are used in cloud computing today because they operate at high speeds as compared to traditional spinning drives.
+Option B is incorrect. SSDs do not necessarily last longer than magnetic drives.
+Options C and D are incorrect because SSDs are not noticeably easier or quicker to replace than traditional drives.
+A. They are faster than traditional spinning drives.
+正确
+B. They last longer than traditional spinning drives.
+C. They are easier to replace than traditional spinning drives.
+D. They can be replaced quickly.
+
+
+6. Which type of law consists of a body of rules and statutes that define prohibited conduct and is set out to protect the safety and well-being of the public?
+
+试题解析：Criminal law is set out in rules and statutes created by a government, prohibiting certain activities as a means of protecting the safety and well-being of its citizens.
+Violations generally consist of both monetary and/or loss of liberty punishments.
+Tort law refers the body of laws that provide remedies to individuals who have been caused harm by unreasonable acts of others. Negligence is the most common type of tort lawsuit. Therefore, option A is incorrect.
+Option C is incorrect because civil law pertains to contracts, property, and family law as opposed to crimes like murder and theft that are associated with criminal law.
+Contracts are agreements bet ween parties to exchange goods and services; Option D is incorrect.
+A. Tort
+B. Criminal
+正确
+C. Civil
+D. Contract
+
+
+7. Which type of networking model is optimized for cloud deployments in which the underlying storage and IP networks are combined so as to maximize the benefits of a cloud workload?
+
+试题解析：Optimized for cloud deployments, the converged networking model combines the underlying storage and IP networks to maximize the benefits of a cloud workload.
+A. Software-defined networking model
+B. Enterprise networking model
+C. Converged networking model
+正确
+D. Legacy networking model
+
+
+8. In working with various networking technologies such as Frame Relay, ATM, and Ethernet, the capability of the network to provide better service to selected traffic is called_______.
+
+试题解析：Quality of service (QoS) refers to the capability of a network to provide better service for certain traffic regardless of network type or topology.
+The other options contain uppercase and lowercase letters that may or may not be related to the cloud. Option D is the only option that answers the question correctly. The acronym QoS represents Quality of Service. QoS is used to set priorities for specific types of data to dependably run high-priority applications and traffic.
+A. QaS
+B. ASP
+C. OLA
+D. QoS
+正确
+
+
+9. Which of the following standards is typically used to convey public key information in a public-key infrastructure (PKI) arrangement?
+
+试题解析：Option A is incorrect because soft ware-defined networking refers to a net working architecture consisting of three layers: application, control, and infrastructure.
+Enterprise networking is a general term, not specifically related to the cloud. Option B is incorrect.
+Legacy networking or traditional networking is designed for traditional networks that use physical devices and components rat her than virtuaI. Option D is incorrect.
+A. Security Assertion Markup Language (SAML)
+B. X.400
+C. X.509
+正确
+D. 802.11
+
+
+10. Which of the following is appropriate to include in a service-level agreement (SLA)?
+
+试题解析：SLA elements should be objective, numeric values, for repeated activity.
+Options B and C are useful elements to be included in the contract, but not specifically the SLA. Options B and C are incorrect.
+Option A is too ambiguous;&ldquo;excellent&quot; is not a discrete value. Option A is incorrect.
+A. That the provider deliver excellent uptime
+B. That the provider host the customer&#39;s data only within specific jurisdictions
+C. That any conflicts arising from the contract be settled within a particular jurisdiction
+D. The specific amount of data that can be uploaded to the cloud environment in any given month
+正确
+
+
+11. &nbsp;Which of the following is an example of true multifactor authentication?
+
+试题解析：The check involves two kinds of security elements: something you have (the check) and something you are (the biometric control, the signature).
+Option A is two elements of the same kind: something you know. This is incorrect.
+Option B is two elements of the same kind: something you are. This is incorrect.
+Option C is two elements of the same kind: something you have. This is incorrect.
+A. Having a login that requires both a password and a personal identification number (PIN)
+B. Using a thumbprint and voice recognition software for access control
+C. Presenting a credit card along with a Social Security card
+D. Signing a personal check
+正确
+
+
+12. Which of the following tools incorporates and references the requirements listed in all the others?
+
+试题解析：The CCM is a tool for determining control coverage for compliance with a variety of standards and regulations.
+All the other options are standards or regulations.
+A. ISO 27001
+B. Cloud Security Alliance (CSA) Cloud Controls Matrix (CCM)
+正确
+C. Federal Risk and Authorization Management Program (Fed RAMP)
+D. European Union Agency for Network and Information Security (ENISA)
+
+
+13. In a centralized broker identity federation, which entity typically creates and sends the Security Assertion Markup Language (SAML) token?
+
+试题解析：In a centralized broker federation, the broker (typically a third party) acting as the identity provider, creates the SAML identity assertion tokens and delivers them to the relying parties.
+All the other options are distractors and not entities that are assigned specific roles in a federation motif.
+A. The cloud provider
+B. The Internet service provider (ISP)
+C. The broker
+正确
+D. The cloud customer
+
+
+14. The term cloud carrier most often refers to_________.
+
+试题解析：Cloud carrier is a term describing the intermediary between cloud customer and provider that delivers connectivity; this is typically an ISP.
+Options A and B are other typical cloud computing roles; option D is a not a term with any meaning in this context.
+A. The cloud provider
+B. The cloud customer
+C. An Internet service provider (ISP)
+正确
+D. A cloud manager
+
+
+15. Every cloud service provider that opts to join the Cloud Security Alliance Security,Trust, and Assurance Registry (CSA STAR) program registry must complete a________.
+
+试题解析：The CAIQ is the CSA&#39;s mechanism for STAR applicants to evaluate their own ervice.
+The SOC reports are part of the Statement on Standards for Attestation Engagements (SSAE) 18 audit standard; option A is incorrect.
+The NIST RMF is only mandated for U.S. federal agencies and not part of the CSA purview; option C is incorrect.
+The ISMS is one of the ISO standards and not part of the CSA purview; option D is incorrect.
+A. Service Organization Control (SOC) 2, Type 2 audit report
+B. Consensus Assessment Initiative Questionnaire (CAIQ)
+正确
+C. National Institute of Standards and Technology (NIST) 800-37 Risk Management Framework (RMF) audit
+D. ISO 27001 information security management system (ISMS) review
+
+
+16. What is the highest level of the Cloud Security Alliance Security, Trust, and Assurance Registry (CSA STA R) certification program for cloud service providers?
+
+试题解析：There are three levels of the CSA STAR program, and 3 is the highest. All the other options are incorrect.
+A. 1
+B. 2
+C. 3
+正确
+D. 4
+
+
+17. What is the lowest level of cryptographic security for a cryptographic module, according to the Federal Information Processing Standard (FIPS) 140-2 standard?
+
+试题解析：The lowest level of the FIPS 140-2 standard is 1. All the other options are incorrect.
+A. 1
+正确
+B. 2
+C. 3
+D. 4
+
+
+18. Which IT product review framework is intended to determine the accuracy of vendor claims regarding security functions of the product?
+
+试题解析：The Common Criteria is a framework for reviewing product security functions, as stated by the vendor.
+The UL is a standards and certification entity concerned with product safety; option A is incorrect.
+FIPS 140-2 is a standard for certifying cryptographic modules; option B is incorrect.
+PCI DSS is a security standard for credit card merchants and processors; option C is incorrect.
+A. Underwriters Laboratories (UL)
+B. Federal Information Processing Standard (FIPS) 140-2
+C. Payment Card Industry (PCI) Data Security Standard (DSS)
+D. Common Criteria
+正确
+
+
+19. The Payment Card Industry (PCI) Data Security Standard requires different levels of activity based on participants&#39;__________.
+
+试题解析：There are four PCI merchant levels, based on the number of transactions an organization conducts per year.
+All the other options are incorrect answers.
+A. Number of personnel
+B. Branch locations
+C. Number of transactions per year
+正确
+D. Preferred banking institutions
+
+
+20. A cloud provider&#39;s Service Organization Control (SOC) 1 report may not be useful to customers interested in determining the provider&#39;s security posture because the SOC 1 report contains only information about________.
+
+试题解析：The SOC 1 report reviews the accuracy and completeness of an organization&#39;s financial reporting mechanisms.
+All the other options are incorrect.
+A. Sales projections
+B. Financial reporting
+正确
+C. Previous customer satisfaction
+D. Process definition
+
+
+21. A cloud provider might only release Service Organization Control (SOC 2), Type 2 reports to_________.
+
+试题解析：Because of the sensitive nature of the material covered in the SoC 2, Type 2 report,a cloud provider might not be willing to share it with any entity that does not have a financial stake in the cloud service.
+All the other options are entities that are unlikely to receive a SOC 2, Type 2 report from a cloud provider.
+A. Regulators
+B. The public
+C. Potential customers
+D. Current customers
+正确
+
+
+22. Which of the following standards addresses a company&#39;s entire security program, involving all aspects of various security disciplines?
+
+试题解析：The ISO 27001 standard reviews an organization&#39;s security in terms of an information security management system (ISMS), which involves a holistic view of the entire security program.&nbsp;
+ISO 27002 is a standard for applying controls to the ISMS; option B is incorrect.
+NIST 800-37 is the Risk Management Framework; option C is incorrect.
+SSAE is an audit standard for financial reporting and the controls within an environment; option D is incorrect.
+A. ISO 27001
+正确
+B. ISO 27002
+C. National Institute of Standards and Technology (NIST) 800-37
+D. Statement on Standards for Attestation Engagements (SSAE) 18
+
+
+23. When a company is first starting and has no defined processes and little documentation, it can be said to be at level_______of the Capability Maturity Model (CMM).
+
+试题解析：Level 1 is the initial level of maturity for a company and its processes; activity may be performed in an ad hoc manner.
+All the other options are greater maturity levels of the CMM.
+A. 1
+正确
+B. 2
+C. 3
+D. 4
+
+
+24. Which entity is legally responsible for the protection of personal data?
+
+试题解析：The data controller is legally liable for protecting any privacy data it has. All the other options are other data privacy roles that do not have ultimate legal responsibility.
+A. The data subject
+B. The data controller
+正确
+C. The data processor
+D. The data steward
+
+
+25. In addition to the Privacy Shield program, what other means can non-European Union (EU) companies use to be allowed to process personal data of EU citizens?
+
+试题解析：Companies that are not in countries that have laws in accordance with the EU privacy regulations can instead opt for creating contract language that voluntarily complies with the laws.
+All the other options are incorrect because they do not allow non-European Union com-panies to process personal data of EU citizens.
+A. Enhanced security controls
+B. Standard contractual clauses
+正确
+C. Increased oversight
+D. Modified legal regulation
+
+
+26. In order for American companies to process personal data belonging to European Union (EU) citizens, they must comply with the Privacy Shield program. The program is administered by the US. Department of Transportation and the________.
+
+试题解析：The FTC is the local U.S. enforcement arm for most Privacy Shield activity.
+All the other options are U.S. government agencies not involved with Privacy Shield.
+A. U.S. State Department
+B. Fish and Wildlife Service
+C. Federal Trade Commission (FTC)
+正确
+D. Federal Communication Commission (FCC)
+
+
+27. What is the current European Union (EU) privacy legislation that restricts dissemination of personal data outside the EU?
+
+试题解析：The GDPR is the current prevailing EU privacy data legislation. It replaced the Data&nbsp;Directive. Privacy Shield is the program under which entities in non-adhering countries can still be allowed to process the personal data of EU citizens. SOX is an American law.
+A. The EU Data Directive
+B. Privacy Shield
+C. The General Data Protection Regulation (GDPR)
+正确
+D. Sarbanes _Oxley (SOX)
+
+
+28. Who is the entity identified by personal data?
+
+试题解析：The data subject is the person who is identified by personal data.
+All the other options are other privacy- data-related roles.
+A. The data owner
+B. The data processor
+C. The data custodian
+D. The data subject
+正确
+
+
+29. Which of the following is not a core principle included in the Organisation for Economic Cooperation and Development (OECD) privacy guidelines?
+
+试题解析：This is an aspect of the current European Union (EU) legislation, known colloquially as&ldquo;the right to be forgotten&quot;&mdash; it is not an aspect of the OECD principles.
+All the other options are included in the OECD principles.
+A. The individual must have the ability to refrain from sharing their data.
+B. The individual must have the ability to correct errors in their data.
+C. The individual must be able to request a purge of their data.
+正确
+D. The entity holding the data must secure it.
+
+
+30. You are the security manager for a software development firm. Your company is interested in using a managed cloud service provider for hosting a customer-facing production environment. Many of your end users are located in the European Union (EU) and will&nbsp;provide personal data as they use your software. Your company will not be allowed to use a cloud data center in which of the following countries?
+
+试题解析：Kenya does not currently have a federal privacy law that conforms to EU legislation.
+All the other options are countries that do (France is in the EU).
+A. Canada
+B. Singapore
+C. France
+D. Kenya
+正确
+
+
+31. You are the security manager for a software development firm. Your company is interested in using a managed cloud service provider for hosting a customer facing production environment. Many of your end users are located in the European Union (EU) and will provide personal data as they use your software. Your company will not be allowed to use a cloud data center in which of the following countries?
+
+试题解析：South Korea does not currently have a federal privacy law that conforms to EU&nbsp;legislation. All the other options are countries that do.
+A. Argentina
+B. Israel
+C. South Korea
+正确
+D. Switzerland
+
+
+32. You are the security manager for a software development firm. Your company is interested in using a managed cloud service provider for hosting a customer-facing production environment. Many of your end users are located in the European Union (EU) and will provide personal data as they use your software. Your company will not be allowed to use a cloud data center in which of the following countries?
+
+试题解析：Chile does not currently have a federal privacy law that conforms to EU legislation. All the other options are countries that do (Belgium is in the EU).
+A. Japan
+B. Australia
+C. Belgium
+D. Chile
+正确
+
+
+33. You are the security manager for a software development firm. Your company is interested in using a managed cloud service provider for hosting its testing environment. Your company has, and wishes to retain, ISO 27034 certification. For every new application it creates, it will also have to create a(n)__________.
+
+试题解析：ISO 27034 compliance requires an ANF for every application within the organization.
+Under 27034, the organization only needs one ONF, of which every ANF is a subset.
+Option A is incorrect.
+There is no INF. The term is a distractor; option C is incorrect.
+SOC 3 reports are for the Statement on Standards for Attestation Engagements (SSAE) standard, not ISO 27034; option D is incorrect.
+A. Organizational normative framework (ONF)
+B. Application normative framework (ANF)
+正确
+C. Intrinsic normative framework (INF)
+D. Service Organization Control (SOC) 3 report
+
+
+34. You are the security manager for a software development firm. Your company is interested in using a managed cloud service provider for hosting its testing environment. Management has decided that the company will deploy encryption, data loss prevention or data leak protection (DLP), and digital rights management (DRM) in the cloud environment for additional protection. When consulting with management, you explain that these tools will most likely reduce_______.
+
+试题解析：Every additional security measure might reduce a potential threat but definitely will reduce productivity and quality of service. There is always an overhead Cost of security.
+A. External threats
+B. Internal threats
+C. Software vulnerabilities
+D. Quality of service
+正确
+
+
+35. You are the security manager for a software development firm. Your company is interested in using a managed cloud service provider for hosting its testing environment. You recommend the use of STRIDE threat modeling to assess potential risks associated with the software. Which of the following is not addressed by STRIDEP
+
+试题解析：STRIDE does not address user security training.
+All the other options are aspects addressed by the STR IDE model.
+A. External parties presenting false credentials
+B. External parties illicitly modifying information
+C. Participants able to deny a transaction
+D. Users unprepared for secure operation by lack of training
+正确
+
+
+36. You are the security manager for a software development firm. Your company is interested in using a managed cloud service provider for hosting its testing environment. The backend of the software will have the data structured in a way to optimize XML requests.<br />
+Which API programming style should programmers most likely concentrate on for the frontend interface?
+
+试题解析：SOAP is a web service programming format that requires the use of XML.
+REST relies more often on uniform resource identifiers (URIs) than XML; option B is incorrect.
+SAML is a protocol for passing identity assertions over the Internet; option C is incorrect.
+DLP is a data egress monitoring tool; option D is incorrect.
+A. Simple Object Access Protocol (SOAP)
+正确
+B. Representational state transfer (REST)
+C. Security Assertion Markup Language (SAML)
+D. Data loss prevention or data leak protection (DLP)
+
+
+37. You are the security manager for a software development firm. Your company is interested in using a managed cloud service provider for hosting its testing environment.<br />
+Management is interested in adopting an Agile development style. This will be typified by which of the following traits?
+
+试题解析：Agile development often involves daily meetings (called Scrums).
+Agile methodology spurns the use of specific tools and concrete planning; options B and C are incorrect.
+Agile also favors customer collaboration and prototyping instead of an elaborate contract mechanism; option D is incorrect.
+A. Daily meetings
+正确
+B. A specific shared toolset
+C. Defined plans that dictate all efforts
+D. Addressing customer needs with an exhaustive initial contract
+
+
+38. You are the security manager for a software development firm. Your company is interested in using a managed cloud service provider for hosting its testing environment.<br />
+Management is interested in adopting an Agile development style. This will be typified by which of the following traits?
+
+试题解析：Agile development is usually organized in relatively short iterations of effort, between a week and a month in duration.
+Dependence on planning is directly contrary to Agile methodology; option A is incorrect.
+In Agile, prototyping is favored over testing; opt ion B is incorrect.
+Agile relies on cooperative development instead of stovepiped expertise; option C is incorrect.，
+A. Reliance on a concrete plan formulated during the Define phase
+B. Rigorous, repeated security testing
+C. Isolated programming experts for specific functional elements
+D. Short, iterative work periods
+正确
+
+
+39. You are the security manager for a software development firm. Your company is interested in using a managed cloud service provider for hosting its testing environment.<br />
+Management is interested in adopting an Agile development style. In order for this to happen, the company will have to increase the involvement of_________.
+
+试题解析：Agile requires interaction bet ween developers and personnel who will use the software.
+All the other options are not essential roles in Agile development.
+A. Security personnel
+B. Budget and finance representatives
+C. Members of the user group
+正确
+D. Senior management
+
+
+40. You are the security manager for a software development firm. Your company is interested in using a managed cloud service provider for hosting its testing environment.<br />
+Management is interested in adopting an Agile development style. When you explain what impact this will have, you note that _______ may be decreased by this option.
+
+试题解析：The Agile method reduces the dependence and importance of documentation in favor of functioning software versions.
+All the other options are elements that will most likely be increased by transitioning to an Agile model.
+A. Speed of development
+B. Thoroughness of documentation
+正确
+C. Availability of prototypes
+D. Customer collaboration
+
+
+41. You are the security manager for a software development firm. Your company is interested in using a managed cloud service provider for hosting its testing environment.<br />
+Previous releases have shipped with major flaws that were not detected in the testing phase; leadership wants to avoid repeating that problem. It is important to prevent______ from being present during the testing.
+
+试题解析：Programmers have a vested interest in, and a specific perspective of, software they create. They can unduly influence testing outcomes, even unintentionally. It is best to prevent programmers from attending testing of software they helped create.
+All the other options are personnel who do not need to be present but will not necessarily cause undue influence of the testing process.
+A. Senior management
+B. Marketing department personnel
+C. Finance analysts
+D. Programmers who worked on the software
+正确
+
+
+42. You are the security manager for a software development firm. Your company is interested in using a managed cloud service provider for hosting its testing environment. Previous releases have shipped with major flaws that were not detected in the testing phase; leadership wants to avoid repeating that problem. What tool, technique, or technology might you suggest to aid in identifying programming errors?
+
+试题解析：Open source review can detect flaws that a structured testing method might not.
+Vulnerability scans will only detect known problems, not programming defects that have not yet been identified; option A is incorrect.
+Neither SOC audit nor regulatory review have anything to do with finding software flaws; options C and D are incorrect.
+A. Vulnerability scans
+B. Open source review
+正确
+C. Service Organization Control (SOC) audits
+D. Regulatory review
+
+
+43. You are the security manager for a software development firm. Your company is interested in using a managed cloud service provider for hosting its testing environment. Which of the following tools, technologies, or techniques may be very useful for your purposes?
+
+试题解析：Sandboxing allows software to be run in an isolated environment, which can aid in error detection.
+Software testing should not include raw production data, so there is no purpose for using DLP and DRM solutions; options A and B are incorrect.
+The WAF is used to filter web traffic; in the testing environment, there should not be any live traffic going to the software. Option D is incorrect.
+A. Data loss prevention or data leak protection (DLP)
+B. Digital rights management (DRM)
+C. Sandboxing
+正确
+D. Web application firewall (WAF)
+
+
+44. You are the security manager for a software development firm. Your company is interested in using a managed cloud service provider for hosting its testing environment. Which cloud service or deployment model would probably best suit your needs?
+
+试题解析：Pas is optimum for software testing as it allows the software to run across multiple platforms/OSs.
+All the other options are service/deployment models that are not as optimum for software testing as PaaS.
+A. Infrastructure as a service (IaaS)
+B. Platform as a service (PaaS)
+正确
+C. Software as a service (SaaS)
+D. Community .
+
+
+45. Which of the following can be included in the cloud security architecture as a means to identify and reject hostile SQL commands?
+
+试题解析：A DAM can recognize and block malicious SQL traffic.
+A WAF is a Layer 7 firewall that understands hostile HTTP traffic. Option A is incorrect.
+An API gateway filters API traffic. Option B is incorrect.
+DLP solutions are used for egress monitoring, not incoming SQL commands. Option C is incorrect.
+A. Web application firewall (WAF)
+B. Application programming interface (API) gateway
+C. Data loss prevention or data leak protection (DLP)
+D. Database activity monitor (DAM)
+正确
+
+
+46. What is the most important input to the software development lifecycle (SDLC?
+
+试题解析：Business requirements are paramount because they incorporate the elements of all the other options as well as additional inputs.
+A. Senior management direction
+B. Legislation/regulation
+C. Investor oversight
+D. Business requirements
+正确
+
+
+47. Which of the following is not typically included as a basic phase of the software development lifecycle (SDLC)?
+
+试题解析：Describe is not a common phase in the SDLC; the software should be described in the Define phase.
+All the other options are common phases of the SDLC.
+A. Define .
+B. Design
+C. Describe
+正确
+D. Develop
+
+
+48. You are the security director for a call center that provides live support for customers of various vendors. Your staff handles calls regarding refunds, complaints, and the use of products customers have purchased. To process refunds, your staff will have access to purchase information, determine which credit card the customer used, and identify specific elements of personal data. How should you best protect this sensitive data and still accomplish the purpose?
+
+试题解析：Masking the data (such as replacing the majority of the credit card number with Xs, leaving only the last four digits in view) should suffice for the purpose; it allows the call center personnel to determine which card was used in the sale but does not reveal the card number to the call center.
+Encrypting the data in storage but allowing call center personnel to decrypt it creates a vast opportunity for fraud and abuse; option A is incorrect.
+Encrypting the data while the call center is trying to make the refund would be counter-productive; the call center personnel would be unable to determine which card gets the refund. Option B is incorrect.
+Relying on the customer to provide the correct card number invites inaccuracy and exposes the transaction to fraud; option D is not correct.
+A. Encrypt the data while it is at rest but allow the call center personnel to decrypt it for refund transactions.
+B. Encrypt the data while call center personnel are performing their operations.
+C. Mask the data while call center personnel are performing their operations.
+正确
+D. Have the call center personnel request the pertinent information from the customer for every refund transaction.
+
+
+49. Which of the following is an open source cloud based software project characterized by a toolset that includes components called Nova, Neutron, Heat, Ironic, and Cinder?
+
+试题解析：OpenStack is an open source project for creating cloud environments regardless of hardware brand.
+Open Web Application Security Project (OWASP) is an open source web application devel-opment project and does not involve the use of any of the tools mentioned in the question.
+Opt ion A is incorrect.
+OAuth is a set of standards for identity federation. Option B is incorrect.
+Mozilla is a company that produces and administers open source software such as the&nbsp;Firefox web browser. Option D is incorrect.
+A. OWASP
+B. OAuth
+C. OpenStack
+正确
+D. Mozilla
+
+
+50. Which of the following is characterized by a set maximum capacity?
+
+试题解析：By definition, the tightly coupled cluster has a maximum capacity, whereas the loosely coupled cluster does not.
+The other options do not have a set maximum capacity and are therefore incorrect.
+A. A secret sharing made short (SSMS) bit-splitting implementation
+B. A tightly coupled cloud storage cluster
+正确
+C. A loosely coupled cloud storage cluster
+D. A public-key infrastructure
+
+
+51. A cloud provider conducting scheduled maintenance of the environment should do all the following except___________.
+
+试题解析：This action is pointless and excessive; the option is a distractor.
+All the other options are actions the cloud provider should undertake when conductinscheduled maintenance.
+A. Notify any customers who may be affected
+B. Require reverification of all user accounts
+正确
+C. Follow approved change-management procedures and processes
+D. Confirm that remaining resources are sufficient to manage the minimum load as dic-tated by service-level agreements (SLAs)
+
+
+52. In a cloud environment, prior to putting a node into maintenance mode, all of the following actions should be taken except_________.
+
+试题解析：During maintenance mode, all maintenance activities should still be logged and tracked.
+All the other actions are recommended for a cloud node entering maintenance mode.
+A. Prevent any new users from logging on or creating any new instances
+B. Migrate any existing guest virtual machines (VMs) to another node
+C. Disable alerts from host based intrusion detection systems (IDSs), intrusion prevention systems (IPSs), or firewalls
+D. Disable logging functions and tools
+正确
+
+
+53. You are performing an audit of the security controls used in a cloud environment. Which of the following would best serve your purpose?
+
+试题解析：The baseline configuration can be used as a template of controls applied throughout the environment.
+The BIA and financial records may offer an auditor insight into asset valuation/risk but will not provide meaningful data for a control audit. Options A and C are incorrect.
+The SOC 3 report is only an attestation by an auditor that an audit has taken place; it does not provide any useful information about security controls.
+A. The business impact analysis (BIA)
+B. A copy of the virtual machine (VM) baseline configuration
+正确
+C. The latest version of the company&#39;s financial records
+D. A Service Organization Control (SOC) 3 report from another (external) auditor
+
+
+54. All of the following techniques are used in OS hardening except___________.
+
+试题解析：Administrative access may be limited but not prevented.
+All the other options are common steps of OS hardening.
+A. Removing default accounts
+B. Disallowing local save of credentials
+C. Removing unnecessary services
+D. Preventing all administrative access
+正确
+
+
+55. You are the security officer for a cloud deployment. In order to secure data in transit, you can choose to implement all of the follow ing techniques and technologies except_______.
+
+试题解析：This question is challenging because it requires some abstract thought and all answers seem correct at first glance. Intrusion detection systems (IDSs) and intrusion prevention systems (IPSs) do not secure data; they detect attack activity.
+Domain Name System Security Extensions (DNSSEC) protects data in transit by reducing the risk of DNS poisoning; Transport Layer Security (TLS) and Internet Protocol Security (IPSec) reduce the risk of eavesdropping and interception of data.
+A. DNSSEC
+B. TIS
+C. IDS/IPS
+正确
+D. IPSec
+
+
+56. Dynamic Host Configuration Protocol (DHCP) servers in a network will provide the clients with all of the following except_________.
+
+试题解析：DHCP servers do not normally orchestrate encryption.
+All the other options are common functions of DHCP servers
+A. A temporary IP address
+B. Encryption protocols
+正确
+C. A default gateway
+D. Time server synchronization
+
+
+57. &nbsp;FM-200 has all the following properties except ________.
+
+试题解析：One of the properties that makes it desirable for fire suppression in a data center is that FM-200 does not leave a residue.
+All the other options are true statements about FM-200.
+A. It is colorless
+B. It leaves a faint chemical residue after use
+正确
+C. It is liquid when stored
+D. It is nonconducive
+
+
+58. FM-200 has all the following properties except __________.
+
+试题解析：FM-200 is used as a replacement for older Halon systems specifically bec ause it (unlike Halon) does not deplete the ozone layer.
+All the other options are true statements about FM-200 used in fire suppression.
+A. It&#39;s nontoxic at levels used for fire suppression
+B. It&#39;s gaseous at room temperature
+C. It may deplete the earth&#39;s ozone layer
+正确
+D. It does not leave a film or coagulant after use
+
+
+59. Fire suppression systems are often linked to a detection system. Common detection systems include all of the following except________.
+
+试题解析：Pressure detection is not a common detection technology.
+All the other options are common fire detection methods.
+A. Heat
+B. Pressure
+正确
+C. Flame
+D. Smoke
+
+
+60. There are two general types of smoke detectors. One type uses a light source to detect the presence of particulate matter resulting from a fire, and the other uses__________.
+
+试题解析：lonization- based smoke detectors use trace amounts of a radionuclide (often americium) to detect the presence of particulate matter in the detection chamber when smoke particles interrupt the constant electric current.
+Neither type uses the techniques described in the other options, as they are all incorrect answers.
+A. Electric pulses
+B. Small amounts of radioactive material
+正确
+C. Fiber optic mechanisms
+D. A water-pressure plate
+
+
+61. Typically, when raised flooring is used as an air plenum,________ air is directed through it.
+
+试题解析：Cold air is usually put through raised flooring because warm air naturally rises and using the raised flooring to conduct warm air would require an unnecessary and inefficient expenditure of energy.
+All the other options are incorrect as they include warmer air.
+A. Warm
+B. Cold
+正确
+C. Bleed
+D. Exhaust
+
+
+62. Raised flooring can serve as both an air plenum and_______.
+
+试题解析：ldeally, raised flooring should be used for no other purpose because any objects in that location would impede airflow. Therefore, options A, B, and D are incorrect because they defeat the purpose of the raised flooring design.
+A. A convenient location for RAID arrays
+B. Cool storage for data center personnel meals
+C. A conduit for running cable
+正确
+D. Disaster shelter locations
+
+
+63. To optimize airflow within a data center according to industry standards, a raised floor used as an air plenum must have at least_______of clearance.
+
+试题解析：The industry standard is 24 inches. All the other options are incorrect.
+A. One foot
+B. One meter
+C. 24 inches
+正确
+D. 30 inches
+
+
+64. Disciplined cable management is crucial for cloud data centers because it provides greater assurance of only authorized lines operating in the environment and_________.
+
+试题解析：Unused or poorly managed cabling can impede efficient air flow, increasing HVAC and energy costs and increasing the difficulty of optimizing temperature.
+While it is possible that mismanaged cabling could cause slip/trip/fall hazards, this is much less common in modern data centers; option A is preferable in this case.
+Cabling does not really have much of an environmental footprint, so discipline applied to cabling won&#39;t affect the environment much, one way or the other; option C is incorrect.
+Regulators do not usually enforce cable management; option D is incorrect.
+A. Reduces unproductive heating, ventilation, and air conditioning (HVAC) activity
+正确
+B. Reduces the risk of slip, trip, and fall hazards
+C. Greatly reduces the environmental footprint
+D. Ensures regulatory compliance
+
+
+65. When a data center is configured such that the backs of the devices face each other and the ambient temperature in the work area is cool, it is called__________.
+
+试题解析：This is a description of hot aisle containment.
+Cold aisle containment is a configuration where the fronts of devices face each other.
+Option B is incorrect.
+Option C is not relevant in this context. Option C is incorrect.
+Option D does not describe the data center configuration in the question. Option D is incorrect.
+A. Hot aisle containment
+正确
+B. Cold aisle containment
+C. Thermo -optimized
+D. Heating, ventilation, and air conditioning (HVAC) modulated
+
+
+66. You are the security manager for a retail company that is considering cloud migration to a public, software as a service (SaaS) solution both for your current internaI production environment (an on-premises data center) and to host your e commerce presence. Which of the following is a new concern you should bring up to senior management for them to consider before the migration?
+
+试题解析：Because of the multitenant nature of public cloud services, processes and resources that are not properly isolated may create a situation where data could be disclosed to other cloud customers (neighboring tenants). This is a new threat that may result from the migration.
+All the other options are existing threats in the company&#39;s current environment.
+A. Regulatory compliance for your credit card processing transactions
+B. Inadvertent disclosure by internal (company) personnel
+C. Data disclosure through insufficiently isolated resources
+正确
+D. Malicious intrusion by external entities
+
+
+67. Which of the following is a file server that provides data access to multiple, heterogeneous machines and users on the network?
+
+试题解析：This is the description of a NAS device.
+ASAN typically presents storage devices to users as attached/mounted drives. Option A is incorrect.
+An HSM is designed for encryption generation and management; option C is incorrect.
+A CDN typically replicates multimedia content at multiple, geographically diverse loca-tions to ensure high quality for recipients. Option D is incorrect.
+A. Storage area network (SAN)
+B. Network-attached storage (NAS)
+正确
+C. Hardware security module (HSM)
+D. Content delivery network (CDN)
+
+
+68. Which of the following attack vectors is new to the cloud environment and was not typically found in on-premises, legacy environments?
+
+试题解析：Guest escape is a prevailing threat in a virtualized, multitenant cloud environment and was not commonly found in traditional environments (those environments were typically not virtualized and did not serve more than one customer, the owning organization).
+All the other threats are currently faced by cloud customers but also existed in the tradi-tional environment.
+A. Distributed denial of service (DDoS)
+B. Guest escape
+正确
+C. Internal threats
+D. Inadvertent disclosure
+
+
+69. &nbsp;Which of the following cloud environment accounts should only be granted on a temporary basis?
+
+试题解析：If external vendors need access to the cloud environment, that access should only be granted on an extremely limited and temporary basis.
+All the other options are common cloud access types and don&#39;t necessarily need to be limited in duration.
+A. Remote users
+B. Senior management
+C. Internal users
+D. External vendors
+正确
+
+
+70. Which of the following is not a typical physical access control mechanism in the cloud data center?
+
+试题解析：Fire suppression systems are physical control mechanisms commonly found in cloud data centers but are not an element of access control.
+All the other options are common physical access control mechanisms in a cloud data center
+A. Cage locks
+B. Video surveillance
+C. Rack locks
+D. Fire suppression
+正确
+
+
+71. Which of the following is not usually suitable for inclusion in a service-level agreement (SLA) for managed cloud services?
+
+试题解析：The SLA won&#39;t typically include direct mention of the sorts of personnel security measures undertaken by the cloud provider. This may be mentioned, obliquely, in another part of the contract (that is, there may be some language that states that the provider is responsible for ensuring the trust worthiness of its personnel), but it is not a useful SLA element.
+All the other options are excellent items to include in an SLA.
+A. Service availability
+B. Number of users and virtual machines
+C. Background checks for provider personnel
+正确
+D. Amount of cloud storage
+
+
+72. Which of the following is an audit report on the design of an organization&#39;s controls?
+
+试题解析：The SOC 2 ,Type 1 audit reviews management&#39;s selection of controls for the organization&#39;s environment.
+The SOC 1 audit reviews the accuracy and correctness of the organization&#39;s financial reporting. Option A is incorrect.
+The SOC 3 is an attestation of an audit. Option C is incorrect.
+There is no SOC 4 report. Option D is incorrect.
+A. Service Organization Control (SOC) 1
+B. SOC2, Type 1
+正确
+C. SOC3
+D. SOC4
+
+
+73. Which of the following is not a common federation technology?
+
+试题解析：The Open Web Application Security Project (OWASP) is a volunteer organization that devises standards and solutions for web application development. All the other options are common federation technologies.
+A. WS-Federation
+B. OWASP
+正确
+C. OpenID
+D. OAuth
+
+
+74. In general, a cloud business continuity and disaster recovery (BC/DR) solution will be_____ than a physical solution.
+
+试题解析：Typically, the cost of using the cloud for contingency operations will be much less than creating a physical alternate operating site.
+Usually, a cloud solution may also be faster and easier to engineer than a physical solution; options A and D are incorrect.
+&quot;Larger,&quot; in this context, has no meaning, because the&ldquo;size&quot; of the cloud is a misnomer; option C is incorrect.
+A. Slower
+B. Less expensive
+正确
+C. Larger
+D. More difficult to engineer
+
+
+75. Which process artifact aids an organization in determining the critical assets and functions that need to continue operations during a business continuity and disaster recovery (BC/DR) contingency?
+
+试题解析：The BIA lists the assets of the organization and states their importance, value, and criticality. This can easily be used for BC/DR planning purposes.
+The SOC is an audit report; this does not aid in BC/DR planning. Option A is incorrect.
+The risk analysis and ALE calculation are used to select reasonable and cost-effective con- trols suitable for the environment; this does not aid in BC/DR efforts. Options C and D are incorrect.
+A. Service Organization Control (SOC) 2, Type 2
+B. Business impact analysis (BIA)
+正确
+C. Qualitative risk analysis report
+D. Annual loss expectancy (ALE) calculation
+
+
+76. Which phase of the business continuity and disaster recovery (BC/DR) process can result in a second disaster?
+
+试题解析：Returning to normal operations can result in a second disaster if the conditions created by the initial disaster (which created the need to run the BC/DR plan) have not fully been addressed/resolved.
+An inadvertent initiation of the plan can result in a disaster, but that would only be one disaster, not two; for instance, if senior management got faulty information during the event anticipation phase and decided to switch to contingency operations, but there was no actual causative event, that would be a single disaster. Options A and D are incorrect.
+The act of planning and crafting policy cannot take the form of a disaster. Option Bis incorrect.
+A. Event anticipation
+B. Creating BC/DR plans and policy
+C. Return to normal operations
+正确
+D. Incident initiation
+
+
+77. Which common characteristic of the cloud data center also serves customer business continuity and disaster recovery (BC/DR) needs?
+
+试题解析：The ubiquitous redundancy of systems and capabilities within most cloud data centers not only serves the provider&#39;s requirement to meet customer service-level agreements but also enhances the data center&#39;s (and the customer&#39;s) resistance to disasters and interruptions.
+All the other options are characteristics of a cloud data center, but they don&#39;t serve much BC/DR purpose; option C is the best choice.
+A. Multitenancy
+B. Virtualization
+C. Redundancy
+正确
+D. Software-defined networking
+
+
+78. In order for an organization to determine if its backup solution is adequate for meeting the recovery point objective (RPO), what must be done?
+
+试题解析：There is no way to know if the backup actually serves the purpose until the organization tests a restoration.
+The other options are all backup options but do not actually demonstrate whether the backup is suitable for the business continuity and disaster recovery ( BC/DR) requirements.
+A. Conduct full backups at least daily.
+B. Use a data mirroring solution.
+C. Put all backups in the cloud.
+D. Practice a restore from backup.
+正确
+
+
+79. Which of the following business continuity and disaster recovery (BC/DR) testing methodologies is least intrusive?
+
+试题解析：The tabletop testing method is the least intrusive type of BC/DR test. All the other options are BC/DR testing methods that are more intrusive.
+A. Walk-through
+B. Simulation
+C. Tabletop
+正确
+D. Full test
+
+
+80. In a virtualized cloud environment, the management plane is usually responsible for provisioning virtual machine instances with all of the following resources except______.
+
+试题解析：The user interface to the virtualized instance can be handled by a variety of mechanisms, but it is not the function of the management plane.
+All the other options are resources provisioned to the virtual machine(s) by the manage-ment plane.
+A. CPU
+B. Memory
+C. User interface
+正确
+D. Permanent storage
+
+
+81. In a virtualized environment, suspended virtual machine (VM) instances at rest are subject to increased risk because________.
+
+试题解析：Saved virtual instances are simply inert files, and they are very easy to copy and move.
+Encryption may be applied to data at rest (even VM snapshots); option A is incorrect.
+Insider threats within the cloud data center probably pose just as much risk to the storage nodes as the processing nodes; option B is incorrect.
+Option D is incorrect.
+A. There is no way to encrypt instances at rest
+B. Insider threats are greater for data storage locations than processing locations
+C. The instances are saved as image snapshots and highly portable
+正确
+D. They are unprotected unless multifactor authentication is required
+
+
+82. Which theoretical technology would allow superposition of physical states to increase both computing capacity and encryption keyspace?
+
+试题解析：This is a description of quantum computing.
+Option A is incorrect because it refers to a data transformation.
+Option C is a made up term and is therefore incorrect.
+Option D is incorrect because it is a data dispersion term.
+A. All-or- nothing- transform with Reed- Solomon (AONT-RS)
+B. Quantum computing
+正确
+C. Filigree investment
+D. Sharding
+
+
+83. Which theoretical technique would allow encrypted data to be manipulated without decrypting it first?
+
+试题解析：Option A is incorrect because R AID is a storage virtualization technology, used in traditional environments, that combines physical disks components into one or more logical units.
+SSMS involves encrypting a data set, then splitting the data into pieces, splitting the key into pieces, then signing the data pieces and key pieces and distributing them to various cloud storage locations. Option B is incorrect.
+Option D is incorrect because it uses public and private key pairs to encrypt and decrypt data.
+A. RAID
+B. Secret sharing made short (SSMS)
+C. Homomorphic encryption
+正确
+D. Asymmetric encryption
+
+
+84. Which cloud data storage technique involves encrypting a data set, then splitting the data into pieces, splitting the key into pieces, then signing the data pieces and key pieces and distributing them to various cloud storage locations?
+
+试题解析：Option A is incorrect because RAID is a storage virtualizat ion technology, used in traditional environments, that combines physical disks components into one or more logical units.
+Homomorphic encryption is a theoretical conversion of data into ciphertext that can be analyzed as if it were in its original form. Option C is incorrect.
+Option D is incorrect because it uses public and private key pairs to encrypt and decrypt data.
+A. RAID
+B. Secret sharing made short (SSMS)
+正确
+C. Homomorphic encryption
+D. Asymmetric encryption
+
+
+85. Which security principle dictates that encryption key management and storage should be isolated from the data encrypted with those keys?
+
+试题解析：Separation of duties dictates that one person/entity cannot complete an entire transaction alone. In the case of encryption, a single entity should not be able to dminister the issuing of keys, encrypt the data, and store the keys, because this could lead to a situation where that entity has the ability to access or take encrypted data.
+All the other options are security principles but are not intrinsically applicable to the con-cept of storing encryption keys away from encrypted data.
+A. Least privilege
+B. Two-person integrity
+C. Compartmentalization
+D. Separation of duties
+正确
+
+
+86. You are the security officer for a company operating a production environment in the cloud. Your company&#39;s assets have a high degree of sensitivity and value, and your company has decided to retain control and ownership of the encryption key management system. In order to do so, your company will have to have which of the following cloud service/deployment models?
+
+试题解析：Managing the encryption keys on-premises necessitates some elements of a hybrid cloud model; the key management is done on-premises, and the production takes place in the cloud.
+A public cloud arrangement would preclude the customer hosting the key management system on its premises; option A is incorrect.
+The service model is slightly irrelevant to where the key management system is located; whereas customer-hosted key management is usually associated with an SaaS model, it is not strictly required. Options B and D are incorrect.
+A. Public
+B. Infrastructure as a service (IaaS)
+C. Hybrid
+正确
+D. Software as a service (SaaS)
+
+
+87. Which of the following techniques is not recommended for privileged user management?
+
+试题解析：If anything, the audit trail for privileged users should be more detailed than that for regular users.
+All the other options are recommended techniques for privileged user management.
+A. Increased password/phrase complexity
+B. More frequent password/phrase changes
+C. More detailed background checks
+D. Less detailed audit trail
+正确
+
+
+88. Your company uses a managed cloud service provider to host the production environment. The provider has notified you, along with several other of the provider&#39;s customers, that an engineer working for the provider has been using administrative access to steal sensitive data and has been selling it to your competitors. Some of this sensitive data included personally identifiable information (PII) related to your employees. Your company&#39;s general counsel informs you that there are at least three jurisdictions involved that have laws requiring data breach notification for PI. Who has legal liability for the costs involved with making the required notifications?
+
+试题解析：Under current laws, the owner of the PIl is legally responsible for data breach notifications, regardless of the circumstances of the breach; in this case, your company is the PII owner.
+All the other options are incorrect because those entities are not the owner of the PI.
+A. The cloud provider
+B. Your company
+正确
+C. The Internet service provider (ISP)
+D. Your regulators
+
+
+89. You are the security manager for a company that is considering cloud migration to an infrastructure as a service (IaaS) environment. You are assisting your company&#39;s IT architects in constructing the environment. Which of the following options do you recommend?
+
+试题解析：The Type I hypervisor is preferable, as it offers less attack surface.
+All the other options increase risk and should not be recommended.
+A. Unrestricted public access
+B. Use of a Type I hypervisor
+正确
+C. Use of a Type II hypervisor
+D. Enhanced productivity without encryption
+
+
+90. Which of the following management risks can make an organization&#39;s cloud environment unviable?
+
+试题解析：Because the cost of creating new instances in the cloud environment is transparent to many users/offices, there is a significant likelihood that users/offices will create many new virtual machine (VM) instances without the knowledge/oversight of management.
+This can result in a very expensive surprise at the end of the payment period, when the organization receives the bill from the cloud prov der.
+All the other options are management risks that do not have anything specific to do with the cloud environment and should not affect it/be affected by it.
+A. Insider trading
+B. Virtual machine (VM) sprawl
+正确
+C. Hostile takeover
+D. Improper personnel selection
+
+
+91. Your organization is developing software for wide use by the public. You have decided to test it in a cloud environment, in a platform as a service (PaaS) model. Which of the following should be of particular concern to your organization for this situation?
+
+试题解析：Backdoors are a particularly prevalent risk in software development because programmers legitimately use backdoors for ease of use and speed of delivery but may mistakenly (or even purposefully) leave the backdoors in the software after development, creating a hidden and significant vulnerability.
+All the other options should be concerns of any cloud customer, but they are not of specific or increased concern for this situation.
+A. Vendor lock-in
+B. Backdoors
+正确
+C. Regulatory compliance
+D. High-speed network connectivity
+
+
+92. Which of the following is not included in the Open Web Application Security Project (OWASP) Top Ten web application security threats?
+
+试题解析：Internal theft is not listed in the OWASP Top Ten, probably because the list concerns web application security, not security overall.
+All the other options are included in the OWASP Top Ten
+A. Injection
+B. Cross site scripting
+C. Internal theft
+正确
+D. Sensitive data exposure
+
+
+93. In which phase of the cloud secure data lifecycle should classifications and labels be assigned to data?
+
+试题解析：Data should be labeled and classified as soon as it is created/collected.
+All the other options are incorrect.
+A. Create
+正确
+B. Store
+C. Use
+D. Share
+
+
+94. &nbsp;In which phase of the cloud secure data lifecycle does data leave the production environment and go into long term storage?
+
+试题解析：This action defines the archive phase. All the other opt ions are incorrect.
+A. Store
+B. Use
+C. Share
+D. Archive
+正确
+
+
+95. You are the security manager for a bookkeeping firm that is considering moving to a cloud-based production environment. In selecting a cloud provider, your company is reviewing many criteria. One of these is enhancing the company&#39;s business continuity and disaster recovery (BC/DR) capabilities. You want to ensure that the cloud provider you select will allow for migration to an alternate provider in the event of contingencies. The provider you choose should be able to support a migration to an alternate provider within_________.
+
+试题解析：The RTO is the measure of time after an interruption at which the company needs to resume critical functions; any service migration must take place within that time.
+RTOS vary for every organization; there is no set answer for all onganizations. Options A and B might be correct for a given organization but incorrect in the general case because it&#39;s impossible to know an organization&#39;s RTO without knowing more about the organization.
+The RPO is a measure of data that can be lost, not time; option D is incorrect.
+A. 24 hours
+B. 1 hour
+C. Your company&#39;s recovery time objective (RTO)
+正确
+D. Your company&#39;s recovery point objective (RPO)
+
+
+96. &nbsp;Which of the following data storage types is most associated with software as a service (SaaS)?
+
+试题解析：CDNs are often used in conjunction with SaaS services to deliver high-quality data of large sizes (of ten multimedia).
+Databases and data warehousing are typically associated with platform as a service (PaaS),&nbsp;where the provider owns and maintains the infrastructure and data management engine but the customer can install programs and interfaces to manipulate the data. Options B and D are incorrect.
+Volume storage is typically associated with infra structure as a service (IaaS); option C is incorrect.
+A. Content delivery network (CDN)
+正确
+B. Databases
+C. Volume storage
+D. Data warehousing
+
+
+97. The destruction of a cloud customer&#39;s data can be required by all of the following except________.
+
+试题解析：The cloud provider cannot typically require the destruction of the customer&#39;s data simply because of its own (provider&#39;s) policy. If this is an aspect of the contract between the provider and customer, that is another issue (and listed as another option in this question).
+The other options are all sources that may dictate the customer&#39;s destruction of data.
+A. Statute
+B. Regulation
+C. The cloud provider&#39;s policy
+正确
+D. Contract
+
+
+98. Which of the following is probably most important to include in a data archiving policy?
+
+试题解析：In order to use the archive for recovery (either on a large scale for contingency operations or for granular recovery as a means of data discovery), the data needs to beof a format and type that can be utilized by the organization&#39;s systems and environment.
+Saving data in the wrong format can be equivalent to losing the data.
+All the other options are important aspects of a data archiving policy but are not as important as option A (for instance, data that is not encrypted might pose a risk of loss,but data in the wrong format may not be recoverable at all).
+A. Data format and type
+正确
+B. Data classification
+C. Encryption procedures and standards
+D. Data audit and review processes
+
+
+99. Data archiving can be required for regulatory compliance as a legal mandate. What other business function is also often tied to archiving?
+
+试题解析：Having a suitable backup, away from the main production environment, allows the organization to recover from contingency operations that have interrupted or affected the production environment.
+All the other options are not benefits directly associated with data archiving.
+A. Marketing
+B. Business continuity and disaster recovery (BC/DR)
+正确
+C. Personnel development
+D. Intellectual property protection
+
+
+100. Data archiving can also provide what production capability?
+
+试题解析：Depending on the availability of the archive, it may be possible to use it to recover production data that has been accidentally or inadvertently deleted or destroyed.
+Archiving does not really offer any of the other benefits; when data is taken out of the pro-duction environment and put into long-term storage, the organization loses the capability to manipulate it and create new assets from it. Options A, C, and D are incorrect.
+A. Enhanced database mechanisms
+B. Near-term data recovery
+正确
+C. New data-driven business workflows
+D. Greater management insight into productivity
+
+
+101. &nbsp;Which of the following activities can enhance the usefulness and abilities of a data loss prevention or data leak protection (DLP) solution?
+
+试题解析：DLP tools can function better if appropriate and accurate classification and labeling is applied throughout the environment and done on a consistent basis.
+All the other options are good aspects of a security program but not exactly germane to DLP function.
+A. Perform emergency egress training for all personnel.
+B. Require data owners, stewards, and custodians to properly classify and label data at time of creation or collection.
+正确
+C. Require senior management to participate in all security functions, including initial, recurring, and refresher training.
+D. Display security guidance in a variety of formats, including a web page, banner, post-ers, and hard-copy material.
+
+
+102. A typical data loss prevention or data leak protection (DLP) tool can enhance the organization&#39;s efforts at accomplishing what legal task?
+
+试题解析：The data discovery facet of DLP solutions can aid an organization in gathering applicable evidence, especially in response to a legal request such as a subpoena (this is often termed e-discovery).
+Tools cannot deliver testimony; only people can testify. Option B is incorrect.
+DLP solutions do not perform prosecutorial work; that is the function of law enforcement agencies. Option C is incorrect.
+While DLP tools can locate intellectual property assets, they do not, strictly speaking, enforce the rights attendant to those assets. Option A is still preferable to D in this case. .
+A. Evidence cllction
+正确
+B. Delivering testimony
+C. Criminal prosecution
+D. Enforcement of intellectual property rights
+
+
+103. Data loss prevention or data leak protection (DLP) solutions typically involve all of the following aspects except ________.
+
+试题解析：Tokenization is not typically an aspect of DLP solutions. All the other options are.
+A. Data discovery
+B. Tokenization
+正确
+C. Monitoring
+D. Enforcement
+
+
+104. The Cloud Security Alliance (CSA) created the Trusted Cloud Initiative (TC) to define principles of cloud computing that providers should strive for in order to foster a clear understanding of the cloud marketplace and to enhance that market. Which of the following is not one of the CSA&#39;s TCI fundamental principles?
+
+试题解析：The TCI does not, specifically, require cost-effectiveness of cloud services.
+All the other options are principles detailed in the TCI.
+A. Delegate or federate access control when appropriate.
+B. Ensure the [trusted cloud] architecture is resilient, elastic, and flexible.
+C. Ensure the [trusted cloud] architecture addresses and supports multiple levels of protection.
+D. Provide economical services to all customers, regardless of point of origin.
+正确
+
+
+105. Which of the following architecture frameworks was designed for service delivery entities,from the perspective of how they serve customers?
+
+试题解析：ITIL was specifically designed to address service delivery entities (in particular, British telecommunications providers), and how they provide service to their customers.
+SABSA is a means of looking at security capabilities from a business perspective; option Ais incorrect.
+COBIT is designed for all types of business, regardless of their purpose; option C is incorrect.
+TOGAF is a means to incorporate security architecture with the overaII business architec-ture; option D is incorrect.
+A. SABSA (Sherwood Applied Business Security Architecture)
+B. ITIL
+正确
+C. COBIT (Control Objectives for Information and Related Technologies)
+D. TOGAF (The Open Group Architecture Framework)
+
+
+106. Transport Layer Security (TLS) is a session encryption tool that uses_______ encryption to create a_________ session key.
+
+试题解析：TLS uses asymmetric encryption to create a symmetric session key.
+A. Symmetric, symmetric
+B. Asymmetric, symmetric
+正确
+C. Asymmetric, asymmetric
+D. Symmetric, asymmetric
+
+
+107. &nbsp;Secure Shell (SSH) tunneling can include all of the following services except_______.
+
+试题解析：SSH does not offer content filtering. It does offer all the services listed in the other options.
+A. Remote log on
+B. Content filtering
+正确
+C. Port forwarding
+D. Command execution
+
+
+108. Which technology is most associated with tunneling?
+
+试题解析：Generic routing encapsulation (GRE) is a tunneling mechanism, specifically designed for the purpose.
+Internet Protocol Security (IPSec) may or may not involve tunneling. Option A is incorrect.
+Infrastructure as a service (IaaS) may or may not use tunneling for remote access/administration; option C is incorrect.
+Extensible Markup Language (XML) is a format for communicating data; option D is incorrect.
+A. IPSec
+B. GRE
+正确
+C. laaS
+D. XML
+
+
+109. A virtual network interface card (NIC) exists at Layer_______of the OSI model.
+
+试题解析：All of the other options are incorrect. Option D is incorrect because there is no Layer 8 in the Open Systems Interconnection (OSI) model.
+A. 2
+正确
+B. 4
+C. 6
+D. 8
+
+
+110. A host-based firewall in a virtualized cloud environment might have aspects of all the following types of controls except______.
+
+试题解析：This is a complicated question and requires a significant amount of understanding of control types.
+A firewall uses aspects of administrative controls. The firewall policy is a set of rules that dictate the type of traffic and source/destination of that traffic. Option A is incorrect.
+Firewalls can be set to change activity in reaction to detected threats, which is a corrective action; option C is incorrect.
+Firewall rules can also prevent certain kinds of traffic/access; option D is incorrect.
+However, the effect of a deterrent control is the result of its perception by someone who might engage in wrongdoing--unless it is perceived, the control is not really a deterrent.
+Most firewalls don&#39;t function in that manner; they are transparent to both legitimate users and attackers. Option B is therefore correct.
+A. Administrative
+B. Deterrent
+正确
+C. Corrective
+D. Preventive
+
+
+111. What is the business advantage of shifting from capital expenditure in an on-premises environment to the operating expenditures of a cloud environment?
+
+试题解析：By spreading costs over time, a business can reduce the risk that there will be a lack of money at any given time, impacting operations.
+A shift from a capital expenditure scheme to an operational expenditure arrangement does not necessarily mean that overall costs decrease; in fact, costs might very likely increase because the sum of the OpEx installments may total more than the CapEx would have been. Option A is incorrect.
+CapEx usually reduces tax exposure because it allows for depreciation of assets, whereas OpEx does not. Option B is not correct.
+Whether the business uses CapEx or OpEx financing does not necessarily increase or decrease profit. Option D is incorrect.
+A. Reduces the overall cost
+B. Reduces tax exposure
+C. Reduces cash flow risks
+正确
+D. Increases profit
+
+
+112. Which mechanism best aids to ensure that the cloud customer receives dependable, consistent performance in the cloud environment?
+
+试题解析：The service-level agreement creates financial incentive for the cloud provider to meet the customer&#39;s needs on a consistent basis.
+Audits and regulators might help this effort, somewhat, by ensuring that the provider adheres to certain mandates and standards, but these are less convincing (and occur after the fact of deliver y) than profit motive. Options A and C are incorrect.
+Training does not really aid the efforts described in the question; option D is incorrect.
+A. Audits .
+B. Service-level agreement (SLA)
+正确
+C. Regulators
+D. Training
+
+
+113. &nbsp;A company is considering a cloud migration to a platform as a service (PaaS) environment. Which of the following factors might make the company less likely to choose the cloud environment?
+
+试题解析：A customer using proprietary software in a PaaS environment faces the risk that updates to the underlying OS(s) and/or hardware infrastructure will not be compatible with the customer&#39;s software and will affect productivity.
+Cloud migration can, however, aid in reducing overhead costs, including energy costs associated with operating a data center, and can enhance BC/DR capability through the provider s increased investment in redundancy and continuity.
+A. The company wants to reduce overhead costs.
+B. The company operates proprietary software.
+正确
+C. The company hopes to reduce energy costs related to operation of a data center.
+D. The company is seeking to enhance its business continuity and disaster recovery (BC/DR) capabilities.
+
+
+114. Your company maintains an on-premises data center for daily production activities but wants to use a cloud service to augment this capability during times of increased demand (cloud bursting). Which deployment model would probably best suit the company&#39;s needs?
+
+试题解析：A hybrid model, where ownership fluctuates between exclusive control of the ustomer (private) and provider (public) only during times of increased demand, is almost a textbook description of this arrangement and translates very well for cloud-bursting techniques.
+A. Public
+B. Private
+C. Community
+D. Hybrid
+正确
+
+
+115. Your company operates in a highly cooperative market, with a high degree of information sharing between participants. Senior management wants to migrate to a cloud environment but is concerned that providers will not meet the company&#39;s collaboration needs. Which deployment model would probably best suit the company&#39;s needs?
+
+试题解析：A community cloud entails all participants to have some degree of ownership and responsibility for the cloud environment; this is the preferred model for cooperative ownership and collaboration among a group with a shared interest/goal
+A. Public
+B. Private
+C. Community
+正确
+D. Hybrid
+
+
+116. Your company operates in a highly competitive market, with extremely high-value data assets. Senior management wants to migrate to a cloud environment but is concerned that providers will not meet the company&#39;s security needs. Which deployment model would probably best suit the company&#39;s needs?
+
+试题解析：A private cloud model can allow the customer to have the greatest assurance of confidentiality compared to the other models.
+Options A, C, and D provide less confdentiality than option B and are therefore incorrect.
+A. Public
+B. Private
+正确
+C. Community
+D. Hybrid
+
+
+117. Your company operates under a high degree of regulatory scrutiny. Senior management wants to migrate to a cloud environment but is concerned that providers will not meet the company&#39;s compliance needs. Which deployment model would probably best suit the company&#39;s needs?
+
+试题解析：A private cloud arrangement allows the customer to have greater control of the governance and policy within an environment.
+All the other options are cloud deployment models that allow the customer less control over the environment as a w hole.
+A. Public
+B. Private
+正确
+C. Community
+D. Hybrid
+
+
+118. Your company does not have a well. trained, experienced IT staff and is reluctant to spend more money on training personnel (in recent company history, personnel have received training and then immediately quit the company to work for competitors). If senior management considers cloud migration, which deployment model would probably best suit their needs?
+
+试题解析：A public cloud deployment would probably best meet the needs of a company without a robust, trained IT staff. The cloud prov ider will be responsible for the greatest degree of administr ation and maintenance compared to the other options.
+Options B, C, nor D would not be the opt imal choices for a cloud deploy ment model in this case, because each of those requires personnel with more experiencelta ining. Options B, C, and D are incorrect.
+A. Public
+正确
+B. Private
+C. Community
+D. Hybrid
+
+
+119. During a cost-benefit analysis, your company determines that it spends a disproportionate amount of money on software licensing and administration. Which cloud model may best help your company to reduce these costs?
+
+试题解析：In a software as a service (SaaS) model, the cloud provider is tasked with acquiring and managing the software licenses; the scale of a cloud provider&#39;s operations can allow them to reduce the per-seat cost of software considerably.
+The customer is still responsible for some software licensing and maintenance activities (and therefore costs) in infrastructure as a service (IaaS) and platform as a service (PaaS) models; options A and B are incorrect.
+A hybrid deployment usually entails the customer maintaining some infrastructure ele-ments, and that usually would also include soft ware licensing requirements. Option D is incorrect.
+A. laaS
+B. PaaS
+C. SaaS
+正确
+D. Hybrid
+
+
+120. A company wants to absolutely minimize their involvement in administration of IT; which combination of cloud service model and deployment should it consider?
+
+试题解析：A software as a service (SaaS) model reduces customer involvement more than the other models; a public cloud deployment likewise reduces customer participation in ownership and maintenance of infrastructure.
+Infrastructure as a service (laaS) and platform as a service (PaaS) models require the customer to participate in some administration of the environment; options A and B are incorrect.
+A private cloud entails customer involvement in at least the detailing of governance of the environment; option C is incorrect.
+A. laaS, private
+B. PaaS, private
+C. SaaS, private
+D. SaaS, public
+正确
+
+
+121. If a comernal traditional hardware but use the cloud as a means of performing software testing functions, which service and deployment models should it probably use?
+
+试题解析：Platform as a service (PaaS) models are particularly useful for performing software testing because the customer can install and run their own programs across multiple OSs/systems. A hybrid model is used to describe a situation where ownership of the infrastructure is split between the provider and the customer.
+A software as a service (SaaS) or infrastructure as a service (IaaS) model would not be optimum for software testing; options B and D are incorrect.
+A community cloud model involves the joint ownership of infra structure among many pro-viders and customers; option C is not correct.
+A. PaaS, hybrid
+正确
+B. laas, private
+C. PaaS, community
+D. SaaS, hybrid
+
+
+122. You are the IT director for an automotive parts supply distribution service; your company wants to operate a production environment in the cloud. Your company wants to install its own software solutions in a managed environment to decrease the Cost of purchasing and maintaining the hardware of a data center. You should most likely be considering a(n) _________offering.
+
+试题解析：A platform as a service (PaaS) model will probably best suit your company&#39;s needs as it allows the customer (your company) to install soft ware and load data onto a hardware infrastructure owned and operated by the provider.
+An infrastructure as a service (laaS) solution may be viable for this situation, because it allows the same functionality, but it also requires the customer (your company) to install and maintain the OS(s) that run the software. In looking to decrease cost of investment and maintenance, the PaaS model is probably preferable. Option A is not as good as option B, in this case.
+A software as a service (SaaS) model does not allow the customer to install software; option C is incorrect.
+A hybrid cloud model usually requires the customer to maintain at least part of the hard-ware infrastructure; in accordance with the description of the situation in this question,option D is not as optimum as option B.
+A. Iaas
+B. PaaS
+正确
+C. SaaS
+D. Hybrid
+
+
+123. You are the IT director for an automotive parts supply distribution service; your company wants to operate a production environment in the cloud. As you consider possible providers, you are careful to check that they each offer the essential traits of cloud computing. These include all of the following except _______.
+
+试题解析：While many cloud providers will offer these services (as well as many others, they are not defining characteristics of cloud computing.
+All the other options are defining characteristics of cloud computing.
+A. Broad network access
+B. Metered service
+C. On- demand self-service
+D. Automatic anti-malware and intrusion prevention
+正确
+
+
+124. You are the IT director for an automotive parts supply distribution service; your company wants to operate a production environment in the cloud. Management has expressed a concern that any cloud provider the company chooses will have your company at a disadvantage- -that your company will be at great risk because the provider will have your data and operational capability, and that the provider could hold the data&ldquo;hostage&quot; in order to raise the price of the service dramatically at the end of the contract term. To address management&#39;s concerns, you should try to find a cloud offering that places a great deal of emphasis on the_______ trait of cloud computing.
+
+试题解析：Portability is the aspect of cloud computing that describes the ability to move data and operations away from a given cloud provider (either to another cloud provider or to an on-premise solution).
+All the other options are aspects of cloud computing but do not aid in addressing the con-cerns described in the question.
+A. Resource pooling
+B. Scalability
+C. Portability
+正确
+D. Metered service
+
+
+125. You are the IT director for an automotive parts supply distribution service; your company wants to operate a production environment in the cloud. In reviewing provider options, management considers an offer from Cloud Services Corp, who has contracts with several cloud providers and data centers and has offered to tailor a package of services for your company&#39;s needs. In this case, Cloud Services Corp. is considered a______.
+
+试题解析：A cloud reseller is a firm that contracts with both cloud providers and customers in order to arrange custom services.The cloud provider(s), in this case, would be those entities selling services to Cloud Services Corp. Option A is incorrect.The cloud customer, in this case, would be your company. Option B is incorrect.No aspect of the question describes a cloud database specifically.Option D is incorrect.
+A. Cloud provider
+B. Cloud customer
+C. Cloud resellr
+正确
+D. Cloud database
+
+

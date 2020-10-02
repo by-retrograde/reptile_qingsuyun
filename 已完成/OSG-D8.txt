@@ -1,0 +1,267 @@
+1. 安全边界是什么?
+ What is a security perimeter? (Choose all that apply.)
+
+A. 围绕系统的物理安全区域的边界
+The boundary of the physically secure area surrounding your system
+正确
+B. 把TCB和系统其他部分隔离的假想边界
+The imaginary boundary that separates the TCB from the rest of the system
+正确
+C. 防火墙所在的网络
+The network where your firewall resides
+D. 计算机系统的任何连接
+Any connections to your computer system
+
+
+2. 当可信主体违反了Bell-LaPadula模型的（*）安全属性时，为了把客体写入低级别， 什么可行的操作可能会发生?
+When a trusted subject violates the star property of Bell-LaPadula in order to write an object into a lower level, what valid operation could be taking place?
+
+A. 扰动
+Perturbation
+B. 多实例
+Polyinstantiation
+C. 聚合
+Aggregation
+D. 移除分类
+Declassification
+正确
+
+
+3. 下列哪一项不是Clark-Wilson模型的访问控制关系的一部分?
+Which of the following is not part of the access control relationship of the Clark-Wilson model?
+
+A. 客体
+Object
+B. 接口
+Interface
+C. 编程语言
+Programming language
+正确
+D. 主体
+Subject
+
+
+4. 什么安全模型拥有在理论上含有名称或标签的功能，但是在解决方案中实现时，需要安全内核的名称或标签？
+What security model has a feature that in theory has one name or label, but when implemented into a solution, takes on the name or label of the security kernel?
+
+A. Graham-Denning模型
+Graham-Denning model
+B. Deployment模型
+Deployment modes
+C. 可信计算基
+Trusted computing base
+正确
+D. Chinese Wall
+Chinese Wall
+
+
+5. 什么安全方法、机制或模型揭示了一个主体访问多个客体的能力？
+What security method, mechanism, or model reveals a capabilities list of a subject across multiple objects?
+
+A. 职责分离
+Separation of duties
+B. 访问控制矩阵
+Access control matrix
+正确
+C. Biba模型
+Biba
+D. Clark-Wilson模型
+Clark-Wilson
+
+
+6. Biba模型的简单属性的含义是什么?
+What is the implied meaning of the simple property of Biba?
+
+A. 向下写
+Write down
+B. 向上读
+Read up
+正确
+C. 不准向上写
+No write up
+D. 不准向下读
+No read down
+
+
+7. 哪个Bell-LaPadula属性阻止低级别的主体访问高级别的客体?
+Which Bell-LaPadula property keeps lower-level subjects from accessing objects with a higher security level?
+
+A. （*）安全属性
+(star) Security Property
+B. 不准向上写属性
+No write up property
+C. 不准向上读属性
+No read up property
+正确
+D. 不准向下读属性
+No read down property
+
+
+8. 哪个安全模型关注数据的机密性?
+Which security model addresses data confidentiality?
+
+A. Bell-LaPadula
+Bell-LaPadula
+正确
+B. Biba
+Biba
+C. Clark-Wilson
+Clark-Wilson
+D. Brewer and Nash
+Brewer and Nash
+
+
+9. 哪个安全模型建立在状态机模型之上?
+Which security models are built on a state machine model?
+
+A. Bell-LaPadula和Take-Grant模型
+Bell-LaPadula and Take-Grant
+B. Biba和Clark-Wilson模型
+Biba and Clark-Wilson
+C. Clark-Wilson和Bell-LaPadula模型
+Clark-Wilson and Bell-LaPadula
+D. Bell-LaPadula和Biba模型
+Bell-LaPadula and Biba
+正确
+
+
+10. 安全模型的最佳定义是什么?
+What is the best definition of a security model?
+
+A. 安全模型描述了组织必须遵循的策略
+A security model states policies an organization must follow.
+B. 安全模型提供一个框架来实现安全策略
+A security model provides a framework to implement a security policy.
+正确
+C. 安全模型是计算机系统每部分的技术评估，以评价与它们一致的安全标准
+A security model is a technical evaluation of each part of a computer system to assess its concordance with security standards.
+D. 安全模型是认证配置正式被接受的过程
+A security model is the process of formal acceptance of a certified configuration.
+
+
+11. TCB概念的什么部分验证了在授予每个资源需求权限前的每次访问?
+What part of the TCB concept validates access to every resource prior to granting the requested access?
+
+A. TCB分区
+TCB partition
+B. 信任库
+Trusted library
+C. 引用监控器
+Reference monitor
+正确
+D. 安全内核
+Security kernel
+
+
+12. 可信计算基(TCB)是什么?
+What is a trusted computing base (TCB)?
+
+A. 在网络上支持安全传输的主机
+Hosts on your network that support secure transmissions
+B. 操作系统内核和设备驱动程序
+The operating system kernel and device drivers
+C. 硬件、软件和控制结合在一起实现安全策略
+The combination of hardware, software, and controls that work together to enforce a security policy
+正确
+D. 验证安全策略的软件和控制
+The software and controls that certify a security policy
+
+
+13. TCSEC标准定义了几种主要类型?
+How many major categories do the TCSEC criteria define?
+
+A. 2
+Two
+B. 3
+Three
+C. 4
+Four
+正确
+D. 5
+Five
+
+
+14. 对于什么类型的信息系统安全鉴定， 是以特定、独立的位置对应用和系统进行评估?
+For what type of information system security accreditation are the applications and systems at a specific, self-contained location evaluated?
+
+A. 系统鉴定
+System accreditation
+B. 站点鉴定
+Site accreditation
+正确
+C. 应用鉴定
+Application accreditation
+D. 类型鉴定
+Type accreditation
+
+
+15. 安全控制是什么?
+What is a security control?
+
+A. 存储了描述客体特性的安全组件
+A security component that stores attributes that describe an object
+B. 列出所有数据分类类型的文件
+A document that lists all data classification types
+C. 有效的访问规则列表
+A list of valid access rules
+D. 限制对客体访问的机制
+A mechanism that limits access to an object
+正确
+
+
+16. 客体访问是什么?
+What is an access object?
+
+A. 用户或进程想要访问的资源
+A resource a user or process wants to access
+正确
+B. 想要访问资源的用户或进程
+A user or process that wants to access a resource
+C. 有效访问规则的列表
+A list of valid access rules
+D. 有限访问类型的序列
+The sequence of valid access types
+
+
+17. &nbsp;以下哪一项更好地描述了限制或约束的进程?
+Which best describes a confined or constrained process?
+
+A. 仅可以在有限的时间下运行的进程
+A process that can run only for a limited time
+B. 仅可以在一天中的某些时间运行的进程
+A process that can run only during certain times of the day
+C. 仅可以访问某些内存空间的进程
+A process that can access only certain memory locations
+正确
+D. 控制对客体访问的进程
+A process that controls access to an object
+
+
+18. 封闭式系统是什么?
+What is a closed system?
+
+A. 围绕着最终、封闭或标准设计的系统
+A system designed around final, or closed, standards
+B. 包括工业标准的系统
+A system that includes industry standards
+C. 使用未公布协议的专有系统
+A proprietary system that uses unpublished protocols
+正确
+D. 没有运行Windows 的任意主机
+Any machine that does not run Windows
+
+
+19. &nbsp;系统鉴定是什么?
+What is system accreditation?
+
+A. 正式可接受的系统配置声明
+Formal acceptance of a stated system configuration
+正确
+B. 为了每个硬件和软件组件都满足集成标准，对制造商目标进行的功能评价
+A functional evaluation of the manufacturer&rsquo;s goals for each hardware and software component to meet integration standards
+C. 证明计算机系统实施安全策略的可接受的测试结果
+Acceptance of test results that prove the computer system enforces the security policy
+D. 指定两台机器之间的安全通信过程
+The process to specify secure communication between machines
+
+

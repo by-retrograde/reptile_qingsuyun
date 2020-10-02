@@ -1,0 +1,247 @@
+1. 什么信息安全管理任务能够确保有效地满足组织的数据保护需求?What information security management task ensures that the organization&rsquo;s data protection requirements are met effectively?
+
+A. 账户管理
+Account management
+B. 备份验证
+Backup verification
+正确
+C. 日志、审核
+Log review
+D. 关键性能指标
+Key performance indicators
+
+
+2. 下列哪一项是Fagin检验过程的最后一步?Which one of the following is the final step of the Fagin inspection process?
+
+A. 检验
+Inspection
+B. 返工
+Rework
+C. 后续行动
+Follow-up
+正确
+D. 以上均不是
+None of the above
+
+
+3. &nbsp;在运行未加密HTTP服务器的系统上，什么端口通常是开放的?What port is typically open on a system that runs an unencrypted HTTP server?
+
+A. 22
+22
+B. 80
+80
+正确
+C. 143
+143
+D. 443
+443
+
+
+4. 在什么类型的渗透测试期间，测试人员总是访问系统配置信息?During what type of penetration test does the tester always have access to system configuration information?
+
+A. 黑盒渗透测试
+Black box penetration test
+B. 白盒渗透测试
+White box penetration test
+正确
+C. 灰盒渗透测试
+Gray box penetration test
+D. 红盒渗透测试
+Red box penetration test
+
+
+5. 哪种接口测试能够识别程序命令行接口的缺陷?What type of interface testing would identify flaws in a program&rsquo;s command-line interface?
+
+A. 接口测试中的应用编程
+Application programming interface testing
+B. 用户接口测试
+User interface testing
+正确
+C. 物理接口测试
+Physical interface testing
+D. 安全接口测试
+Security interface testing
+
+
+6. &nbsp;银行应用程序的用户可能试图从不存在资金的账户中取出资金。开发人员意识到这种威胁，并实现代码进行防范。如果开发人员还没有矫正，那么什么类型的软件测试最有可能捕捉到这种类型的漏洞?Users of a banking application may try to withdraw funds that don&rsquo;t exist from their account. Developers are aware of this threat and implemented code to protect against it. What type of software testing would most likely catch this type of vulnerability if the developers have not already remediated it?
+
+A. 误用案例测试
+Misuse case testing
+正确
+B. SQL注入测试
+SQL injection testing
+C. 模糊测试
+Fuzzing
+D. 代码审核
+Code review
+
+
+7. &nbsp;Paul希望针对他的应用程序之前使用的输入的略微修改版本进行测试。Paul打算进行什么类型的测试?Paul would like to test his application against slightly modified versions of previously used input. What type of test does Paul intend to perform?
+
+A. 代码审核
+Code review
+B. 应用程序漏洞审核
+Application vulnerability review
+C. 变异模糊测试
+Mutation fuzzing
+正确
+D. 智能模糊测试
+Generational fuzzing
+
+
+8. &nbsp;Grace对客户的网络执行渗透测试，并且愿意使用工具协助自动执行常见的漏洞利用。下列哪个安全工具能最好地满足她的需要?Grace is performing a penetration test against a client&rsquo;s network and would like to use a tool to assist in automatically executing common exploits. Which one of the following security tools will best meet her needs?
+
+A. Nmap
+Nmap
+B. Metasploit
+Metasploit
+正确
+C. Nessus
+Nessus
+D. Snoft
+Snoft
+
+
+9. &nbsp;Badin Industries运行着一个处理电子商务订单和信用卡交易的Web应用程序。因此，它应遵守支付卡行业数据安全标准（PCI DSS）。该公司最近对应用程序执行了Web 漏洞扫描，没有得到不满意结果。Badin应多久后重新扫描应用程序?Badin Industries runs a web application that processes ecommerce orders and handles credit card transactions. As such, it is subject to the Payment Card Industry Data Security Standard (PCI DSS). The company recently performed a web vulnerability scan of the application and it had no unsatisfactory findings. How often must Badin rescan the application?
+
+A. 只能在应用程序发生变化时
+Only if the application changes
+B. 至少每月
+At least monthly
+C. 至少每年
+At least annually
+正确
+D. 没有再次扫描的要求
+There is no rescanning requirement.
+
+
+10. &nbsp;Matthew想在网络上测试系统的SQL注入漏洞。下列哪个工具最适合这个任务?Matthew would like to test systems on his network for SQL injection vulnerabilities. Which one of the following tools would be best suited to this task?
+
+A. 端口扫描器
+Port scanner
+B. 网络漏洞扫描器
+Network vulnerability scanner
+C. 网络发现扫描器
+Network discovery scanner
+D. Web漏洞扫描器
+Web vulnerability scanner
+正确
+
+
+11. &nbsp;Alan使用Nmap对服务器进行了扫描，并确定在服务器上打开了80端口。什么工具可以为他提供有关服务器目的和服务器操作者身份的最好附加信息?Alan ran a Nmap scan against a server and determined that port 80 is open on the server. What tool would likely provide him the best additional information about the server&rsquo;s purpose and the identity of the server&rsquo;s operator?
+
+A. SSH
+SSH
+B. Web浏览器
+Web browser
+正确
+C. Telnet
+telnet
+D. Ping
+ping
+
+
+12. &nbsp;什么类型的网络发现扫描只遵循TCP握手的前两个步骤?What type of network discovery scan only follows the first two steps of the TCP handshake?
+
+A. TCP连接扫描
+TCP connect scan
+B. Xmas扫描
+Xmas scan
+C. TCP SYN扫描
+TCP SYN scan
+正确
+D. TCP ACK扫描
+TCP ACK scan
+
+
+13. 下列哪个测试提供有关服务器安全状态的最准确和最详细信息?Which one of the following tests provides the most accurate and detailed information about the security state of a server?
+
+A. 未经身份认证的扫描
+Unauthenticated scan
+B. 端口扫描
+Port scan
+C. 半开式扫描
+Half-open scan
+D. 经验证的扫描
+Authenticated scan
+正确
+
+
+14. &nbsp;什么端口通常用于使用SSH 实用工具接受管理连接?What port is typically used to accept administrative connections using the SSH utility？
+
+A. 20
+20
+B. 22
+22
+正确
+C. 25
+25
+D. 80
+80
+
+
+15. Beth 想在组织的私有网络上对所有系统运行Nmap扫描，包括处于10.0.0.0私有地址空间中的系统。她想要扫描整个私有地址空间，因为她不确定使用的是哪个子网。Beth应该以哪个网络地址作为扫描目标?Beth would like to run an Nmap scan against all of the systems on her organization&rsquo;s private network. These include systems in the 10.0.0.0 private address space. She would like to scan this entire private address space because she is not certain what subnets are used. What network address should Beth specify as the target of her scan?
+
+A. 10.0.0.0/0
+10.0.0.0/0
+B. 10.0.0.0/8
+10.0.0.0/8
+正确
+C. 10.0.0.0/16
+10.0.0.0/16
+D. 10.0.0.0/24
+10.0.0.0/24
+
+
+16. 谁是安全评估报告的阅读对象?Who is the intended audience for a security assessment report?
+
+A. 管理人员
+Management
+正确
+B. 安全审计师
+Security auditor
+C. 安全专家
+Security professional
+D. 客户
+Customers
+
+
+17. &nbsp;以下哪一项一般不包括在安全评估中?Which one of the following is not normally included in a security assessment?
+
+A. 漏洞扫描
+Vulnerability scan
+B. 风险评估
+Risk assessment
+C. 漏洞缓解
+Mitigation of vulnerabilities
+正确
+D. 威胁评估
+Threat assessment
+
+
+18. &nbsp;在为某个特定系统规划安全测试计划时不应考虑下列哪个因素?Which one of the following factors should not be taken into consideration when planning a security testing schedule for a particular system?
+
+A. 存储在系统上的信息的敏感度
+Sensitivity of the information stored on the system
+B. 执行测试的难度
+Difficulty of performing the test
+C. 利用新测试工具进行试验的意愿
+Desire to experiment with new testing tools
+正确
+D. 系统对攻击者的吸引力
+Desirability of the system to attackers
+
+
+19. Adam最近对组织内运行的Web服务器进行了一次网络端口扫描。他从外部网络进行扫描，以获得攻击者的扫描角度。下列哪个结果是引起警报的最大原因?Adam recently ran a network port scan of a web server running in his organization. He ran the scan from an external network to get an attacker&rsquo;s perspective on the scan. Which one of the following results is the greatest cause for alarm?
+
+A. 80/open
+80/open
+B. 22/filtered
+22/filtered
+C. 443/open
+443/open
+D. 1433/open
+1433/open
+正确
+
+
