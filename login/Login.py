@@ -14,9 +14,9 @@ headers = {
 def Login():
     # 登录api地址
     logonApi = "https://api.qingsuyun.com/h5/api/login/login"
-    factoryCode = 1  # 学号
+    factoryCode = 128968
     # 账户密码：json格式
-    data = {"userCode": "用户名", "password": "密码", "factoryCode": factoryCode}
+    data = {"userCode": "496949238@qq.com", "password": "qBkxXcDT", "factoryCode": factoryCode}
     # 发送post请求，登录并获取cookies
     r_login = requests.post(url=logonApi, data=json.dumps(data), headers=headers, timeout=5)
     return r_login.cookies
