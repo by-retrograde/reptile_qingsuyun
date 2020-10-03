@@ -133,7 +133,7 @@ def StartMain(NewList):
                 print("正在爬取第" + str(pagesNum) + "套题目，" + "共" + str(pagesList) + "套题目，" + "爬虫完成第" + listNum + "题")
                 time.sleep(1)
             elif problemType == 4:
-                problemTypeContent = "判断题"
+                # 判断题
                 # 答案
                 answer = r_res.json()["body"]["main"]["list"][0]["rightAnswers"]
                 if answer == "true":
